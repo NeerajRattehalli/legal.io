@@ -1,2 +1,2 @@
-# legalio
+# legal.io
 General Repo
