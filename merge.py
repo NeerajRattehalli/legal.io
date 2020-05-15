@@ -7,54 +7,67 @@ with open('final_updated.tsv','r') as in_file:
         if (count>1):
             compName, date, hq, visible, category, audience, model, description, main_url, twitter_url, angellist_url, crunchbase_url, tags = line.split("\t")
             compName = compName.lower()
-            compDict[compName] = {"date": [date], 
-                                "hq": [hq], 
-                                "visible": [visible], 
-                                "category":[category], 
-                                "audience":[audience], 
-                                "model":[model], 
-                                "description":[description], 
-                                "main_url": [main_url], 
-                                "twitter_url":[twitter_url], 
-                                "angellist_url":[angellist_url], 
-                                "crunchbase_url":[crunchbase_url], 
-                                "tags":[tags]}
-
-
-correspondingTags = {
-    "main_url": "homepage_url",
-    "crunchbase_url": "cb_url",
-    
-}
+            compDict[compName] = {"date": date, 
+                                "hq": hq, 
+                                "category":category, 
+                                "audience":audience, 
+                                "model":model, 
+                                "description": description, 
+                                "main_url": main_url, 
+                                "twitter_url": twitter_url, 
+                                "angellist_url": angellist_url, 
+                                "crunchbase_url": crunchbase_url, 
+                                "tags": tags, 
+                                "linkedin_url": "0",
+                                "facebook_url": "0"}
 
 with open('in_odm.csv','r') as in_file:
     for line in in_file:
         uuid,name,compType,primary_role,cb_url,domain,homepage_url,logo_url,facebook_url,twitter_url,linkedin_url,combined_stock_symbols,city,region,country_code,short_description =  line.split(",")
         name = name.lower()
+        ourCSVDetails = compDict[name]
+
+        cbDBDetails = {"date": "0", 
+                        "hq": city, 
+                        "category": "0", 
+                        "audience": "0", 
+                        "model": "0", 
+                        "description": "0", 
+                        "main_url": homepage_url, 
+                        "twitter_url": twitter_url, 
+                        "angellist_url": "0", 
+                        "crunchbase_url": cb_url, 
+                        "tags": "0", 
+                        "linkedin_url": linkedin_url,
+                        "facebook_url": facebook_url}
+
+        merged = merge(name, ourCSVDetails, cbDBDetails)
+        compDict[name] = merged
         
-        if homepage_url:
-            name = name.lower()
-            if(compDict[name][main_url]==0):
-                compDict[name][main_url] = [homepage_url]
-            elif (compDict[name][main_url] == "n/a"):
-                compDict[name][main_url] = [homepage_url]
-            elif (compDict[name][main_url][0] == homepage_url):
-                continue
-            elif (compDict[name][main_url][0] in homepage_url) or (homepage_url in compDict[name][main_url][0]):    
-                continue
-            else:
-                compDict[name][main_url].append(homepage_url)
+def merge(name, ourData, cbData):
+    goodData = {}
+    for item in ourData:
+        validData  = check(name, item, ourData[item], cbData[item])
+        goodData[item] = validData
+    return goodData
 
+thingsToManuallyCheck = {}
 
-def mergeItem(companyName, updatedTag, odmTag):
-    if odmTag:
-        if(compDict[companyName][updatedTag]==0):
-            compDict[companyName][updatedTag] = [odmTag]
-        elif (compDict[companyName][updatedTag] == "n/a"):
-            compDict[companyName][updatedTag] = [odmTag]
-        elif (compDict[companyName][updatedTag][0] == odmTag):
-            return
-        elif (compDict[companyName][updatedTag][0] in odmTag) or (odmTag in compDict[companyName][updatedTag][0]):    
-            return 
-        else:
-            compDict[companyName][updatedTag].append(odmTag)
+def check(name, field, ourItem, cbItem):
+    if (ourItem == "0" and cbItem == "0"):
+        if not thingsToManuallyCheck[name]:
+            thingsToManuallyCheck[name] = []
+        thingsToManuallyCheck[name].append(field)
+        return "0"
+    if (ourItem == "0"):
+         return cbItem
+    if (cbItem == "0"):
+        return ourItem
+    if (ourItem in cbItem) or (cbItem in ourItem):
+        return ourItem
+    else:
+        if not thingsToManuallyCheck[name]:
+            thingsToManuallyCheck[name] = []
+        thingsToManuallyCheck[name].append(field)
+    return "0"
+
