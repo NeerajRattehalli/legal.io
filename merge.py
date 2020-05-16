@@ -34,7 +34,6 @@ with open('final_updated.tsv','r') as in_file:
         count = count + 1
         if (count>1):
             compName, date, hq, visible, category, audience, model, description, main_url, twitter_url, angellist_url, crunchbase_url, tags = line.split("\t")
-            compName = compName.lower()
             compDict[compName] = {"date": date, 
                                 "hq": hq, 
                                 "category":category, 
@@ -55,7 +54,6 @@ with open('in_odm.csv','r') as in_file:
     count = 0
     for line in in_file:
         uuid,name,compType,primary_role,cb_url,domain,homepage_url,logo_url,height,width,address,facebook_url,twitter_url,linkedin_url,combined_stock_symbols,city,region,country_code =  line.split(",")[:18]
-        name = name.lower()
 
         if name in compDict.keys():
             ourCSVDetails = compDict[name]
