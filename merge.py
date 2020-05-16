@@ -43,10 +43,10 @@ with open('final_updated.tsv','r') as in_file:
                                 "main_url": main_url, 
                                 "twitter_url": twitter_url, 
                                 "angellist_url": angellist_url, 
-                                "crunchbase_url": crunchbase_url, 
-                                "tags": tags, 
+                                "crunchbase_url": crunchbase_url,
                                 "linkedin_url": "0",
-                                "facebook_url": "0"}
+                                "facebook_url": "0",
+                                "tags": tags}
 
 
 #this reads from a crunchbase database and gathers any additional information
@@ -68,12 +68,21 @@ with open('in_odm.csv','r') as in_file:
                             "twitter_url": twitter_url, 
                             "angellist_url": "0", 
                             "crunchbase_url": cb_url, 
-                            "tags": "0", 
                             "linkedin_url": linkedin_url,
-                            "facebook_url": facebook_url}
+                            "facebook_url": facebook_url,
+                            "tags": "0"}
             merged = merge(name, ourCSVDetails, cbDBDetails)
             compDict[name] = merged
         else:
             thingsToManuallyCheck[name] = "everything"
 
-print(thingsToManuallyCheck)
+with open('merged.tsv','w') as out_file:
+    count  = 0
+    for key in compDict:
+        line = str(key) + "\t"
+        for item in compDict[key]:
+            line = line + compDict[key][item] + "\t"
+        if(count<2):
+            print(line)
+        out_file.write(line)
+        count+=1
