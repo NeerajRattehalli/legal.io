@@ -14,18 +14,18 @@ thingsToManuallyCheck = {}
 # determine what is the right value and which to go with
 def check(name, field, ourItem, cbItem):
     if (ourItem == "0" and cbItem == "0"):
-        if not thingsToManuallyCheck[name]:
+        if name not in thingsToManuallyCheck.keys():
             thingsToManuallyCheck[name] = []
         thingsToManuallyCheck[name].append(field)
         return "0"
     if (ourItem == "0"):
-         return cbItem
+        return cbItem
     if (cbItem == "0"):
         return ourItem
     if (ourItem in cbItem) or (cbItem in ourItem):
         return ourItem
     else:
-        if name not in thingsToManuallyCheck.key():
+        if name not in thingsToManuallyCheck.keys():
             thingsToManuallyCheck[name] = []
         thingsToManuallyCheck[name].append(field)
     return "0"
@@ -76,10 +76,9 @@ with open('in_odm.csv','r') as in_file:
                             "tags": "0", 
                             "linkedin_url": linkedin_url,
                             "facebook_url": facebook_url}
-            # merged = merge(name, ourCSVDetails, cbDBDetails)
-            # compDict[name] = merged
+            merged = merge(name, ourCSVDetails, cbDBDetails)
+            compDict[name] = merged
         else:
             thingsToManuallyCheck[name] = "everything"
 
-
-
+print(compDict['aftersteps'])
