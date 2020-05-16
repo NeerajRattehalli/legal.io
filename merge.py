@@ -25,10 +25,7 @@ def check(name, field, ourItem, cbItem):
     if (ourItem in cbItem) or (cbItem in ourItem):
         return ourItem
     else:
-        if name not in thingsToManuallyCheck.keys():
-            thingsToManuallyCheck[name] = []
-        thingsToManuallyCheck[name].append(field)
-    return "0"
+        return ourItem
 
 #this reads the data from our 2000+ db of items and creates an object like structure containing all the details
 with open('final_updated.tsv','r') as in_file:
@@ -81,4 +78,4 @@ with open('in_odm.csv','r') as in_file:
         else:
             thingsToManuallyCheck[name] = "everything"
 
-print(compDict['aftersteps'])
+print(thingsToManuallyCheck)
