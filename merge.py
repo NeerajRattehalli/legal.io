@@ -89,7 +89,7 @@ with open('merged.tsv','w') as out_file:
     for key in compDict:
         line = str(key) + "\t"
         for item in compDict[key]:
-            if "n/a" in compDict[key][item] or compDict[key][item]=="0":
+            if "n/a" in compDict[key][item] or compDict[key][item]=="0" or compDict[key][item]=="":
                 if key not in thingsToManuallyCheck:
                     thingsToManuallyCheck[key] = []
                 thingsToManuallyCheck[key].append(item)

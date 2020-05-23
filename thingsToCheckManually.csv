@@ -1,31 +1,31 @@
-Brightleaf, 1900
-Caselinq, 1900, linkedin_url, facebook_url
-Chapter 11 Dockets, 1900
-Claim Kit, 1900, crunchbase_url, linkedin_url, facebook_url
-Cooley, 1900
-Corporize, 1900, linkedin_url, facebook_url
-DISCO, 1900
-DroidLaw, 1900
-EasyDataMaps, 1900
-eBrevia, 1900
-experdocs, 1900
-HotDocs, 1900
-JusticeBid, 1900
-Intelligize, 1900
-Jurisweb Interactiva SL, 1900, linkedin_url, facebook_url
-LawGo Inc., 1900, linkedin_url, facebook_url
-LawyerUp, 1900, linkedin_url, facebook_url
-Legify, 1900
-Lynx Workflow, 1900
-Manzama, 1900
-MyCourthouse, 1900
-Pantentory, 1900, linkedin_url, facebook_url
-PayMyTrustee, 1900
-Pramata, 1900
-Push Legal, 1900, linkedin_url, facebook_url
-RealPractice, 1900
-Lawbrery, 1900
-Lexoo Ltd, 1900, linkedin_url, facebook_url
+Brightleaf, 1900, date, category, audience, model, main_url, twitter_url, angellist_url
+Caselinq, 1900, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Chapter 11 Dockets, 1900, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Claim Kit, 1900, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Cooley, 1900, twitter_url, angellist_url, crunchbase_url
+Corporize, 1900, twitter_url, angellist_url, linkedin_url, facebook_url
+DISCO, 1900, date, category, audience, model, main_url, twitter_url, angellist_url
+DroidLaw, 1900, twitter_url, angellist_url, crunchbase_url, facebook_url
+EasyDataMaps, 1900, twitter_url, angellist_url, crunchbase_url, facebook_url
+eBrevia, 1900, twitter_url, angellist_url
+experdocs, 1900, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+HotDocs, 1900, twitter_url, angellist_url
+JusticeBid, 1900, twitter_url, angellist_url
+Intelligize, 1900, twitter_url, angellist_url, crunchbase_url, facebook_url
+Jurisweb Interactiva SL, 1900, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawGo Inc., 1900, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawyerUp, 1900, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legify, 1900, twitter_url, angellist_url
+Lynx Workflow, 1900, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Manzama, 1900, date, category, audience, model, main_url, twitter_url, angellist_url
+MyCourthouse, 1900, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Pantentory, 1900, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+PayMyTrustee, 1900, twitter_url, angellist_url, crunchbase_url
+Pramata, 1900, twitter_url, angellist_url
+Push Legal, 1900, twitter_url, angellist_url, linkedin_url, facebook_url
+RealPractice, 1900, twitter_url, angellist_url, crunchbase_url
+Lawbrery, 1900, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lexoo Ltd, 1900, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 "Tunnel X, everything
 "AppClose, everything
 "Turn Technologies, everything
@@ -39,634 +39,1819 @@ Lexoo Ltd, 1900, linkedin_url, facebook_url
 "AdvantageLaw, everything
 Abe., angellist_url, crunchbase_url, linkedin_url, facebook_url
 AfterIGo, crunchbase_url, linkedin_url, facebook_url
-AfterSteps, crunchbase_url
+AfterSteps, crunchbase_url, linkedin_url
 AgileLaw, angellist_url, crunchbase_url
-ASCAPPE, linkedin_url, facebook_url
-Arbiclaims, linkedin_url, facebook_url
+Ampulse, twitter_url, crunchbase_url, linkedin_url
+ASCAPPE, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Align Matters, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Arbiclaims, twitter_url, crunchbase_url, linkedin_url, facebook_url
 Caseflex, twitter_url, angellist_url, linkedin_url, facebook_url
-Aluvion Law, linkedin_url, facebook_url
+AdviseHub, crunchbase_url
+Advocatalog, twitter_url, crunchbase_url, linkedin_url, facebook_url
+AI Patents, crunchbase_url, facebook_url
+AirHelp, crunchbase_url
+AlgoValue, crunchbase_url
+Aluvion Law, crunchbase_url, linkedin_url, facebook_url
 AppealTrack, crunchbase_url
+Arachnys, twitter_url, crunchbase_url
 Arrest SOS, crunchbase_url
-Ashem, linkedin_url, facebook_url
-AttorneyFee, crunchbase_url
-Avvo, crunchbase_url
-Big Time Software Inc, linkedin_url, facebook_url
+Ashem, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Ategra Computer Technology, twitter_url, angellist_url, crunchbase_url
+AttorneyFee, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Audvi, twitter_url, angellist_url, crunchbase_url
+Avvo, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+BackStartup, date, category, audience, model, main_url, twitter_url, angellist_url
+Big Time Software Inc, twitter_url, angellist_url, linkedin_url, facebook_url
+Bitproof, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Blue J Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+Bluetree Legal Connect, date, category, audience, model, main_url, twitter_url, angellist_url
+Briefed, twitter_url, angellist_url, crunchbase_url, linkedin_url
+BriefMine, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Caldeco, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CapMail, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Captain Contrat, date, category, audience, model, main_url, twitter_url, angellist_url
 Capture.IT, linkedin_url, facebook_url
 ping, Inc., linkedin_url, facebook_url
+BeeLine Reader, crunchbase_url
+Bhavnani Technologies, twitter_url, crunchbase_url, facebook_url
+Blackletter, facebook_url
 BleuAcre, crunchbase_url, linkedin_url, facebook_url
-Clausehound, linkedin_url, facebook_url
+Business Integrity, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Caseflow, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+CaseHub, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+CaseRails, date, category, audience, model, main_url, twitter_url, angellist_url
+Casetext, date, category, audience, model, main_url, twitter_url, angellist_url
+CellBreaker, date, category, audience, model, main_url, twitter_url, angellist_url
+Checkr, date, category, audience, model, main_url, twitter_url, angellist_url
+Clausehound, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+ClauseMatch, twitter_url, angellist_url, crunchbase_url
+ClearContract, twitter_url, angellist_url, crunchbase_url
 ClearNDA, linkedin_url, facebook_url
 Clearpath Immigration, linkedin_url, facebook_url
-ClosingFolders, linkedin_url, facebook_url
-contnu, linkedin_url, facebook_url
-ContratosApp, linkedin_url, facebook_url
+CliXLEX, twitter_url, angellist_url, facebook_url
+ClosingFolders, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Congo, twitter_url, angellist_url, crunchbase_url
+contnu, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Cited, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+ClearView Social, date, category, audience, model, main_url, twitter_url, angellist_url
+Contract Cloud, twitter_url, angellist_url
+Contractually, facebook_url
+ContratosApp, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 Cicayda, angellist_url, linkedin_url, facebook_url
+coparently, twitter_url, angellist_url, crunchbase_url
+Justia, date, category, audience, model, main_url, twitter_url, angellist_url
+Corporate + Startup Law, date, category, audience, model, main_url, twitter_url, angellist_url
 CosmoLex, angellist_url, crunchbase_url
 counselytics, linkedin_url, facebook_url
 Court Listener, angellist_url, crunchbase_url, linkedin_url, facebook_url
-CrowdLaw, linkedin_url, facebook_url
+CourtReader, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+CourtSide EDX, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Credit Swarm, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Crowdfunding Compliance Center, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+CrowdLaw, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 CS Disco, linkedin_url, facebook_url
-Dealcircle, linkedin_url, facebook_url
-DealSheet, twitter_url, crunchbase_url
-Depot Services, Inc., linkedin_url, facebook_url
-Contractlytics, linkedin_url, facebook_url
+DATY, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Dealcircle, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DealSheet, twitter_url, crunchbase_url, facebook_url
+Dent, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Depot Services, Inc., twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+GhostPractice, twitter_url, angellist_url, crunchbase_url
+Contractlytics, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Counterfeit.Technology, twitter_url, angellist_url, crunchbase_url, facebook_url
+Crypho, twitter_url, angellist_url, crunchbase_url
+Instadocket, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalRisk.io, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Derecho24, twitter_url, angellist_url, crunchbase_url, linkedin_url
 DiligenceEngine, angellist_url, crunchbase_url, linkedin_url, facebook_url
-doAgree, crunchbase_url
-Docasaurus, Inc., linkedin_url, facebook_url
-DocketHero, angellist_url, crunchbase_url
-Document Technologies Inc, linkedin_url, facebook_url
-EasyIntake, angellist_url, crunchbase_url
-EchoSign, linkedin_url, facebook_url
+DivorceMate Software, angellist_url, crunchbase_url, facebook_url
+doAgree, crunchbase_url, linkedin_url, facebook_url
+Docasaurus, Inc., twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DocketHero, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DocNav, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Docracy, facebook_url
+Document Technologies Inc, twitter_url, angellist_url, linkedin_url, facebook_url
+DraftLaw, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+E-Nact, twitter_url, angellist_url, crunchbase_url, facebook_url
+EasyIntake, angellist_url, crunchbase_url, linkedin_url, facebook_url
+EasyLaw.in, twitter_url, angellist_url, crunchbase_url, linkedin_url
+EasyNDA, twitter_url, angellist_url, crunchbase_url
+EchoSign, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 eDepoze, crunchbase_url
-Effective decision, linkedin_url, facebook_url
-Global-Regulation.com*, linkedin_url, facebook_url
-Picture It Settledå¨, linkedin_url, facebook_url
-Emerald Technology Valuations LLC, linkedin_url, facebook_url
-eQuibbly, angellist_url, crunchbase_url
+Effective decision, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Global-Regulation.com*, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Picture It Settledå¨, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Emerald Technology Valuations LLC, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+eQuibbly, angellist_url, crunchbase_url, linkedin_url, facebook_url
 eShares, linkedin_url, facebook_url
-Esq. Safe, twitter_url, crunchbase_url
-EsqSocial, crunchbase_url
+Esq. Safe, twitter_url, crunchbase_url, linkedin_url, facebook_url
+EsqSocial, crunchbase_url, linkedin_url, facebook_url
 everplans, linkedin_url, facebook_url
-ExpertBids, linkedin_url, facebook_url
-FactBox, linkedin_url, facebook_url
+ExpertBids, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+EzVsa, twitter_url, angellist_url, crunchbase_url, linkedin_url
+FactBox, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 Fair Document, crunchbase_url
-FlatLaw, linkedin_url, facebook_url
-Foresight Legal, linkedin_url, facebook_url
+Firmzen, twitter_url, angellist_url, crunchbase_url, facebook_url
+FiscalNote, twitter_url, angellist_url, crunchbase_url
+Fixed, linkedin_url, facebook_url
+FlatLaw, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Foresight Legal, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Foundee, twitter_url, angellist_url, crunchbase_url
 FreelanceLaw, angellist_url, crunchbase_url
-Get Lawyer App, linkedin_url, facebook_url
-Forced Labour Abolition Group (FLAG), linkedin_url, facebook_url
+Get Lawyer App, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+FindMySong, twitter_url, angellist_url, crunchbase_url
+Forced Labour Abolition Group (FLAG), twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+GPSOX, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Gracular, twitter_url, angellist_url, crunchbase_url
+HaystackHQ, twitter_url, angellist_url, crunchbase_url
 Hire an Esquire, linkedin_url, facebook_url
-HoudiniEsq, crunchbase_url
-Hubbard One, linkedin_url, facebook_url
-Justice Bid, linkedin_url, facebook_url
-Indexed IO, linkedin_url, facebook_url
+Hoip, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+HoudiniEsq, crunchbase_url, linkedin_url
+Hubbard One, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Esq.me, crunchbase_url
+iNation, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Justice Bid, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+InCloudCounsel, twitter_url, angellist_url, crunchbase_url
+Indexed IO, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Infotems, crunchbase_url
+Inkdit, twitter_url, angellist_url, crunchbase_url
 InLaw.Me, crunchbase_url, linkedin_url, facebook_url
-iPleaders, linkedin_url, facebook_url
-LawAnswers, linkedin_url, facebook_url
-ImpactGRC, linkedin_url, facebook_url
-IVIZE Services Inc, linkedin_url, facebook_url
+Inolyst, twitter_url, angellist_url, crunchbase_url
+IP Shark, twitter_url, angellist_url, crunchbase_url
+iPleaders, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+ipnexus, twitter_url, angellist_url, crunchbase_url
+Ipselex, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Law Mixer, twitter_url, angellist_url, crunchbase_url, facebook_url
+LawAnswers, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Horizon, twitter_url, angellist_url, crunchbase_url
+ImpactGRC, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+ipInstruments, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+IVIZE Services Inc, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 JammedUp, crunchbase_url
-Jurify, crunchbase_url
-Judicata, twitter_url
+Juridicus, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Jurify, crunchbase_url, facebook_url
+Judicata, twitter_url, linkedin_url, facebook_url
 Jurispect, crunchbase_url
-JusticeBox, twitter_url
+JusticeBox, twitter_url, facebook_url
 JustiServ, twitter_url, crunchbase_url
+Kinso, twitter_url, angellist_url, crunchbase_url
+Kira, angellist_url, crunchbase_url, linkedin_url
+Korbitec, angellist_url, crunchbase_url, facebook_url
+Last5, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 Lateral.ly, twitter_url, crunchbase_url, linkedin_url, facebook_url
-Karnov Group Denmark A/S, linkedin_url, facebook_url
+Laterally, twitter_url, angellist_url, crunchbase_url
+Karnov Group Denmark A/S, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lar21, twitter_url, angellist_url, crunchbase_url
+LegalClick, twitter_url, angellist_url, crunchbase_url
+LegalYou, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
 Lawcus, angellist_url, crunchbase_url
+LawDeal, linkedin_url
 LawDeeDa, angellist_url, crunchbase_url
-LawMeets, angellist_url, crunchbase_url
+LAWfone on Demand, twitter_url, angellist_url, crunchbase_url
+Lawful.ly, date, category, audience, model, main_url, twitter_url, angellist_url
+Lawger, date, category, audience, model, main_url, twitter_url, angellist_url
+LawGives, date, category, audience, model, main_url, twitter_url, angellist_url
+LawMeets, angellist_url, crunchbase_url, linkedin_url
 Lawnearme.com, angellist_url, linkedin_url, facebook_url
 Lawpolis, crunchbase_url
 LawStud.io LLC, crunchbase_url, linkedin_url, facebook_url
-LAWYA, linkedin_url, facebook_url
-Legal Simplicity, angellist_url
+LawTake, twitter_url, angellist_url, crunchbase_url
+LawTrades, date, category, audience, model, main_url, twitter_url, angellist_url
+LawVisors, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+LAWYA, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawyerFair, twitter_url, angellist_url, crunchbase_url
+Lawyerfy, twitter_url, angellist_url, crunchbase_url, linkedin_url
+LawyerLinx, crunchbase_url
+LawyerMatch, facebook_url
+LawZam, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Chrome, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legal Flow, twitter_url, angellist_url, crunchbase_url
+Legal Hero, twitter_url, angellist_url, crunchbase_url
+Legal Line, angellist_url, crunchbase_url
+Lawditor.com, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Legal Simplicity, angellist_url, facebook_url
+LegalCafe, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalCrunch, twitter_url, angellist_url, crunchbase_url
 LegalCrunch!, angellist_url, crunchbase_url, linkedin_url, facebook_url
-LegalEZ, linkedin_url, facebook_url
-LegalFacil, linkedin_url, facebook_url
-LegalInc Corporate Services, linkedin_url, facebook_url
-LEGALIX, linkedin_url, facebook_url
-LegalTap - On Demand Legal, linkedin_url, facebook_url
-LegalZoom.com, linkedin_url, facebook_url
-LegÌ_timo, linkedin_url, facebook_url
+LegalEZ, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalFacil, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalInc Corporate Services, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LEGALIX, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalReach, linkedin_url
+Legalshine, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legalswipe, date, category, audience, model, main_url, twitter_url, angellist_url
+LegalTap - On Demand Legal, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalZoom.com, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegÌ_timo, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 Legåtimo, linkedin_url, facebook_url
-Lemontech - Thetimebilling, linkedin_url, facebook_url
-My Exit Strategy, linkedin_url, facebook_url
-LegalLogs, linkedin_url, facebook_url
-LexSpring, angellist_url, crunchbase_url
-Lig Technologies Ltd, linkedin_url, facebook_url
-LiveOffice LLC, linkedin_url, facebook_url
+Lemontech - Thetimebilling, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lex Machina, date, category, audience, model, main_url, twitter_url, angellist_url
+Lexdir, date, category, audience, model, main_url, twitter_url, angellist_url
+Lexiqual, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Lexoo, date, category, audience, model, main_url, twitter_url, angellist_url
+ModusP, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Mootus, date, category, audience, model, main_url, twitter_url, angellist_url
+My Exit Strategy, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalLogs, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LexSpring, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lexvisors, date, category, audience, model, main_url, twitter_url, angellist_url
+Lig Technologies Ltd, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Linte, date, category, audience, model, main_url, twitter_url, angellist_url
+Litigator Technology, date, category, audience, model, main_url, twitter_url, angellist_url
+LegalTrek, date, category, audience, model, main_url, twitter_url, angellist_url
+LiveOffice LLC, twitter_url, angellist_url, linkedin_url, facebook_url
 Logickull, angellist_url, crunchbase_url, linkedin_url, facebook_url
-metricson, linkedin_url, facebook_url
-MyLegalCoverage, Inc. (MLC), linkedin_url, facebook_url
-New Media Legal Publishing, Inc., linkedin_url, facebook_url
-NOTARY 4 ROTARY, linkedin_url, facebook_url
-Openlegal, linkedin_url, facebook_url
+Logikcull, date, category, audience, model, main_url, twitter_url, angellist_url
+LucanDOCS, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Lucolo, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Lexicata, date, category, audience, model, main_url, twitter_url, angellist_url
+MapYourProperty, date, category, audience, model, main_url, twitter_url, angellist_url
+Mark43, twitter_url, angellist_url
+matterBase, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+MBLOK, date, category, audience, model, main_url, twitter_url, angellist_url
+metricson, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+MiAbogado, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Mimecast, twitter_url, angellist_url, crunchbase_url
+MisAbogados.com, twitter_url, angellist_url, crunchbase_url
+MyCase, date, category, audience, model, main_url, twitter_url, angellist_url
+MyLawBid, date, category, audience, model, main_url, twitter_url, angellist_url
+MyLegalCoverage, Inc. (MLC), twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+myRight, date, category, audience, model, main_url, twitter_url, angellist_url
+New Media Legal Publishing, Inc., twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+NOTARY 4 ROTARY, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Nventi, twitter_url, angellist_url, crunchbase_url, facebook_url
+Nymity, twitter_url, crunchbase_url
+Office Network Online, twitter_url, angellist_url, crunchbase_url, facebook_url
+Openlegal, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 Daniel Stachowiak, linkedin_url, facebook_url
-PasteLaw, linkedin_url, facebook_url
-Pbworks, linkedin_url, facebook_url
+PasteLaw, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+RecordLogix, twitter_url, angellist_url, crunchbase_url
+Ratchet Technology, twitter_url, angellist_url, crunchbase_url, facebook_url
+Quicklegal, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Pbworks, twitter_url, angellist_url, linkedin_url, facebook_url
 Peppercorn, crunchbase_url
+phraseup*, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+NetLex, twitter_url, angellist_url, crunchbase_url
 plainlegal, linkedin_url, facebook_url
-Purediscovery Corp, linkedin_url, facebook_url
-Patexia Inc., linkedin_url, facebook_url
+Planned Departure, twitter_url, angellist_url, crunchbase_url, facebook_url
+Plum Law Jobs, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Purediscovery Corp, twitter_url, angellist_url, linkedin_url, facebook_url
+PUSHTOSTART, twitter_url, angellist_url, crunchbase_url
+Patexia Inc., twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 PactSafe, angellist_url, crunchbase_url
-Quicklysign, linkedin_url, facebook_url
-Quimbee, crunchbase_url
-rangefindr, linkedin_url, facebook_url
-RETiDoc, linkedin_url, facebook_url
-qodeo, linkedin_url, facebook_url
-RION Corp., linkedin_url, facebook_url
-RiverGlass, Inc., linkedin_url, facebook_url
+Ontario Small Claims Wizard, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Quicklysign, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Quimbee, crunchbase_url, linkedin_url
+Quolaw, twitter_url, angellist_url, crunchbase_url, linkedin_url
+RainmakerVT, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+rangefindr, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Reorg Research, twitter_url, angellist_url, crunchbase_url, facebook_url
+Restructuring Concepts, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+RETiDoc, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+qodeo, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+PitchCast, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+RION Corp., twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+RiverGlass, Inc., twitter_url, angellist_url, linkedin_url, facebook_url
+Rnovo, twitter_url, angellist_url, crunchbase_url
 RocketLawyer, linkedin_url, facebook_url
 RocketMatter, linkedin_url, facebook_url
 RSVP Law, angellist_url
-Mystacks, Inc., linkedin_url, facebook_url
+Shoobx, date, category, audience, model, main_url, twitter_url, angellist_url
+Mystacks, Inc., angellist_url, crunchbase_url, linkedin_url, facebook_url
+Sky Analytics, date, category, audience, model, main_url, twitter_url, angellist_url
+Smokeball, date, category, audience, model, main_url, twitter_url, angellist_url
 Snap Law, angellist_url, crunchbase_url, linkedin_url, facebook_url
-SourceHOV LLC, linkedin_url, facebook_url
-Speedy Counsel, linkedin_url, facebook_url
-Startup Quest, linkedin_url, facebook_url
+Snapterms, date, category, audience, model, main_url, twitter_url, angellist_url
+SourceHOV LLC, twitter_url, angellist_url, linkedin_url, facebook_url
+Speedy Counsel, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Stampery, twitter_url, angellist_url, crunchbase_url
+Sanza, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Rghtly, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Shortsaleopedia, twitter_url, angellist_url, crunchbase_url, linkedin_url
+StartDireito, date, category, audience, model, main_url, twitter_url, angellist_url
+RightsFlow, twitter_url, angellist_url, crunchbase_url, facebook_url
+Startup Quest, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Structured Market, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+SubroFlash, twitter_url, angellist_url, crunchbase_url, facebook_url
 SupportPay, linkedin_url, facebook_url
-Syngrafii, linkedin_url, facebook_url
-Task Central, linkedin_url, facebook_url
-TermSheet.io, linkedin_url, facebook_url
+Suralink, twitter_url, angellist_url, crunchbase_url
+Swiftcourt, twitter_url, angellist_url, crunchbase_url
+Syngrafii, twitter_url, angellist_url, linkedin_url, facebook_url
+Tapdox, linkedin_url, facebook_url
+Task Central, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Startup Documents, twitter_url, angellist_url, crunchbase_url, facebook_url
+Swarm, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Ticket Warrior, twitter_url, facebook_url
+TermSheet.io, angellist_url, linkedin_url, facebook_url
+Terminis, twitter_url, crunchbase_url
 TenderScout, linkedin_url, facebook_url
-Clault, linkedin_url, facebook_url
+Clault, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+VisaEase, linkedin_url
 Virtual Payment Systems, linkedin_url, facebook_url
+Virtual Law Direct, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Vindula, facebook_url
+Viewabill, facebook_url
+Viditure, twitter_url
+VentureDocs, facebook_url
+VaultSwap, twitter_url, linkedin_url, facebook_url
+Tyche, facebook_url
 Turner, angellist_url, linkedin_url, facebook_url
 Tunnel X, Inc., linkedin_url, facebook_url
-Zapproved Inc, linkedin_url, facebook_url
-accreditation.io, linkedin_url, facebook_url
-ZoundsHearing.com, linkedin_url, facebook_url
-Axiom, crunchbase_url
-SecureSend, linkedin_url, facebook_url
-Rpost, linkedin_url, facebook_url
-AgileLaw, LLC, linkedin_url, facebook_url
-Impera, linkedin_url, facebook_url
-Jury Box, linkedin_url, facebook_url
-Certifact, linkedin_url, facebook_url
-Autriv Software Development, crunchbase_url
-Avvoka, crunchbase_url, linkedin_url, facebook_url
-JustEase, linkedin_url, facebook_url
-Contract Live, linkedin_url, facebook_url
-Legal Passage, linkedin_url, facebook_url
-Lawfty, linkedin_url, facebook_url
-ContactRoom, linkedin_url, facebook_url
-DataNovo, linkedin_url, facebook_url
-Doctrine.fr, linkedin_url, facebook_url
-Intake 123, linkedin_url, facebook_url
-Intellinx, linkedin_url, facebook_url
-IPStreet, linkedin_url, facebook_url
-IQTell, linkedin_url, facebook_url
-NextPoint, linkedin_url, facebook_url
-kCura, linkedin_url, facebook_url
-Kesteven, linkedin_url, facebook_url
-ZeeBeek, linkedin_url, facebook_url
-Wire Lawyer, linkedin_url, facebook_url
-Access Solicitor, crunchbase_url
-Lawline, linkedin_url, facebook_url
-LawSchoolProfs, linkedin_url, facebook_url
-Legal Interactive Services, linkedin_url, facebook_url
+Heureka, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Zapproved Inc, twitter_url, angellist_url, linkedin_url, facebook_url
+ZipCourt, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+accreditation.io, crunchbase_url, linkedin_url, facebook_url
+Access Family Law, twitter_url, angellist_url, crunchbase_url
+Block Notary, twitter_url, angellist_url, crunchbase_url
+ZoundsHearing.com, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Excellara, twitter_url, angellist_url, crunchbase_url, facebook_url
+Gadfly Legal Technologies, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Yuristiya, twitter_url
+The Family Community, facebook_url
+Willow, angellist_url, linkedin_url, facebook_url
+Virtual Viewbox, twitter_url, facebook_url
+TopicLogic, twitter_url, linkedin_url
+Axiom, crunchbase_url, linkedin_url
+Custom Counsel, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+TeamPatent, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+SecureSend, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Rpost, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+AgileLaw, LLC, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Resume Launchpad, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Alt Legal, twitter_url, angellist_url, crunchbase_url
+Bestlaw, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Habeas Corp., twitter_url, angellist_url, crunchbase_url
+Loudr, twitter_url, angellist_url, crunchbase_url
+Impera, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CarBack, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Fair and Square, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Free Law Project, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Jury Box, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+CaseFleet, date, category, audience, model, main_url, twitter_url, angellist_url
+CaseGlide, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Certifact, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+ChartaCourse, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Autriv Software Development, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Avvoka, angellist_url, crunchbase_url, linkedin_url, facebook_url
+PSS Systems, twitter_url, angellist_url, crunchbase_url, facebook_url
+Kleros, twitter_url, crunchbase_url
+Zegal, date, category, audience, model, main_url, twitter_url, angellist_url
+JustEase, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+CitizenshipWorks, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+ClaimCast, twitter_url, angellist_url, crunchbase_url
+ClearstoneIP, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Contract Live, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Clocktimizer, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Passage, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lawfty, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Digital Currency Council, twitter_url, angellist_url, crunchbase_url
+Etherparty, twitter_url, angellist_url, crunchbase_url
+ContactRoom, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Pactanda, date, category, audience, model, main_url, twitter_url, angellist_url
+CrowdDefend, twitter_url, angellist_url, crunchbase_url
+CrowdJustice, date, category, audience, model, main_url, twitter_url, angellist_url
+Cryptonomica, twitter_url, angellist_url, crunchbase_url
+CuroLegal, date, category, audience, model, main_url, twitter_url, angellist_url
+DataNovo, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DivorceSecure, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Docasaurus, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DocEx Legal, twitter_url, angellist_url, crunchbase_url
+Doctrine.fr, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Esquify, twitter_url, angellist_url, crunchbase_url
+Get Legal Counsel, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Gust, twitter_url, angellist_url, crunchbase_url
+Infinote, twitter_url, angellist_url, crunchbase_url
+Intake 123, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Intellinx, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+IPStreet, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+IQTell, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+NextPoint, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+jEugene, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+kCura, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Kesteven, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Killer Kontracts, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+ZeeBeek, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Hotshot, date, category, audience, model, main_url, twitter_url, angellist_url
+Ironclad, angellist_url, crunchbase_url
+Wire Lawyer, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Law on the Web, date, category, audience, model, main_url, twitter_url, angellist_url
+Law Ruler, date, category, audience, model, main_url, twitter_url, angellist_url
+Access Solicitor, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+LawGeex, twitter_url, angellist_url, crunchbase_url
+LawGo, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Lawline, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawSchoolProfs, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawStudio, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LawToons, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Lawurli, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Lawyered, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Equalizer, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Interactive Services, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legal Linkup, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Talk Network, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal.io, date, category, audience, model, main_url, twitter_url, angellist_url
+Legitimo, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Lexbe, twitter_url, angellist_url, crunchbase_url
+LexBlog, twitter_url, angellist_url, crunchbase_url
+yurJURY, angellist_url
 Workshare Transact, linkedin_url, facebook_url
-Law4TW, linkedin_url, facebook_url
-Beagle.ai, linkedin_url, facebook_url
-DTI Global, linkedin_url, facebook_url
-flightright, linkedin_url, facebook_url
-Prédictice SAS, linkedin_url, facebook_url
-Lit IQ, linkedin_url, facebook_url
-123recht.net, linkedin_url, facebook_url
-Avostart.fr, crunchbase_url
-Law Genius, linkedin_url, facebook_url
-OSET Institute, linkedin_url, facebook_url
-openlaws gmbh, linkedin_url, facebook_url
-Premonition Analytics, linkedin_url, facebook_url
-Octimine Technologies, linkedin_url, facebook_url
-Legalstart.fr, linkedin_url, facebook_url
-Compendor GmbH, linkedin_url, facebook_url
-Witnex, crunchbase_url
-Lex.be, linkedin_url, facebook_url
-Prolorem, linkedin_url, facebook_url
-Legal OnRamp, linkedin_url, facebook_url
-IP Nexus, linkedin_url, facebook_url
-VisiRule, linkedin_url, facebook_url
-DP-O Internet GmbH, linkedin_url, facebook_url
-Common Company, linkedin_url, facebook_url
-Marktplatz-Recht, linkedin_url, facebook_url
-Co/Counsel, linkedin_url, facebook_url
-NovusLaw, linkedin_url, facebook_url
-Patnav, linkedin_url, facebook_url
+RAVN Systems, angellist_url, crunchbase_url
+Local Lawyer, date, category, audience, model, main_url, twitter_url, angellist_url
+SeRiouS, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legal Space, date, category, audience, model, main_url, twitter_url, angellist_url
+Concord, angellist_url, crunchbase_url
+LegalServer, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Should I Sign, date, category, audience, model, main_url, twitter_url, angellist_url
+Counsl.co, twitter_url, crunchbase_url
+NuLawLab, date, category, audience, model, main_url, twitter_url, angellist_url
+BookLawyer, date, category, audience, model, main_url, twitter_url, angellist_url
+Law4TW, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Kira Systems, twitter_url, angellist_url, crunchbase_url
+Beagle.ai, crunchbase_url, linkedin_url, facebook_url
+BidSettle, date, category, audience, model, main_url, twitter_url, angellist_url
+NextGen Reporting, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Robot, date, category, audience, model, main_url, twitter_url, angellist_url
+DTI Global, angellist_url, crunchbase_url, linkedin_url, facebook_url
+ContractRoom, facebook_url
+MyCourtCase, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Estate Guru, angellist_url, crunchbase_url
+flightright, twitter_url, angellist_url, linkedin_url, facebook_url
+Civil Soot, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Prédictice SAS, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Foundation Software Group, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Obolus, twitter_url, angellist_url, crunchbase_url, facebook_url
+DirectLaw, date, category, audience, model, main_url, twitter_url, angellist_url
+Lit IQ, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Judgment Pay, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+123recht.net, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Beamium, date, category, audience, model, main_url, twitter_url, angellist_url
+Avostart.fr, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Law Genius, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Greenhouse, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Innography, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+OSET Institute, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+MyOnlineCA, date, category, audience, model, main_url, twitter_url, angellist_url
+Visafolder, angellist_url, crunchbase_url
+Midatadin, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+EXOCHAIN, date, category, audience, model, main_url, twitter_url, angellist_url
+Notificami, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Lexcarts, date, category, audience, model, main_url, twitter_url, angellist_url
+openlaws gmbh, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Premonition Analytics, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legal Miner, date, category, audience, model, main_url, twitter_url, angellist_url
+Octimine Technologies, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legalstart.fr, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Functional Imperative, angellist_url, crunchbase_url
+Compendor GmbH, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Docket Alarm, date, category, audience, model, main_url, twitter_url, angellist_url
+ClientSide, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Witnex, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Lex.be, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawSpot, date, category, audience, model, main_url, twitter_url, angellist_url
+DocuSign, angellist_url, crunchbase_url
+Code for America, date, category, audience, model, main_url, twitter_url, angellist_url
+iubenda, audience, model, angellist_url, crunchbase_url
+Prolorem, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Thomson Reuters, crunchbase_url
+LexisNexis, twitter_url, angellist_url, crunchbase_url
+Effacts, twitter_url, angellist_url, crunchbase_url
+Stanford Securities Litigation Analytics, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legal OnRamp, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+IP Nexus, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+VisiRule, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CommonAccord, twitter_url, angellist_url, crunchbase_url, facebook_url
+DP-O Internet GmbH, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Obvious, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+legalstart.fr, date, category, audience, model, main_url, twitter_url, angellist_url
+Common Company, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DocAssemble, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Elementary IP, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Marktplatz-Recht, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Co/Counsel, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legaler, twitter_url, angellist_url, crunchbase_url
+NovusLaw, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawMoose, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Ross, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+SmartContract, twitter_url, angellist_url, crunchbase_url, facebook_url
+Google Patents, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Patnav, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Seal Software, twitter_url, angellist_url, crunchbase_url
 ClearAccessIP, twitter_url, crunchbase_url
+Everlaw, date, category, audience, model, main_url, twitter_url, angellist_url
+Lex Quantus Analytics, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+PacerPro, date, category, audience, model, main_url, twitter_url, angellist_url
 Foxwordy Inc., linkedin_url, facebook_url
-loom analytics, linkedin_url, facebook_url
+Deftr, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Everchron, angellist_url, crunchbase_url
+loom analytics, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Nyaaya, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
 Upcounsel, linkedin_url, facebook_url
-LEVERTON, linkedin_url, facebook_url
-Knomos, linkedin_url, facebook_url
-Epiq Systems, linkedin_url, facebook_url
-Compensation2Go GmbH, linkedin_url, facebook_url
-PredictGov, linkedin_url, facebook_url
-Asia Law Network, crunchbase_url
-Helm360, linkedin_url, facebook_url
-eLakitoimisto OÜ, linkedin_url, facebook_url
-Bend Law Group, PC, linkedin_url, facebook_url
-Surukam Analytics, linkedin_url, facebook_url
-elAbogado.com, linkedin_url, facebook_url
-Allegory Law, crunchbase_url
+DoNotPay, date, category, audience, model, main_url, twitter_url, angellist_url
+Traklight, date, category, audience, model, main_url, twitter_url, angellist_url
+Coherent Knowledge, twitter_url, angellist_url, crunchbase_url, facebook_url
+LEVERTON, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Paper Software, date, category, audience, model, main_url, twitter_url, angellist_url
+Knomos, crunchbase_url, linkedin_url, facebook_url
+Epiq Systems, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Compensation2Go GmbH, twitter_url, angellist_url, linkedin_url, facebook_url
+PredictGov, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Starting Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+Asia Law Network, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Helm360, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Riverview Law, date, category, audience, model, main_url, twitter_url, angellist_url
+eLakitoimisto OÜ, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Bend Law Group, PC, crunchbase_url, linkedin_url, facebook_url
+Neota Logic, date, category, audience, model, main_url, twitter_url, angellist_url
+Surukam Analytics, angellist_url, crunchbase_url, linkedin_url, facebook_url
+elAbogado.com, angellist_url, linkedin_url, facebook_url
+GoldFynch, date, category, audience, model, main_url, twitter_url, angellist_url
+Allegory Law, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Doxbi, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
 Merus, Inc., linkedin_url, facebook_url
-LawTap, linkedin_url, facebook_url
-Closing Folders Inc., linkedin_url, facebook_url
-MeilleursHonoraires.com, linkedin_url, facebook_url
-Justice Toolbox, Inc., linkedin_url, facebook_url
-nubbius, linkedin_url, facebook_url
-Mobile Helix, Inc., linkedin_url, facebook_url
-Court Innovations Inc., linkedin_url, facebook_url
-Airport Lawyer, crunchbase_url
-LLM, Inc., linkedin_url, facebook_url
+LawTap, crunchbase_url, linkedin_url, facebook_url
+Closing Folders Inc., angellist_url, crunchbase_url, linkedin_url, facebook_url
+FAQ Recht, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+MyMotionCalendar, date, category, audience, model, main_url, twitter_url, angellist_url
+Vijilent, date, category, audience, model, main_url, twitter_url, angellist_url
+Vigilant, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+MeilleursHonoraires.com, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Justice Toolbox, Inc., angellist_url, linkedin_url, facebook_url
+nubbius, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Doxly, date, category, audience, model, main_url, twitter_url, angellist_url
+Mobile Helix, Inc., angellist_url, linkedin_url, facebook_url
+HourVoice, twitter_url, angellist_url, crunchbase_url
+NORMDECS, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Legal IT Group, date, category, audience, model, main_url, twitter_url, angellist_url
+Court Innovations Inc., crunchbase_url, linkedin_url, facebook_url
+Conflicteam, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Airport Lawyer, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+CASEpeer, date, category, audience, model, main_url, twitter_url, angellist_url
+LLM, Inc., angellist_url, crunchbase_url, linkedin_url, facebook_url
+SimpleCitizen, angellist_url, crunchbase_url
 InteLease Inc., linkedin_url, facebook_url
 Libryo Ltd, linkedin_url, facebook_url
-Atrium, crunchbase_url
-Risk Genius, linkedin_url, facebook_url
-Tologix Expert Systems Inc., linkedin_url, facebook_url
-Center for Computer-Assisted Legal Instruction, linkedin_url, facebook_url
-RPX, linkedin_url, facebook_url
+i-Wisdom Business Partners, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Intraspexion Inc., twitter_url, angellist_url, crunchbase_url, facebook_url
+Atrium, crunchbase_url, linkedin_url
+Lawyaw, angellist_url, crunchbase_url
+Risk Genius, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Tologix Expert Systems Inc., angellist_url, crunchbase_url, linkedin_url, facebook_url
+Center for Computer-Assisted Legal Instruction, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Evichat, crunchbase_url
+RPX, twitter_url, angellist_url, linkedin_url, facebook_url
 Legalese 2.0, linkedin_url, facebook_url
-Synergist.io, linkedin_url, facebook_url
-SKUANI Ltd., linkedin_url, facebook_url
-Early Neutral Appraisals (ENAp), linkedin_url, facebook_url
-LegalOne Inc, linkedin_url, facebook_url
-Doctual Ltd., linkedin_url, facebook_url
+Synergist.io, crunchbase_url, linkedin_url, facebook_url
+Microsystems, angellist_url, crunchbase_url, facebook_url
+SKUANI Ltd., angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legal Insights, twitter_url, angellist_url, crunchbase_url
+Early Neutral Appraisals (ENAp), crunchbase_url, linkedin_url, facebook_url
+CounselHQ, angellist_url, facebook_url
+Dalton One Legal Technologies, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LegalOne Inc, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Doctual Ltd., crunchbase_url, linkedin_url, facebook_url
+LegalOptics, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
 Legalist Online On Hukuk Hizmetleri A.S., linkedin_url, facebook_url
-NextLex Inc, linkedin_url, facebook_url
-LAWPP, LLC, linkedin_url, facebook_url
-MaxVal, linkedin_url, facebook_url
-INTELLLEX, linkedin_url, facebook_url
-Crowd & Co., linkedin_url, facebook_url
-iDisclose, linkedin_url, facebook_url
+NextLex Inc, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LAWPP, LLC, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Specifio, date, category, audience, model, main_url, twitter_url, angellist_url
+Lawsnote, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+MaxVal, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Catalyst Repository Systems, date, category, audience, model, main_url, twitter_url, angellist_url
+Fastcase, date, category, audience, model, main_url, twitter_url, angellist_url
+INTELLLEX, crunchbase_url, linkedin_url, facebook_url
+Crowd & Co., angellist_url, crunchbase_url, linkedin_url, facebook_url
+iDisclose, angellist_url, crunchbase_url, linkedin_url, facebook_url
+JustLegal, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Codify Legal Publishing, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
 Justly, Inc., linkedin_url, facebook_url
-LawHawk Limited, linkedin_url, facebook_url
-Road to Status, LLC, linkedin_url, facebook_url
-Patentfield Inc., linkedin_url, facebook_url
-Sheriasoft Technologies, linkedin_url, facebook_url
-Apperio, crunchbase_url
-LegalKite Ltd, linkedin_url, facebook_url
-Bloomberg BNA, linkedin_url, facebook_url
-Catherine Krow, linkedin_url, facebook_url
-Legalpal ltd, linkedin_url, facebook_url
-XRef Software Solutions, linkedin_url, facebook_url
-Practice League Legaltech Pvt. Ltd., linkedin_url, facebook_url
-EDocGen LLC, linkedin_url, facebook_url
-Moodul, linkedin_url, facebook_url
-Digital Rights Solutions GmbH & Co. KG, linkedin_url, facebook_url
-dealWIP Inc., linkedin_url, facebook_url
-Compliance Qaurter, linkedin_url, facebook_url
-Hot Neuron LLC, linkedin_url, facebook_url
-elementaryIP, linkedin_url, facebook_url
-LegalThings One, linkedin_url, facebook_url
-legalefacile.com, linkedin_url, facebook_url
-LexDo.it Srl, linkedin_url, facebook_url
-WorthIT Legal, linkedin_url, facebook_url
-Laboralisto, Inc., linkedin_url, facebook_url
-XSUD, LLC, linkedin_url, facebook_url
-Juscutum, linkedin_url, facebook_url
-VistaDraft LTD, linkedin_url, facebook_url
-Directive Communication Systems, Inc., linkedin_url, facebook_url
-thingsTHINKING GmbH, linkedin_url, facebook_url
-Evisort Inc., linkedin_url, facebook_url
-Class Action App, linkedin_url, facebook_url
-smartwork solutions GmbH, linkedin_url, facebook_url
-Elijah LTD, linkedin_url, facebook_url
-Simon Says, Inc., linkedin_url, facebook_url
-Fair Outcomes, Inc., linkedin_url, facebook_url
+Casetab, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+LawHawk Limited, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Road to Status, LLC, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Patentfield Inc., twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+eDCaseMAN, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Law Data Science, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Priori Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+Courting The Law, audience, model, angellist_url, crunchbase_url
+Mohtasib, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Sheriasoft Technologies, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Dataprise, twitter_url, angellist_url, crunchbase_url
+MediaRebel, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Esqalate, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Apperio, angellist_url, crunchbase_url
+LegalKite Ltd, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Bloomberg BNA, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Catherine Krow, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Paladin, audience, model, crunchbase_url
+Legalpal ltd, audience, model, crunchbase_url, linkedin_url, facebook_url
+Independent Strategies Digital, date, category, audience, model, main_url, twitter_url, angellist_url
+XRef Software Solutions, angellist_url, linkedin_url, facebook_url
+Practice League Legaltech Pvt. Ltd., angellist_url, crunchbase_url, linkedin_url, facebook_url
+EDocGen LLC, audience, model, angellist_url, linkedin_url, facebook_url
+Moodul, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Digital Rights Solutions GmbH & Co. KG, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Tali, audience, model, twitter_url, angellist_url, crunchbase_url
+Information Navigators, audience, model, angellist_url, crunchbase_url
+easyQuorum, date, category, audience, model, main_url, twitter_url, angellist_url
+dealWIP Inc., audience, model, linkedin_url, facebook_url
+Compliance Qaurter, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Justiça Simples, audience, model, angellist_url, crunchbase_url, linkedin_url
+Hot Neuron LLC, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+elementaryIP, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalThings One, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Founded, audience, model, crunchbase_url, facebook_url
+DPOrganizer, audience, model
+Ogayar Co., audience, model, twitter_url, angellist_url, crunchbase_url, facebook_url
+INIRES, audience, model, angellist_url, crunchbase_url, facebook_url
+legalefacile.com, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LexDo.it Srl, audience, model, linkedin_url, facebook_url
+LawPath, audience, model, angellist_url, crunchbase_url
+Xcential Legislative Technologies, linkedin_url, facebook_url
+WorthIT Legal, twitter_url, angellist_url, linkedin_url, facebook_url
+ObjectiveManager, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Laboralisto, Inc., audience, model, linkedin_url, facebook_url
+CiteRight, audience, model, crunchbase_url, facebook_url
+Case.one, audience, model, twitter_url, angellist_url, crunchbase_url
+FreeWill, date, category, audience, model, main_url, twitter_url, angellist_url
+XSUD, LLC, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Juscutum, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CoralDocs, audience, model, twitter_url, angellist_url, crunchbase_url, facebook_url
+VistaDraft LTD, twitter_url, linkedin_url, facebook_url
+Directive Communication Systems, Inc., audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+thingsTHINKING GmbH, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Evisort Inc., audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalVision, audience, model, angellist_url, crunchbase_url
+FoxNot, date, category, audience, model, main_url, twitter_url, angellist_url
+Casepoint, audience, model, angellist_url, facebook_url
+Legalosity, audience, model, twitter_url, angellist_url, crunchbase_url, facebook_url
+Class Action App, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Cognate, audience, model, twitter_url, angellist_url, crunchbase_url
+SirionLabs, audience, model, twitter_url, angellist_url, crunchbase_url
+smartwork solutions GmbH, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Elijah LTD, audience, model, twitter_url, angellist_url, linkedin_url, facebook_url
+Simon Says, Inc., audience, model, linkedin_url, facebook_url
+Run the Call, audience, model, crunchbase_url
+Fair Outcomes, Inc., audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DrugPatentWatch, date, category, audience, model, main_url, twitter_url, angellist_url
 KawGro Inc, linkedin_url, facebook_url
 Contractize INC., linkedin_url, facebook_url
-1Law, linkedin_url, facebook_url
+Zola Suite, date, category, audience, model, main_url, twitter_url, angellist_url
+1Law, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 8of9, linkedin_url, facebook_url
-Accord Project, crunchbase_url
-Advobot, crunchbase_url
-advocado, linkedin_url, facebook_url
-Advokatami.bg, crunchbase_url
+Accord Project, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+AdviceScene, twitter_url, crunchbase_url, facebook_url
+AdaptiBar, twitter_url, angellist_url, crunchbase_url
+Advobot, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+advocado, crunchbase_url, linkedin_url, facebook_url
+Advokatami.bg, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
 zhiANT, linkedin_url, facebook_url
+Zero, twitter_url, angellist_url, linkedin_url, facebook_url
 ZeekBeek, linkedin_url, facebook_url
-Agreemint, crunchbase_url
-Workproducts Inc, linkedin_url, facebook_url
-Amicable Apps, linkedin_url, facebook_url
-VIsafolder, linkedin_url, facebook_url
-Weblaw AG, linkedin_url, facebook_url
-AI Lawracle, crunchbase_url, linkedin_url, facebook_url
-Alexsei Inc., linkedin_url, facebook_url
+Zariya, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Agreemint, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Workproducts Inc, twitter_url, linkedin_url, facebook_url
+Wizdocs, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Wise Contracts, crunchbase_url, linkedin_url, facebook_url
+WibniLabs, crunchbase_url, facebook_url
+WhichDraft, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Waymark Tech, facebook_url
+Wallstreetdocs, twitter_url, crunchbase_url, facebook_url
+VR-Mail, twitter_url, linkedin_url
+VortexLegal, facebook_url
+Vonzella, crunchbase_url, linkedin_url
+WayToSettle, facebook_url
+American Startup, crunchbase_url, facebook_url
+Amicable Apps, crunchbase_url, linkedin_url, facebook_url
+VoiLaw, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+VisionClerk, date, category, audience, model, main_url, twitter_url, angellist_url
+VIsafolder, crunchbase_url, linkedin_url, facebook_url
+Virtual Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+Weblaw AG, crunchbase_url, linkedin_url, facebook_url
+AI Lawracle, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Alexsei Inc., twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Alster Legal, twitter_url, angellist_url, crunchbase_url, facebook_url
 AltaClaro, crunchbase_url
+Amendment.io, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Amicus ALJ, crunchbase_url
 Anaqua, crunchbase_url
 Anduin Transactions, crunchbase_url, linkedin_url, facebook_url
-anwalt.de services AG, crunchbase_url, linkedin_url, facebook_url
-AOLaw Africa, crunchbase_url
-Apex CLE, crunchbase_url, linkedin_url, facebook_url
-Appunte, crunchbase_url
-Aquis Search, crunchbase_url
+anwalt.de services AG, angellist_url, crunchbase_url, linkedin_url, facebook_url
+AOLaw Africa, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Apex CLE, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Appunte, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Aquis Search, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
 Ascent Technologies Inc., crunchbase_url, linkedin_url, facebook_url
 Aspirea Technologies, crunchbase_url, linkedin_url, facebook_url
-Vertex App, linkedin_url, facebook_url
+Vertex App, crunchbase_url, linkedin_url, facebook_url
+VerdictAdvantage, date, category, audience, model, main_url, twitter_url, angellist_url
+Get20, main_url, twitter_url, angellist_url
+Vector Legal Method, date, category, audience, model, main_url, twitter_url, angellist_url
 Valcu Inc., linkedin_url, facebook_url
-Assently, crunchbase_url
-AssistMyCase, crunchbase_url
-AtlaSense, crunchbase_url
+Vakilsearch, date, category, audience, model, main_url, twitter_url, angellist_url
+Assently, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Unified Patents, date, category, audience, model, main_url, twitter_url, angellist_url
+AssistMyCase, crunchbase_url, linkedin_url, facebook_url
+Uabide, date, category, audience, model, main_url, twitter_url, angellist_url
+AtlaSense, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
 TRXNHUB, linkedin_url, facebook_url
-Atticus Now, crunchbase_url
+Taxbender, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Trustatom, date, category, audience, model, main_url, twitter_url, angellist_url
+Atticus Now, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
 Attorney's Back Office, Inc., crunchbase_url, linkedin_url, facebook_url
-Trail Bloom, linkedin_url, facebook_url
+Trail Bloom, crunchbase_url, linkedin_url, facebook_url
 Audiocasefiles, crunchbase_url, linkedin_url, facebook_url
-Aurum Software, crunchbase_url
-Tranxact, linkedin_url, facebook_url
-Autentic, linkedin_url, facebook_url
-The Summit Investments, SL, linkedin_url, facebook_url
-DeLeyes, linkedin_url, facebook_url
-Automio, crunchbase_url
+Aurum Software, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Tranxact, crunchbase_url, linkedin_url, facebook_url
+Autentic, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Tracument, date, category, audience, model, main_url, twitter_url, angellist_url
+ThreadKM, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Bakerfield Group, date, category, audience, model, main_url, twitter_url, angellist_url
+The Summit Investments, SL, crunchbase_url, linkedin_url, facebook_url
+DeLeyes, angellist_url, linkedin_url, facebook_url
+Automio, angellist_url, crunchbase_url
+Tort IQ, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Top Class Actions, date, category, audience, model, main_url, twitter_url, angellist_url
 Avtal24 / Agreement24, crunchbase_url, linkedin_url, facebook_url
-Zelican Technologies, Inc, linkedin_url, facebook_url
+Toonari, date, category, audience, model, main_url, twitter_url, angellist_url
+TIOEX, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Zelican Technologies, Inc, audience, model, angellist_url, linkedin_url, facebook_url
+Basement Crowd, date, category, audience, model, main_url, twitter_url, angellist_url
 The Expert Institute, linkedin_url, facebook_url
-Beau Walker // Marketing Scientist, linkedin_url, facebook_url
-Glitnr, linkedin_url, facebook_url
-Bullseeye Law, linkedin_url, facebook_url
-Bengeni Consulting, linkedin_url, facebook_url
-Calela, linkedin_url, facebook_url
-Legasis Services Private Limited, linkedin_url, facebook_url
-MeWe.Org, linkedin_url, facebook_url
-SavvyDox Inc., linkedin_url, facebook_url
-Counsel on Call Services Inc, linkedin_url, facebook_url
-Secure Privacy.AI, linkedin_url, facebook_url
-LECARE, linkedin_url, facebook_url
-http://www.cfcs.co.in, linkedin_url, facebook_url
-Blue J Legal Inc., linkedin_url, facebook_url
+Beau Walker // Marketing Scientist, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Teen Legal Helpline, date, category, audience, model, main_url, twitter_url, angellist_url
+BernieSez, date, category, audience, model, main_url, twitter_url, angellist_url
+Bernstein, angellist_url
+TechGC, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+BestQuire, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Bill4Time, angellist_url, crunchbase_url
+BizAbroad Xpress, twitter_url, linkedin_url
+Blockstone, twitter_url, crunchbase_url, linkedin_url
+Glitnr, angellist_url, linkedin_url, facebook_url
+Bright Advise, date, category, audience, model, main_url, twitter_url, angellist_url
+Bullseeye Law, main_url, linkedin_url, facebook_url
+Bengeni Consulting, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Calela, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Callisto, crunchbase_url
+Legasis Services Private Limited, angellist_url, crunchbase_url, linkedin_url, facebook_url
+MeWe.Org, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Discovia, twitter_url, angellist_url, crunchbase_url
+SavvyDox Inc., twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Quegal.com, twitter_url, angellist_url, crunchbase_url
+Otonomos, twitter_url, angellist_url, crunchbase_url, facebook_url
+Lexstart, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Modus, twitter_url, angellist_url
+Counsel on Call Services Inc, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Secure Privacy.AI, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LECARE, audience, model, linkedin_url, facebook_url
+http://www.cfcs.co.in, audience, model, angellist_url, linkedin_url, facebook_url
+EDT, audience, model, angellist_url, crunchbase_url
+Nalytics, audience, model, angellist_url, crunchbase_url, facebook_url
+Blue J Legal Inc., audience, model, linkedin_url, facebook_url
+eSign Genie, angellist_url
+Statera, main_url, twitter_url, angellist_url, crunchbase_url
+Contraktor, twitter_url, angellist_url, crunchbase_url
 FastVisa US, linkedin_url, facebook_url
-Citasca, LLC, linkedin_url, facebook_url
-MyAdvo TechServe, linkedin_url, facebook_url
-Ruby Datum Ltd, linkedin_url, facebook_url
-priya, linkedin_url, facebook_url
-Exterro, Inc, linkedin_url, facebook_url
-IntelliLaw, linkedin_url, facebook_url
-EASYLAW ASIA, linkedin_url, facebook_url
-streamlaw GmbH, linkedin_url, facebook_url
+Berkeley Bridge, audience, model, twitter_url, angellist_url, crunchbase_url
+Citasca, LLC, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Klarity, audience, model, angellist_url
+Mattereum, audience, model, angellist_url, crunchbase_url
+Rosenblum Law Firm, date, category, audience, model, main_url, twitter_url, angellist_url
+MyAdvo TechServe, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Claim Flights, angellist_url, crunchbase_url
+Ruby Datum Ltd, angellist_url, crunchbase_url, linkedin_url, facebook_url
+priya, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Exterro, Inc, angellist_url, crunchbase_url, linkedin_url, facebook_url
+eVue Digital Labs, crunchbase_url
+JustVice, date, category, audience, model, main_url, twitter_url, angellist_url
+IntelliLaw, twitter_url, crunchbase_url, linkedin_url, facebook_url
+PocketLawyer, angellist_url, crunchbase_url
+ExtendLaw, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+EASYLAW ASIA, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+ProJuris, date, category, audience, model, main_url, twitter_url, angellist_url
+Herculex.ai, facebook_url
+streamlaw GmbH, audience, model, linkedin_url, facebook_url
 PatentPal Inc., linkedin_url, facebook_url
-Lexnet, linkedin_url, facebook_url
-Founded.Co, linkedin_url, facebook_url
-litsmart, linkedin_url, facebook_url
-E-startup India, linkedin_url, facebook_url
-Legit Quest, linkedin_url, facebook_url
-Helm Social Design Studio, linkedin_url, facebook_url
-JustResolve LLC, linkedin_url, facebook_url
-Case Status, Inc., linkedin_url, facebook_url
-RegNet Solutions, LLC, linkedin_url, facebook_url
-Soft8 Softwares Inteligentes, linkedin_url, facebook_url
-Kelsen, linkedin_url, facebook_url
-Lawply.com, linkedin_url, facebook_url
+Lexnet, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Founded.Co, crunchbase_url, linkedin_url, facebook_url
+litsmart, twitter_url, crunchbase_url, linkedin_url, facebook_url
+E-startup India, angellist_url, linkedin_url, facebook_url
+Legit Quest, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Helm Social Design Studio, twitter_url, crunchbase_url, linkedin_url, facebook_url
+LegalSpell, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Integra, angellist_url, crunchbase_url
+JustResolve LLC, crunchbase_url, linkedin_url, facebook_url
+Legal Labs, date, category, audience, model, main_url, twitter_url, angellist_url
+Xakia Technologies, date, category, audience, model, main_url, twitter_url, angellist_url
+Case Status, Inc., angellist_url, crunchbase_url, linkedin_url, facebook_url
+RegNet Solutions, LLC, twitter_url, angellist_url, linkedin_url, facebook_url
+Lawcadia, date, category, audience, model, main_url, twitter_url, angellist_url
+Soft8 Softwares Inteligentes, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LAPIXA, crunchbase_url
+Kelsen, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+DocBlaster, twitter_url, crunchbase_url, linkedin_url
+Legodesk, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Lawply.com, crunchbase_url, linkedin_url, facebook_url
+Lawmatters, date, category, audience, model, main_url, twitter_url, angellist_url
 LawGuage.com, linkedin_url, facebook_url
-Lawgin, linkedin_url, facebook_url
-ZyLAB Technologies, linkedin_url, facebook_url
-Agence Juridique, crunchbase_url
-wundertax, linkedin_url, facebook_url
-Living Legacies, linkedin_url, facebook_url
-PECULE Innovations, linkedin_url, facebook_url
-Casefunder, linkedin_url, facebook_url
-LEGALS, linkedin_url, facebook_url
-Added Life Value AG, linkedin_url, facebook_url
-matters.Cloud, linkedin_url, facebook_url
-Privatim, linkedin_url, facebook_url
-RYTER, linkedin_url, facebook_url
-Studentensteuererklaerung.de, linkedin_url, facebook_url
-Lawyer.com, linkedin_url, facebook_url
-GLC CONSULTORES, linkedin_url, facebook_url
-LexGO, linkedin_url, facebook_url
-Lexa, linkedin_url, facebook_url
-Good Call, linkedin_url, facebook_url
-Netcog, linkedin_url, facebook_url
-LegalBods, linkedin_url, facebook_url
-Justice42 B.V., linkedin_url, facebook_url
-Epoq Legal Inc, linkedin_url, facebook_url
-Shakeup Online Sdn Bhd, linkedin_url, facebook_url
-Wildcat, linkedin_url, facebook_url
-SOLOMON Justice AI, linkedin_url, facebook_url
-Threat Resilience, linkedin_url, facebook_url
-soocasa, linkedin_url, facebook_url
-Law ExplorersÂ®, linkedin_url, facebook_url
+Lawgin, crunchbase_url, linkedin_url, facebook_url
+Lexyom, date, category, audience, model, main_url, twitter_url, angellist_url
+ZyLAB Technologies, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Agence Juridique, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+wundertax, angellist_url, linkedin_url, facebook_url
+PolicyStore, angellist_url
+eEvidence, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Privva, twitter_url
+ShieldMyfiles, crunchbase_url, facebook_url
+MyLawNow, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Living Legacies, main_url, twitter_url, crunchbase_url, linkedin_url, facebook_url
+LawyerQuote, date, category, audience, model, main_url, twitter_url, angellist_url
+LawAdvisor, date, category, audience, model, main_url, twitter_url, angellist_url
+Qualia, date, category, audience, model, main_url, twitter_url, angellist_url
+Dacreed, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+SmartUp, angellist_url, crunchbase_url, linkedin_url
+Atticus, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CaseMetrix, date, category, audience, model, main_url, twitter_url, angellist_url
+Patdek Software, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Notarize, date, category, audience, model, main_url, twitter_url, angellist_url
+Mplace, date, category, audience, model, main_url, twitter_url, angellist_url
+Ligo, date, category, audience, model, main_url, twitter_url, angellist_url
+PECULE Innovations, crunchbase_url, linkedin_url, facebook_url
+Casefunder, crunchbase_url, linkedin_url, facebook_url
+LEGALS, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lawyer Exchange, date, category, audience, model, main_url, twitter_url, angellist_url
+ONE400, audience, model
+Added Life Value AG, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+matters.Cloud, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Trial Boom, date, category, audience, model, main_url, twitter_url, angellist_url
+LegalSeba, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Creatives, date, category, audience, model, main_url, twitter_url, angellist_url
+Privatim, crunchbase_url, linkedin_url, facebook_url
+RYTER, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Studentensteuererklaerung.de, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LAWLIFT, date, category, audience, model, main_url, twitter_url, angellist_url
+Lawyer.com, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawIQ, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+GLC CONSULTORES, twitter_url, crunchbase_url, linkedin_url, facebook_url
+LeasePilot, date, category, audience, model, main_url, twitter_url, angellist_url
+StartupFactCheck, date, category, audience, model, main_url, twitter_url, angellist_url
+LexGO, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Lexa, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Good Call, twitter_url, crunchbase_url, linkedin_url, facebook_url
+OpenLaw, date, category, audience, model, main_url, twitter_url, angellist_url
+LeBonBail, date, category, audience, model, main_url, twitter_url, angellist_url
+Crowdjury, date, category, audience, model, main_url, twitter_url, angellist_url
+Netcog, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+LegalBods, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Case Status, date, category, audience, model, main_url, twitter_url, angellist_url
+Quarule, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LinkSquares, date, category, audience, model, main_url, twitter_url, angellist_url
+Litify, date, category, audience, model, main_url, twitter_url, angellist_url
+Reduse, date, category, audience, model, main_url, twitter_url, angellist_url
+TIQ, angellist_url, facebook_url
+Justice42 B.V., angellist_url, crunchbase_url, linkedin_url, facebook_url
+Epoq Legal Inc, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Shakeup Online Sdn Bhd, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Courtsdesk, date, category, audience, model, main_url, twitter_url, angellist_url
+Courtroom5, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Wildcat, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DOCUFIEL, date, category, audience, model, main_url, twitter_url, angellist_url
+SOLOMON Justice AI, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legal Innovation Paris, date, category, audience, model, main_url, twitter_url, angellist_url
+IP Metro, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Rightz, twitter_url, linkedin_url, facebook_url
+MyAdvo, date, category, audience, model, main_url, twitter_url, angellist_url
+SpotDraft, date, category, audience, model, main_url, twitter_url, angellist_url
+MikeLegal, date, category, audience, model, main_url, twitter_url, angellist_url
+Threat Resilience, main_url, twitter_url, crunchbase_url, linkedin_url, facebook_url
+RovBOT, date, category, audience, model, main_url, twitter_url, angellist_url
+soocasa, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Someturva, date, category, audience, model, main_url, twitter_url, angellist_url
+Law ExplorersÂ®, angellist_url, crunchbase_url, linkedin_url, facebook_url
 Filingmantra, linkedin_url, facebook_url
-plunes technologies, linkedin_url, facebook_url
-BDM-Corporate Sales & Alliances, linkedin_url, facebook_url
-RefundMyTicket.Net (Claim Assistance SAS), linkedin_url, facebook_url
-moviinn, linkedin_url, facebook_url
-Civil Informer, linkedin_url, facebook_url
-Pax, linkedin_url, facebook_url
-Codify Law, linkedin_url, facebook_url
-CLAWS, linkedin_url, facebook_url
-Concis.ly, linkedin_url, facebook_url
+GSTStreet, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+plunes technologies, main_url, twitter_url, crunchbase_url, linkedin_url, facebook_url
+BDM-Corporate Sales & Alliances, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Of Counsel Group, date, category, audience, model, main_url, twitter_url, angellist_url
+MoveDocs, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+RefundMyTicket.Net (Claim Assistance SAS), crunchbase_url, linkedin_url, facebook_url
+moviinn, angellist_url, linkedin_url, facebook_url
+Civil Informer, main_url, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Pax, main_url, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Codify Law, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CLAWS, crunchbase_url, linkedin_url, facebook_url
+Cognitiv+, date, category, audience, model, main_url, twitter_url, angellist_url
+Concis.ly, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Percipient, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Milyli, date, category, audience, model, main_url, twitter_url, angellist_url
+LawGro, angellist_url, crunchbase_url
+Lawcunae Infomation Solutions, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Resis, date, category, audience, model, main_url, twitter_url, angellist_url
 Immicompliance.com, linkedin_url, facebook_url
-HowToFile TV, linkedin_url, facebook_url
+LegalQ, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Expertily, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+MainLaws, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Zfusion Tech, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+HowToFile TV, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
 Legaliboo Tech, S.L., linkedin_url, facebook_url
-LawVu ltd, linkedin_url, facebook_url
-Vaultedge Software, linkedin_url, facebook_url
-Clearlaw Inc., linkedin_url, facebook_url
-Adam H. Rosenblum, linkedin_url, facebook_url
-wakili.ai, linkedin_url, facebook_url
-About innovation, linkedin_url, facebook_url
-Litimetrics Inc, linkedin_url, facebook_url
-APF Technologies LLC, linkedin_url, facebook_url
-Flex Legal, linkedin_url, facebook_url
-NEXAW, linkedin_url, facebook_url
-Mylex Global, linkedin_url, facebook_url
-amicable apps, linkedin_url, facebook_url
-Enkrypt, linkedin_url, facebook_url
-ChirpCase, linkedin_url, facebook_url
-ContractWiser, linkedin_url, facebook_url
+QDiscovery, date, category, audience, model, main_url, twitter_url, angellist_url
+CourtQuant, audience, model, facebook_url
+LawVu ltd, audience, model, linkedin_url, facebook_url
+eMinutes, date, category, audience, model, main_url, twitter_url, angellist_url
+Vaultedge Software, audience, model, linkedin_url, facebook_url
+Clearlaw Inc., audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Adam H. Rosenblum, audience, model, twitter_url, crunchbase_url, linkedin_url, facebook_url
+wakili.ai, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+About innovation, audience, model, crunchbase_url, linkedin_url, facebook_url
+Litimetrics Inc, audience, model, angellist_url, linkedin_url, facebook_url
+Droits Quotidiens, audience, model, angellist_url, crunchbase_url
+APF Technologies LLC, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Flex Legal, crunchbase_url, linkedin_url, facebook_url
+High Performance Counsel, angellist_url, crunchbase_url, linkedin_url
+Neksus Technologies, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+NEXAW, main_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawPanel, angellist_url
+Mylex Global, main_url, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Priory Solutions, angellist_url, crunchbase_url, facebook_url
+Linkilaw, angellist_url
+Made in Law, twitter_url, crunchbase_url
+amicable apps, angellist_url, crunchbase_url, linkedin_url, facebook_url
+ClicknClear, angellist_url, crunchbase_url, facebook_url
+Enkrypt, angellist_url, linkedin_url, facebook_url
+Juris, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+ChirpCase, crunchbase_url, linkedin_url, facebook_url
+ContractWiser, crunchbase_url, linkedin_url, facebook_url
+LegatumX, twitter_url
+Litimetrics, date, category, audience, model, main_url, twitter_url, angellist_url
+Shop Immigration, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Trellis, crunchbase_url
+Prenupta, twitter_url, crunchbase_url
+Lawgood, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
 FairClaims, crunchbase_url
-Zero Email, linkedin_url, facebook_url
-Medchart, linkedin_url, facebook_url
-filerskeepers, linkedin_url, facebook_url
-Armlaw, crunchbase_url
-Radvocate, linkedin_url, facebook_url
-Dye & Durham Corporation, linkedin_url, facebook_url
-NosterLex, linkedin_url, facebook_url
-Legal Gateway, linkedin_url, facebook_url
-AdvoCoder UG (haftungsbeschränkt), linkedin_url, facebook_url
-Lexyom, Inc., linkedin_url, facebook_url
-Online patent, LLC , linkedin_url, facebook_url
-Law&Company Inc., linkedin_url, facebook_url
-Patent Bots LLC, linkedin_url, facebook_url
-Softplan Planejamento e Sistemas Ltda., linkedin_url, facebook_url
-hukumonline.com by PT Justika Siar Publika, linkedin_url, facebook_url
-Dealsign Solutions Oy, linkedin_url, facebook_url
-Legal Science, LLC, linkedin_url, facebook_url
-erik@translatefx.com, linkedin_url, facebook_url
-CoProcure, Inc., linkedin_url, facebook_url
-lawgarithm, linkedin_url, facebook_url
-Pravoved.RU LAB, linkedin_url, facebook_url
-Aqnel, crunchbase_url
-Firm24, linkedin_url, facebook_url
-FIRM24.com, linkedin_url, facebook_url
-JustVice, Inc., linkedin_url, facebook_url
-Yerra Solutions AG, linkedin_url, facebook_url
-A2.Legal, linkedin_url, facebook_url
-LegalUp Ltd., linkedin_url, facebook_url
-LegalUp Ltd, linkedin_url, facebook_url
-AJC Asesor fiscal y contable en Madrid, linkedin_url, facebook_url
-LegalFAB Private Limited, linkedin_url, facebook_url
-SAJ ADV - Software Jurídico, linkedin_url, facebook_url
-The Corporation For Form Reform, linkedin_url, facebook_url
-Texas Trust Home Loans, linkedin_url, facebook_url
-Legalbox.io, linkedin_url, facebook_url
-PREDICTICE, linkedin_url, facebook_url
-LawLinq, Inc., linkedin_url, facebook_url
-ESCRIBA AG, linkedin_url, facebook_url
-LeReTo | Legal Research Tool, linkedin_url, facebook_url
-Avtal24, crunchbase_url, linkedin_url, facebook_url
-SiËSDE Dispute Resolution Technologies, linkedin_url, facebook_url
-Capiche Capital Technologies Corporation, linkedin_url, facebook_url
-SpeechWrite digital, linkedin_url, facebook_url
-Avokaado.com OY, crunchbase_url, linkedin_url, facebook_url
-ClientSherpa, linkedin_url, facebook_url
-Veratech Intelligence Private Limited, linkedin_url, facebook_url
-Legal Tech Store, linkedin_url, facebook_url
-Discovery Genie LLC, linkedin_url, facebook_url
-CLA Reply, linkedin_url, facebook_url
-LEX247, linkedin_url, facebook_url
-CLX, linkedin_url, facebook_url
-CloudLex Inc., linkedin_url, facebook_url
-Vizlegal Ltd., linkedin_url, facebook_url
-Lexbase, linkedin_url, facebook_url
-Nuix, linkedin_url, facebook_url
-ClauseBase, linkedin_url, facebook_url
-Sanction AI, linkedin_url, facebook_url
-Medchart In.c, linkedin_url, facebook_url
-Litigation Edge Pte Ltd, linkedin_url, facebook_url
-Fucitech.com, linkedin_url, facebook_url
-Lawren.io, linkedin_url, facebook_url
-Knowlex, linkedin_url, facebook_url
-DX Compliance Solutions, linkedin_url, facebook_url
-Red Rain, linkedin_url, facebook_url
-LegalDPT.com, linkedin_url, facebook_url
-Goh1b, linkedin_url, facebook_url
-Blika Solutions AB, linkedin_url, facebook_url
-TRAIAL Sàrl, linkedin_url, facebook_url
-Lawbox, linkedin_url, facebook_url
-Princeton Gavel, Inc., linkedin_url, facebook_url
-Donna Legal, linkedin_url, facebook_url
-Ekdesk LLC, linkedin_url, facebook_url
-The Legal Assistant, LLC, linkedin_url, facebook_url
-Terry Head, linkedin_url, facebook_url
-Vira DadPardaz Atieh Pendar, linkedin_url, facebook_url
-ThoughtRiver Ltd., linkedin_url, facebook_url
-StyleByWood, linkedin_url, facebook_url
-Rechtswinkel.nl, linkedin_url, facebook_url
-rajstartup, linkedin_url, facebook_url
-Lavendla AB, linkedin_url, facebook_url
-Neu Skin, linkedin_url, facebook_url
-A2J Tech Store, linkedin_url, facebook_url
-Wolony Digital Marketing, linkedin_url, facebook_url
-PartnerVine LLC, linkedin_url, facebook_url
-LawPipe, linkedin_url, facebook_url
-DASTAVEJ, linkedin_url, facebook_url
-FlyBack LLC, linkedin_url, facebook_url
-3E Accounting Singapore, linkedin_url, facebook_url
-Infinnium, linkedin_url, facebook_url
-Lendova Mortgage, linkedin_url, facebook_url
-Immediation, linkedin_url, facebook_url
-Fireworks Store, linkedin_url, facebook_url
-3FlightDelay, linkedin_url, facebook_url
-Airflow, linkedin_url, facebook_url
-ArenoNet GmbH, linkedin_url, facebook_url
-BanyanRFP, linkedin_url, facebook_url
-UniCourt Inc., linkedin_url, facebook_url
-Arbitrator Intelligence, linkedin_url, facebook_url
-Legalplace, linkedin_url, facebook_url
-Danse Orientale 5€, linkedin_url, facebook_url
-Legaldesk.dk ApS, linkedin_url, facebook_url
-ListaLegal, LLC, linkedin_url, facebook_url
-iolex limited, linkedin_url, facebook_url
-Vaaithaa.com, linkedin_url, facebook_url
-Citadel Law Firm PLLC, linkedin_url, facebook_url
-SEC Intelligence Inc., linkedin_url, facebook_url
-RechtEasy.at, linkedin_url, facebook_url
-Legal me, linkedin_url, facebook_url
-Docketwise, linkedin_url, facebook_url
-Metidice SAS, linkedin_url, facebook_url
+Zero Email, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Medchart, audience, model, linkedin_url, facebook_url
+Origin Systems, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Wonder.Legal, audience, model, twitter_url, angellist_url, crunchbase_url, facebook_url
+filerskeepers, audience, model, linkedin_url, facebook_url
+Armlaw, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+EffortlessLegal LLC, audience, model, angellist_url
+Smarter Drafter, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Online Solution Attorney, audience, model, angellist_url, crunchbase_url
+SimplyAgree, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Radvocate, audience, model, twitter_url, linkedin_url, facebook_url
+Dye & Durham Corporation, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+NosterLex, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+EDZ Systems, audience, model, twitter_url, angellist_url, crunchbase_url, facebook_url
+Legal Gateway, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+AdvoCoder UG (haftungsbeschränkt), audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+SYNTAQ, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Indexa, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+HighQ, audience, model, angellist_url
+Signatu, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lexyom, Inc., audience, model, crunchbase_url, linkedin_url, facebook_url
+Online patent, LLC , audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Law&Company Inc., audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Patent Bots LLC, audience, model, twitter_url, linkedin_url, facebook_url
+Justika, date, category, audience, model, main_url, twitter_url, angellist_url
+Softplan Planejamento e Sistemas Ltda., audience, model, angellist_url, linkedin_url, facebook_url
+Lexplosion Solutions, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+hukumonline.com by PT Justika Siar Publika, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Contractbook, date, category, audience, model, main_url, twitter_url, angellist_url
+Clerical, audience, model, angellist_url, crunchbase_url
+Dealsign Solutions Oy, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Jarvis Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+TrialLine, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Science, LLC, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lucius Report, date, category, audience, model, main_url, twitter_url, angellist_url
+erik@translatefx.com, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CoProcure, Inc., audience, model, crunchbase_url, linkedin_url, facebook_url
+lawgarithm, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+teachoo, audience, model, twitter_url, linkedin_url, facebook_url
+Pravoved.RU LAB, audience, model, twitter_url, angellist_url, linkedin_url, facebook_url
+Aqnel, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Firm24, audience, model, angellist_url, linkedin_url, facebook_url
+FIRM24.com, audience, model, angellist_url, linkedin_url, facebook_url
+Beacon Direct Cremation, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legal Advice Middle East, audience, model, angellist_url
+JustVice, Inc., audience, model, crunchbase_url, linkedin_url, facebook_url
+Yerra Solutions AG, audience, model, angellist_url, linkedin_url, facebook_url
+RGC Manager GmbH & Co. KG, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Kodex Bilisim, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+NuLaw, date, category, audience, model, main_url, twitter_url, angellist_url
+A2.Legal, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+SkyRefund, audience, model, angellist_url
+LegalUp Ltd., audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalUp Ltd, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+AJC Asesor fiscal y contable en Madrid, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalFAB Private Limited, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+SAJ ADV - Software Jurídico, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Eigen Technologies, audience, model
+Smith.ai, date, category, audience, model, main_url, twitter_url, angellist_url
+The Corporation For Form Reform, audience, model, linkedin_url, facebook_url
+Texas Trust Home Loans, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Pravoved.ru, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+OSOME, audience, model
+Legalbox.io, audience, model, twitter_url, angellist_url, linkedin_url, facebook_url
+PREDICTICE, audience, model, angellist_url, linkedin_url, facebook_url
+LawCloud, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Onit, angellist_url
+Josef, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LawLinq, Inc., audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+MYFLYRIGHT, date, category, audience, model, main_url, twitter_url, angellist_url
+ESCRIBA AG, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LeReTo | Legal Research Tool, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Avtal24, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Reasoning Technology, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Syntexys, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+DIGURA, date, category, audience, model, main_url, twitter_url, angellist_url
+SiËSDE Dispute Resolution Technologies, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Capiche Capital Technologies Corporation, audience, model, linkedin_url, facebook_url
+E-Startup India, date, category, audience, model, main_url, twitter_url, angellist_url
+Hotspot Law, date, category, audience, model, main_url, twitter_url, angellist_url
+Steinfeld Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+SpeechWrite digital, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DealMaker, date, category, audience, model, main_url, twitter_url, angellist_url
+Avokaado.com OY, audience, model, crunchbase_url, linkedin_url, facebook_url
+ClientSherpa, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+JUDY, audience, model, angellist_url
+Emérita Legal, audience, model, angellist_url, crunchbase_url
+Veratech Intelligence Private Limited, audience, model, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Trustbot Software Inc., date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Legal Tech Store, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Discovery Genie LLC, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CLA Reply, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+FirstBase, audience, model, twitter_url, crunchbase_url
+LEX247, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CLX, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Tabled, audience, model, facebook_url
+RecordFixer, linkedin_url
+CloudLex Inc., angellist_url, linkedin_url, facebook_url
+Les Tricolores, angellist_url, crunchbase_url
+Vizlegal Ltd., audience, model, crunchbase_url, linkedin_url, facebook_url
+LexpertEase, audience, model, facebook_url
+Jus Mundi, date, category, audience, model, main_url, twitter_url, angellist_url
+Lexbase, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Knovos, date, category, audience, model, main_url, twitter_url, angellist_url
+Afriwise, audience, model, angellist_url, crunchbase_url, facebook_url
+Nuix, audience, model, linkedin_url, facebook_url
+Ringtail, audience, model, angellist_url, facebook_url
+Lawyer Marketing Company, audience, model, twitter_url, angellist_url
+Dragonfly Digital Marketing, audience, model, angellist_url
+ClauseBase, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Sanction AI, audience, model, twitter_url, crunchbase_url, linkedin_url, facebook_url
+Medchart In.c, audience, model, linkedin_url, facebook_url
+Litigation Edge Pte Ltd, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Fucitech.com, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lawren.io, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Knowlex, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DX Compliance Solutions, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Wowbix Digital Marketing, audience, model, angellist_url
+Red Rain, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalDPT.com, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Goh1b, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Blika Solutions AB, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+TRAIAL Sàrl, audience, model, twitter_url, angellist_url, linkedin_url, facebook_url
+Lawbox, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legatics, audience, model, twitter_url, facebook_url
+Princeton Gavel, Inc., audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Donna Legal, audience, model, linkedin_url, facebook_url
+Ekdesk LLC, audience, model, angellist_url, linkedin_url, facebook_url
+LEAP Legal Software, audience, model, twitter_url, angellist_url, crunchbase_url
+SpeechWrite Digital, audience, model, angellist_url
+The Legal Assistant, LLC, audience, model, angellist_url, linkedin_url, facebook_url
+Terry Head, audience, model, linkedin_url, facebook_url
+Vira DadPardaz Atieh Pendar, audience, model, linkedin_url, facebook_url
+ThoughtRiver Ltd., audience, model, angellist_url, linkedin_url, facebook_url
+Donna, audience, model, facebook_url
+StyleByWood, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Experts.com, audience, model, angellist_url
+RMP Jewellers Pvt Ltd, audience, model, angellist_url
+Rechtswinkel.nl, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Quesmi, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+rajstartup, audience, model, angellist_url, linkedin_url, facebook_url
+Lavendla AB, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+7 Seas Solutions, audience, model, angellist_url, linkedin_url
+Neu Skin, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DueCourse, audience, model, twitter_url
+A2J Tech Store, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Wolony Digital Marketing, audience, model, angellist_url, linkedin_url, facebook_url
+PartnerVine LLC, audience, model, angellist_url, linkedin_url, facebook_url
+Vable, audience, model, angellist_url, crunchbase_url
+rfrnz, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Certifix Live Scan, audience, model, angellist_url
+Synch, audience, model, angellist_url, crunchbase_url, facebook_url
+LawPipe, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DASTAVEJ, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+FlyBack LLC, audience, model, twitter_url, angellist_url, linkedin_url, facebook_url
+3E Accounting Singapore, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Protosys, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Infinnium, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+DealRoom, audience, model
+Lendova Mortgage, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Demander Justice, audience, model, angellist_url
+Immediation, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Fireworks Store, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+3FlightDelay, audience, model, twitter_url, linkedin_url, facebook_url
+Airflow, angellist_url, crunchbase_url, linkedin_url, facebook_url
+ArenoNet GmbH, angellist_url, crunchbase_url, linkedin_url, facebook_url
+BanyanRFP, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+UniCourt Inc., angellist_url, crunchbase_url, linkedin_url, facebook_url
+Arbitrator Intelligence, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legalplace, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Danse Orientale 5€, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+KISSPatent, audience, model, crunchbase_url
+Arkon Web Solutions, audience, model, angellist_url, crunchbase_url
+Legaldesk.dk ApS, audience, model, angellist_url, linkedin_url, facebook_url
+ListaLegal, LLC, angellist_url, linkedin_url, facebook_url
+iolex limited, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LegalWiz.in, date, category, audience, model, main_url, twitter_url, angellist_url
+Ravel Technologies, twitter_url, angellist_url, crunchbase_url, facebook_url
+Legalicity, facebook_url
+Vaaithaa.com, crunchbase_url, linkedin_url, facebook_url
+Citadel Law Firm PLLC, audience, model, angellist_url, linkedin_url, facebook_url
+Sleek, audience, model, linkedin_url
+SEC Intelligence Inc., audience, model, twitter_url, angellist_url, linkedin_url, facebook_url
+RechtEasy.at, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Legal me, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+BlackBoiler, audience, model, angellist_url, crunchbase_url, facebook_url
+Docketwise, audience, model, crunchbase_url, linkedin_url, facebook_url
+Metidice SAS, angellist_url, crunchbase_url, linkedin_url, facebook_url
 Documate, Inc., linkedin_url, facebook_url
-AffordableLaw, linkedin_url, facebook_url
-AxiomaVox, linkedin_url, facebook_url
-lawpilots GmbH, linkedin_url, facebook_url
-Kreadance, linkedin_url, facebook_url
-Legis Información y Soluciones, linkedin_url, facebook_url
-Zelican Infotech Private Limited, linkedin_url, facebook_url
-Iusify, linkedin_url, facebook_url
-legalitysimplified, linkedin_url, facebook_url
-LawyerlinQ B.V., linkedin_url, facebook_url
-CONTRACT LOGIX, linkedin_url, facebook_url
-Jotform, linkedin_url, facebook_url
-Online Legal India, linkedin_url, facebook_url
-Lawrbit Lextech Pvt. Ltd., linkedin_url, facebook_url
-Merlin Legal Open Source Foundation, linkedin_url, facebook_url
-Adden Technology Limited, linkedin_url, facebook_url
-Lawrbit Lextech India Pvt. Ltd., linkedin_url, facebook_url
-Lawrbit Global Compliance Network, linkedin_url, facebook_url
-CrashGenius, linkedin_url, facebook_url
-USA Lawsuit Loans Inc., linkedin_url, facebook_url
-Parke Lawyers, linkedin_url, facebook_url
-Brand Discount, linkedin_url, facebook_url
-NIKOLSEN, linkedin_url, facebook_url
-SavvySuit, linkedin_url, facebook_url
-IJ International Legal Group, linkedin_url, facebook_url
-SS OFFICE Lawtech, linkedin_url, facebook_url
-Advolist, linkedin_url, facebook_url
-Estate Apps LLC, linkedin_url, facebook_url
-Digital DNA Group, linkedin_url, facebook_url
-MotoLlopis, linkedin_url, facebook_url
-CourtCorrect, linkedin_url, facebook_url
-Ascent, crunchbase_url
-AppClose, Inc, crunchbase_url, linkedin_url, facebook_url
-AppearMe, crunchbase_url
-Autologyx, crunchbase_url
-Alexsei, crunchbase_url
-Turn Technologies, Inc., linkedin_url, facebook_url
-avvoka, crunchbase_url
-Amulex, crunchbase_url
-amicable, crunchbase_url
-CaseGuide, Inc. DBA Spire Technical Services, linkedin_url, facebook_url
-Amiqus Resolution, crunchbase_url
-DataNovo, Inc., linkedin_url, facebook_url
-Advokatguiden.no, crunchbase_url
-Aalbul Ltd, crunchbase_url
-Assembly Software, crunchbase_url
-APARAVI Software Corp, crunchbase_url, linkedin_url, facebook_url
-Attorneys.org LLC, crunchbase_url
-Anduin, crunchbase_url
-AuraLawgic, crunchbase_url
-AppRocket, crunchbase_url
-Anwalt.de, crunchbase_url
-InFront Compliance, Inc., linkedin_url, facebook_url
-AiRelo, crunchbase_url
-Claudius Legal Intelligence, Inc., linkedin_url, facebook_url
-audaxly, crunchbase_url
-Alu, crunchbase_url
-ApexCLE, crunchbase_url
-Acaya, crunchbase_url
-Alba Software, crunchbase_url
-Aleri, crunchbase_url
-Aldabada, crunchbase_url
-Atims, crunchbase_url
-Africa Legal News, crunchbase_url
-AudioLock, crunchbase_url
-AudioCaseFiles, crunchbase_url
-AENVI, crunchbase_url
-Abogados NOW, crunchbase_url
-Anika Legal, crunchbase_url
-Avallo, crunchbase_url
-Attorney's Back Office, crunchbase_url
-Adidem Corporation, crunchbase_url, linkedin_url
-Kobi AI, linkedin_url, facebook_url
-aapkaadvocate.com, crunchbase_url
-AOS Korea, crunchbase_url
-ADR Notable, LLC, linkedin_url, facebook_url
-Aspirea, crunchbase_url
-AllMed, crunchbase_url
-Advc8, crunchbase_url
-Alliance Protection & Investigation, crunchbase_url
-Acordo Fechado, crunchbase_url
-Ajudici, crunchbase_url
-SL DESK, Smart Legal Solutions, linkedin_url, facebook_url
-Apptorney, crunchbase_url
-API Garant, crunchbase_url
-Assist-Ant, crunchbase_url
-ALTON North America, crunchbase_url
-AutenTIC, crunchbase_url
-Athelstan, crunchbase_url
-Audley Clarke Solicitors, crunchbase_url
-Az Justice Center, crunchbase_url
-Aamicus, crunchbase_url
-Advocatenkantoren.nl, crunchbase_url
-Wetherington Law Firm, P.C., linkedin_url, facebook_url
-Alfavit, crunchbase_url
-Axon Partners, crunchbase_url
-ab asesores y administraciones, crunchbase_url
-Aquarium | Legal Things, crunchbase_url
-About Innovation, crunchbase_url, linkedin_url
-AdvantageLaw, Inc., crunchbase_url, linkedin_url, facebook_url
-PreEmpt.Me, linkedin_url, facebook_url
-Arbitrate, crunchbase_url
-Oliveira Advocacia e Consultoria Jurídica, linkedin_url, facebook_url
-Legal Business, linkedin_url, facebook_url
-AdvoCoder UG, crunchbase_url
-Edraftly, linkedin_url, facebook_url
+Checkbox, date, category, audience, model, main_url, twitter_url, angellist_url
+LegalHero, date, category, audience, model, main_url, twitter_url, angellist_url
+Bestpractix, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Seraphin.legal, audience, model, twitter_url, angellist_url, crunchbase_url
+Prospero, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+AffordableLaw, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+TermScout, date, category, audience, model, main_url, twitter_url, angellist_url
+AxiomaVox, category, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+lawpilots GmbH, audience, model, linkedin_url, facebook_url
+Kreadance, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Tusk, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Click Attorney, audience, model
+Legis Información y Soluciones, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+IntelliCRM, audience, model, angellist_url
+Zelican Infotech Private Limited, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Iusify, audience, model, twitter_url, crunchbase_url, linkedin_url, facebook_url
+legalitysimplified, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+LawyerlinQ B.V., audience, model, angellist_url, linkedin_url, facebook_url
+Define, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CONTRACT LOGIX, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Jotform, audience, model, linkedin_url, facebook_url
+ClaimMyFlights, audience, model, angellist_url, linkedin_url
+Online Legal India, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Lawrbit Lextech Pvt. Ltd., audience, model, linkedin_url, facebook_url
+Merlin Legal Open Source Foundation, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Adden Technology Limited, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+eConciliador, date, category, audience, model, main_url, twitter_url, angellist_url
+Lawrbit Lextech India Pvt. Ltd., audience, model, linkedin_url, facebook_url
+Lawrbit Global Compliance Network, audience, model, linkedin_url, facebook_url
+CrashGenius, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+USA Lawsuit Loans Inc., audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Parke Lawyers, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Brand Discount, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+NIKOLSEN, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+SavvySuit, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+IJ International Legal Group, audience, model, angellist_url, crunchbase_url, linkedin_url, facebook_url
+SS OFFICE Lawtech, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Advolist, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Estate Apps LLC, audience, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Digital DNA Group, audience, model, angellist_url, linkedin_url, facebook_url
+MotoLlopis, audience, model, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+CourtCorrect, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Bodhala, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+UpCounsel, date, category, audience, model, main_url, twitter_url, angellist_url
+LegalZoom, date, category, audience, model, main_url, twitter_url, angellist_url
+OneDome, date, category, audience, model, main_url, twitter_url, angellist_url
+Mighty, date, category, audience, model, main_url, twitter_url, angellist_url
+Ascent, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+BRYTER, date, category, audience, model, main_url, twitter_url, angellist_url
+XCLAIM, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Legalpad, date, category, audience, model, main_url, twitter_url, angellist_url
+Plunes, date, category, audience, model, main_url, twitter_url, angellist_url
+Legalist, date, category, audience, model, main_url, twitter_url, angellist_url
+Docket, date, category, audience, model, main_url, twitter_url, angellist_url
+Leverton, date, category, audience, model, main_url, twitter_url, angellist_url
+Usercentrics, date, category, audience, model, main_url, twitter_url, angellist_url
+Cortical.io, date, category, audience, model, main_url, twitter_url, angellist_url
+Brightflag, date, category, audience, model, main_url, twitter_url, angellist_url
+Doctrine, date, category, audience, model, main_url, twitter_url, angellist_url
+LegalMation, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Wundertax, date, category, audience, model, main_url, twitter_url, angellist_url
+Smart Protection, date, category, audience, model, main_url, twitter_url, angellist_url
+Workshare, date, category, audience, model, main_url, twitter_url, angellist_url
+Trellis Research, date, category, audience, model, main_url, twitter_url, angellist_url
+The Link App, date, category, audience, model, main_url, twitter_url, angellist_url
+Privacy Tools, date, category, audience, model, main_url, twitter_url, angellist_url
+Sigalei, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+LitiGate, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Vauban, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Clara, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Validated ID, date, category, audience, model, main_url, twitter_url, angellist_url
+Parley Pro, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LegitQuest, date, category, audience, model, main_url, twitter_url, angellist_url
+Legalkart, date, category, audience, model, main_url, twitter_url, angellist_url
+Reynen Court, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Libryo, date, category, audience, model, main_url, twitter_url, angellist_url
+LawVu, date, category, audience, model, main_url, twitter_url, angellist_url
+CloudLex, date, category, audience, model, main_url, twitter_url, angellist_url
+SINAI, date, category, audience, model, main_url, twitter_url, angellist_url
+Orbital Witness, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Thirdfort, date, category, audience, model, main_url, twitter_url, angellist_url
+AppClose, Inc, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Clairvolex, date, category, audience, model, main_url, twitter_url, angellist_url
+ClaimKit, date, category, audience, model, main_url, twitter_url, angellist_url
+CryptoTax, date, category, audience, model, main_url, twitter_url, angellist_url
+LZVCPA, date, category, audience, model, main_url, twitter_url, angellist_url
+Qwill, date, category, audience, model, main_url, twitter_url, angellist_url
+Flightright, date, category, audience, model, main_url, twitter_url, angellist_url
+Matterhorn, date, category, audience, model, main_url, twitter_url, angellist_url
+AppearMe, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+ECFX, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Autologyx, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+reclamador.es, date, category, audience, model, main_url, twitter_url, angellist_url
+HETIKUS, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+TrustChain Systems, date, category, audience, model, main_url, twitter_url, angellist_url
+Resolvvi, date, category, audience, model, main_url, twitter_url, angellist_url
+Justify, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Alexsei, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Turn Technologies, Inc., date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+COPYTRACK, date, category, audience, model, main_url, twitter_url, angellist_url
+helpcheck, date, category, audience, model, main_url, twitter_url, angellist_url
+Law&Company, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Doc2, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+avvoka, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Focus, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+HighCastle, date, category, audience, model, main_url, twitter_url, angellist_url
+Recidiviz, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+TOPCOURT LTS, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Ettorney, date, category, audience, model, main_url, twitter_url, angellist_url
+Matter365, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Zeyo, date, category, audience, model, main_url, twitter_url, angellist_url
+Amulex, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+MessagePath, date, category, audience, model, main_url, twitter_url, angellist_url
+Justice.cool, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Utopia, date, category, audience, model, main_url, twitter_url, angellist_url
+IdeaBlock, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+amicable, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Dilecy, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+CaseGuide, Inc. DBA Spire Technical Services, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Hunit, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+INKINDIALEGAL.com, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+PatentBot, date, category, audience, model, main_url, twitter_url, angellist_url
+MUST Platform, date, category, audience, model, main_url, twitter_url, angellist_url
+MINEKO, date, category, audience, model, main_url, twitter_url, angellist_url
+Devlos Software, date, category, audience, model, main_url, twitter_url, angellist_url
+Amiqus Resolution, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+Elabogado, date, category, audience, model, main_url, twitter_url, angellist_url
+HUGO.legal, date, category, audience, model, main_url, twitter_url, angellist_url
+Compensation2Go, date, category, audience, model, main_url, twitter_url, angellist_url
+Predictice, date, category, audience, model, main_url, twitter_url, angellist_url
+TranslateFX, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Kopjra, date, category, audience, model, main_url, twitter_url, angellist_url
+CloudLaw, date, category, audience, model, main_url, twitter_url, angellist_url
+DataNovo, Inc., date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Deleyes, date, category, audience, model, main_url, twitter_url, angellist_url
+Kings Court Trust, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Knomos Knowledge Management, date, category, audience, model, main_url, twitter_url, angellist_url
+Dealz.ai, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Legal Manager, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Just Me Technologies, date, category, audience, model, main_url, twitter_url, angellist_url
+Advokatguiden.no, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Tiqtime, date, category, audience, model, main_url, twitter_url, angellist_url
+Student Connect, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Trustlog, date, category, audience, model, main_url, twitter_url, angellist_url
+Divorce AI, date, category, audience, model, main_url, twitter_url, angellist_url
+ECL Direct, date, category, audience, model, main_url, twitter_url, angellist_url
+Grandeo Labs, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+EPIQ, date, category, audience, model, main_url, twitter_url, angellist_url
+The Legal Capsule, date, category, audience, model, main_url, twitter_url, angellist_url
+Aalbul Ltd, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Testamenta, date, category, audience, model, main_url, twitter_url, angellist_url
+openlaws, date, category, audience, model, main_url, twitter_url, angellist_url
+Legalfinder.com, date, category, audience, model, main_url, twitter_url, angellist_url
+JUIT, date, category, audience, model, main_url, twitter_url, angellist_url
+Assembly Software, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+myBarrister, date, category, audience, model, main_url, twitter_url, angellist_url
+Torrent Detective, date, category, audience, model, main_url, twitter_url, angellist_url
+JustBeagle, date, category, audience, model, main_url, twitter_url, angellist_url
+CodeLex, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Bisnode, date, category, audience, model, main_url, twitter_url, angellist_url
+Zweispace, date, category, audience, model, main_url, twitter_url, angellist_url
+DocsCorp, date, category, audience, model, main_url, twitter_url, angellist_url
+APARAVI Software Corp, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Pibisi, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Assistent.by, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Lexware, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Nuvalaw, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Attorneys.org LLC, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+Expert Institute, date, category, audience, model, main_url, twitter_url, angellist_url
+Prifina, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Logs, date, category, audience, model, main_url, twitter_url, angellist_url
+passingboxes, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Nefelex, date, category, audience, model, main_url, twitter_url, angellist_url
+Anduin, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+CloudNine, date, category, audience, model, main_url, twitter_url, angellist_url
+Walkers, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+CheKin, date, category, audience, model, main_url, twitter_url, angellist_url
+Prime Clerk, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Hukumonline.com, date, category, audience, model, main_url, twitter_url, angellist_url
+RightNow, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+UniCourt, date, category, audience, model, main_url, twitter_url, angellist_url
+ZENDOC, date, category, audience, model, main_url, twitter_url, angellist_url
+Pixsy, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+6clicks, date, category, audience, model, main_url, twitter_url, angellist_url
+Lexplique, date, category, audience, model, main_url, twitter_url, angellist_url
+InfoTrack, date, category, audience, model, main_url, twitter_url, angellist_url
+Lytt, date, category, audience, model, main_url, twitter_url, angellist_url
+Kurier, date, category, audience, model, main_url, twitter_url, angellist_url
+SurePoint Technologies, date, category, audience, model, main_url, twitter_url, angellist_url
+LexCheck, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Red Marker - AI powered compliance, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Pointer Brand Protection, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Upstock, date, category, audience, model, main_url, twitter_url, angellist_url
+Origin X Capital, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+One Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+Vaultedge, date, category, audience, model, main_url, twitter_url, angellist_url
+LeadsOnline, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Congruity360, date, category, audience, model, main_url, twitter_url, angellist_url
+UFP Fintech, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+RTIwala, date, category, audience, model, main_url, twitter_url, angellist_url
+Integra Ledger, date, category, audience, model, main_url, twitter_url, angellist_url
+Karnov Group, date, category, audience, model, main_url, twitter_url, angellist_url
+Intelllex, date, category, audience, model, main_url, twitter_url, angellist_url
+Softplan, date, category, audience, model, main_url, twitter_url, angellist_url
+Legility, date, category, audience, model, main_url, twitter_url, angellist_url
+Bella Professional Services, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Mind-Alliance Systems, date, category, audience, model, main_url, twitter_url, angellist_url
+AuraLawgic, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+CourtListener, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Opus 2 International, date, category, audience, model, main_url, twitter_url, angellist_url
+Merus, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Legaltech, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Dye & Durham, date, category, audience, model, main_url, twitter_url, angellist_url
+Lawyer, date, category, audience, model, main_url, twitter_url, angellist_url
+Widr, date, category, audience, model, main_url, twitter_url, angellist_url
+AppRocket, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Legalku, date, category, audience, model, main_url, twitter_url, angellist_url
+Divorceify, date, category, audience, model, main_url, twitter_url, angellist_url
+Livesense, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Loom Analytics, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LeapXpert Ltd, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LAWIO, date, category, audience, model, main_url, twitter_url, angellist_url
+Surukam, date, category, audience, model, main_url, twitter_url, angellist_url
+Epoq, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Anwalt.de, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Marketly, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Stenovate, date, category, audience, model, main_url, twitter_url, angellist_url
+Closing Folders, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Codekeeper BV, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Sparqa Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+FIRM24, date, category, audience, model, main_url, twitter_url, angellist_url
+Bryan Cave Leighton Paisner, date, category, audience, model, main_url, twitter_url, angellist_url
+Quiktract, date, category, audience, model, main_url, twitter_url, angellist_url
+CodeREG, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Pensieve, date, category, audience, model, main_url, twitter_url, angellist_url
+LawCoin, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+ClearWay Law, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Nodes, date, category, audience, model, main_url, twitter_url, angellist_url
+PatentPal, date, category, audience, model, main_url, twitter_url, angellist_url
+McCarthyFinch, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+1LAW, date, category, audience, model, main_url, twitter_url, angellist_url
+Lawtap, date, category, audience, model, main_url, twitter_url, angellist_url
+BlockAxs GmbH, date, category, audience, model, main_url, twitter_url, angellist_url
+Lawline.com, date, category, audience, model, main_url, twitter_url, angellist_url
+GetID, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+InFront Compliance, Inc., date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+ExpressSteuer, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Whooster, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+peacefully, date, category, audience, model, main_url, twitter_url, angellist_url
+Summize, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+CEB, date, category, audience, model, main_url, twitter_url, angellist_url
+LegalPassage, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Legal Automation, date, category, audience, model, main_url, twitter_url, angellist_url
+Cogneesol Inc., date, category, audience, model, main_url, twitter_url, angellist_url
+Legal One GmbH, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+RegHub, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Intaker, date, category, audience, model, main_url, twitter_url, angellist_url
+Check in Scan, date, category, audience, model, main_url, twitter_url, angellist_url
+Digitory Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+Balko, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Patent Bots, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+CanadaVisa, date, category, audience, model, main_url, twitter_url, angellist_url
+LegalDocs, date, category, audience, model, main_url, twitter_url, angellist_url
+Timeliss, date, category, audience, model, main_url, twitter_url, angellist_url
+Legex, date, category, audience, model, main_url, twitter_url, angellist_url
+TIQK, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LegalFAB, date, category, audience, model, main_url, twitter_url, angellist_url
+AiRelo, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+DADSUN, date, category, audience, model, main_url, twitter_url, angellist_url
+Fiberhome, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Pergamin, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Valla, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Gino LegalTech, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+The National Law Review, date, category, audience, model, main_url, twitter_url, angellist_url
+MGROUP, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+VantageBP, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Legalbird, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Kontrak Hukum (Buatkontrak), date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+a360inc, date, category, audience, model, main_url, twitter_url, angellist_url
+Document Modelling, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Legalboards.io, date, category, audience, model, main_url, twitter_url, angellist_url
+JDoe, date, category, audience, model, main_url, twitter_url, angellist_url
+Zelican Infotech, date, category, audience, model, main_url, twitter_url, angellist_url
+Mercatório, date, category, audience, model, main_url, twitter_url, angellist_url
+SmartUp Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+digitalCounsels, date, category, audience, model, main_url, twitter_url, angellist_url
+LegalForms, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+F-LEX, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Suyo, date, category, audience, model, main_url, twitter_url, angellist_url
+Tagdox, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+ipQuants AG, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Easyoffer, date, category, audience, model, main_url, twitter_url, angellist_url
+ZHIANT, date, category, audience, model, main_url, twitter_url, angellist_url
+FMeasure, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Branding Technology Japan, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+OneWill, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+HELM360, date, category, audience, model, main_url, twitter_url, angellist_url
+Infolegale, date, category, audience, model, main_url, twitter_url, angellist_url
+Patexia, date, category, audience, model, main_url, twitter_url, angellist_url
+Legasis Services, date, category, audience, model, main_url, twitter_url, angellist_url
+SheriaSoft, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Lawflex, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+BlackStone Discovery, date, category, audience, model, main_url, twitter_url, angellist_url
+Hipla, date, category, audience, model, main_url, twitter_url, angellist_url
+Claudius Legal Intelligence, Inc., date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Route1, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Capiche Capital Technologies, date, category, audience, model, main_url, twitter_url, angellist_url
+The Law App, date, category, audience, model, main_url, twitter_url, angellist_url
+audaxly, date, hq, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+iCEIBA, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Alu, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+CCPA Toll Free, date, category, audience, model, main_url, twitter_url, angellist_url
+Izwan & Partners, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+deephound, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Immicompliance, date, category, audience, model, main_url, twitter_url, angellist_url
+ApexCLE, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+ZipClaims, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+fastMatter, date, category, audience, model, main_url, twitter_url, angellist_url
+Lexvoco, date, category, audience, model, main_url, twitter_url, angellist_url
+Veloxiti, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+ZICO Law, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Logwise, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Beti, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+IP Checkups, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Valire, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+SUMMARLY, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+SIËSDE, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Deep Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+Compliance Sign, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Acaya, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+Bilr, date, category, audience, model, main_url, twitter_url, angellist_url
+ShakeUp Online, date, category, audience, model, main_url, twitter_url, angellist_url
+Valcu, date, category, audience, model, main_url, twitter_url, angellist_url
+LEGALIBOO, date, category, audience, model, main_url, twitter_url, angellist_url
+Justice Toolbox, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Searchbug, date, category, audience, model, main_url, twitter_url, angellist_url
+Alba Software, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+Immortalize, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Aleri, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+Aldabada, date, hq, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+GDPR Register, date, category, audience, model, main_url, twitter_url, angellist_url
+Legaline, date, category, audience, model, main_url, twitter_url, angellist_url
+SelfLawyer, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+ligris., date, category, audience, model, main_url, twitter_url, angellist_url
+Atims, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+Africa Legal News, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Liquid Litigation Management, date, category, audience, model, main_url, twitter_url, angellist_url
+AudioLock, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+LegalMaps, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Finnovating, date, category, audience, model, main_url, twitter_url, angellist_url
+Ocaflow, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+3Lawgy, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LegalComet, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Novus Law, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Privatica, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Crowd & Co, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Lawgarithm, date, category, audience, model, main_url, twitter_url, angellist_url
+AudioCaseFiles, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+Sahu4You.Com, date, category, audience, model, main_url, twitter_url, angellist_url
+Inheryt, date, category, audience, model, main_url, twitter_url, angellist_url
+Black Swan Digital Forensics, date, category, audience, model, main_url, twitter_url, angellist_url
+BlxLaw, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+DocPro, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+FilersKeepers, date, category, audience, model, main_url, twitter_url, angellist_url
+eifas, date, category, audience, model, main_url, twitter_url, angellist_url
+Will 2 Click, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+AENVI, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Weblaw, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Parallel Solutions, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Chudnovsky Law, date, category, audience, model, main_url, twitter_url, angellist_url
+Crefovi, date, category, audience, model, main_url, twitter_url, angellist_url
+Moviinn, date, category, audience, model, main_url, twitter_url, angellist_url
+Uitelkaar.nl, date, category, audience, model, main_url, twitter_url, angellist_url
+Abogados NOW, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+id est avocats, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Draftr, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Environmental Health Coalition, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+LEXAI, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Masoomeen Quran Center, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Coretext, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+FilingMantra, date, category, audience, model, main_url, twitter_url, angellist_url
+Jurimetric, date, category, audience, model, main_url, twitter_url, angellist_url
+DadPardaz, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LexDock, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Patent Digest, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Politico Group, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Legal Innovators, date, category, audience, model, main_url, twitter_url, angellist_url
+Bend Law Group, date, category, audience, model, main_url, twitter_url, angellist_url
+Tod.d: Your Virtual Chief of Staff, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+LCM Finance, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Lig, date, category, audience, model, main_url, twitter_url, angellist_url
+Berkman Solutions, date, category, audience, model, main_url, twitter_url, angellist_url
+Sem Processo, date, category, audience, model, main_url, twitter_url, angellist_url
+law4tw, date, category, audience, model, main_url, twitter_url, angellist_url
+Justice Solutions Group, date, category, audience, model, main_url, twitter_url, angellist_url
+MileMark Media, date, category, audience, model, main_url, twitter_url, angellist_url
+Braina, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Qrative, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+GoodCall, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+SAJ ADV, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+JW LEGAL INNOVATION SAS DE CV, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+EasyLaw, date, category, audience, model, main_url, twitter_url, angellist_url
+Matters.Cloud, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Anika Legal, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Record Grabber, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Cysae, date, category, audience, model, main_url, twitter_url, angellist_url
+InCorp Services, date, category, audience, model, main_url, twitter_url, angellist_url
+Signature Closers, date, category, audience, model, main_url, twitter_url, angellist_url
+Avallo, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+Otica.ai, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Vicente Sederberg, date, category, audience, model, main_url, twitter_url, angellist_url
+DiJu, date, category, audience, model, main_url, twitter_url, angellist_url
+Litigation Master, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Attorney's Back Office, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Merton Lawyers, date, category, audience, model, main_url, twitter_url, angellist_url
+Candor Consulting, date, category, audience, model, main_url, twitter_url, angellist_url
+LawHero, date, category, audience, model, main_url, twitter_url, angellist_url
+Clemta, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Huttons, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Legal Research Center, date, category, audience, model, main_url, twitter_url, angellist_url
+Planet Data, date, category, audience, model, main_url, twitter_url, angellist_url
+Legal Hub, date, category, audience, model, main_url, twitter_url, angellist_url
+Wildcat Legal, date, category, audience, model, main_url, twitter_url, angellist_url
+One Protect, date, category, audience, model, main_url, twitter_url, angellist_url
+Referent, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+The Time Billing, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+LexMeet, date, category, audience, model, main_url, twitter_url, angellist_url
+Adidem Corporation, date, hq, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Benoam, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Kobi AI, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+aapkaadvocate.com, date, hq, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+CYW SOLUTIONS, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+summing, date, category, audience, model, main_url, twitter_url, angellist_url
+Buddle, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+SueApp, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+123recht, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Companyon, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+GGRUS Technologies Private Limited, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Legal Loans, date, category, audience, model, main_url, twitter_url, angellist_url
+PacerDash, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+BGC Brasil, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Tvuna Software Industries, date, category, audience, model, main_url, twitter_url, angellist_url
+Free Legal Aid, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+JustResolve, date, category, audience, model, main_url, twitter_url, angellist_url
+Disputec PeaceMaker, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Peace Talks Mediation, date, category, audience, model, main_url, twitter_url, angellist_url
+Bengoshi Talk, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Lawhawk, date, category, audience, model, main_url, twitter_url, angellist_url
+Nubbius, date, category, audience, model, main_url, twitter_url, angellist_url
+QuickWill, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Soocasa, date, category, audience, model, main_url, twitter_url, angellist_url
+Righty, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Saxton and Stump, date, category, audience, model, main_url, twitter_url, angellist_url
+Bis-Tec Technologies, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+AOS Korea, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Visitation Ease, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Iuris NOW, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+BlackLetter, date, category, audience, model, main_url, twitter_url, angellist_url
+BAI Digital, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Enact Conveyancing, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Pisar.bg, date, category, audience, model, main_url, twitter_url, angellist_url
+Van Norman Law, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+lex.be, date, category, audience, model, main_url, twitter_url, angellist_url
+MutuAlies, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Goodrich & Geist PC, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+MyDefence, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Legal Resolved, date, category, audience, model, main_url, twitter_url, angellist_url
+Bernabei & Wachtel, date, category, audience, model, main_url, twitter_url, angellist_url
+ADR Notable, LLC, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Da Vinci Partners LLC, date, category, audience, model, main_url, twitter_url, angellist_url
+Uniproof, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Legable, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+FP Partner, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Edilex, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+The Technolawgist, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+eLakitoimisto, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Noell Consulting Group, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+VictorAi, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+IIPRD, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Kondracki Celej, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Berlin Patten Ebling, date, category, audience, model, main_url, twitter_url, angellist_url
+Aspirea, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+PointOFLAW, date, category, audience, model, main_url, twitter_url, angellist_url
+AllMed, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Stevens & Williamson Attorneys at Law, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+IurFRIEND, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Softinfo, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+The Center for Computer-Assisted Legal Instruction, date, category, audience, model, main_url, twitter_url, angellist_url
+LegaleFacile, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Hanrei Times Holdings, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Meu Primeiro Ape, date, category, audience, model, main_url, twitter_url, angellist_url
+SKUANI, date, category, audience, model, main_url, twitter_url, angellist_url
+Virtual Pricing Director, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Planet Patent, date, category, audience, model, main_url, twitter_url, angellist_url
+Advc8, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+We Legalize, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Alliance Protection & Investigation, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Handelonthelaw, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Dimension Informatique Realisations, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+RegNet Solutions, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Migration Agent and Immigration Lawyer Association, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Suitup Israel, date, category, audience, model, main_url, twitter_url, angellist_url
+Acordo Fechado, date, hq, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Escola de Cálculos, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+LinkLei, date, category, audience, model, main_url, twitter_url, angellist_url
+Legalcloud, date, category, audience, model, main_url, twitter_url, angellist_url
+London Law Agency, date, category, audience, model, main_url, twitter_url, angellist_url
+Ingensity IP, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+NovaProlink Tecnologia, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Church General Counsel, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Buche & Associates Pc, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Berkelyn, date, category, audience, model, main_url, twitter_url, angellist_url
+Mccoy|fatula, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+RA MICRO Software, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Nexlaw Partners, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+OOO SKB, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+KeyVision PRO, date, category, audience, model, main_url, twitter_url, angellist_url
+RealLegal, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Law Offices Of Barry K. Rothman, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Legalr, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Weisberg Friedman & Klapisch, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Pope mcglamry, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Gepro Software Jurídico, date, category, audience, model, main_url, twitter_url, angellist_url
+Bungeni Consulting, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Peters & Peters, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Indenizar, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Blackmere Consulting, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+MyLegalCoverage, date, category, audience, model, main_url, twitter_url, angellist_url
+Makowski Legal Group, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Curtin & Heefner, date, category, audience, model, main_url, twitter_url, angellist_url
+EDOA, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Grinm Advanced Materials, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+NextLex, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Lovelace Killen, date, category, audience, model, main_url, twitter_url, angellist_url
+Vance and Larson Law Firm, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Intelivix, date, category, audience, model, main_url, twitter_url, angellist_url
+Harrison and Held, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Puritas Springs Software, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Ajudici, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+RenterLove, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+D'acordo Mediações, date, category, audience, model, main_url, twitter_url, angellist_url
+RION Corp, date, category, audience, model, main_url, twitter_url, angellist_url
+Fowler Hein Cheatwood & Williams, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Malgueiro Campos Advocacia, date, category, audience, model, main_url, twitter_url, angellist_url
+Makaira, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Soloway Wright, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+iProcessum, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Millennium International Patent Law Firm, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+SL DESK, Smart Legal Solutions, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Callahan & Blaine, date, category, audience, model, main_url, twitter_url, angellist_url
+Tomaz, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Plougmann Vingtoft, date, category, audience, model, main_url, twitter_url, angellist_url
+Rooney Law Firm, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Legacy Network, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Keystone Legal, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Jiangsu Zhongtian Technology, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Apptorney, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+contratabien.com, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+WikiProp, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Gestion Legal Colombia, date, category, audience, model, main_url, twitter_url, angellist_url
+Rangefindr, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Dokument 24, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Privacy Control Center, date, category, audience, model, main_url, twitter_url, angellist_url
+API Garant, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Jacobowitz & Gubits, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Assist-Ant, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Pelkey & Pelkey, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Management Solutions Consulting, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+iPLAB Startups, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Nominandum, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Lawdef, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Public Law, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Lawsome, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+dpVUE .images, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Steinfeld and Steinfeld, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Edgar Law Firm, date, category, audience, model, main_url, twitter_url, angellist_url
+SECIB, date, category, audience, model, main_url, twitter_url, angellist_url
+Prisma Jurídico, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Shenzhen Asia Link Technology Development, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Law Explorers, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+The Heir Hunters, date, category, audience, model, main_url, twitter_url, angellist_url
+TRAIAL, date, category, audience, model, main_url, twitter_url, angellist_url
+Lawfully, date, category, audience, model, main_url, twitter_url, angellist_url
+Solucionare Logística Jurídica, date, category, audience, model, main_url, twitter_url, angellist_url
+Intelectual Abogados, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+KEY Discovery, date, category, audience, model, main_url, twitter_url, angellist_url
+JusAPI, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LIRIS, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Law Offices Of J Samuel Worley, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+GDPRfolder.eu, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+LegalTap, date, category, audience, model, main_url, twitter_url, angellist_url
+Protorae Law, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Liscentrum Capital, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Policastro Law Group, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Vision Legal Services, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+SC Patents, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+ALTON North America, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url
+Global Legal Data, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+SEC Intelligence, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+AutenTIC, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+Templars, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Fidus Law Chambers, date, category, audience, model, main_url, twitter_url, angellist_url
+Choice Legal Group, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Justice2People, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Cavalcante Advogados, date, category, audience, model, main_url, twitter_url, angellist_url
+Visionary Legal Technologies, date, category, audience, model, main_url, twitter_url, angellist_url
+Reductech, date, hq, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Athelstan, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Gallo & Iacovangelo, date, category, audience, model, main_url, twitter_url, angellist_url
+Sallah Astarita and Cox, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Vertex Legal App, date, category, audience, model, main_url, twitter_url, angellist_url
+LawSchoolProfs.com, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Audley Clarke Solicitors, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+EXPO, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Third Dog Software, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Carofano Law, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Reviewsolicitors, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Kwick Soft Solutions, date, category, audience, model, main_url, twitter_url, angellist_url
+Carman And Bevington, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Fallco, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+JusticeBot, date, category, audience, model, main_url, twitter_url, angellist_url
+Beau Walker - Marketing Scientist, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+HELP ME, date, category, audience, model, main_url, twitter_url, angellist_url
+Case Law Search, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Beliveau Law Group, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Whiting Consulting, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Az Justice Center, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+The Pacific Law Group, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Vaaithaa, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Hoffberg & Associates, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Reyes & Reyes Law Firm, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Nomad Being, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Mrv Marketing., date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Hozelito, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+LawGuage, date, category, audience, model, main_url, twitter_url, angellist_url
+Aamicus, date, hq, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Budde Schou, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Advocatenkantoren.nl, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+Jonathan G Brill Law Firm, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Replacement-in-hearing, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+LAWPP, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Wetherington Law Firm, P.C., date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Alfavit, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Metricson, date, category, audience, model, main_url, twitter_url, angellist_url
+Axon Partners, date, hq, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+LT42, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Środkowopomorska Rada Naczelnej Organizacji; Technicznej, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Brandnsulting Group, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Egloff and Partner Services AG, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Rehabilitation Services, date, category, audience, model, main_url, twitter_url, angellist_url
+FlashPoint IP, date, hq, category, audience, model, main_url, twitter_url, angellist_url
+Oberholtzer & Filous, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+DiRiSo, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+ab asesores y administraciones, date, hq, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Ramseier Treuhand, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Jureca, date, category, audience, model, main_url, twitter_url, angellist_url
+Renata Laterza Consultancy, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Aquarium | Legal Things, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, facebook_url
+FindResolution - Gestão Estratégica de Conflitos, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Processualle Lexjudix, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+eConciliar, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+About Innovation, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Ella Cheong Hong Kong, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+AdvantageLaw, Inc., date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+PreEmpt.Me, date, hq, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Total Translations, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Arbitrate, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url
+MAIS JUSTIÇA, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Prima Veritas, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Kazan Legal Center, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Tsoromokos & Papadopoulos, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url
+Sob Demanda, date, category, audience, model, main_url, twitter_url, angellist_url
+Oliveira Advocacia e Consultoria Jurídica, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+Legal Business, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+AdvoCoder UG, date, category, audience, model, main_url, twitter_url, angellist_url, crunchbase_url, linkedin_url, facebook_url
+Ottoni´s Consultoria, date, category, audience, model, main_url, twitter_url, angellist_url
+Correa Porto, date, category, audience, model, main_url, twitter_url, angellist_url
+Edraftly, date, category, audience, model, main_url, twitter_url, angellist_url, linkedin_url, facebook_url
+LEGAL WIN CONSULTING LLP, date, category, audience, model, main_url, twitter_url, angellist_url
+Dok.legal, date, category, audience, model, main_url, twitter_url, angellist_url, facebook_url
+Flime, date, category, audience, model, main_url, twitter_url, angellist_url
