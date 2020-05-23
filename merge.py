@@ -30,7 +30,7 @@ def check(name, field, ourItem, cbItem):
 notIncluded = []
 
 #this reads the data from our 2000+ db of items and creates an object like structure containing all the details
-with open('updatedData.tsv','r') as in_file:
+with open('compData.tsv','r') as in_file:
     count = 0
     for line in in_file:
         count = count + 1
@@ -85,6 +85,10 @@ with open('merged.tsv','w') as out_file:
     for key in compDict:
         line = str(key) + "\t"
         for item in compDict[key]:
+            if "n/a" in compDict[key][item]:
+                if key not in thingsToManuallyCheck:
+                    thingsToManuallyCheck[key] = []
+                thingsToManuallyCheck[key].append(item)
             line = line + compDict[key][item] + "\t"
         out_file.write(line)
 
