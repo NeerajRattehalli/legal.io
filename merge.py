@@ -27,8 +27,10 @@ def check(name, field, ourItem, cbItem):
     else:
         return ourItem
 
+notIncluded = []
+
 #this reads the data from our 2000+ db of items and creates an object like structure containing all the details
-with open('final_updated.tsv','r') as in_file:
+with open('updatedData.tsv','r') as in_file:
     count = 0
     for line in in_file:
         count = count + 1
@@ -75,7 +77,10 @@ with open('in_odm.csv','r') as in_file:
             compDict[name] = merged
         else:
             thingsToManuallyCheck[name] = ["everything"]
+            
 
+
+# creates merged output file
 with open('merged.tsv','w') as out_file:
     for key in compDict:
         line = str(key) + "\t"
@@ -83,20 +88,15 @@ with open('merged.tsv','w') as out_file:
             line = line + compDict[key][item] + "\t"
         out_file.write(line)
 
-count = 0
 
+# creates things to check manually file
 with open('thingsToCheckManually.csv', 'w') as out_file:
     for comp in thingsToManuallyCheck:
         line = comp
         for item in thingsToManuallyCheck[comp]:
-            if item == "everything":
-                count += 18
-            else:
-                count += 1
             line += ", " + item
         line += "\n"
         out_file.write(line)
 
-print(count)
 
 
