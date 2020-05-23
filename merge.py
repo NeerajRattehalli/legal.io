@@ -74,7 +74,7 @@ with open('in_odm.csv','r') as in_file:
             merged = merge(name, ourCSVDetails, cbDBDetails)
             compDict[name] = merged
         else:
-            thingsToManuallyCheck[name] = "everything"
+            thingsToManuallyCheck[name] = ["everything"]
 
 with open('merged.tsv','w') as out_file:
     for key in compDict:
