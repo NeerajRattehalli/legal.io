@@ -77,12 +77,26 @@ with open('in_odm.csv','r') as in_file:
             thingsToManuallyCheck[name] = "everything"
 
 with open('merged.tsv','w') as out_file:
-    count  = 0
     for key in compDict:
         line = str(key) + "\t"
         for item in compDict[key]:
             line = line + compDict[key][item] + "\t"
-        if(count<2):
-            print(line)
         out_file.write(line)
-        count+=1
+
+count = 0
+
+with open('thingsToCheckManually.csv', 'w') as out_file:
+    for comp in thingsToManuallyCheck:
+        line = comp
+        for item in thingsToManuallyCheck[comp]:
+            if item == "everything":
+                count += 18
+            else:
+                count += 1
+            line += ", " + item
+        line += "\n"
+        out_file.write(line)
+
+print(count)
+
+
