@@ -49,6 +49,10 @@ with open('compData.tsv','r') as in_file:
                                 "linkedin_url": "0",
                                 "facebook_url": "0",
                                 "tags": tags}
+            if date == "1900":
+                if compName not in thingsToManuallyCheck:
+                    thingsToManuallyCheck[compName] = []
+                thingsToManuallyCheck[compName].append(date)
 
 
 #this reads from a crunchbase database and gathers any additional information
@@ -85,7 +89,7 @@ with open('merged.tsv','w') as out_file:
     for key in compDict:
         line = str(key) + "\t"
         for item in compDict[key]:
-            if "n/a" in compDict[key][item]:
+            if "n/a" in compDict[key][item] or compDict[key][item]=="0":
                 if key not in thingsToManuallyCheck:
                     thingsToManuallyCheck[key] = []
                 thingsToManuallyCheck[key].append(item)
