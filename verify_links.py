@@ -76,7 +76,7 @@ def check(urlString, compName, url):
             lowerWord = word.lower()
             
             #checks that it's not a useless word
-            if "inc" in lowerWord or "llc" in lowerWord or "p.c." in lowerWord:
+            if "inc" in lowerWord or "llc" in lowerWord or "p.c." in lowerWord or "ltd" in lowerWord:
                 continue
             else:
                 #checks that each word is part of url
@@ -101,9 +101,9 @@ def check(urlString, compName, url):
 # print(check("twitter", "Legal Passage", " https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs"))
 # print(check("crunchbase", "AlgoValue" ,  " https://www.crunchbase.com/organization/algovalue"))
 
-print(check("main", "Brightleaf", " https://www.brightleaf.com/"))
-print(check("main", "Lynx Workflow" , " http://www.lynxworkflow.com/"))
-print(check("main", "Patentory", " https://www.crunchbase.com/organization/pantentory"))
+# print(check("main", "Brightleaf", " https://www.brightleaf.com/"))
+# print(check("main", "Lynx Workflow" , " http://www.lynxworkflow.com/"))
+# print(check("main", "Patentory", " https://www.crunchbase.com/organization/pantentory"))
 
 verifiedDict = {}
 thingsToManuallyCheck = {}
@@ -151,5 +151,14 @@ with open("DAVID_FINAL_CHECK.txt", 'w') as out_file:
         line += item
         line += "\t"
         line += str(thingsToManuallyCheck[item])
+        line += "\n"
+    out_file.write(line)
+
+with open("new_links.tsv", 'w') as out_file:
+    line = ""
+    for item in verifiedDict:
+        line += item
+        line += "\t"
+        line += str(verifiedDict[item])
         line += "\n"
     out_file.write(line)
