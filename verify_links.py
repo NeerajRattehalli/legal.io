@@ -99,35 +99,41 @@ def check(urlString, compName, url):
 verifiedDict = {}
 thingsToManuallyCheck = {}
 
-# with open('companiesWithSocialsNoDups.csv','r') as in_file:
-#     for line in in_file:
-#         compName = line.split(", ")[0]
-#         startCurl = line.find("{")
-#         endCurl = line.find("}")
-#         jsonDump = eval(line[startCurl: endCurl+1])
+with open('companiesWithSocialsNoDups.csv','r') as in_file:
+    for line in in_file:
+        compName = line.split(", ")[0]
+        startCurl = line.find("{")
+        endCurl = line.find("}")
+        if startCurl < 0:
+            continue
 
-#         relationArr = {
-#             " twitter_url": "twitter",
-#             " angellist_url": "angel",
-#             " facebook_url": "facebook",
-#             " linkedin_url": "linkedin",
-#             " crunchbase_url": "crunchbase",
-#             " main_url": ""
-#         }
+        jsonDump = eval(line[startCurl: endCurl+1])
 
-#         for item in jsonDump:
-#             if check(relationArr[item], compName, jsonDump[item]):
-#                 if compName not in verifiedDict:
-#                     verifiedDict[compName] = {}
-#                 verifiedDict[compName][item[1:]] = jsonDump[item]
-#             else:
-#                 if compName not in thingsToManuallyCheck:
-#                     thingsToManuallyCheck[compName] = []
-#                 thingsToManuallyCheck[compName].append(item[1:])
+        relationArr = {
+            " twitter_url": "twitter",
+            " angellist_url": "angel",
+            " facebook_url": "facebook",
+            " linkedin_url": "linkedin",
+            " crunchbase_url": "crunchbase",
+            " main_url": ""
+        }
+
+        for item in jsonDump:
+            if item ==" main_url":
+                continue
+            if check(relationArr[item], compName, jsonDump[item]):
+                if compName not in verifiedDict:
+                    verifiedDict[compName] = {}
+                verifiedDict[compName][item[1:]] = jsonDump[item]
+            else:
+                if compName not in thingsToManuallyCheck:
+                    thingsToManuallyCheck[compName] = []
+                thingsToManuallyCheck[compName].append(item[1:])
 
 
-line = 'Brightleaf, 1900, date, category, audience, model,"{" twitter_url": " https://twitter.com/brightleaf", " angellist_url": " https://angel.co/company/brightleaf-power-1", " main_url": " https://www.brightleaf.com/"}'
-startCurl = line.find("{")
-endCurl = line.find("}")
-print(eval(line[startCurl:endCurl+1])[' twitter_url'])
+# line = 'Brightleaf, 1900, date, category, audience, model,"{" twitter_url": " https://twitter.com/brightleaf", " angellist_url": " https://angel.co/company/brightleaf-power-1", " main_url": " https://www.brightleaf.com/"}'
+# startCurl = line.find("{")
+# endCurl = line.find("}")
+# print(eval(line[startCurl:endCurl+1])[' twitter_url'])
 #  ADD MAIN URL CHECKING NOT THERE YET
+
