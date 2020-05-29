@@ -95,13 +95,14 @@ def check(urlString, compName, url):
 # print(check("twitter", "PSS Systems", " https://twitter.com/pss_systems?lang=en"))
 # print(check("twitter", "Legal.io", " https://twitter.com/Legal_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"))
 # print(check("twitter", "Legal Passage", " https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs"))
+print(check("crunchbase", "AlgoValue" ,  " https://www.crunchbase.com/organization/algovalue"))
 
 verifiedDict = {}
 thingsToManuallyCheck = {}
 
 with open('companiesWithSocialsNoDups.csv','r') as in_file:
     for line in in_file:
-        compName = line.split(", ")[0]
+        compName = line.split(",")[0]
         startCurl = line.find("{")
         endCurl = line.find("}")
         if startCurl < 0:
@@ -127,8 +128,9 @@ with open('companiesWithSocialsNoDups.csv','r') as in_file:
                 verifiedDict[compName][item[1:]] = jsonDump[item]
             else:
                 if compName not in thingsToManuallyCheck:
-                    thingsToManuallyCheck[compName] = []
-                thingsToManuallyCheck[compName].append(item[1:])
+                    thingsToManuallyCheck[compName] = {}
+                thingsToManuallyCheck[compName][item[1:]] = jsonDump[item]
+
 
 
 # line = 'Brightleaf, 1900, date, category, audience, model,"{" twitter_url": " https://twitter.com/brightleaf", " angellist_url": " https://angel.co/company/brightleaf-power-1", " main_url": " https://www.brightleaf.com/"}'
@@ -137,3 +139,11 @@ with open('companiesWithSocialsNoDups.csv','r') as in_file:
 # print(eval(line[startCurl:endCurl+1])[' twitter_url'])
 #  ADD MAIN URL CHECKING NOT THERE YET
 
+with open("DAVID_FINAL_CHECK.txt", 'w') as out_file:
+    line = ""
+    for item in thingsToManuallyCheck:
+        line += item
+        line += "\t"
+        line += str(thingsToManuallyCheck[item])
+        line += "\n"
+    out_file.write(line)
