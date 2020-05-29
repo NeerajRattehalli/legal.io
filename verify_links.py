@@ -91,15 +91,20 @@ def check(urlString, compName, url):
 # print(check("facebook", "MyCourthouse", " https://www.facebook.com/courthouseclubs/videos/on-the-second-day-of-christmas-my-trainer-brought-to-me-push-ups-how-many-can-yo/569793773433336/"))
 # print(check("twitter", "PayMyTrustee", " https://twitter.com/paymytrustee"))
 
-print(check("twitter", "Free Law Project", ' https://twitter.com/FreeLawProject?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'))
-print(check("twitter", "PSS Systems", " https://twitter.com/pss_systems?lang=en"))
-print(check("twitter", "Legal.io", " https://twitter.com/Legal_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"))
-print(check("twitter", "Legal Passage", " https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs"))
+# print(check("twitter", "Free Law Project", ' https://twitter.com/FreeLawProject?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'))
+# print(check("twitter", "PSS Systems", " https://twitter.com/pss_systems?lang=en"))
+# print(check("twitter", "Legal.io", " https://twitter.com/Legal_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"))
+# print(check("twitter", "Legal Passage", " https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs"))
 
-# with open('compananiesWithSocialsNoDups.csv','r') as in_file:
+verifiedDict = {}
+thingsToManuallyCheck = {}
+
+# with open('companiesWithSocialsNoDups.csv','r') as in_file:
 #     for line in in_file:
 #         compName = line.split(", ")[0]
-#         jsonDump = eval(line.split(", ")[-1])
+#         startCurl = line.find("{")
+#         endCurl = line.find("}")
+#         jsonDump = eval(line[startCurl: endCurl+1])
 
 #         relationArr = {
 #             " twitter_url": "twitter",
@@ -111,7 +116,18 @@ print(check("twitter", "Legal Passage", " https://help.twitter.com/en/rules-and-
 #         }
 
 #         for item in jsonDump:
-#             check(relationArr[item], compName, jsonDump[item])
+#             if check(relationArr[item], compName, jsonDump[item]):
+#                 if compName not in verifiedDict:
+#                     verifiedDict[compName] = {}
+#                 verifiedDict[compName][item[1:]] = jsonDump[item]
+#             else:
+#                 if compName not in thingsToManuallyCheck:
+#                     thingsToManuallyCheck[compName] = []
+#                 thingsToManuallyCheck[compName].append(item[1:])
 
 
-
+line = 'Brightleaf, 1900, date, category, audience, model,"{" twitter_url": " https://twitter.com/brightleaf", " angellist_url": " https://angel.co/company/brightleaf-power-1", " main_url": " https://www.brightleaf.com/"}'
+startCurl = line.find("{")
+endCurl = line.find("}")
+print(eval(line[startCurl:endCurl+1])[' twitter_url'])
+#  ADD MAIN URL CHECKING NOT THERE YET
