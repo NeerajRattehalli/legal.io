@@ -2,11 +2,15 @@ import re
 
 def check(urlString, compName, url):
     # checks if the required string is in the url link itself
-    if urlString not in url:
+    if urlString == "main":
+        if (len(url.split("/"))>=3):
+            url = url.split("/")[2]
+    elif urlString not in url:
         return False
 
     #lowercase url
     url = url.lower()
+
 
     # Case 1: Company Name has no spaces
     
@@ -30,9 +34,9 @@ def check(urlString, compName, url):
                     #checks that each word is part of url
                     if lowerWord not in url:
                         return False
+            # all conditions work for len > 1
+            return True
 
-        # all conditions work for len > 1
-        return True
         # splits at uppercase letters
         splitName = re.findall('[A-Z][^A-Z]*', compName)
 
@@ -95,7 +99,11 @@ def check(urlString, compName, url):
 # print(check("twitter", "PSS Systems", " https://twitter.com/pss_systems?lang=en"))
 # print(check("twitter", "Legal.io", " https://twitter.com/Legal_io?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"))
 # print(check("twitter", "Legal Passage", " https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs"))
-print(check("crunchbase", "AlgoValue" ,  " https://www.crunchbase.com/organization/algovalue"))
+# print(check("crunchbase", "AlgoValue" ,  " https://www.crunchbase.com/organization/algovalue"))
+
+print(check("main", "Brightleaf", " https://www.brightleaf.com/"))
+print(check("main", "Lynx Workflow" , " http://www.lynxworkflow.com/"))
+print(check("main", "Patentory", " https://www.crunchbase.com/organization/pantentory"))
 
 verifiedDict = {}
 thingsToManuallyCheck = {}
@@ -116,12 +124,10 @@ with open('companiesWithSocialsNoDups.csv','r') as in_file:
             " facebook_url": "facebook",
             " linkedin_url": "linkedin",
             " crunchbase_url": "crunchbase",
-            " main_url": ""
+            " main_url": "main"
         }
 
         for item in jsonDump:
-            if item ==" main_url":
-                continue
             if check(relationArr[item], compName, jsonDump[item]):
                 if compName not in verifiedDict:
                     verifiedDict[compName] = {}
