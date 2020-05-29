@@ -5,8 +5,8 @@ def check(urlString, compName, url):
     if urlString not in url:
         return False
     
-    # Case 1: company Name length is 1
-    if len(compName) == 1:
+    # Case 1: Company Name has no spaces
+    if " " not in compName:
 
         # splits at uppercase letters
         splitName = re.findall('[A-Z][^A-Z]*', compName)
@@ -15,9 +15,11 @@ def check(urlString, compName, url):
         url = url.lower()
 
         # edge cases that need direct checking
-        if len(splitName) == 1 or len(splitName) == len(compName):
+        if len(splitName) == 1:
             compName = compName.lower()
             return compName in url
+        if len(splitName) == len(compName):
+            return False
         else:
             # index system that checks for increasing pattern in text
             prevIndex = -1
@@ -36,7 +38,15 @@ def check(urlString, compName, url):
                 prevIndex = index   
         # passed all the tests for len = 1 
         return True
-    
+
+
+# CHECKS
+
+print(check("facebook", "Chapter 11 Dockets", " https://www.chapter11dockets.com/"))
+print(check("twitter", "Corporize",  " https://twitter.com/corporatize"))
+print(check("twitter", "DISCO", "twitter"))
+print(check("facebook", "MyCourthouse", " https://www.facebook.com/courthouseclubs/videos/on-the-second-day-of-christmas-my-trainer-brought-to-me-push-ups-how-many-can-yo/569793773433336/"))
+print(check("twitter", "PayMyTrustee", " https://twitter.com/paymytrustee"))
 
 # with open('compananiesWithSocialsNoDups.csv','r') as in_file:
 #     for line in in_file:
@@ -54,5 +64,6 @@ def check(urlString, compName, url):
 
 #         for item in jsonDump:
 #             check(relationArr[item], compName, jsonDump[item])
+
 
 
