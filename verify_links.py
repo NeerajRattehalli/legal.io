@@ -133,9 +133,10 @@ with open('companiesWithSocialsNoDups.csv','r') as in_file:
                     verifiedDict[compName] = {}
                 verifiedDict[compName][item[1:]] = jsonDump[item]
             else:
-                if compName not in thingsToManuallyCheck:
-                    thingsToManuallyCheck[compName] = {}
-                thingsToManuallyCheck[compName][item[1:]] = jsonDump[item]
+                if relationArr[item] in jsonDump[item]:
+                    if compName not in thingsToManuallyCheck:
+                        thingsToManuallyCheck[compName] = {}
+                    thingsToManuallyCheck[compName][item[1:]] = jsonDump[item]
 
 
 
