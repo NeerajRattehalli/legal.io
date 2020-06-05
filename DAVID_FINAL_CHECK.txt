@@ -1,8 +1,4 @@
-Caselinq	{'linkedin_url': ' https://www.linkedin.com/in/john-ellsworth-35a57371'}
-Chapter 11 Dockets	{'twitter_url': ' https://twitter.com/chapter11cases/status/771398537800286208', 'angellist_url': ' https://angel.co/company/restructuring-concepts', 'linkedin_url': ' https://www.linkedin.com/company/restructuring-concepts-llc'}
-Claim Kit	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/enhanced-features-agreement', 'angellist_url': ' https://angel.co/help', 'linkedin_url': ' https://www.linkedin.com/help/linkedin/answer/55962/claim-a-linkedin-listing-page?lang=en'}
-Corporize	{'twitter_url': ' https://twitter.com/corporatize', 'facebook_url': ' https://www.facebook.com/corporise/', 'linkedin_url': ' https://www.linkedin.com/company/corporise'}
-DISCO	{'twitter_url': ' https://twitter.com/csdisco?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/thediscoapp'}
+DISCO	{'twitter_url': ' https://twitter.com/csdisco?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/cs-disco'}
 HotDocs	{'angellist_url': ' https://angel.co/vidit-sharma'}
 Intelligize	{'angellist_url': ' https://angel.co/startups/32773'}
 Jurisweb Interactiva SL	{'linkedin_url': ' https://es.linkedin.com/in/gonzalo-barbero-lastra-74291b82'}
