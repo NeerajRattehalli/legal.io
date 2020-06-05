@@ -12,3 +12,5 @@ Task: to verify that all the links that have been flagged by my algorithm as cor
 
 In essence, I want you to correct any of the current links to clean them by removing unnecessary text and encoding. In addition, if there are any incorrect links(this should be clear visually) or if the company name is extremely general(use your judgement), manually check them. If they are wrong for certain, remove the links.
 
+Approx Time Frame: 1.5 hours.
+Approx Deadline: Tuesday, June 9, 2019
