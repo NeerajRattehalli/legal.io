@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceeb0885-c79b-4d32-8db8-39b66811f421" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/in_odm.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_in_odm.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/check_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,26 +14,26 @@
     <session id="1339286575">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="8" />
+          <entry key="csv" value="9" />
           <entry key="md" value="1" />
           <entry key="py" value="3" />
-          <entry key="tsv" value="5" />
+          <entry key="tsv" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="PLAIN_TEXT" value="17" />
           <entry key="Python" value="3" />
         </counts>
       </usages-collector>
@@ -58,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/check_urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="120">
               <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -70,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/in_odm.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="22410">
               <caret line="1494" selection-start-line="1494" selection-end-line="1494" />
             </state>
           </provider>
@@ -79,11 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/check_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
+            <state relative-caret-position="450">
               <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
-              <folding>
-                <marker date="1589611559568" expanded="true" signature="308:416" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -98,9 +93,37 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/not_in_odm.tsv">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/companiesWithSocialsNoDups.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compData.tsv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new_links.tsv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4770">
+              <caret line="318" column="22" lean-forward="true" selection-start-line="318" selection-start-column="22" selection-end-line="318" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/final_updated.tsv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5040">
+              <caret line="336" column="113" selection-start-line="336" selection-start-column="113" selection-end-line="336" selection-end-column="113" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -132,10 +155,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
     <option name="y" value="23" />
-    <option name="width" value="1555" />
-    <option name="height" value="924" />
+    <option name="width" value="1680" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -269,9 +293,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="976" extended-state="6" />
+    <frame x="1" y="23" width="1680" height="977" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32971668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32971668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,7 +307,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32918552" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32881355" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -298,22 +323,12 @@
     <entry file="file://$PROJECT_DIR$/not_scrapable.csv" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/removeDups.py" />
-    <entry file="file://$PROJECT_DIR$/odm/organizations.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/odm/people.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/not_in_odm.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/odm/organizations.csv" />
+    <entry file="file://$PROJECT_DIR$/odm/people.csv" />
+    <entry file="file://$PROJECT_DIR$/not_in_odm.csv" />
     <entry file="file://$PROJECT_DIR$/check_urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
+        <state relative-caret-position="120">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -321,20 +336,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/check_csv.py">
+    <entry file="file://$PROJECT_DIR$/in_odm.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
-          <folding>
-            <marker date="1589611559568" expanded="true" signature="308:416" ph="..." />
-          </folding>
+        <state relative-caret-position="22410">
+          <caret line="1494" selection-start-line="1494" selection-end-line="1494" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/in_odm.csv">
+    <entry file="file://$PROJECT_DIR$/check_csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="1494" selection-start-line="1494" selection-end-line="1494" />
+        <state relative-caret-position="450">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -346,6 +358,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/not_in_odm.tsv">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/companiesWithSocialsNoDups.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final_updated.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5040">
+          <caret line="336" column="113" selection-start-line="336" selection-start-column="113" selection-end-line="336" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compData.tsv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_links.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4770">
+          <caret line="318" column="22" lean-forward="true" selection-start-line="318" selection-start-column="22" selection-end-line="318" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
