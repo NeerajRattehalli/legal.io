@@ -65,8 +65,73 @@ with open('DAVID_FINAL_CHECK.txt', 'r') as in_file:
             
         #     print(text)
 
-print(compDict)
+# merging neel checked files
+with open('new_links.tsv', 'r') as in_file:
+    for line in in_file:
+        name, queries = line.split("\t")
 
-    
+        queries = eval(queries)
+
+        if name not in compDict.keys():
+            cbDBDetails = {"date": "", 
+                            "hq": "", 
+                            "category": "", 
+                            "audience": "", 
+                            "model": "", 
+                            "description": "", 
+                            "main_url": "", 
+                            "twitter_url": "", 
+                            "angellist_url": "", 
+                            "crunchbase_url": "", 
+                            "linkedin_url": "",
+                            "facebook_url": "",
+                            "tags": ""}
+            compDict[name] = cbDBDetails
+
+        for query in queries:
+            compDict[name][query] = queries[query]
+
+        # General checking method
+        # for query in queries:
+        #     text = query
+        #     if queries[query]:
+        #         text = text + queries[query]
+            
+        #     print(text)
+
+# generalized merge func
+def merge(raw, additional):
+    for data in additional:
+        if raw[data] == "":
+            raw[data] = additional[data]
+    return raw
+
+# merge with original data
+with open('compData.tsv','r') as in_file:
+    count = 0
+    for line in in_file:
+        count = count + 1
+        if (count>1):
+            compName, date, hq, visible, category, audience, model, description, main_url, twitter_url, angellist_url, crunchbase_url, tags = line.split("\t")
+            data = {"date": date, 
+                    "hq": hq, 
+                    "category":category, 
+                    "audience":audience, 
+                    "model":model, 
+                    "description": description, 
+                    "main_url": main_url, 
+                    "twitter_url": twitter_url, 
+                    "angellist_url": angellist_url, 
+                    "crunchbase_url": crunchbase_url,
+                    "linkedin_url": "",
+                    "facebook_url": "",
+                    "tags": tags}
+            data = merge(compDict[name], data)
+
+            compDict[name] = data
+
+
+
+print(compDict)
 
             

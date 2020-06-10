@@ -1,7 +1,7 @@
 Brightleaf	{'twitter_url': ' https://twitter.com/brightleaf', 'angellist_url': ' https://angel.co/company/brightleaf-power-1', 'main_url': ' https://www.brightleaf.com/'}
 Caselinq	{'twitter_url': ' https://twitter.com/caselinq', 'angellist_url': ' https://angel.co/company/caselinq'}
 Chapter 11 Dockets	{'main_url': ' https://www.chapter11dockets.com/'}
-Claim Kit	{s'crunchbase_url': ' https://www.crunchbase.com/organization/claimkit'}
+Claim Kit	{'crunchbase_url': ' https://www.crunchbase.com/organization/claimkit'}
 Cooley	{'twitter_url': ' https://twitter.com/CooleyLLP', 'crunchbase_url': ' https://www.crunchbase.com/organization/cooley-llp', 'angellist_url': ' https://angel.co/company/cooley'}
 DroidLaw	{'twitter_url': '', 'crunchbase_url': ' https://www.crunchbase.com/organization/droidlaw', 'angellist_url': ' https://angel.co/company/droidlaw'}
 EasyDataMaps	{'twitter_url': ' https://twitter.com/easydatamaps?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/easydatamaps', 'angellist_url': ' https://angel.co/company/easydatamaps'}
@@ -37,7 +37,6 @@ Abe.	{'facebook_url': ' https://www.facebook.com/public/Abe-Abe', 'crunchbase_ur
 AfterSteps	{'crunchbase_url': ' https://www.crunchbase.com/organization/aftersteps'}
 AgileLaw	{'crunchbase_url': ' https://www.crunchbase.com/organization/agilelaw', 'angellist_url': ' https://angel.co/company/agilelaw'}
 Ampulse	{'twitter_url': ' https://twitter.com/hashtag/ampulse', 'crunchbase_url': ' https://www.crunchbase.com/organization/ampulse', 'linkedin_url': ' https://www.linkedin.com/company/ampulse-corporation'}
-Align Matters	{'twitter_url': ' https://twitter.com/alignmatters, 'facebook_url': '', 'crunchbase_url': ' https://www.crunchbase.com/organization/align-matters', 'angellist_url': ' https://angel.co/company/align-matters'}
 Arbiclaims	{'facebook_url': '', 'crunchbase_url': ' https://www.crunchbase.com/organization/arbiclaims-inc'}
 Caseflex	{'twitter_url': ' https://twitter.com/caseflex1/media', 'facebook_url': ' https://www.facebook.com/CaseFlex1'}
 Advocatalog	{'twitter_url': ' https://twitter.com/advocatalog?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/advocatalog', 'linkedin_url': ' https://www.linkedin.com/company/advocatalog'}
@@ -70,7 +69,7 @@ Caseflow	{'linkedin_url': ' https://au.linkedin.com/company/caseflow'}
 CaseHub	{'twitter_url': ' https://twitter.com/casehub?lang=en', 'angellist_url': ' https://angel.co/company/casehub', 'linkedin_url': ' https://www.linkedin.com/company/casehub'}
 CaseRails	{'twitter_url': ' https://twitter.com/caserails?lang=en', 'angellist_url': ' https://angel.co/company/caserails'}
 Casetext	{'twitter_url': ' https://twitter.com/casetext?lang=en', 'angellist_url': ' https://angel.co/company/casetext', 'main_url': ' https://casetext.com/'}
-CellBreaker	{angellist_url': ' https://angel.co/company/cellbreaker', 'main_url': ' https://www.cellbreaker.com/'}
+CellBreaker	{'angellist_url': ' https://angel.co/company/cellbreaker', 'main_url': ' https://www.cellbreaker.com/'}
 Checkr	{'twitter_url': ' https://twitter.com/checkr?lang=en', 'angellist_url': ' https://angel.co/company/checkr', 'main_url': ' https://checkr.com/'}
 Clausehound	{'twitter_url': ' https://twitter.com/clausehound?lang=en', 'facebook_url': ' https://www.facebook.com/Clausehound/', 'crunchbase_url': ' https://www.crunchbase.com/organization/clausehound', 'angellist_url': ' https://angel.co/company/clausehound-1', 'linkedin_url': ' https://www.linkedin.com/company/clausehound'}
 ClauseMatch	{'twitter_url': ' https://twitter.com/ClauseMatch', 'crunchbase_url': ' https://www.crunchbase.com/organization/clausematch', 'angellist_url': ' https://angel.co/company/clausematch'}
@@ -565,7 +564,7 @@ AdaptiBar	{'twitter_url': ' https://twitter.com/AdaptiBar', 'crunchbase_url': ' 
 Advobot	{'crunchbase_url': ' https://www.crunchbase.com/organization/advobot'}
 advocado	{'facebook_url': ' https://www.facebook.com/advocadosg/', 'crunchbase_url': ' https://www.crunchbase.com/organization/avocado', 'linkedin_url': ' https://www.linkedin.com/company/avocadodiet'}
 Advokatami.bg	{'crunchbase_url': ' https://www.crunchbase.com/organization/advokatami-bg', 'angellist_url': ' https://angel.co/company/advokatami-bg', 'main_url': ' https://www.advokatami.bg/', 'linkedin_url': ' https://hk.linkedin.com/company/advokatami-bg?trk=similar-companies_org_image'}
-Zero	{linkedin_url': ' https://www.linkedin.com/company/zeroapp/'}
+Zero	{'linkedin_url': ' https://www.linkedin.com/company/zeroapp/'}
 ZeekBeek	{'facebook_url': ' https://www.zeekbeek.com/Publications/Publication-Details/pid/2935/protecting-digital-assets-facebooks-legacy-contact', 'linkedin_url': ' https://www.linkedin.com/company/zeekbeek'}
 Zariya	{'angellist_url': ' https://angel.co/company/zariya'}
 Agreemint	{'crunchbase_url': ' https://www.crunchbase.com/organization/agreemint', 'angellist_url': ' https://angel.co/company/agreemint-com', 'main_url': ' https://www.agreemint.com/'}
@@ -1131,7 +1130,7 @@ Legalboards.io	{'main_url': ' https://legalboards.io/'}
 JDoe	{'twitter_url': ' https://twitter.com/jdoejustice?lang=en', 'angellist_url': ' https://angel.co/company/jdoe', 'main_url': ' https://jdoe.io/'}
 Zelican Infotech	{'angellist_url': ' https://angel.co/zelican-infotech/jobs'}
 SmartUp Legal	{'main_url': ' https://www.smartuplegal.com/'}
-digitalCounsels	{'twitter_url': ' https://twitter.com/hashtag/digitalcounsels, 'main_url': ' https://www.digitalcounsels.com/'}
+digitalCounsels	{'twitter_url': ' https://twitter.com/hashtag/digitalcounsels', 'main_url': ' https://www.digitalcounsels.com/'}
 Suyo	{'twitter_url': ' https://twitter.com/suyobara?lang=en', 'angellist_url': ' https://angel.co/company/suyo-1/jobs', 'main_url': ' https://suyonyc.com/'}
 Tagdox	{'twitter_url': ' https://twitter.com/tagdox?lang=en', 'facebook_url': ' https://www.facebook.com/TagDox/', 'main_url': ' https://www.tagdox.com/'}
 Easyoffer	{'twitter_url': ' https://twitter.com/easyoffer'}
@@ -1377,3 +1376,4 @@ Correa Porto	{'main_url': ' https://correaporto.com.br/'}
 Edraftly	{'twitter_url': ' https://twitter.com/edraftly'}
 Dok.legal	{'main_url': ' https://www.dok.legal/'}
 Flime	{'twitter_url': ' https://twitter.com/flimeapp?lang=en'}
+Align Matters	{'twitter_url': ' https://twitter.com/alignmatters', 'facebook_url': '', 'crunchbase_url': ' https://www.crunchbase.com/organization/align-matters', 'angellist_url': ' https://angel.co/company/align-matters'}
