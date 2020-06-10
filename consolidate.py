@@ -130,8 +130,26 @@ with open('compData.tsv','r') as in_file:
 
             compDict[name] = data
 
+for compName in compDict:
+    for item in compDict[compName]:
+        if len(compDict[compName][item])>0:
+            if " " == compDict[compName][item][0]:
+                compDict[compName][item] =  compDict[compName][item][1:]
+            if "\n" == compDict[compName][item][-2:]:
+                compDict[compName][item] =  compDict[compName][item][:-2]
+
+with open('final.tsv', 'w') as out_file:
+    out_file.write("name\t"+"\t".join(list(compDict['Correa Porto'].keys()))+"\n")
+    for compName in compDict:
+        line = compName
+        for description in compDict[compName]:
+            line += "\t" + compDict[compName][description]
+            if compDict[compName][description] == "":
+                line += "n/a"
+        if "\n" in line:
+            line = line[:-1]
+        line += "\n"
+        out_file.write(line)
 
 
-print(compDict)
-
-            
+ 
