@@ -31,7 +31,35 @@ with open('merged.tsv','r') as in_file:
     
         compDict[name] = cbDBDetails
 
+# merging david checked files
+with open('DAVID_FINAL_CHECK.txt', 'r') as in_file:
+    for line in in_file:
+        name, queries = line.split("\t")
 
+        queries = eval(queries)
+
+        if name not in compDict.keys():
+            cbDBDetails = {"date": "", 
+                            "hq": "", 
+                            "category": "", 
+                            "audience": "", 
+                            "model": "", 
+                            "description": "", 
+                            "main_url": "", 
+                            "twitter_url": "", 
+                            "angellist_url": "", 
+                            "crunchbase_url": "", 
+                            "linkedin_url": "",
+                            "facebook_url": "",
+                            "tags": ""}
+            compDict[name] = cbDBDetails
+
+        for query in queries:
+            text = query
+            if queries[query]:
+                text = text + queries[query]
+            
+            print(text)
 
 print(compDict)
 

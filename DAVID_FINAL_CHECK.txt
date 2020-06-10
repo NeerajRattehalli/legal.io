@@ -24,7 +24,7 @@ Global-Regulation.com*	{'twitter_url': ' https://twitter.com/globeregulation?lan
 Emerald Technology Valuations LLC	{'twitter_url': ' https://twitter.com/emerald_tech?lang=en'}
 Foresight Legal	{'linkedin_url': ' https://www.linkedin.com/company/foresight-law-policy'}
 Get Lawyer App	{ 'facebook_url': ' https://www.facebook.com/TheLawyerApp'}
-GPSOX	{crunchbase_url': ' https://www.crunchbase.com/organization/gpsox'}
+GPSOX	{'crunchbase_url': ' https://www.crunchbase.com/organization/gpsox'}
 Gracular	{'twitter_url': ' https://twitter.com/granularag?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/granular', 'angellist_url': ' https://angel.co/company/granular-2'}
 HaystackHQ	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/haystackhq', 'angellist_url': ' https://angel.co/company/haystackhq'}
 HoudiniEsq	{'linkedin_url': ' https://www.linkedin.com/company/logicbit-corporation'}
@@ -48,14 +48,11 @@ NOTARY 4 ROTARY	{'twitter_url': ' https://twitter.com/notaryrotary?lang=en', 'fa
 Quicklegal	{'linkedin_url': ' https://co.linkedin.com/company/quick-legal'}
 PUSHTOSTART	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/pushtostart', 'angellist_url': ' https://angel.co/company/pushtostart-1'}
 RainmakerVT	{'twitter_url': ' https://twitter.com/rainmakervt?lang=en', 'facebook_url': ' https://www.facebook.com/RainmakerVT/', 'angellist_url': ' https://angel.co/company/rainmakervt', 'linkedin_url': ' https://www.linkedin.com/company/rainmakervt'}
-RION Corp.	{'twitter_url': 'crunchbase_url': ' https://www.crunchbase.com/organization/rion-corp', 'angellist_url': ' https://angel.co/company/rion', 'linkedin_url': ' https://www.linkedin.com/company/rion-corp-'}
+RION Corp.	{'crunchbase_url': ' https://www.crunchbase.com/organization/rion-corp', 'angellist_url': ' https://angel.co/company/rion', 'linkedin_url': ' https://www.linkedin.com/company/rion-corp-'}
 Rghtly	{'twitter_url': ' https://twitter.com/rightlydata?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/rightly'}
 Startup Documents	{'twitter_url': ' https://twitter.com/startupdocument?lang=en'}
 TermSheet.io	{'facebook_url': ' https://www.facebook.com/termsheet/', 'linkedin_url': ' https://www.linkedin.com/company/termsheet'}
 Virtual Payment Systems	{ 'linkedin_url': ' https://www.linkedin.com/company/virtual-payment-system'}
-Virtual Law Direct	{' https://www.linkedin.com/company/virtual-legal'}
-Bestlaw	{'linkedin_url': ' https://www.linkedin.com/company/best-law-firm'}
-Habeas Corp.	{'twitter_url': ' https://twitter.com/habeascorp?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/habeas-corp'}
 Autriv Software Development	{'twitter_url': ' https://twitter.com/autriv?lang=en'}
 ClearstoneIP	{'twitter_url': ' https://twitter.com/clearstoneip?lang=en'}
 Legal Passage	{'facebook_url': ' https://www.facebook.com/Passagelaw/services/',  'linkedin_url': ' https://www.linkedin.com/company/passagelaw'}
@@ -153,7 +150,7 @@ The Expert Institute	{'linkedin_url': ' https://www.linkedin.com/company/expert-
 Teen Legal Helpline	{'twitter_url': ' https://twitter.com/teenlegalhelp'}
 Glitnr	{'facebook_url': ' https://www.facebook.com/glitnirticketing/', 'linkedin_url': ' https://www.linkedin.com/company/glitnir'}
 Bengeni Consulting	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/bungeni-consulting', 'linkedin_url': ' https://www.linkedin.com/company/bungeni-consulting'}
-Calela	{' https://www.linkedin.com/company/canela'}
+Calela	{'linkedin_url': ' https://www.linkedin.com/company/canela'}
 Legasis Services Private Limited	{'facebook_url': ' https://www.facebook.com/legasisservices/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legasis-services', 'linkedin_url': ' https://in.linkedin.com/company/legasis-service-pvt.-ltd.'}
 Counsel on Call Services Inc	{ 'linkedin_url': ' https://www.linkedin.com/showcase/counsel-on-call'}
 Secure Privacy.AI	{'crunchbase_url': ' https://www.crunchbase.com/organization/secure-privacy', 'angellist_url': ' https://angel.co/company/secure-privacy', 'linkedin_url': ' https://www.linkedin.com/company/secure-privacy/'}
@@ -189,7 +186,7 @@ plunes technologies	{'twitter_url': ' https://twitter.com/plunes076?lang=en', 'f
 MoveDocs	{'twitter_url': ' https://twitter.com/movedoc'}
 RefundMyTicket.Net (Claim Assistance SAS)	{'crunchbase_url': ' https://www.crunchbase.com/organization/refundmyticket-net'}
 Codify Law	{'twitter_url': ' https://twitter.com/codifylegal', 'facebook_url': ' https://www.facebook.com/codifylegalpublishing/', 'crunchbase_url': ' https://www.crunchbase.com/organization/codify-legal-publishing', 'linkedin_url': ' https://ca.linkedin.com/company/codify-legal-publishing-inc.'}
-CLAWS	{ linkedin_url': ' https://www.linkedin.com/company/claws'}
+CLAWS'	{ 'linkedin_url': ' https://www.linkedin.com/company/claws'}
 Cognitiv+	{'angellist_url': ' https://angel.co/company/cognitiv-2'}
 Lawcunae Infomation Solutions	{'twitter_url': ' https://twitter.com/lacuna_space?lang=en', 'facebook_url': ' https://www.facebook.com/search.php?q=Lawcunae+Information+Solutions+Private+Limited&type=users&init=srp', 'angellist_url': ' https://angel.co/company/lawyered-1', 'linkedin_url': ' https://www.linkedin.com/company/lacuna-solutions'}
 MainLaws	{'twitter_url': ' https://twitter.com/hashtag/mainlaw', 'facebook_url': ' https://www.facebook.com/mainlaw26', 'main_url': ' https://www.crunchbase.com/organization/mainlaws-ltd-'}
@@ -208,7 +205,7 @@ amicable apps	{'crunchbase_url': ' https://www.crunchbase.com/organization/amica
 ClicknClear	{'angellist_url': ' https://angel.co/company/pre-cleared-limited-t-a-clicknclear'}
 Zero Email	{ 'linkedin_url': ' https://www.linkedin.com/company/zeroapp'}
 Armlaw	{'linkedin_url': ' https://www.linkedin.com/company/armstrong-simpson'}
-AdvoCoder UG (haftungsbeschränkt)	{'facebook_url': ' https://www.facebook.com/AdvoCoder/reviews',   
+AdvoCoder UG (haftungsbeschränkt)	{'facebook_url': ' https://www.facebook.com/AdvoCoder/reviews'}
 Patent Bots LLC	{'twitter_url': ' https://twitter.com/uspatentbot?lang=en'}
 Softplan Planejamento e Sistemas Ltda.	{'linkedin_url': ' https://www.linkedin.com/company/softplan'}
 Lexplosion Solutions	{'twitter_url': ' https://twitter.com/lexplosion?lang=en'}
@@ -370,3 +367,6 @@ Renata Laterza Consultancy	{'twitter_url': ' https://twitter.com/renatalaterza',
 PreEmpt.Me	{'twitter_url': ' https://twitter.com/preempt1?lang=en', 'facebook_url': ' https://www.facebook.com/preemptsec/', 'angellist_url': ' https://angel.co/company/preempt-security', 'linkedin_url': ' https://www.linkedin.com/company/preempt-security'}
 Prima Veritas	{'twitter_url': ' https://twitter.com/veritastechllc?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/veritas-prime'}
 AdvoCoder UG	{'facebook_url': ' https://www.facebook.com/AdvoCoder/photos/?ref=page_internal'}
+Habeas Corp.	{'twitter_url': ' https://twitter.com/habeascorp?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/habeas-corp'}
+Bestlaw	{'linkedin_url': ' https://www.linkedin.com/company/best-law-firm'}
+Virtual Law Direct	{'linkedin_url': ' https://www.linkedin.com/company/virtual-legal'}
