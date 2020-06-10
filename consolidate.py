@@ -172,12 +172,15 @@ for compName in compDict:
             if "\n" == compDict[compName][item][-2:]:
                 compDict[compName][item] =  compDict[compName][item][:-2]
 
-with open('final.tsv', 'w') as out_file:
+with open('final.csv', 'w') as out_file:
     out_file.write("name\t"+"\t".join(list(compDict['Correa Porto'].keys()))+"\n")
     for compName in compDict:
         line = compName
         for description in compDict[compName]:
-            line += "\t" + compDict[compName][description]
+            if "," in compDict[compName][description]:
+                line += ",\"" + compDict[compName][description] + "\""
+            else:
+                line += "," + compDict[compName][description]
             if compDict[compName][description] == "":
                 line += "n/a"
         if "\n" in line:
