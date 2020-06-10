@@ -175,7 +175,11 @@ for compName in compDict:
 with open('final.csv', 'w') as out_file:
     out_file.write("name,"+",".join(list(compDict['Correa Porto'].keys()))+"\n")
     for compName in compDict:
-        line = compName
+        line = ""
+        if "," in compName:
+            line = "\"" + compName + "\""
+        else:
+            line = compName
         for description in compDict[compName]:
             item = compDict[compName][description]
             if "\n" in item:
@@ -188,6 +192,20 @@ with open('final.csv', 'w') as out_file:
                 line += "n/a"
         line += "\n"
         out_file.write(line)
+
+with open('final.tsv', 'w') as out_file:
+    out_file.write("name\t"+"\t".join(list(compDict['Correa Porto'].keys()))+"\n")
+    for compName in compDict:
+        line = compName
+        for description in compDict[compName]:
+            line += "\t" + compDict[compName][description]
+            if compDict[compName][description] == "":
+                line += "n/a"
+        if "\n" in line:
+            line = line[:-1]
+        line += "\n"
+        out_file.write(line)
+
 
 thingsToManuallyCheck = {}
 
