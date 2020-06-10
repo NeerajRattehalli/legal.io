@@ -1,1150 +1,372 @@
-DISCO	{'twitter_url': ' https://twitter.com/csdisco?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/cs-disco'}
-HotDocs	{'angellist_url': ' https://angel.co/vidit-sharma'}
-Intelligize	{'angellist_url': ' https://angel.co/startups/32773'}
-Jurisweb Interactiva SL	{'linkedin_url': ' https://es.linkedin.com/in/gonzalo-barbero-lastra-74291b82'}
-LawGo Inc.	{'twitter_url': ' https://twitter.com/inc', 'facebook_url': ' https://www.facebook.com/laawgo/', 'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs', 'linkedin_url': ' https://www.linkedin.com/company/h-d--john-enterprise-law'}
-LawyerUp	{'angellist_url': ' https://angel.co/company/jd-stop'}
-MyCourthouse	{'facebook_url': ' https://www.facebook.com/courthouseclubs/videos/on-the-second-day-of-christmas-my-trainer-brought-to-me-push-ups-how-many-can-yo/569793773433336/', 'linkedin_url': ' https://www.linkedin.com/in/ali-zare-477930100'}
-PayMyTrustee	{'angellist_url': ' https://angel.co/help'}
-Push Legal	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'angellist_url': ' https://angel.co/legal', 'linkedin_url': ' https://uk.linkedin.com/in/ernestina-gyima-26035531'}
-RealPractice	{'twitter_url': ' https://twitter.com/ransomthoughts?lang=en', 'angellist_url': ' https://angel.co/p/carey-ransom'}
-AppClose	{'angellist_url': ' https://angel.co/jobs?slug=appnear-me'}
+DISCO	{'twitter_url': ' https://twitter.com/csdisco?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/thediscoapp'}
 Turn Technologies	{'twitter_url': ' https://twitter.com/turningtech?lang=en'}
-CaseGuide	{'crunchbase_url': ' https://www.crunchbase.com/organization/jet-law', 'angellist_url': ' https://angel.co/company/falkonry/jobs', 'linkedin_url': ' https://www.linkedin.com/in/orlandoengineer'}
-InFront Compliance	{'twitter_url': ' https://twitter.com/infrontcompl?lang=en', 'angellist_url': ' https://angel.co/company/awarehq/jobs'}
-Claudius Legal Intelligence	{'twitter_url': ' https://twitter.com/josephjavery1?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/claudius-inc', 'linkedin_url': ' https://www.linkedin.com/company/princeton-gavel'}
-ADR Notable	{'crunchbase_url': ' https://www.crunchbase.com/organization/skylarc-llc', 'angellist_url': ' https://angel.co/company/famo-us'}
-SL DESK	{'twitter_url': ' https://twitter.com/s_lyngstad?lang=en', 'facebook_url': ' https://www.facebook.com/ictideacenter/', 'crunchbase_url': ' https://www.crunchbase.com/organization/assistly', 'angellist_url': ' https://angel.co/company/independent-consultant/people', 'linkedin_url': ' https://www.linkedin.com/company/intakedesk'}
+CaseGuide	{'crunchbase_url': ' https://www.crunchbase.com/organization/jet-law'}
+InFront Compliance	{'twitter_url': ' https://twitter.com/infrontcompl?lang=en'}
+Claudius Legal Intelligence	{'crunchbase_url': ' https://www.crunchbase.com/organization/claudius-inc', }
+ADR Notable	{'crunchbase_url': ' https://www.crunchbase.com/organization/skylarc-llc'}
 Wetherington Law Firm	{'twitter_url': ' https://twitter.com/m_wetherington?lang=en', 'facebook_url': ' https://www.facebook.com/wetherington.firm', 'linkedin_url': ' https://www.linkedin.com/in/getthew'}
 AdvantageLaw	{'twitter_url': ' https://twitter.com/adlawsoftware'}
-AfterIGo	{'facebook_url': ' https://www.facebook.com/public/After-Igo', 'crunchbase_url': ' https://www.crunchbase.com/organization/after-i-go'}
-AfterSteps	{'linkedin_url': ' https://www.linkedin.com/in/jessicabloomgarden'}
-ASCAPPE	{'twitter_url': ' https://twitter.com/ascappe', 'facebook_url': ' https://www.facebook.com/Ascapin-1728546214093952/', 'crunchbase_url': ' https://www.crunchbase.com/organization/ascappe', 'linkedin_url': ' https://www.linkedin.com/company/escape-mobility-company-ltd'}
-Align Matters	{'linkedin_url': ' https://www.linkedin.com/in/alannathanson'}
+AfterIGo	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/after-i-go'}
+ASCAPPE	{'crunchbase_url': ' https://www.crunchbase.com/organization/ascappe'}
 Arbiclaims	{'twitter_url': ' https://twitter.com/fair_claims/status/629727529381728257?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/fairclaims'}
-Caseflex	{'angellist_url': ' https://angel.co/company/weworklabs/funding', 'linkedin_url': ' https://www.linkedin.com/in/richleenyc'}
 AdviseHub	{'crunchbase_url': ' https://www.crunchbase.com/organization/advice-hub'}
 Aluvion Law	{'crunchbase_url': ' https://www.crunchbase.com/organization/aluvion', 'linkedin_url': ' https://ca.linkedin.com/company/aluvion'}
-Ashem	{'twitter_url': ' https://twitter.com/helladragon?lang=en'}
 Ategra Computer Technology	{'twitter_url': ' https://twitter.com/ategra?lang=en'}
-Audvi	{'angellist_url': ' https://angel.co/company/alpine-labs-1'}
-Bitproof	{'angellist_url': ' https://angel.co/company/boost-vc/funding', 'linkedin_url': ' https://www.linkedin.com/in/louisondumont'}
-Bluetree Legal Connect	{'angellist_url': ' https://angel.co/p/ryan-buckley'}
-Briefed	{'twitter_url': ' https://twitter.com/briefingcom?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/omg-software'}
-Caldeco	{'angellist_url': ' https://angel.co/company/roboworx-4', 'linkedin_url': ' https://www.linkedin.com/in/mikejenkins2'}
-CapMail	{'facebook_url': ' https://www.facebook.com/CAPServices/posts/are-you-or-someone-you-know-looking-for-quality-affordable-rental-housing-check-/887558547929271/', 'linkedin_url': ' https://www.linkedin.com/in/jeff-seltzer-4a4aa74a'}
 BeeLine Reader	{'crunchbase_url': ' https://www.crunchbase.com/organization/beeline-3'}
-Bhavnani Technologies	{'twitter_url': ' https://twitter.com/sanjeevbhavnani?lang=en'}
-BleuAcre	{'linkedin_url': ' https://ie.linkedin.com/company/blueacre-technology-ltd-'}
-Business Integrity	{'twitter_url': ' https://about.twitter.com/en_us/advocacy/elections-integrity.html'}
-Caseflow	{'angellist_url': ' https://angel.co/company/peerlearn/people'}
-ClearNDA	{'facebook_url': ' https://www.facebook.com/indusdefenceacademymohali/videos/dear-aspirant-for-ndato-clear-nda-exam-pl-understand-format-of-nda-marks-900-for/792768297802894/', 'linkedin_url': ' https://www.linkedin.com/company/clarinda-regional-health-center'}
 CliXLEX	{'twitter_url': ' https://twitter.com/clixlex?lang=en', 'angellist_url': ' https://angel.co/company/clixlex'}
-ClosingFolders	{'angellist_url': ' https://angel.co/sahil-zaman'}
-Cited	{'facebook_url': ' https://smallbusiness.chron.com/cite-facebook-reference-sheet-48503.html', 'angellist_url': ' https://angel.co/company/gymlion'}
 ClearView Social	{'twitter_url': ' https://twitter.com/cv_social?lang=en'}
-ContratosApp	{'twitter_url': ' https://twitter.com/hashtag/privadaspublico', 'facebook_url': ' https://www.facebook.com/events/208284456594871/permalink/208921406531176/'}
-Corporate + Startup Law	{'twitter_url': ' https://twitter.com/clerkyinc?lang=en', 'angellist_url': ' https://angel.co/legal'}
-CosmoLex	{'angellist_url': ' https://angel.co/company/vestorly'}
-CourtReader	{'angellist_url': ' https://angel.co/shai-ber', 'linkedin_url': ' https://www.linkedin.com/in/sharon-balduc-68545921'}
-CourtSide EDX	{'facebook_url': ' https://www.facebook.com/edX/'}
-Credit Swarm	{'twitter_url': ' https://insideclimatenews.org/news/16092019/trollbot-twitter-climate-change-attacks-disinformation-campaign-mann-mckenna-greta-targeted', 'angellist_url': ' https://angel.co/company/swarm'}
-Crowdfunding Compliance Center	{'twitter_url': ' https://twitter.com/infocfcc'}
-CrowdLaw	{'angellist_url': ' https://angel.co/company/ratiolegal', 'linkedin_url': ' https://www.linkedin.com/in/dane-gambrell-502091169'}
-DATY	{'twitter_url': ' https://twitter.com/hashtag/daty?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/daty', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/pub/bahi-mourad/10/a2a/a38'}
+DATY	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/daty'}
 Dealcircle	{'twitter_url': ' https://twitter.com/deal_circle?lang=en'}
-Depot Services	{'twitter_url': ' https://twitter.com/thehomedepot?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/the-home-depot'}
-Counterfeit.Technology	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/counterfeit-goods-policy', 'facebook_url': ' https://www.facebook.com/business/news/good-questions-real-answers-how-facebook-helps-brands-protect-against-counterfeits'}
-Instadocket	{'linkedin_url': ' https://www.linkedin.com/in/mark-szal-626a865'}
 LegalRisk.io	{'linkedin_url': ' https://www.linkedin.com/company/legal-risk-llp'}
-DiligenceEngine	{'crunchbase_url': ' https://www.crunchbase.com/organization/kira', 'angellist_url': ' https://e27.co/startups-angellist-f-word-20151103/', 'linkedin_url': ' https://www.linkedin.com/company/diligend'}
-doAgree	{'facebook_url': ' https://www.facebook.com/disagreeband', 'linkedin_url': ' https://www.linkedin.com/feed/news/how-to-disagree-at-work-1422156'}
-Docasaurus	{'linkedin_url': ' https://www.linkedin.com/in/randy-widdison-169059120'}
-Document Technologies Inc	{'twitter_url': ' https://twitter.com/docutech?lang=en', 'angellist_url': ' https://angel.co/company/savvydox'}
-DraftLaw	{'facebook_url': ' https://www.facebook.com/TheCeeliInstitute/'}
-E-Nact	{'twitter_url': ' https://twitter.com/enactnow?lang=en', 'facebook_url': ' https://www.facebook.com/enactinc/'}
-EasyIntake	{'angellist_url': ' https://angel.co/company/eatt-1', 'linkedin_url': ' https://www.linkedin.com/company/redline-detection'}
+Document Technologies Inc	{'twitter_url': ' https://twitter.com/docutech?lang=en'}
 EasyNDA	{'twitter_url': ' https://twitter.com/easynda?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/easynda', 'angellist_url': ' https://angel.co/company/easynda'}
-EchoSign	{'facebook_url': ' https://www.facebook.com/help/community/question/?id=1884265308532268'}
-Effective decision	{'twitter_url': ' https://business.twitter.com/en/blog/how-to-use-twitter-analytics-to-grow-your-business.html', 'linkedin_url': ' https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering'}
-Global-Regulation.com*	{'twitter_url': ' https://twitter.com/globeregulation?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/global-regulation', 'linkedin_url': ' https://www.linkedin.com/company/global-regulatory-services'}
-Picture It Settledå¨	{'twitter_url': ' https://help.twitter.com/en/using-twitter/picture-descriptions', 'facebook_url': ' https://www.facebook.com/pictureitcustom/', 'crunchbase_url': ' https://www.crunchbase.com/organization/lifeimage', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://business.linkedin.com/talent-solutions/blog/2014/12/5-tips-for-picking-the-right-linkedin-profile-picture'}
-Emerald Technology Valuations LLC	{'twitter_url': ' https://twitter.com/emerald_tech?lang=en', 'linkedin_url': ' https://www.linkedin.com/in/robert-hamner-asa-9915935'}
-eShares	{'linkedin_url': ' https://www.linkedin.com/company/carta--'}
-Esq. Safe	{'twitter_url': ' https://twitter.com/esqsafe', 'crunchbase_url': ' https://www.crunchbase.com/organization/esq-safe', 'linkedin_url': ' https://www.linkedin.com/in/huntermcintyre'}
-EsqSocial	{'linkedin_url': ' https://www.linkedin.com/in/mikebarrows'}
-ExpertBids	{'twitter_url': ' https://twitter.com/lawyerfeed'}
-Fixed	{'facebook_url': ' https://www.facebook.com/help/1075368719167893/?helpref=hc_fnav'}
-FlatLaw	{'linkedin_url': ' https://ca.linkedin.com/in/jason-flatla'}
-Foresight Legal	{'angellist_url': ' https://angel.co/legal', 'linkedin_url': ' https://www.linkedin.com/company/foresight-law-policy'}
-FreelanceLaw	{'crunchbase_url': ' https://www.crunchbase.com/person/erin-giglia-7811'}
-Get Lawyer App	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'facebook_url': ' https://www.facebook.com/TheLawyerApp', 'linkedin_url': ' https://www.linkedin.com/company/lawyer-com'}
-Forced Labour Abolition Group (FLAG)	{'twitter_url': ' https://twitter.com/flagfl', 'facebook_url': ' https://www.facebook.com/forcedlabour/', 'crunchbase_url': ' https://www.crunchbase.com/organization/forced-labour-abolition-group', 'angellist_url': ' https://angel.co/company/forced-labour-abolition-group-flag-1', 'linkedin_url': ' https://www.linkedin.com/company/anti-slavery-international'}
-GPSOX	{'twitter_url': ' https://twitter.com/hashtag/gpsox', 'crunchbase_url': ' https://www.crunchbase.com/organization/gpsox'}
+Global-Regulation.com*	{'twitter_url': ' https://twitter.com/globeregulation?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/global-regulation'}
+Emerald Technology Valuations LLC	{'twitter_url': ' https://twitter.com/emerald_tech?lang=en'}
+Foresight Legal	{'linkedin_url': ' https://www.linkedin.com/company/foresight-law-policy'}
+Get Lawyer App	{ 'facebook_url': ' https://www.facebook.com/TheLawyerApp'}
+GPSOX	{crunchbase_url': ' https://www.crunchbase.com/organization/gpsox'}
 Gracular	{'twitter_url': ' https://twitter.com/granularag?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/granular', 'angellist_url': ' https://angel.co/company/granular-2'}
-HaystackHQ	{'twitter_url': ' https://twitter.com/haystackhq', 'crunchbase_url': ' https://www.crunchbase.com/organization/haystackhq', 'angellist_url': ' https://angel.co/company/haystackhq'}
+HaystackHQ	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/haystackhq', 'angellist_url': ' https://angel.co/company/haystackhq'}
 HoudiniEsq	{'linkedin_url': ' https://www.linkedin.com/company/logicbit-corporation'}
-Hubbard One	{'twitter_url': ' https://twitter.com/sally_hubbard?lang=en', 'facebook_url': ' https://www.facebook.com/hubbardconstructionco/', 'angellist_url': ' https://angel.co/company/book-one'}
-iNation	{'angellist_url': ' https://angel.co/company/growthminds/jobs/568201-conversion-optimisation-specialist-at-growthminds'}
-Justice Bid	{'twitter_url': ' https://www.reuters.com/article/us-usa-twitter-lawsuit/u-s-judge-blocks-twitters-bid-to-reveal-government-surveillance-requests-idUSKBN2200CS'}
 Indexed IO	{'angellist_url': ' https://angel.co/company/index-io-1', 'linkedin_url': ' https://www.linkedin.com/company/indexed-i-o'}
-Inkdit	{'angellist_url': ' https://angel.co/company/zept'}
 InLaw.Me	{'linkedin_url': ' https://www.linkedin.com/company/inlaw'}
-Inolyst	{'angellist_url': ' https://angel.co/company/pagarbook/jobs/809083-product-analyst'}
-iPleaders	{'twitter_url': ' https://twitter.com/law_ninja?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Ipselex	{'facebook_url': ' https://www.facebook.com/intangiblecurrency', 'linkedin_url': ' https://www.linkedin.com/in/tomgrek'}
 LawAnswers	{'twitter_url': ' https://twitter.com/4legalanswers'}
-ImpactGRC	{'twitter_url': ' https://twitter.com/impactgrc?lang=en', 'facebook_url': ' https://www.facebook.com/pages/Impact-GRC/511202115638166', 'crunchbase_url': ' https://www.crunchbase.com/organization/impact-grc', 'angellist_url': ' https://angel.co/mike-leuthner', 'linkedin_url': ' https://www.linkedin.com/company/grc-as-a-service-llc-grcaas'}
-ipInstruments	{'twitter_url': ' https://twitter.com/latinamericaipr?lang=en', 'facebook_url': ' https://www.facebook.com/113684742029283/photos/980821701982245/', 'linkedin_url': ' https://ca.linkedin.com/in/instrumentsco89bb85169'}
-IVIZE Services Inc	{'twitter_url': ' https://twitter.com/achieveservices?lang=en', 'angellist_url': ' https://angel.co/company/gaspardesk1', 'linkedin_url': ' https://www.linkedin.com/company/rely-services-inc'}
-Jurify	{'facebook_url': ' https://sw-ke.latest.facebook.com/advantageadvocates/posts/10151248092893022'}
-Last5	{'angellist_url': ' https://angel.co/company/sharecruit', 'linkedin_url': ' https://www.linkedin.com/company/demanddrive'}
+ImpactGRC	{'twitter_url': ' https://twitter.com/impactgrc?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/impact-grc'}
 Karnov Group Denmark A/S	{'twitter_url': ' https://twitter.com/karnovgroupdk?lang=en', 'facebook_url': ' https://www.facebook.com/pages/Karnov-Group-Denmark-AS/357900601006938', 'crunchbase_url': ' https://www.crunchbase.com/organization/karnov-group', 'linkedin_url': ' https://www.linkedin.com/company/karnov-group'}
-LegalYou	{'angellist_url': ' https://angel.co/company/legalio'}
-LawDeal	{'linkedin_url': ' https://www.linkedin.com/company/lawndale-christian-health-center'}
-LawDeeDa	{'angellist_url': ' https://angel.co/brint-crockett'}
 LAWfone on Demand	{'twitter_url': ' https://twitter.com/lawfone', 'angellist_url': ' https://angel.co/company/demand_inc/jobs'}
-Lawful.ly	{'twitter_url': ' https://twitter.com/hashtag/lawful?lang=en'}
-Lawger	{'twitter_url': ' https://twitter.com/artificiallawya?lang=en'}
-LawGives	{'angellist_url': ' https://angel.co/company/civic-permits'}
-LawStud.io LLC	{'facebook_url': ' https://www.facebook.com/NoloLaw/', 'crunchbase_url': ' https://www.crunchbase.com/organization/lawstud-io', 'linkedin_url': ' https://www.linkedin.com/in/dianadchen/de'}
-LawVisors	{'linkedin_url': ' https://www.linkedin.com/company/bugdenallenlawyers'}
-LAWYA	{'twitter_url': ' https://twitter.com/parkerlawyer?lang=en', 'facebook_url': ' https://www.facebook.com/public/LawYa', 'crunchbase_url': ' https://www.crunchbase.com/organization/lawya', 'angellist_url': ' https://angel.co/company/lawya', 'linkedin_url': ' https://www.linkedin.com/company/lawya'}
-LawyerFair	{'angellist_url': ' https://angel.co/p/dan-somers'}
-Lawyerfy	{'angellist_url': ' https://angel.co/company/launchpad/funding', 'linkedin_url': ' https://www.linkedin.com/in/jeflin'}
-Legal Chrome	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support', 'facebook_url': ' https://chrome.google.com/webstore/detail/super-viewer-for-facebook/odbbadcohnacfjiocpfpplghhbaiddpc?hl=en-US', 'linkedin_url': ' https://www.linkedin.com/pulse/warning-3rd-party-apps-could-seriously-damage-your-linkedin-cooper'}
-Legal Line	{'angellist_url': ' https://angel.co/help'}
-Lawditor.com	{'linkedin_url': ' https://in.linkedin.com/pub/sarah-leverton/23/9b8/95b'}
-Legal Simplicity	{'angellist_url': ' https://angel.co/company/enloya'}
-LegalCafe	{'facebook_url': ' https://www.facebook.com/CafeLegal/'}
+LAWYA	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/lawya', 'angellist_url': ' https://angel.co/company/lawya', 'linkedin_url': ' https://www.linkedin.com/company/lawya'}
 LegalCrunch	{'crunchbase_url': ' https://www.crunchbase.com/organization/legalcrunch'}
 LegalCrunch!	{'facebook_url': ' https://www.facebook.com/Legalcrunch/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legalcrunch', 'angellist_url': ' https://angel.co/company/legalcrunch-1'}
-LegalEZ	{'twitter_url': ' https://twitter.com/LegalezT', 'facebook_url': ' https://www.facebook.com/pages/category/Legal-Service/LegalEz-109627110694641/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legalez', 'angellist_url': ' https://angel.co/company/legalario-2', 'linkedin_url': ' https://www.linkedin.com/in/lorrin-cunningham-4945934'}
-LegalFacil	{'crunchbase_url': ' https://www.crunchbase.com/organization/legalfcil', 'angellist_url': ' https://angel.co/company/startupchile/funding', 'linkedin_url': ' https://www.linkedin.com/company/con%C3%A9ctate-al-sol'}
-LegalInc Corporate Services	{'twitter_url': ' https://twitter.com/LegalincCS?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/legalinc/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legal-inc', 'linkedin_url': ' https://www.linkedin.com/company/legalinc'}
-LEGALIX	{'twitter_url': ' https://twitter.com/legalix', 'facebook_url': ' https://www.facebook.com/legalix/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legalix', 'angellist_url': ' https://angel.co/jobs?slug=legalix', 'linkedin_url': ' https://ca.linkedin.com/company/legalix'}
-LegalReach	{'linkedin_url': ' https://www.linkedin.com/in/leah-gorecki-9a2729108'}
-Legalshine	{'linkedin_url': ' https://ie.linkedin.com/in/ian-nolan-7084411a'}
-LegalTap - On Demand Legal	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'facebook_url': ' https://www.facebook.com/abovethelawblog/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legaltap', 'angellist_url': ' https://angel.co/legal', 'linkedin_url': ' https://www.linkedin.com/company/lodlaw'}
-LegÌ_timo	{'twitter_url': ' https://twitter.com/iblegitimo', 'facebook_url': ' https://www.facebook.com/legitimooficial/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legitimo', 'angellist_url': ' https://angel.co/company/legitimo', 'linkedin_url': ' https://ca.linkedin.com/company/legitimo'}
-Legåtimo	{'facebook_url': ' https://www.facebook.com/GlandulaTimo/', 'linkedin_url': ' https://www.linkedin.com/company/sew-eurodrive-oy'}
-Lemontech - Thetimebilling	{'twitter_url': ' https://twitter.com/thetimebilling?lang=en', 'facebook_url': ' https://www.facebook.com/The-Time-Billing-286610798148261/', 'crunchbase_url': ' https://www.crunchbase.com/organization/time-billing', 'angellist_url': ' https://angel.co/company/instagis/people', 'linkedin_url': ' https://www.linkedin.com/company/lemontech'}
-Lexiqual	{'facebook_url': ' https://www.facebook.com/lexicallablimited/', 'angellist_url': ' https://angel.co/company/lexical-medical-group', 'linkedin_url': ' https://www.linkedin.com/company/lexical-computing-ltd'}
-ModusP	{'twitter_url': ' https://twitter.com/ModusP/media', 'facebook_url': ' https://www.facebook.com/learnersseries/', 'angellist_url': ' https://angel.co/p/thebudman16'}
-Mootus	{'angellist_url': ' https://angel.co/sammy-nabulsi'}
-My Exit Strategy	{'twitter_url': ' https://twitter.com/exitstrategypod', 'facebook_url': ' https://granicus.com/blog/we-need-an-exit-strategy-for-facebook/', 'linkedin_url': ' https://www.linkedin.com/showcase/matthew-wright?trk=companies_directory'}
-LegalLogs	{'angellist_url': ' https://angel.co/company/depot-services'}
-LexSpring	{'linkedin_url': ' https://www.linkedin.com/in/courtney-lex-b40a2a94'}
-Lig Technologies Ltd	{'twitter_url': ' https://twitter.com/lignanowise?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/lig'}
-Litigator Technology	{'twitter_url': ' https://twitter.com/litig8rtech?lang=en'}
-LiveOffice LLC	{'facebook_url': ' https://m.facebook.com/profile.php?id=652885134767748', 'angellist_url': ' https://angel.co/p/mehtanick'}
+LegalFacil	{'crunchbase_url': ' https://www.crunchbase.com/organization/legalfcil'}
+LegalInc Corporate Services	{ 'facebook_url': ' https://www.facebook.com/legalinc/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legal-inc', 'linkedin_url': ' https://www.linkedin.com/company/legalinc'}
+LEGALIX	{'facebook_url': ' https://www.facebook.com/legalix/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legalix', 'angellist_url': ' https://angel.co/jobs?slug=legalix', 'linkedin_url': ' https://ca.linkedin.com/company/legalix'}
+LegÌ_timo	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/legitimo', 'angellist_url': ' https://angel.co/company/legitimo', 'linkedin_url': ' https://ca.linkedin.com/company/legitimo'}
 Logickull	{'facebook_url': ' https://www.facebook.com/logikcull/', 'crunchbase_url': ' https://www.crunchbase.com/organization/logikcull', 'angellist_url': ' https://angel.co/company/logikcull', 'linkedin_url': ' https://www.linkedin.com/company/logikcull'}
-LucanDOCS	{'twitter_url': ' https://twitter.com/lucandocs', 'linkedin_url': ' https://www.linkedin.com/in/jim-blizard-2287647'}
-Lexicata	{'angellist_url': ' https://angel.co/company/lex-machina'}
-matterBase	{'angellist_url': ' https://angel.co/targeted-io-capital/syndicate', 'linkedin_url': ' https://www.linkedin.com/in/azamabid'}
+LucanDOCS	{'twitter_url': ' https://twitter.com/lucandocs'}
 MBLOK	{'twitter_url': ' https://twitter.com/themblok?lang=en', 'angellist_url': ' https://angel.co/company/mblok'}
-MyLegalCoverage	{'linkedin_url': ' https://www.linkedin.com/in/aj-nolton-mba-14588225'}
-New Media Legal Publishing	{'twitter_url': ' https://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse'}
 NOTARY 4 ROTARY	{'twitter_url': ' https://twitter.com/notaryrotary?lang=en', 'facebook_url': ' https://www.facebook.com/NotaryRotary/', 'linkedin_url': ' https://www.linkedin.com/company/notary-rotary'}
-Nventi	{'angellist_url': ' https://angel.co/madeleine-huish'}
-Office Network Online	{'twitter_url': ' https://www.socialmediaexaminer.com/8-easy-ways-to-network-on-twitter/', 'facebook_url': ' https://www.facebook.com/business/news/audience-network'}
-Openlegal	{'twitter_url': ' https://twitter.com/openlawofficial?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/openlaw', 'linkedin_url': ' https://www.linkedin.com/company/openlaw'}
-PasteLaw	{'linkedin_url': ' https://www.linkedin.com/company/mobinergy'}
-RecordLogix	{'angellist_url': ' https://angel.co/sten-white'}
-Ratchet Technology	{'twitter_url': ' https://twitter.com/ratchet?lang=en', 'angellist_url': ' https://angel.co/company/slidebelts'}
-Quicklegal	{'facebook_url': ' https://www.facebook.com/andre.ligons.company/', 'linkedin_url': ' https://co.linkedin.com/company/quick-legal'}
-Peppercorn	{'crunchbase_url': ' https://www.crunchbase.com/organization/automating-law'}
-NetLex	{'twitter_url': ' https://twitter.com/netflix?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Plum Law Jobs	{'twitter_url': ' https://twitter.com/ronfriedmann?lang=en', 'facebook_url': ' https://www.facebook.com/careers/jobs/627865697791530/', 'linkedin_url': ' https://www.linkedin.com/company/pplum-jobs'}
-Purediscovery Corp	{'twitter_url': ' https://about.twitter.com/en_us/company.html', 'linkedin_url': ' https://www.linkedin.com/in/droutman'}
-PUSHTOSTART	{'twitter_url': ' https://twitter.com/push2start_it?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/pushtostart', 'angellist_url': ' https://angel.co/company/pushtostart-1'}
-Ontario Small Claims Wizard	{'twitter_url': ' https://twitter.com/smallclaimswzrd?lang=en', 'facebook_url': ' https://www.facebook.com/ezsmallclaims/', 'linkedin_url': ' https://www.linkedin.com/company/small-claims-advisory-service'}
-Quicklysign	{'angellist_url': ' https://angel.co/company/88mph/funding'}
+Quicklegal	{'linkedin_url': ' https://co.linkedin.com/company/quick-legal'}
+PUSHTOSTART	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/pushtostart', 'angellist_url': ' https://angel.co/company/pushtostart-1'}
 RainmakerVT	{'twitter_url': ' https://twitter.com/rainmakervt?lang=en', 'facebook_url': ' https://www.facebook.com/RainmakerVT/', 'angellist_url': ' https://angel.co/company/rainmakervt', 'linkedin_url': ' https://www.linkedin.com/company/rainmakervt'}
-Reorg Research	{'twitter_url': ' https://twitter.com/Reorg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Restructuring Concepts	{'twitter_url': ' https://www.cnbc.com/2018/06/28/twitter-is-restructuring-as-its-product-executive-steps-down.html', 'facebook_url': ' https://www.nytimes.com/2020/04/28/technology/facebook-security-restructure.html'}
-RETiDoc	{'twitter_url': ' https://twitter.com/retidoc', 'facebook_url': ' https://www.facebook.com/RETiDoc/', 'angellist_url': ' https://angel.co/company/launchub/funding', 'linkedin_url': ' https://www.linkedin.com/company/retidoc'}
-PitchCast	{'linkedin_url': ' https://www.linkedin.com/in/kate-sullivan-23488010'}
-RION Corp.	{'twitter_url': ' https://twitter.com/rioncorp?lang=en', 'facebook_url': ' https://www.facebook.com/public/Eric-Rion', 'crunchbase_url': ' https://www.crunchbase.com/organization/rion-corp', 'angellist_url': ' https://angel.co/company/rion', 'linkedin_url': ' https://www.linkedin.com/company/rion-corp-'}
-RiverGlass	{'angellist_url': ' https://angel.co/company/illinois-ventures/funding'}
-Rnovo	{'twitter_url': ' https://twitter.com/lenovo', 'angellist_url': ' https://angel.co/company/banknovo/jobs'}
-Mystacks	{'facebook_url': ' https://www.facebook.com/pages/Working-on-my-stacks/118616108264791', 'crunchbase_url': ' https://www.crunchbase.com/organization/lawyaw', 'angellist_url': ' https://angel.co/sharan-puthran'}
-Sky Analytics	{'twitter_url': ' https://twitter.com/blueskylab?lang=en'}
-Smokeball	{'angellist_url': ' https://angel.co/guillermo-polit'}
-Snap Law	{'facebook_url': ' https://www.wsj.com/articles/snap-detailed-facebooks-aggressive-tactics-in-project-voldemort-dossier-11569236404', 'crunchbase_url': ' https://www.crunchbase.com/organization/sn-ap', 'angellist_url': ' https://angel.co/company/trigger-safety-snap', 'linkedin_url': ' https://www.linkedin.com/in/nicole-diaz-7302a21a'}
-Snapterms	{'angellist_url': ' https://thisweekinstartups.com/angellist-syndicates-lean-startup-naval-ravikant/'}
-SourceHOV LLC	{'angellist_url': ' https://angel.co/'}
-Speedy Counsel	{'twitter_url': ' https://careers.twitter.com/en/work-for-twitter/202004/counsel-human-rights.html', 'facebook_url': ' https://www.facebook.com/careers/jobs/579384189338937/', 'crunchbase_url': ' https://www.crunchbase.com/organization/cfo-counsel', 'linkedin_url': ' https://www.linkedin.com/in/cslcorporatecounsel'}
-Rghtly	{'twitter_url': ' https://twitter.com/rightlydata?lang=en', 'facebook_url': ' https://www.facebook.com/TheRightlySo/', 'angellist_url': ' https://angel.co/company/rivyoo', 'linkedin_url': ' https://www.linkedin.com/company/rightly'}
-Shortsaleopedia	{'linkedin_url': ' https://www.linkedin.com/in/sethrich'}
-RightsFlow	{'twitter_url': ' https://twitter.com/churchcopyright'}
-Startup Quest	{'twitter_url': ' https://twitter.com/oraclestartup?lang=en'}
-Structured Market	{'twitter_url': ' https://twitter.com/imn_absgroup?lang=en', 'facebook_url': ' https://www.facebook.com/business/help/706063442820839', 'angellist_url': ' https://angel.co/company/mirror', 'linkedin_url': ' https://www.linkedin.com/in/amanda-magliaro-30380941'}
-SupportPay	{'linkedin_url': ' https://www.linkedin.com/company/ittavi'}
-Swiftcourt	{'twitter_url': ' https://twitter.com/swcsweden?lang=en'}
-Syngrafii	{'angellist_url': ' https://angel.co/company/sortspoke/jobs'}
-Tapdox	{'facebook_url': ' https://www.facebook.com/TapFoxApp/photos/', 'linkedin_url': ' https://www.linkedin.com/company/tapfoxapp'}
-Task Central	{'twitter_url': ' https://twitter.com/cjtfoir?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/task'}
-Startup Documents	{'twitter_url': ' https://twitter.com/startupdocument?lang=en', 'angellist_url': ' https://angel.co/document'}
-Ticket Warrior	{'facebook_url': ' https://www.facebook.com/WarriorsTix/'}
-TermSheet.io	{'facebook_url': ' https://www.facebook.com/termsheet/', 'angellist_url': ' https://angel.co/company/papervc', 'linkedin_url': ' https://www.linkedin.com/company/termsheet'}
-Terminis	{'twitter_url': ' https://twitter.com/terminibros?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/terminus-software'}
-TenderScout	{'facebook_url': ' https://www.facebook.com/spider.awards/photos/a.126965254019734/1819880281394881/?type=3', 'linkedin_url': ' https://www.linkedin.com/company/orbidal'}
-VisaEase	{'linkedin_url': ' https://www.linkedin.com/company/cibt'}
-Virtual Payment Systems	{'facebook_url': ' https://www.zdnet.com/article/facebook-introduces-online-payment-system-facebook-pay-for-use-across-its-apps/', 'linkedin_url': ' https://www.linkedin.com/company/virtual-payment-system'}
-Virtual Law Direct	{'twitter_url': ' https://twitter.com/ronfriedmann?lang=en', 'angellist_url': ' https://angel.co/legal-tech-1', 'linkedin_url': ' https://www.linkedin.com/company/virtual-legal'}
-VentureDocs	{'facebook_url': ' https://www.facebook.com/creatoweb/photos/venturedoc-translationwwwventuredoccomrecently-launched-by-creato-webwwwcreatowe/1533057226745379/'}
-VaultSwap	{'linkedin_url': ' https://www.linkedin.com/in/ctcarrier'}
-Heureka	{'twitter_url': ' https://twitter.com/heu7reka?lang=en'}
-Zapproved Inc	{'angellist_url': ' https://angel.co/'}
-ZipCourt	{'linkedin_url': ' https://www.linkedin.com/in/william-blackman-421ba626'}
-accreditation.io	{'facebook_url': ' https://www.facebook.com/business/learn/certification', 'linkedin_url': ' https://learning.linkedin.com/certification-and-continuing-education-programs'}
-Access Family Law	{'angellist_url': ' https://angel.co/company/access-solicitor'}
-ZoundsHearing.com	{'crunchbase_url': ' https://www.crunchbase.com/organization/zounds', 'linkedin_url': ' https://www.linkedin.com/company/zounds'}
-Excellara	{'facebook_url': ' https://www.facebook.com/public/Excel-Lara-Lohen', 'angellist_url': ' https://angel.co/company/excelr-solutions-5/jobs/822285-ad-operations-associate'}
-Gadfly Legal Technologies	{'twitter_url': ' https://twitter.com/ronfriedmann?lang=en'}
-The Family Community	{'facebook_url': ' https://www.facebook.com/TheFamilyMovie/'}
-TopicLogic	{'twitter_url': ' https://rethinkmedia.org/blog/how-does-twitter-decide-what-trending', 'linkedin_url': ' https://www.linkedin.com/in/pjbriscoe'}
-Custom Counsel	{'twitter_url': ' https://twitter.com/icegov?lang=en', 'angellist_url': ' https://angel.co/company/bounce-exchange/jobs/620669-associate-corporate-counsel', 'linkedin_url': ' https://www.linkedin.com/in/adam-haubenreich-b778434'}
-TeamPatent	{'linkedin_url': ' https://www.linkedin.com/in/rokahn'}
-SecureSend	{'angellist_url': ' https://angel.co/company/zecco/people'}
-Resume Launchpad	{'facebook_url': ' https://www.facebook.com/joblaunchpad/?fref=nf', 'linkedin_url': ' https://www.linkedin.com/help/linkedin/answer/161/upload-your-resume-to-linkedin?lang=en'}
-Bestlaw	{'angellist_url': ' https://angel.co/company/ipleaders', 'linkedin_url': ' https://www.linkedin.com/company/best-law-firm'}
-Habeas Corp.	{'twitter_url': ' https://twitter.com/habeascorp?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/habeas-corp', 'angellist_url': ' https://angel.co/company/laterally'}
-Fair and Square	{'angellist_url': ' https://angel.co/company/faire-wholesale'}
-Free Law Project	{'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs'}
-Jury Box	{'angellist_url': ' https://angel.co/company/box', 'linkedin_url': ' https://www.linkedin.com/in/themarkryan'}
-Certifact	{'facebook_url': ' https://developers.facebook.com/tools/ct/search/'}
-ChartaCourse	{'facebook_url': ' https://www.facebook.com/PrincessCruises/photos/chart-a-course-for-adventure-%EF%B8%8F/10157546184249060/', 'angellist_url': ' https://angel.co/company/wellsuited/jobs/664221-senior-product-manager', 'linkedin_url': ' https://www.linkedin.com/in/mark-a-edwards-137b9868'}
-Autriv Software Development	{'twitter_url': ' https://twitter.com/autriv?lang=en', 'linkedin_url': ' https://www.linkedin.com/in/justinesgar'}
-Avvoka	{'angellist_url': ' https://angel.co/4hmed-hassan-gmail-com'}
-Zegal	{'angellist_url': ' https://angel.co/p/marcus-segal-1'}
-JustEase	{'twitter_url': ' https://twitter.com/thejusticedept?lang=en', 'facebook_url': ' https://www.facebook.com/public/Justice-Love', 'linkedin_url': ' https://www.linkedin.com/company/justicebrands'}
-CitizenshipWorks	{'twitter_url': ' https://twitter.com/citzworks?lang=en'}
-ClaimCast	{'angellist_url': ' https://angel.co/company/fixtimate-1'}
-ClearstoneIP	{'twitter_url': ' https://twitter.com/clearstoneip?lang=en', 'angellist_url': ' https://angel.co/startups/753403'}
-Contract Live	{'facebook_url': ' https://www.facebook.com/fbgaminghome/creators', 'crunchbase_url': ' https://www.crunchbase.com/organization/concord-5', 'angellist_url': ' https://angel.co/help'}
-Legal Passage	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'facebook_url': ' https://www.facebook.com/Passagelaw/services/', 'angellist_url': ' https://angel.co/company/ross-intelligence', 'linkedin_url': ' https://www.linkedin.com/company/passagelaw'}
-Digital Currency Council	{'twitter_url': ' https://twitter.com/mitdci?lang=en'}
-Etherparty	{'angellist_url': ' https://angel.co/company/vanbex'}
+RION Corp.	{'twitter_url': 'crunchbase_url': ' https://www.crunchbase.com/organization/rion-corp', 'angellist_url': ' https://angel.co/company/rion', 'linkedin_url': ' https://www.linkedin.com/company/rion-corp-'}
+Rghtly	{'twitter_url': ' https://twitter.com/rightlydata?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/rightly'}
+Startup Documents	{'twitter_url': ' https://twitter.com/startupdocument?lang=en'}
+TermSheet.io	{'facebook_url': ' https://www.facebook.com/termsheet/', 'linkedin_url': ' https://www.linkedin.com/company/termsheet'}
+Virtual Payment Systems	{ 'linkedin_url': ' https://www.linkedin.com/company/virtual-payment-system'}
+Virtual Law Direct	{' https://www.linkedin.com/company/virtual-legal'}
+Bestlaw	{'linkedin_url': ' https://www.linkedin.com/company/best-law-firm'}
+Habeas Corp.	{'twitter_url': ' https://twitter.com/habeascorp?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/habeas-corp'}
+Autriv Software Development	{'twitter_url': ' https://twitter.com/autriv?lang=en'}
+ClearstoneIP	{'twitter_url': ' https://twitter.com/clearstoneip?lang=en'}
+Legal Passage	{'facebook_url': ' https://www.facebook.com/Passagelaw/services/',  'linkedin_url': ' https://www.linkedin.com/company/passagelaw'}
 ContactRoom	{'facebook_url': ' https://www.facebook.com/contactspace/', 'crunchbase_url': ' https://www.crunchbase.com/organization/contract-room', 'linkedin_url': ' https://au.linkedin.com/company/contactspace'}
-Cryptonomica	{'angellist_url': ' https://angel.co/company/iacc-1'}
 Doctrine.fr	{'twitter_url': ' https://twitter.com/doctrine?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/doctrine', 'angellist_url': ' https://angel.co/company/doctrine_legal/people', 'linkedin_url': ' https://www.linkedin.com/company/doctrine'}
-Esquify	{'angellist_url': ' https://angel.co/company/network-ventures/funding'}
-Get Legal Counsel	{'twitter_url': ' https://twitter.com/vijaya?lang=en', 'facebook_url': ' https://www.cnbc.com/2019/04/22/facebook-hires-top-state-department-lawyer-as-general-counsel.html', 'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs', 'linkedin_url': ' https://www.linkedin.com/jobs/legal-counsel-jobs'}
-Infinote	{'angellist_url': ' https://angel.co/company/infinite-analytics/jobs'}
-Intake 123	{'twitter_url': ' https://twitter.com/jaha_aha?lang=en', 'facebook_url': ' https://www.facebook.com/intakegrill/', 'crunchbase_url': ' https://www.crunchbase.com/organization/intake'}
+Get Legal Counsel	{ 'linkedin_url': ' https://www.linkedin.com/jobs/legal-counsel-jobs'}
+Intake 123	{'facebook_url': ' https://www.facebook.com/intakegrill/', 'crunchbase_url': ' https://www.crunchbase.com/organization/intake'}
 IPStreet	{'twitter_url': ' https://twitter.com/ipstreet?lang=en', 'facebook_url': ' https://www.facebook.com/pages/Olympic-ipst/486688764733943', 'crunchbase_url': ' https://www.crunchbase.com/organization/ip-street', 'angellist_url': ' https://angel.co/company/ip-street', 'linkedin_url': ' https://www.linkedin.com/company/hipstreet'}
 jEugene	{'twitter_url': ' https://twitter.com/eugenegu?lang=en', 'facebook_url': ' https://www.facebook.com/public/Eugene', 'angellist_url': ' https://angel.co/p/eugene_zhang', 'linkedin_url': ' https://www.linkedin.com/company/eugene-labs'}
-kCura	{'twitter_url': ' https://twitter.com/RelativityHQ?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/RelativityHQ/'}
-Killer Kontracts	{'angellist_url': ' https://angel.co/freelancers', 'linkedin_url': ' https://www.linkedin.com/pulse/contract-killers-malcolm-wild'}
-ZeeBeek	{'facebook_url': ' https://www.facebook.com/michaelclancylaw/'}
-Wire Lawyer	{'twitter_url': ' https://twitter.com/thewire_in/status/1240164303316979713?lang=en', 'facebook_url': ' https://www.facebook.com/public/Wire-Law?page=3', 'crunchbase_url': ' https://www.crunchbase.com/organization/wires-law', 'angellist_url': ' https://angel.co/company/wirestork', 'linkedin_url': ' https://www.linkedin.com/in/kenneth-wire-9b3b35bb'}
-Law on the Web	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support', 'angellist_url': ' https://angel.co/help'}
-LawGo	{'linkedin_url': ' https://www.linkedin.com/company/h-d--john-enterprise-law'}
-Lawline	{'angellist_url': ' https://angel.co/company/handshake'}
-LawSchoolProfs	{'facebook_url': ' https://www.facebook.com/aesdeplaw/photos/a.352475328721405/577493929552876/?type=3', 'angellist_url': ' https://angel.co/jake-douglas', 'linkedin_url': ' https://uk.linkedin.com/in/jose-miola-40617618'}
+Wire Lawyer	{'facebook_url': ' https://www.facebook.com/public/Wire-Law?page=3', 'crunchbase_url': ' https://www.crunchbase.com/organization/wires-law', 'angellist_url': ' https://angel.co/company/wirestork', }
 LawStudio	{'twitter_url': ' https://twitter.com/lawstud_io?lang=en'}
-LawToons	{'angellist_url': ' https://angel.co/sarah-kamiel', 'linkedin_url': ' https://www.linkedin.com/company/lawtons-drugs'}
-"{" twitter_url": " https://twitter.com/hashtag/lawurli"	{'twitter_url': ' https://twitter.com/hashtag/lawurli', 'facebook_url': ' https://www.facebook.com/public/Oils-Lawuri'}
-Legal Equalizer	{'twitter_url': ' https://twitter.com/legaleqapp?lang=en'}
 Legal Interactive Services	{'twitter_url': ' https://twitter.com/lsctweets/status/596366384482750464', 'facebook_url': ' http://www.legaltxts.com/court-recognizes-facebook-as-an-interactive-computer-service/', 'crunchbase_url': ' https://www.crunchbase.com/organization/interactive-services', 'angellist_url': ' https://angel.co/company/legalio', 'linkedin_url': ' https://www.linkedin.com/company/interactive-legal'}
-Legal Linkup	{'twitter_url': ' https://twitter.com/linkupofficial', 'angellist_url': ' https://angel.co/legal'}
-Legal Talk Network	{'twitter_url': ' https://twitter.com/LegalTalkNet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-LexBlog	{'angellist_url': ' https://angel.co/christopher-rachal'}
+Legal Linkup	{'twitter_url': ' https://twitter.com/linkupofficial'}
 Workshare Transact	{'facebook_url': ' https://en-gb.facebook.com/Workshare/', 'linkedin_url': ' https://zw.linkedin.com/company/workshare'}
-Local Lawyer	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs'}
-SeRiouS	{'facebook_url': ' https://www.facebook.com/seriouslivemusic/', 'crunchbase_url': ' https://www.crunchbase.com/organization/seriously', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/serious'}
-Legal Space	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'angellist_url': ' https://angel.co/company/lawtrades'}
-LegalServer	{'angellist_url': ' https://angel.co/emilyinamillion'}
-Should I Sign	{'twitter_url': ' https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/'}
-BookLawyer	{'angellist_url': ' https://angel.co/startups/1311233'}
-Law4TW	{'facebook_url': ' https://www.facebook.com/law4tw/', 'crunchbase_url': ' https://www.crunchbase.com/organization/law4tw', 'angellist_url': ' https://angel.co/company/appworks/funding'}
+Law4TW	{'facebook_url': ' https://www.facebook.com/law4tw/', 'crunchbase_url': ' https://www.crunchbase.com/organization/law4tw'}
 Kira Systems	{'crunchbase_url': ' https://www.crunchbase.com/organization/kira'}
 Beagle.ai	{'facebook_url': ' https://www.facebook.com/beagleinc/', 'crunchbase_url': ' https://www.crunchbase.com/organization/beagle-inc', 'linkedin_url': ' https://www.linkedin.com/company/beagle-inc-'}
-NextGen Reporting	{'twitter_url': ' https://twitter.com/nextgenrptg', 'angellist_url': ' https://angel.co/company/nextgen-america/jobs/715576-organizer'}
+NextGen Reporting	{'twitter_url': ' https://twitter.com/nextgenrptg'}
 DTI Global	{'crunchbase_url': ' https://www.crunchbase.com/organization/dti', 'linkedin_url': ' https://www.linkedin.com/company/dti-llc'}
-MyCourtCase	{'angellist_url': ' https://angel.co/company/legaloptics'}
-Civil Soot	{'twitter_url': ' https://twitter.com/civil?lang=en', 'facebook_url': ' https://www.facebook.com/290884574732347/posts/how-many-soot-in-1-inch-/453355448485258/'}
+Civil Soot	{'twitter_url': ' https://twitter.com/civil?lang=en'}
 Prédictice SAS	{'facebook_url': ' https://www.facebook.com/SASsoftware', 'crunchbase_url': ' https://www.crunchbase.com/organization/predictice', 'linkedin_url': ' https://www.linkedin.com/company/predictice'}
 Foundation Software Group	{'twitter_url': ' https://twitter.com/foundationsg?lang=en'}
-DirectLaw	{'angellist_url': ' https://angel.co/l/2jDCuR'}
-Lit IQ	{'facebook_url': ' https://www.facebook.com/business/insights', 'crunchbase_url': ' https://www.crunchbase.com/organization/text-iq', 'linkedin_url': ' https://www.linkedin.com/company/textiq'}
-Judgment Pay	{'twitter_url': ' https://twitter.com/joshuarozenberg/status/1255437563315265538', 'facebook_url': ' https://www.facebook.com/pages/category/Financial-Service/Judgment-Enforcement-Solution-Inc-643465839092692/', 'angellist_url': ' https://angel.co/help', 'linkedin_url': ' https://www.linkedin.com/company/judgment-recovery-services'}
-123recht.net	{'linkedin_url': ' https://www.linkedin.com/company/qnc-gmbh'}
 Avostart.fr	{'twitter_url': ' https://twitter.com/avostart?lang=en'}
-Law Genius	{'twitter_url': ' https://twitter.com/legalgeniuspllc?lang=en', 'angellist_url': ' https://angel.co/company/policygenius', 'linkedin_url': ' https://www.linkedin.com/in/rebecca-siegel-25a98730'}
-OSET Institute	{'twitter_url': ' https://twitter.com/oset?lang=en', 'facebook_url': ' https://upload.latest.facebook.com/osetfoundation/about/', 'crunchbase_url': ' https://www.crunchbase.com/organization/osdv-foundation', 'angellist_url': ' https://angel.co/company/j-p-morgan-asset-management/people', 'linkedin_url': ' https://www.linkedin.com/company/open-source-digital-voting-foundation'}
+Law Genius	{'twitter_url': ' https://twitter.com/legalgeniuspllc?lang=en', 'angellist_url': ' https://angel.co/company/policygenius'}
+OSET Institute	{'twitter_url': ' https://twitter.com/oset?lang=en', 'facebook_url': ' https://upload.latest.facebook.com/osetfoundation/about/',}
 MyOnlineCA	{'twitter_url': ' https://twitter.com/myonlineca?lang=en', 'angellist_url': ' https://angel.co/company/myonlineca-in'}
 EXOCHAIN	{'twitter_url': ' https://twitter.com/exochainlynk?lang=en', 'angellist_url': ' https://angel.co/company/exochain'}
-Lexcarts	{'angellist_url': ' https://angel.co/company/getinstacash'}
-openlaws gmbh	{'facebook_url': ' https://www.facebook.com/openlaws.AT/about/', 'crunchbase_url': ' https://www.crunchbase.com/organization/openlaws', 'angellist_url': ' https://angel.co/company/call9', 'linkedin_url': ' https://www.linkedin.com/company/openlaws'}
+openlaws gmbh	{'facebook_url': ' https://www.facebook.com/openlaws.AT/about/', 'crunchbase_url': ' https://www.crunchbase.com/organization/openlaws', 'linkedin_url': ' https://www.linkedin.com/company/openlaws'}
 Premonition Analytics	{'crunchbase_url': ' https://www.crunchbase.com/organization/premonition', 'angellist_url': ' https://angel.co/company/premonition-io'}
-Legal Miner	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'angellist_url': ' https://angel.co/legal-tech-1'}
-Octimine Technologies	{'facebook_url': ' https://www.facebook.com/octimine/', 'angellist_url': ' https://angel.co/'}
-Functional Imperative	{'angellist_url': ' https://angel.co/company/alternate36/jobs/522137-junior-software-engineer'}
-Compendor GmbH	{'twitter_url': ' https://twitter.com/vindlergmbh?lang=en', 'facebook_url': ' https://www.facebook.com/acceleratorfrankfurt/photos/a.1090509527749101/1090511074415613/?type=3', 'crunchbase_url': ' https://www.crunchbase.com/organization/compendor'}
-ClientSide	{'twitter_url': ' https://developer.twitter.com/en/docs/developer-utilities/twitter-libraries', 'facebook_url': ' https://developers.facebook.com/docs/audience-network/guides/test/inserted-code/', 'angellist_url': ' https://angel.co/company/around-7/jobs'}
-Witnex	{'twitter_url': ' https://twitter.com/witnessorg?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/alfredo-chang'}
-Lex.be	{'twitter_url': ' https://twitter.com/lexmobilegaming?lang=en', 'angellist_url': ' https://angel.co/company/lexmarkets/jobs'}
-LawSpot	{'angellist_url': ' https://angel.co/adam-thompson-eu-outlook-com'}
-Prolorem	{'twitter_url': ' https://twitter.com/br_/status/984280011313111040', 'facebook_url': ' https://www.facebook.com/pro.lorem', 'linkedin_url': ' https://www.linkedin.com/pulse/20140617222032-39402-the-operational-center-of-gravity-of-ediscovery-providers-a-look-at-130-vendors'}
-Effacts	{'angellist_url': ' https://angel.co/company/effect-international'}
-Stanford Securities Litigation Analytics	{'linkedin_url': ' https://www.linkedin.com/in/jasonhegland'}
+Octimine Technologies	{'facebook_url': ' https://www.facebook.com/octimine/'}
+Compendor GmbH	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/compendor'}
 Legal OnRamp	{'twitter_url': ' https://twitter.com/onramprrp', 'facebook_url': ' https://www.facebook.com/OnRampFellowship/', 'crunchbase_url': ' https://www.crunchbase.com/organization/onramp-systems', 'angellist_url': ' https://angel.co/legal', 'linkedin_url': ' https://www.linkedin.com/company/onramp-systems-inc.'}
-VisiRule	{'crunchbase_url': ' https://www.crunchbase.com/organization/logic-programming-associates', 'linkedin_url': ' https://www.linkedin.com/company/lpa-ltd'}
-CommonAccord	{'angellist_url': ' https://angel.co/michael-chan-7'}
-DP-O Internet GmbH	{'twitter_url': ' https://twitter.com/privacy', 'facebook_url': ' https://www.facebook.com/DPOConsult/?ref=py_c&__xts__', 'crunchbase_url': ' https://www.crunchbase.com/organization/siteimprove', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/techgdpr'}
 Obvious	{'twitter_url': ' https://twitter.com/obv_ious?lang=en'}
-Common Company	{'twitter_url': ' https://twitter.com/common?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/hellocommon/', 'crunchbase_url': ' https://www.crunchbase.com/organization/common-2'}
-DocAssemble	{'angellist_url': ' https://angel.co/legal/jobs'}
 Elementary IP	{'twitter_url': ' https://twitter.com/elementary?lang=en'}
-Marktplatz-Recht	{'twitter_url': ' https://twitter.com/marktplatzrecht?lang=en', 'linkedin_url': ' https://de.linkedin.com/in/oschwartz/en'}
-Co/Counsel	{'twitter_url': ' https://twitter.com/shonhopwood/status/1237378381508902912', 'facebook_url': ' https://www.facebook.com/groups/1886821438276111/', 'crunchbase_url': ' https://www.crunchbase.com/organization/cocounsel', 'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs', 'linkedin_url': ' https://www.linkedin.com/company/cocounsel?trk=similar-pages_result-card_full-click'}
-NovusLaw	{'angellist_url': ' https://angel.co/joseph-kelly-11'}
-LawMoose	{'facebook_url': ' https://www.facebook.com/pages/category/Community/Lawmuse-Gueule-2081155398791730/', 'linkedin_url': ' https://www.linkedin.com/in/lavern-pritchard-7a972'}
-Ross	{'twitter_url': ' https://twitter.com/RubberNinja?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Google Patents	{'twitter_url': ' https://twitter.com/googlepatent?lang=en', 'angellist_url': ' https://angel.co/company/patents-integrated', 'linkedin_url': ' https://www.linkedin.com/in/mleemichael'}
-Patnav	{'twitter_url': ' https://twitter.com/patnapirates?lang=en', 'facebook_url': ' https://www.facebook.com/public/Pat-Nav?page=4', 'crunchbase_url': ' https://www.crunchbase.com/organization/atiliotech', 'angellist_url': ' https://angel.co/company/nit-patna', 'linkedin_url': ' https://www.linkedin.com/company/patna-marathon'}
+Marktplatz-Recht	{'twitter_url': ' https://twitter.com/marktplatzrecht?lang=en'}
+Co/Counsel	{'crunchbase_url': ' https://www.crunchbase.com/organization/cocounsel', 'linkedin_url': ' https://www.linkedin.com/company/cocounsel?trk=similar-pages_result-card_full-click'}
+Google Patents	{'twitter_url': ' https://twitter.com/googlepatent?lang=en'}
 ClearAccessIP	{'twitter_url': ' https://twitter.com/clearaccessip', 'crunchbase_url': ' https://www.crunchbase.com/organization/clearaccessip'}
-Lex Quantus Analytics	{'twitter_url': ' https://twitter.com/lq_analytics', 'angellist_url': ' https://angel.co/company/lexmarkets/jobs', 'linkedin_url': ' https://ca.linkedin.com/pub/mkhuseli-mthukwane/41/a90/4?trk=seokp_posts_primary_cluster_res_author_name'}
-PacerPro	{'angellist_url': ' https://angel.co/matt-hargett'}
-Foxwordy Inc.	{'linkedin_url': ' https://www.linkedin.com/in/monicazent'}
-Deftr	{'twitter_url': ' https://twitter.com/drxglobal/status/1196359860993945600?lang=en', 'angellist_url': ' https://angel.co/company/deft-1'}
-Everchron	{'angellist_url': ' https://angel.co/courtney-gonzales-1'}
+Lex Quantus Analytics	{'angellist_url': ' https://angel.co/company/lexmarkets/jobs', 'linkedin_url': ' https://ca.linkedin.com/pub/mkhuseli-mthukwane/41/a90/4?trk=seokp_posts_primary_cluster_res_author_name'}
 loom analytics	{'crunchbase_url': ' https://www.crunchbase.com/funding_round/loom-systems-series-a--5b5a3d14', 'angellist_url': ' https://angel.co/company/useloom'}
-Traklight	{'angellist_url': ' https://angel.co/andrew-bart'}
-Coherent Knowledge	{'twitter_url': ' https://twitter.com/coherentinc?lang=en', 'angellist_url': ' https://angel.co/p/chuck-stormon'}
+Coherent Knowledge	{'twitter_url': ' https://twitter.com/coherentinc?lang=en'}
 LEVERTON	{'twitter_url': ' https://twitter.com/leverton?lang=en', 'facebook_url': ' https://www.facebook.com/LEVERTONai/', 'crunchbase_url': ' https://www.crunchbase.com/organization/leverton', 'angellist_url': ' https://angel.co/company/leverton', 'linkedin_url': ' https://www.linkedin.com/company/leverton'}
 Paper Software	{'angellist_url': ' https://angel.co/company/paperhq'}
 Epiq Systems	{'facebook_url': ' https://www.facebook.com/EpiqGlobal/', 'linkedin_url': ' https://www.linkedin.com/company/epiqglobal'}
 Compensation2Go GmbH	{'twitter_url': ' https://twitter.com/compensation2go?lang=en', 'facebook_url': ' https://www.facebook.com/Compensation2Go/', 'linkedin_url': ' https://www.linkedin.com/company/compensation2go'}
 PredictGov	{'crunchbase_url': ' https://www.crunchbase.com/organization/govpredict', 'linkedin_url': ' https://www.linkedin.com/company/govpredict'}
-Starting Legal	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'angellist_url': ' https://angel.co/legal'}
-Riverview Law	{'angellist_url': ' https://angel.co/legal'}
-eLakitoimisto OÜ	{'facebook_url': ' https://www.facebook.com/eLakitoimisto/shop?rid=1409965599278692&rt=6', 'crunchbase_url': ' https://www.crunchbase.com/organization/elakitoimisto', 'linkedin_url': ' https://fi.linkedin.com/in/niko-laukkonen-ba817a48'}
+eLakitoimisto OÜ	{'facebook_url': ' https://www.facebook.com/eLakitoimisto/shop?rid=1409965599278692&rt=6', 'crunchbase_url': ' https://www.crunchbase.com/organization/elakitoimisto'}
 Bend Law Group	{'crunchbase_url': ' https://www.crunchbase.com/organization/bend-law-office'}
-Surukam Analytics	{'crunchbase_url': ' https://www.crunchbase.com/organization/surukam', 'angellist_url': ' https://angel.co/company/hasgrid', 'linkedin_url': ' https://www.linkedin.com/company/surukam'}
-elAbogado.com	{'angellist_url': ' https://angel.co/esteban-saavedra'}
-GoldFynch	{'twitter_url': ' https://twitter.com/ediscoveryhq?lang=en', 'angellist_url': ' https://angel.co/company/goldfinch-bio'}
-Closing Folders Inc.	{'facebook_url': ' https://www.facebook.com/superiortitleservicesllc/photos/a.385117272224078/738650320204103/?type=3&eid=ARDMLtQFXrW5z3_ThOIIzgQBggqkpitZTxWzGCG78R6E76269e3DMiEf1TYeQic77Dc2dfXJivhjizZU'}
-FAQ Recht	{'twitter_url': ' https://twitter.com/beenwrekt?lang=en', 'angellist_url': ' https://angel.co/help'}
+GoldFynch	{'angellist_url': ' https://angel.co/company/goldfinch-bio'}
 MyMotionCalendar	{'twitter_url': ' https://twitter.com/mymotioncalendr?lang=en'}
-MeilleursHonoraires.com	{'facebook_url': ' https://www.facebook.com/MeilleursHono/'}
-Justice Toolbox	{'angellist_url': ' https://angel.co/company/courtroom5', 'linkedin_url': ' https://www.linkedin.com/in/bryant-lee'}
-Mobile Helix	{'angellist_url': ' https://angel.co/company/myhelix'}
 NORMDECS	{'twitter_url': ' https://twitter.com/normdecs'}
-Legal IT Group	{'twitter_url': ' https://twitter.com/globallegalgrp?lang=en', 'angellist_url': ' https://angel.co/company/u-s-law-group'}
 Court Innovations Inc.	{'facebook_url': ' https://www.facebook.com/courtinnovate', 'linkedin_url': ' https://www.linkedin.com/company/courtinnovate'}
-Conflicteam	{'linkedin_url': ' https://il.linkedin.com/in/david-lagziel-88621067'}
-CASEpeer	{'twitter_url': ' https://twitter.com/CASEpeer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/twigtale/people'}
 LLM	{'facebook_url': ' https://www.facebook.com/LLMGuide/', 'crunchbase_url': ' https://www.crunchbase.com/organization/llm-capital-partners', 'angellist_url': ' https://angel.co/llm-financial-law/jobs', 'linkedin_url': ' https://www.linkedin.com/company/llm'}
-SimpleCitizen	{'angellist_url': ' https://angel.co/company/investo-1/funding'}
-InteLease Inc.	{'facebook_url': ' https://www.facebook.com/public/Aaporv-Khandelwal', 'linkedin_url': ' https://www.linkedin.com/company/theadexai'}
-i-Wisdom Business Partners	{'twitter_url': ' https://twitter.com/bizpartnersint', 'angellist_url': ' https://angel.co/company/1776'}
-Lawyaw	{'angellist_url': ' https://angel.co/company/ataria-ventures-2/funding'}
-Tologix Expert Systems Inc.	{'facebook_url': ' https://www.facebook.com/global.expert.systems/', 'crunchbase_url': ' https://www.crunchbase.com/organization/tologix', 'angellist_url': ' https://angel.co/company/brainsyinc', 'linkedin_url': ' https://www.linkedin.com/company/expert-systems-inc'}
-RPX	{'twitter_url': ' https://twitter.com/red_pulse_china/status/900750273857167360?lang=en', 'facebook_url': ' https://www.facebook.com/RPXOneStopLogistics', 'angellist_url': ' https://angel.co/company/rpx-1', 'linkedin_url': ' https://www.linkedin.com/company/rpx-corporation'}
-Legalese 2.0	{'facebook_url': ' https://www.facebook.com/groups/1875396739429289', 'linkedin_url': ' https://www.linkedin.com/company/v2comms'}
-Microsystems	{'facebook_url': ' https://www.businessinsider.com/why-suns-logo-is-on-the-back-of-facebooks-sign-2014-12'}
-SKUANI Ltd.	{'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/in/christoph-k%25C3%25BCng-6a605654'}
-Legal Insights	{'twitter_url': ' https://twitter.com/gli_glg?lang=en', 'angellist_url': ' https://angel.co/r/san-francisco/lawyer/jobs'}
-Early Neutral Appraisals (ENAp)	{'crunchbase_url': ' https://www.crunchbase.com/organization/litpredict', 'linkedin_url': ' https://www.linkedin.com/company/adrservices'}
-CounselHQ	{'facebook_url': ' https://www.facebook.com/pages/category/TV-Network/Counsel-HQ-149643109257992/'}
-Dalton One Legal Technologies	{'twitter_url': ' https://twitter.com/ronfriedmann?lang=en', 'facebook_url': ' https://www.facebook.com/ILTANet/'}
-LegalOne Inc	{'twitter_url': ' https://twitter.com/smbonline360', 'angellist_url': ' https://angel.co/legal-tech-1'}
-Doctual Ltd.	{'facebook_url': ' https://www.facebook.com/uoldocschool/'}
-LegalOptics	{'linkedin_url': ' https://www.linkedin.com/in/sam-harden-5382b114'}
-Legalist Online On Hukuk Hizmetleri A.S.	{'facebook_url': ' https://www.facebook.com/LegalistLaw/', 'linkedin_url': ' https://it.linkedin.com/in/orhangaziyalcin/en-us'}
-NextLex Inc	{'facebook_url': ' https://www.facebook.com/netflix/', 'crunchbase_url': ' https://www.crunchbase.com/organization/netflix', 'angellist_url': ' https://angel.co/company/netflix', 'linkedin_url': ' https://www.linkedin.com/company/netflix'}
-LAWPP	{'facebook_url': ' https://www.facebook.com/RofaLawp', 'crunchbase_url': ' https://www.crunchbase.com/organization/lawpp', 'angellist_url': ' https://angel.co/michael-andrew-iseri', 'linkedin_url': ' https://www.linkedin.com/in/mikeiseri'}
-Lawsnote	{'angellist_url': ' https://angel.co/company/appworks/funding'}
-Catalyst Repository Systems	{'twitter_url': ' https://twitter.com/catalystsecure?lang=en'}
+Tologix Expert Systems Inc.	{'crunchbase_url': ' https://www.crunchbase.com/organization/tologix', 'angellist_url': ' https://angel.co/company/brainsyinc', 'linkedin_url': ' https://www.linkedin.com/company/expert-systems-inc'}
+LAWPP	{'facebook_url': ' https://www.facebook.com/RofaLawp', 'crunchbase_url': ' https://www.crunchbase.com/organization/lawpp', 'angellist_url': ' https://angel.co/michael-andrew-iseri'}
 INTELLLEX	{'facebook_url': ' https://www.facebook.com/intelllex/', 'crunchbase_url': ' https://www.crunchbase.com/organization/intelllex', 'linkedin_url': ' https://sg.linkedin.com/company/intelllex'}
-iDisclose	{'angellist_url': ' https://angel.co/company/altaclaro'}
 Codify Legal Publishing	{'twitter_url': ' https://twitter.com/codifylegal'}
-Casetab	{'angellist_url': ' https://angel.co/rosenjd4'}
-LawHawk Limited	{'facebook_url': ' https://www.facebook.com/lawhawknz/', 'angellist_url': ' https://angel.co/'}
-Road to Status	{'angellist_url': ' https://angel.co/help'}
-eDCaseMAN	{'twitter_url': ' https://twitter.com/hashtag/edcaseman', 'angellist_url': ' https://angel.co/nicola-petersen'}
-Law Data Science	{'facebook_url': ' https://www.facebook.com/careers/jobs/177120650205166/', 'angellist_url': ' https://angel.co/company/arbilex/jobs/470345-data-scientist'}
-Courting The Law	{'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs'}
-Mohtasib	{'angellist_url': ' https://angel.co/muhammad-ali-86'}
+LawHawk Limited	{'facebook_url': ' https://www.facebook.com/lawhawknz/'}
+eDCaseMAN	{'twitter_url': ' https://twitter.com/hashtag/edcaseman'}
 Sheriasoft Technologies	{'facebook_url': ' https://www.facebook.com/SheriaSoft'}
-Dataprise	{'angellist_url': ' https://angel.co/company/dmvgeeks'}
-MediaRebel	{'angellist_url': ' https://angel.co/company/everydae/jobs'}
-Esqalate	{'linkedin_url': ' https://www.linkedin.com/company/escalate-capital'}
-LegalKite Ltd	{'twitter_url': ' https://twitter.com/inc', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://ch.linkedin.com/in/massoud-zekeria'}
 Bloomberg BNA	{'facebook_url': ' https://www.facebook.com/bloomberglaw1/', 'crunchbase_url': ' https://www.crunchbase.com/organization/bna'}
 Independent Strategies Digital	{'twitter_url': ' https://twitter.com/dd_isd?lang=en'}
 XRef Software Solutions	{'facebook_url': ' https://www.facebook.com/Xref.Official/', 'linkedin_url': ' https://au.linkedin.com/company/xref'}
 Practice League Legaltech Pvt. Ltd.	{'facebook_url': ' https://www.facebook.com/PracticeLeagueLegaltech', 'crunchbase_url': ' https://www.crunchbase.com/organization/uberall-practice-league', 'angellist_url': ' https://angel.co/legal-tech-1', 'linkedin_url': ' https://www.linkedin.com/company/practiceleague'}
-EDocGen LLC	{'angellist_url': ' https://angel.co/'}
-Moodul	{'crunchbase_url': ' https://www.crunchbase.com/organization/moodle', 'angellist_url': ' https://angel.co/moodle-2/jobs', 'linkedin_url': ' https://me.linkedin.com/pub/patrick-durst/44/185/827'}
-Tali	{'twitter_url': ' https://twitter.com/xitllaliloya?lang=en'}
 Information Navigators	{'crunchbase_url': ' https://www.crunchbase.com/organization/navigator', 'angellist_url': ' https://angel.co/company/navigator-hq'}
-Compliance Qaurter	{'twitter_url': ' https://developer.twitter.com/en/docs/tweets/compliance/guides/compliance-best-practices', 'facebook_url': ' https://www.facebook.com/ComplianceQuarter/', 'crunchbase_url': ' https://www.crunchbase.com/organization/compliance-quarter', 'angellist_url': ' https://angel.co/company/compliancekonnect', 'linkedin_url': ' https://developer.linkedin.com/docs/v1/compliance'}
-Justiça Simples	{'crunchbase_url': ' https://www.crunchbase.com/organization/justi%C3%A7a-simples', 'angellist_url': ' https://angel.co/company/simple-finance-1', 'linkedin_url': ' https://www.linkedin.com/company/justice---advancing-access-to-justice-human-rights-and-the-rule-of-law'}
-Hot Neuron LLC	{'angellist_url': ' https://angel.co/company/neuron-1/jobs', 'linkedin_url': ' https://www.linkedin.com/company/neuronuxdesign'}
-elementaryIP	{'twitter_url': ' https://twitter.com/elementary_cbs?lang=en', 'facebook_url': ' https://www.facebook.com/pages/ElementaryIP/182854265402138', 'crunchbase_url': ' https://www.crunchbase.com/organization/elementary-ip', 'angellist_url': ' https://angel.co/company/elementary-robotics-1', 'linkedin_url': ' https://www.linkedin.com/company/elementary'}
-LegalThings One	{'facebook_url': ' https://touch.facebook.com/getlegalthings/?__tn__=%2As-R', 'crunchbase_url': ' https://www.crunchbase.com/organization/legalthings', 'angellist_url': ' https://angel.co/company/myonlineca-in', 'linkedin_url': ' https://www.linkedin.com/company/legalthings'}
-Ogayar Co.	{'twitter_url': ' https://twitter.com/lacopublicworks?lang=en', 'facebook_url': ' https://www.facebook.com/public/Marc-Ogayar', 'crunchbase_url': ' https://www.crunchbase.com/organization/ogayar-co', 'angellist_url': ' https://angel.co/'}
-INIRES	{'facebook_url': ' https://www.facebook.com/inire.net/', 'crunchbase_url': ' https://www.crunchbase.com/organization/inires', 'angellist_url': ' https://angel.co/pranshu-dixit'}
-legalefacile.com	{'linkedin_url': ' https://www.linkedin.com/in/ilir-zela-429554112'}
+elementaryIP	{ 'facebook_url': ' https://www.facebook.com/pages/ElementaryIP/182854265402138', 'crunchbase_url': ' https://www.crunchbase.com/organization/elementary-ip',  'linkedin_url': ' https://www.linkedin.com/company/elementary'}
+Ogayar Co.	{ 'facebook_url': ' https://www.facebook.com/public/Marc-Ogayar', 'crunchbase_url': ' https://www.crunchbase.com/organization/ogayar-co'}
+INIRES	{'facebook_url': ' https://www.facebook.com/inire.net/', 'crunchbase_url': ' https://www.crunchbase.com/organization/inires'}
 LexDo.it Srl	{'facebook_url': ' https://it-it.facebook.com/www.LexDo.it/', 'linkedin_url': ' https://it.linkedin.com/company/lexdo-it-srl'}
-Xcential Legislative Technologies	{'linkedin_url': ' https://www.linkedin.com/company/xcential-group-llc'}
-WorthIT Legal	{'twitter_url': ' https://twitter.com/stevenkwlim?lang=en', 'facebook_url': ' https://www.facebook.com/HMLegalGroup/photos/always-worth-it-thoughlegal-disclaimer-do-not-take-this-meme-to-be-legal-advice-/2278995885710933/', 'angellist_url': ' https://angel.co/legal', 'linkedin_url': ' https://www.linkedin.com/feed/news/law-degrees-may-not-cash-in-5108026'}
 ObjectiveManager	{'twitter_url': ' https://twitter.com/objective_mgr?lang=en'}
-Case.one	{'twitter_url': ' https://twitter.com/caseadvance?lang=en', 'angellist_url': ' https://angel.co/help'}
-XSUD	{'twitter_url': ' https://twitter.com/anjsud?lang=en', 'facebook_url': ' https://www.facebook.com/public/Xsud?page=2', 'crunchbase_url': ' https://www.crunchbase.com/organization/xsud', 'angellist_url': ' https://angel.co/company/wheepl', 'linkedin_url': ' https://www.linkedin.com/in/anjalisud'}
-Juscutum	{'angellist_url': ' https://angel.co/margarita-sivakova-1'}
-CoralDocs	{'twitter_url': ' https://twitter.com/jordanlcouch/status/976108857176018944', 'facebook_url': ' https://www.facebook.com/pages/Waters-of-the-World/353288541917917'}
-VistaDraft LTD	{'twitter_url': ' https://twitter.com/inc', 'facebook_url': ' https://www.facebook.com/OfficialNICELtd/'}
+XSUD	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/xsud'}
 Directive Communication Systems	{'facebook_url': ' https://www.facebook.com/directivecomms/'}
-thingsTHINKING GmbH	{'facebook_url': ' https://www.facebook.com/embever/community/?ref=page_internal', 'crunchbase_url': ' https://www.crunchbase.com/organization/thingsthinking', 'angellist_url': ' https://angel.co/company/colabel', 'linkedin_url': ' https://www.linkedin.com/company/thingsthinking'}
-Class Action App	{'twitter_url': ' https://twitter.com/classaction_org?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/class-action-inc', 'angellist_url': ' https://angel.co/company/action-network-1', 'linkedin_url': ' https://www.lieffcabraser.com/privacy/linkedin/'}
-smartwork solutions GmbH	{'crunchbase_url': ' https://www.crunchbase.com/organization/smashdocs', 'angellist_url': ' https://angel.co/company/smartwork-design-co/jobs', 'linkedin_url': ' https://www.linkedin.com/company/smartwork-solutions'}
-Run the Call	{'crunchbase_url': ' https://www.crunchbase.com/person/adam-codilis'}
-Fair Outcomes	{'facebook_url': ' https://www.facebook.com/FairVoteReform/posts/3352514648094629', 'angellist_url': ' https://angel.co/company/crowdstaff', 'linkedin_url': ' https://www.linkedin.com/company/siegfried-and-jensen'}
-KawGro Inc	{'facebook_url': ' https://www.facebook.com/Inc/', 'linkedin_url': ' https://www.linkedin.com/company/linkedin'}
+thingsTHINKING GmbH	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/thingsthinking', 'linkedin_url': ' https://www.linkedin.com/company/thingsthinking'}
+Class Action App	{'twitter_url': ' https://twitter.com/classaction_org?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/class-action-inc'}
+smartwork solutions GmbH	{'linkedin_url': ' https://www.linkedin.com/company/smartwork-solutions'}
 Zola Suite	{'angellist_url': ' https://angel.co/company/zsuite'}
-1Law	{'angellist_url': ' https://angel.co/ajasonvelez'}
-Accord Project	{'twitter_url': ' https://twitter.com/accordhq?lang=en', 'angellist_url': ' https://angel.co/l/2jzHXQ'}
+Accord Project	{'twitter_url': ' https://twitter.com/accordhq?lang=en'}
 Advobot	{'twitter_url': ' https://twitter.com/advo_bot?lang=en', 'angellist_url': ' https://angel.co/company/advobo'}
 Advokatami.bg	{'twitter_url': ' https://twitter.com/advokatami?lang=en'}
 zhiANT	{'facebook_url': ' https://www.facebook.com/zhiantglobal/', 'linkedin_url': ' https://sg.linkedin.com/company/zhiant'}
-Agreemint	{'twitter_url': ' https://developer.twitter.com/en/developer-terms/agreement-and-policy'}
-Workproducts Inc	{'twitter_url': ' https://twitter.com/hashtag/workproduct', 'facebook_url': ' https://www.facebook.com/workproduct/', 'linkedin_url': ' https://www.linkedin.com/company/workizer-work-products-inc'}
-VR-Mail	{'twitter_url': ' https://twitter.com/oculus?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/vrprintuk'}
-American Startup	{'facebook_url': ' https://developers.facebook.com/startups/'}
-Amicable Apps	{'crunchbase_url': ' https://www.crunchbase.com/organization/amicable'}
-VoiLaw	{'twitter_url': ' https://help.twitter.com/en/using-twitter/follow-and-unfollow-topics', 'facebook_url': ' https://www.facebook.com/public/Prisca-Volaw', 'linkedin_url': ' https://www.linkedin.com/in/neil-marriott-498a6391'}
-VIsafolder	{'linkedin_url': ' https://www.linkedin.com/in/angelaluciano'}
-Virtual Legal	{'angellist_url': ' https://angel.co/legal-tech-1'}
 Weblaw AG	{'facebook_url': ' https://www.facebook.com/weblaw.ch', 'crunchbase_url': ' https://www.crunchbase.com/organization/weblaw', 'linkedin_url': ' https://www.linkedin.com/company/weblaw'}
-AI Lawracle	{'facebook_url': ' https://www.facebook.com/Lawracle-165638897309609/posts/?ref=page_internal', 'angellist_url': ' https://angel.co/company/a-i-lawracle', 'linkedin_url': ' https://engineering.linkedin.com/blog/topic/artificial-intelligence'}
-Alster Legal	{'angellist_url': ' https://angel.co/legal'}
-Amendment.io	{'twitter_url': ' https://twitter.com/firstamendwatch?lang=en', 'facebook_url': ' https://www.wired.com/story/facebook-first-amendment-backwards/', 'linkedin_url': ' https://www.linkedin.com/company/amend'}
-Anduin Transactions	{'facebook_url': ' https://www.facebook.com/anduintransact/', 'crunchbase_url': ' https://www.crunchbase.com/organization/anduin'}
-anwalt.de services AG	{'facebook_url': ' https://www.facebook.com/pages/anwaltde-services-AG/125296674179775', 'crunchbase_url': ' https://www.crunchbase.com/organization/anwalt-de', 'angellist_url': ' https://angel.co/company/123recht-net-frag-einen-anwalt-de', 'linkedin_url': ' https://www.linkedin.com/company/anwaltde'}
-AOLaw Africa	{'angellist_url': ' https://angel.co/kevin-othero-1'}
-Apex CLE	{'twitter_url': ' https://twitter.com/playapex?lang=en'}
-Appunte	{'angellist_url': ' https://angel.co/company/mudango/people', 'linkedin_url': ' https://www.linkedin.com/showcase/blogs-appunti-e-spuntini'}
-Aspirea Technologies	{'linkedin_url': ' https://www.linkedin.com/company/aspire-technology-partners'}
+awracle	{'angellist_url': ' https://angel.co/company/a-i-lawracle'}
+Anduin Transactions	{'crunchbase_url': ' https://www.crunchbase.com/organization/anduin'}
+anwalt.de services AG	{ 'linkedin_url': ' https://www.linkedin.com/company/anwaltde'}
 Vertex App	{'crunchbase_url': ' https://www.crunchbase.com/organization/vertex', 'linkedin_url': ' https://www.linkedin.com/company/vertex-inc.'}
-VerdictAdvantage	{'twitter_url': ' https://twitter.com/juryconsulting'}
-Vector Legal Method	{'twitter_url': ' https://twitter.com/vector_legal?lang=en', 'angellist_url': ' https://angel.co/company/vector-ai-1/jobs'}
-Valcu Inc.	{'linkedin_url': ' https://www.linkedin.com/in/markoblad'}
-Assently	{'angellist_url': ' https://angel.co/company/assent-compliance'}
-AssistMyCase	{'linkedin_url': ' https://www.linkedin.com/in/jawadansari'}
-Uabide	{'twitter_url': ' https://twitter.com/abideisprayer?lang=en', 'angellist_url': ' https://angel.co/company/carpenters-code'}
-TRXNHUB	{'facebook_url': ' https://www.facebook.com/eDocumentsApp/about/', 'linkedin_url': ' https://www.linkedin.com/company/trnxs.net'}
-Taxbender	{'facebook_url': ' https://www.facebook.com/2220601541307957', 'linkedin_url': ' https://au.linkedin.com/company/taxbanter'}
+Vector Legal Method	{'twitter_url': ' https://twitter.com/vector_legal?lang=en'}
+Taxbender	{ 'linkedin_url': ' https://au.linkedin.com/company/taxbanter'}
 Atticus Now	{'twitter_url': ' https://twitter.com/hashtag/atticus?lang=en', 'facebook_url': ' https://www.facebook.com/public/Atticus', 'angellist_url': ' https://angel.co/company/atticushq'}
-Attorney"s Back Office	{'facebook_url': ' https://www.facebook.com/Attorneys-Back-Office-Inc-519206324793151/about/?entry_point=about_section_header&ref=page_internal', 'crunchbase_url': ' https://www.crunchbase.com/organization/attorney-s-back-office', 'linkedin_url': ' https://www.linkedin.com/company/attorney%27s-back-office-inc-'}
-Trail Bloom	{'crunchbase_url': ' https://www.crunchbase.com/organization/picr'}
-Aurum Software	{'twitter_url': ' https://twitter.com/aurumbr?lang=en', 'angellist_url': ' https://angel.co/company/aurum-estates'}
-Tranxact	{'crunchbase_url': ' https://www.crunchbase.com/organization/tranzact'}
-Autentic	{'twitter_url': ' https://twitter.com/authenticdgtl?lang=en'}
-Tracument	{'angellist_url': ' https://angel.co/company/cognitive3d'}
 ThreadKM	{'twitter_url': ' https://twitter.com/hashtag/threadkm'}
 Bakerfield Group	{'twitter_url': ' https://twitter.com/teambakerfield?lang=en'}
 The Summit Investments	{'facebook_url': ' https://www.facebook.com/SummitInvestments/', 'crunchbase_url': ' https://www.crunchbase.com/organization/summit-partners', 'linkedin_url': ' https://www.linkedin.com/company/summit-investment-management'}
-DeLeyes	{'angellist_url': ' https://angel.co/help/general'}
-Automio	{'angellist_url': ' https://angel.co/company/vitamin-london/people'}
-Tort IQ	{'facebook_url': ' https://www.facebook.com/business/insights'}
-Avtal24 / Agreement24	{'facebook_url': ' https://www.facebook.com/pages/category/Divorce---Family-Lawyer/agreement24/posts/', 'linkedin_url': ' https://www.linkedin.com/company/avtal24-ab'}
-TIOEX	{'twitter_url': ' https://twitter.com/tioex_?lang=en', 'angellist_url': ' https://angel.co/company/tioex/jobs', 'linkedin_url': ' https://www.linkedin.com/company/tipex-limited'}
-Zelican Technologies	{'facebook_url': ' https://www.facebook.com/Zelican/posts/technology-has-the-power-to-improve-an-organizations-efficiency-if-used-to-the-o/1384687455023045/', 'angellist_url': ' https://angel.co/company/rakuten', 'linkedin_url': ' https://www.linkedin.com/company/zelican'}
+TIOEX	{'twitter_url': ' https://twitter.com/tioex_?lang=en', 'angellist_url': ' https://angel.co/company/tioex/jobs'}
+Zelican Technologies	{'linkedin_url': ' https://www.linkedin.com/company/zelican'}
 The Expert Institute	{'linkedin_url': ' https://www.linkedin.com/company/expert-institute'}
-Beau Walker // Marketing Scientist	{'twitter_url': ' https://twitter.com/beaujwalker?lang=en', 'facebook_url': ' https://www.facebook.com/beauthescientist/', 'linkedin_url': ' https://www.linkedin.com/in/beauthescientist'}
 Teen Legal Helpline	{'twitter_url': ' https://twitter.com/teenlegalhelp'}
-TechGC	{'twitter_url': ' https://twitter.com/techgc_co?lang=en', 'facebook_url': ' https://www.facebook.com/Techgc/', 'angellist_url': ' https://jobs.techgc.co/jobs/search?co=AngelList+-+%22a+U.S.+website+for+startups%2C+angel+investors%2C+and+job-seekers+looking+to+work+at+startups%22'}
-BestQuire	{'linkedin_url': ' https://www.linkedin.com/in/elidsky'}
-Blockstone	{'twitter_url': ' https://twitter.com/blackstone?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Glitnr	{'facebook_url': ' https://www.facebook.com/glitnirticketing/', 'angellist_url': ' https://angel.co/company/elexa-1', 'linkedin_url': ' https://www.linkedin.com/company/glitnir'}
-Bullseeye Law	{'facebook_url': ' https://www.facebook.com/bullseyelaw', 'linkedin_url': ' https://www.linkedin.com/company/bullseye-translation'}
-Bengeni Consulting	{'twitter_url': ' https://twitter.com/consulting_mag?lang=en', 'facebook_url': ' https://www.facebook.com/business/marketing-partners/partner-news/introducing-facebook-marketing-consultants', 'crunchbase_url': ' https://www.crunchbase.com/organization/bungeni-consulting', 'linkedin_url': ' https://www.linkedin.com/company/bungeni-consulting'}
-Calela	{'twitter_url': ' https://twitter.com/ct_calella?lang=en', 'facebook_url': ' https://www.facebook.com/public/Canela-She', 'linkedin_url': ' https://www.linkedin.com/company/canela'}
+Glitnr	{'facebook_url': ' https://www.facebook.com/glitnirticketing/', 'linkedin_url': ' https://www.linkedin.com/company/glitnir'}
+Bengeni Consulting	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/bungeni-consulting', 'linkedin_url': ' https://www.linkedin.com/company/bungeni-consulting'}
+Calela	{' https://www.linkedin.com/company/canela'}
 Legasis Services Private Limited	{'facebook_url': ' https://www.facebook.com/legasisservices/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legasis-services', 'linkedin_url': ' https://in.linkedin.com/company/legasis-service-pvt.-ltd.'}
-MeWe.Org	{'crunchbase_url': ' https://www.crunchbase.com/organization/sgrouples', 'angellist_url': ' https://angel.co/company/mewe-network', 'linkedin_url': ' https://www.linkedin.com/company/sgrouples'}
-Discovia	{'angellist_url': ' https://angel.co/tatiana-hummel'}
-SavvyDox Inc.	{'facebook_url': ' https://www.facebook.com/pages/category/Personal-Assistant/SavvyFox-244792692745404/'}
-Quegal.com	{'twitter_url': ' https://twitter.com/robertquaranta', 'angellist_url': ' https://angel.co/company/hem-com'}
-Otonomos	{'facebook_url': ' https://www.facebook.com/otonomo.io/'}
-Counsel on Call Services Inc	{'twitter_url': ' https://careers.twitter.com/en/work-for-twitter/202004/legal-counsel-commercial.html', 'facebook_url': ' https://www.facebook.com/pages/Counsel-On-Call/145129995517001', 'crunchbase_url': ' https://www.crunchbase.com/organization/legility', 'linkedin_url': ' https://www.linkedin.com/showcase/counsel-on-call'}
+Counsel on Call Services Inc	{ 'linkedin_url': ' https://www.linkedin.com/showcase/counsel-on-call'}
 Secure Privacy.AI	{'crunchbase_url': ' https://www.crunchbase.com/organization/secure-privacy', 'angellist_url': ' https://angel.co/company/secure-privacy', 'linkedin_url': ' https://www.linkedin.com/company/secure-privacy/'}
-LECARE	{'facebook_url': ' https://www.facebook.com/public/Lecare-Lecare', 'linkedin_url': ' https://www.linkedin.com/company/lecare-gmbh'}
 http://www.cfcs.co.in	{'facebook_url': ' https://www.facebook.com/cfcs.india', 'angellist_url': ' https://angel.co/company/computer-frontline-consultancy-services'}
-EDT	{'crunchbase_url': ' https://www.crunchbase.com/organization/edt-4782', 'angellist_url': ' https://angel.co/company/edt-partners/jobs'}
-Contraktor	{'twitter_url': ' https://twitter.com/contractorcalc?lang=en'}
-Citasca	{'facebook_url': ' https://en-gb.facebook.com/Itasca/', 'angellist_url': ' https://angel.co/company/garage-doors-itasca-2'}
-Mattereum	{'angellist_url': ' https://angel.co/company/compoundvc/funding'}
-Rosenblum Law Firm	{'twitter_url': ' https://twitter.com/rosenblumlaw?lang=en', 'angellist_url': ' https://angel.co/p/rmrcapital'}
+Rosenblum Law Firm	{'twitter_url': ' https://twitter.com/rosenblumlaw?lang=en'}
 MyAdvo TechServe	{'facebook_url': ' https://www.facebook.com/MyAdvo.in/', 'crunchbase_url': ' https://www.crunchbase.com/organization/myadvo', 'angellist_url': ' https://angel.co/company/myadvo/jobs', 'linkedin_url': ' https://in.linkedin.com/company/myadvo'}
-JustVice	{'twitter_url': ' https://twitter.com/mojgovuk?lang=en'}
-IntelliLaw	{'crunchbase_url': ' https://www.crunchbase.com/organization/intelliact', 'linkedin_url': ' https://www.linkedin.com/in/anessaallensantos'}
-ExtendLaw	{'facebook_url': ' https://en-gb.facebook.com/groups/oigusliit/permalink/2020099528041604/'}
-EASYLAW ASIA	{'twitter_url': ' https://twitter.com/AsiaLawPortal/status/1240636300518014976', 'facebook_url': ' https://www.facebook.com/easylawmy/', 'crunchbase_url': ' https://www.crunchbase.com/organization/easylaw', 'angellist_url': ' https://angel.co/asia/investors', 'linkedin_url': ' https://www.linkedin.com/company/easylawmy'}
+IntelliLaw	{'crunchbase_url': ' https://www.crunchbase.com/organization/intelliact'}
 streamlaw GmbH	{'linkedin_url': ' https://www.linkedin.com/company/stream-law'}
 E-startup India	{'facebook_url': ' https://www.facebook.com/estartupindia1008/'}
-Helm Social Design Studio	{'twitter_url': ' https://twitter.com/_designstudio_?lang=en', 'facebook_url': ' https://www.facebook.com/helmstudioindia/about/', 'crunchbase_url': ' https://www.crunchbase.com/organization/helm-studio'}
+Helm Social Design Studio	{'twitter_url': ' https://twitter.com/_designstudio_?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/helm-studio'}
 JustResolve LLC	{'linkedin_url': ' https://www.linkedin.com/company/just-resolve-llc'}
-Legal Labs	{'angellist_url': ' https://angel.co/'}
-Xakia Technologies	{'twitter_url': ' https://twitter.com/xakiatech?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Case Status	{'facebook_url': ' https://www.facebook.com/help/338745752851127?helpref=about_content'}
-RegNet Solutions	{'twitter_url': ' https://twitter.com/anuregnet?lang=en', 'facebook_url': ' https://ai.facebook.com/', 'linkedin_url': ' https://www.linkedin.com/company/regent-solutions-limited'}
-Soft8 Softwares Inteligentes	{'twitter_url': ' https://twitter.com/softwareag?lang=en', 'facebook_url': ' https://www.facebook.com/Dreisoft/', 'crunchbase_url': ' https://www.crunchbase.com/organization/a00s-software-inteligente', 'angellist_url': ' https://angel.co/company/tg0/jobs', 'linkedin_url': ' https://br.linkedin.com/in/renato-carvalhaes-12b52b33'}
+Soft8 Softwares Inteligentes	{'twitter_url': ' https://twitter.com/softwareag?lang=en'}
 LAPIXA	{'crunchbase_url': ' https://www.crunchbase.com/organization/lapixa'}
-DocBlaster	{'linkedin_url': ' https://au.linkedin.com/in/eric-c-wilson'}
-Lawmatters	{'angellist_url': ' https://angel.co/company/bonum-lex-1'}
-Lawgin	{'linkedin_url': ' https://ng.linkedin.com/in/ginikachukwu-lawrence-68a6034b'}
-ZyLAB Technologies	{'facebook_url': ' https://www.facebook.com/ZyLABsoftware/', 'crunchbase_url': ' https://www.crunchbase.com/organization/zylab', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/zylab'}
+ZyLAB Technologies	{'facebook_url': ' https://www.facebook.com/ZyLABsoftware/', 'crunchbase_url': ' https://www.crunchbase.com/organization/zylab',  'linkedin_url': ' https://www.linkedin.com/company/zylab'}
 Agence Juridique	{'twitter_url': ' https://twitter.com/formejuridique?lang=en'}
-PolicyStore	{'angellist_url': ' https://angel.co/company/betternow/funding'}
-eEvidence	{'twitter_url': ' https://twitter.com/evidence?lang=en', 'facebook_url': ' https://www.facebook.com/misterevidence/'}
 Living Legacies	{'linkedin_url': ' https://www.linkedin.com/company/living-legacy-llc'}
-Dacreed	{'facebook_url': ' https://www.facebook.com/PrimeCreed/posts/posted-a-new-song-slafery-nnpro-httpswwwreverbnationcomq7ncyde-finally-got-the-b/2498803857099878/', 'angellist_url': ' https://angel.co/company/pawhub'}
-Patdek Software	{'twitter_url': ' https://tweetdeck.twitter.com/'}
-Mplace	{'twitter_url': ' https://twitter.com/theplacelondon?lang=en', 'angellist_url': ' https://angel.co/company/better-place'}
-Ligo	{'angellist_url': ' https://angel.co/'}
-PECULE Innovations	{'facebook_url': ' https://www.facebook.com/185101751855567/photos/d41d8cd9/185112058521203/', 'crunchbase_url': ' https://www.crunchbase.com/organization/innovation-industries'}
 Casefunder	{'linkedin_url': ' https://www.linkedin.com/company/case-funding-inc'}
-LEGALS	{'facebook_url': ' https://www.facebook.com/pages/category/Lawyer---Law-Firm/Legals-188514841607497/', 'crunchbase_url': ' https://www.crunchbase.com/organization/seedlegals', 'angellist_url': ' https://angel.co/company/seedlegals', 'linkedin_url': ' https://www.linkedin.com/company/seedlegals'}
-Lawyer Exchange	{'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs'}
-Added Life Value AG	{'crunchbase_url': ' https://www.crunchbase.com/organization/value-ag', 'angellist_url': ' https://angel.co/help', 'linkedin_url': ' https://www.linkedin.com/company/msg-life-ag'}
-matters.Cloud	{'crunchbase_url': ' https://www.crunchbase.com/organization/matter-a0a1', 'angellist_url': ' https://angel.co/company/matterapp/jobs'}
-Trial Boom	{'angellist_url': ' https://angel.co/company/boom-4'}
-Legal Creatives	{'twitter_url': ' https://twitter.com/lawforcreatives?lang=en', 'angellist_url': ' https://angel.co/legal/jobs'}
-Privatim	{'crunchbase_url': ' https://www.crunchbase.com/organization/priv%C4%81tim'}
-RYTER	{'facebook_url': ' https://www.facebook.com/public/Bobby-Ryter', 'crunchbase_url': ' https://www.crunchbase.com/organization/ryter-kommunikationsbyra-ab', 'angellist_url': ' https://angel.co/company/ryterworx', 'linkedin_url': ' https://www.linkedin.com/company/ryter-&-company-p.c.'}
-Studentensteuererklaerung.de	{'crunchbase_url': ' https://www.crunchbase.com/organization/wundertax', 'linkedin_url': ' https://www.linkedin.com/company/wundertax-gmbh'}
-LAWLIFT	{'twitter_url': ' https://twitter.com/getlawlift?lang=en', 'angellist_url': ' https://angel.co/dr-steffen-bunnenberg'}
-LawIQ	{'twitter_url': ' https://twitter.com/lawiqenergy?lang=en', 'facebook_url': ' https://www.facebook.com/public/LawIQ'}
-GLC CONSULTORES	{'twitter_url': ' https://twitter.com/glctheism?lang=en', 'facebook_url': ' https://www.facebook.com/GestionLegalColombia/', 'crunchbase_url': ' https://www.crunchbase.com/organization/glc', 'linkedin_url': ' https://www.linkedin.com/company/glc-consulting'}
+LEGALS	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/seedlegals', 'angellist_url': ' https://angel.co/company/seedlegals', 'linkedin_url': ' https://www.linkedin.com/company/seedlegals'}
+Legal Creatives	{'twitter_url': ' https://twitter.com/lawforcreatives?lang=en'}
+LAWLIFT	{'twitter_url': ' https://twitter.com/getlawlift?lang=en'}
+LawIQ	{ 'facebook_url': ' https://www.facebook.com/public/LawIQ'}
+GLC CONSULTORES	{ 'facebook_url': ' https://www.facebook.com/GestionLegalColombia/', 'crunchbase_url': ' https://www.crunchbase.com/organization/glc', 'linkedin_url': ' https://www.linkedin.com/company/glc-consulting'}
 LeasePilot	{'angellist_url': ' https://angel.co/company/gadfly-legal-technologies'}
 StartupFactCheck	{'twitter_url': ' https://twitter.com/startfactcheck'}
 LexGO	{'twitter_url': ' https://twitter.com/lexgoky?lang=en', 'facebook_url': ' https://www.facebook.com/lexgo/', 'crunchbase_url': ' https://www.crunchbase.com/organization/lexgo', 'linkedin_url': ' https://www.linkedin.com/company/lexgo'}
-Netcog	{'twitter_url': ' https://twitter.com/nctcog_official?lang=en', 'facebook_url': ' https://www.facebook.com/NCTCOGtrans/'}
-LegalBods	{'twitter_url': ' https://twitter.com/legal_boss', 'facebook_url': ' https://www.facebook.com/pages/category/Clothing--Brand-/Legalboss-Boutique-115684465692792/', 'crunchbase_url': ' https://www.crunchbase.com/organization/edraftly', 'angellist_url': ' https://angel.co/will-rees-1'}
-Reduse	{'twitter_url': ' https://help.twitter.com/en/safety-and-security/control-your-twitter-experience', 'angellist_url': ' https://angel.co/company/reduce-data'}
-TIQ	{'facebook_url': ' https://www.facebook.com/tiqsg/', 'angellist_url': ' https://angel.co/company/text-iq/funding'}
-Justice42 B.V.	{'facebook_url': ' https://www.facebook.com/thebvsband/', 'linkedin_url': ' https://es.linkedin.com/company/uitelkaar-nl'}
-Epoq Legal Inc	{'facebook_url': ' https://www.facebook.com/LegalServicesCorporation/', 'crunchbase_url': ' https://www.crunchbase.com/organization/epoq', 'linkedin_url': ' https://www.linkedin.com/company/epoq-usa'}
-Shakeup Online Sdn Bhd	{'twitter_url': ' https://twitter.com/shakeuptheestab?lang=en', 'facebook_url': ' https://www.facebook.com/shakeupmakeupllc/', 'crunchbase_url': ' https://www.crunchbase.com/organization/shakeup-online', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/shakeup-online'}
-Courtsdesk	{'angellist_url': ' https://angel.co/company/the-sunday-times/people'}
-Courtroom5	{'linkedin_url': ' https://www.linkedin.com/in/sonjaebron'}
+Reduse	{'angellist_url': ' https://angel.co/company/reduce-data'}
+Shakeup Online Sdn Bhd	{'twitter_url': ' https://twitter.com/shakeuptheestab?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/shakeup-online','linkedin_url': ' https://www.linkedin.com/company/shakeup-online'}
 DOCUFIEL	{'twitter_url': ' https://twitter.com/hashtag/docufiel', 'angellist_url': ' https://angel.co/company/docufiel'}
-SOLOMON Justice AI	{'twitter_url': ' https://twitter.com/am4immjustice?lang=en', 'crunchbase_url': ' https://news.crunchbase.com/news/immunai-launches-with-20m-seed-funding-and-plan-to-map-the-immune-system/', 'linkedin_url': ' https://www.linkedin.com/pub/dir/Justice/Solomon'}
-Legal Innovation Paris	{'twitter_url': ' https://twitter.com/innovationassas?lang=en'}
-IP Metro	{'twitter_url': ' https://twitter.com/iometro?lang=en', 'angellist_url': ' https://angel.co/'}
-MyAdvo	{'twitter_url': ' https://twitter.com/statuses/1035111159760920578'}
-MikeLegal	{'angellist_url': ' https://angel.co/company/mike-128'}
-Threat Resilience	{'twitter_url': ' https://twitter.com/resilience?lang=en', 'facebook_url': ' https://www.facebook.com/CRICTR1/', 'crunchbase_url': ' https://www.crunchbase.com/organization/cyber-resilience', 'linkedin_url': ' https://www.linkedin.com/in/steven-j-hengel-jr-3497345b'}
-RovBOT	{'twitter_url': ' https://twitter.com/realsophiarobot?lang=en', 'angellist_url': ' https://angel.co/company/rovbot'}
-Law ExplorersÂ®	{'facebook_url': ' https://www.facebook.com/records', 'crunchbase_url': ' https://www.crunchbase.com/organization/legally', 'angellist_url': ' https://angel.co/legal', 'linkedin_url': ' https://www.linkedin.com/company/law'}
-GSTStreet	{'twitter_url': ' https://twitter.com/streetgst?lang=en', 'facebook_url': ' https://www.facebook.com/public/Gst-Street', 'angellist_url': ' https://angel.co/company/gststreet', 'linkedin_url': ' https://www.linkedin.com/company/gst-street'}
+SOLOMON Justice AI	{'linkedin_url': ' https://www.linkedin.com/pub/dir/Justice/Solomon'}
+RovBOT	{ 'angellist_url': ' https://angel.co/company/rovbot'}
+GSTStreet	{ 'facebook_url': ' https://www.facebook.com/public/Gst-Street', 'angellist_url': ' https://angel.co/company/gststreet', 'linkedin_url': ' https://www.linkedin.com/company/gst-street'}
 plunes technologies	{'twitter_url': ' https://twitter.com/plunes076?lang=en', 'facebook_url': ' https://www.facebook.com/plunes076/', 'crunchbase_url': ' https://www.crunchbase.com/organization/plunes', 'linkedin_url': ' https://in.linkedin.com/company/plunes-com'}
-Of Counsel Group	{'twitter_url': ' https://twitter.com/specialcounsel?lang=en', 'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs'}
-MoveDocs	{'twitter_url': ' https://twitter.com/movedoc', 'linkedin_url': ' https://www.linkedin.com/in/bernardespanola'}
-RefundMyTicket.Net (Claim Assistance SAS)	{'crunchbase_url': ' https://www.crunchbase.com/organization/refundmyticket-net', 'linkedin_url': ' https://www.linkedin.com/company/justice-cool'}
-Civil Informer	{'twitter_url': ' https://twitter.com/civil?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/search/organizations/field/organizations/rank_org/55939', 'linkedin_url': ' https://www.linkedin.com/company/civil-co-'}
+MoveDocs	{'twitter_url': ' https://twitter.com/movedoc'}
+RefundMyTicket.Net (Claim Assistance SAS)	{'crunchbase_url': ' https://www.crunchbase.com/organization/refundmyticket-net'}
 Codify Law	{'twitter_url': ' https://twitter.com/codifylegal', 'facebook_url': ' https://www.facebook.com/codifylegalpublishing/', 'crunchbase_url': ' https://www.crunchbase.com/organization/codify-legal-publishing', 'linkedin_url': ' https://ca.linkedin.com/company/codify-legal-publishing-inc.'}
-CLAWS	{'facebook_url': ' https://www.facebook.com/ClawsTNT/', 'crunchbase_url': ' https://www.crunchbase.com/organization/tender-claws', 'linkedin_url': ' https://www.linkedin.com/company/claws'}
-Cognitiv+	{'twitter_url': ' https://twitter.com/TeamCognitiv?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/cognitiv-2'}
-Concis.ly	{'facebook_url': ' https://www.facebook.com/public/Concis-Doodjo-Vanghigui', 'linkedin_url': ' https://www.linkedin.com/company/concis'}
-Milyli	{'angellist_url': ' https://angel.co/company/runa-hr/jobs'}
+CLAWS	{ linkedin_url': ' https://www.linkedin.com/company/claws'}
+Cognitiv+	{'angellist_url': ' https://angel.co/company/cognitiv-2'}
 Lawcunae Infomation Solutions	{'twitter_url': ' https://twitter.com/lacuna_space?lang=en', 'facebook_url': ' https://www.facebook.com/search.php?q=Lawcunae+Information+Solutions+Private+Limited&type=users&init=srp', 'angellist_url': ' https://angel.co/company/lawyered-1', 'linkedin_url': ' https://www.linkedin.com/company/lacuna-solutions'}
-LegalQ	{'angellist_url': ' https://angel.co/legal'}
-Expertily	{'twitter_url': ' https://twitter.com/experty_io?lang=en', 'angellist_url': ' https://angel.co/asia/legal/jobs?desktop=1'}
-MainLaws	{'twitter_url': ' https://twitter.com/hashtag/mainlaw', 'facebook_url': ' https://www.facebook.com/mainlaw26', 'main_url': ' https://www.crunchbase.com/organization/mainlaws-ltd-', 'linkedin_url': ' https://uk.linkedin.com/in/sofia-scott-781346b6'}
-Zfusion Tech	{'twitter_url': ' https://twitter.com/latechfb'}
-HowToFile TV	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/copyright-policy', 'facebook_url': ' https://www.facebook.com/LoriFullbrightNewsOn6/photos/a.369021143148875/3070320286352267/?type=3', 'angellist_url': ' https://angel.co/company/current-tv', 'linkedin_url': ' https://www.linkedin.com/help/linkedin/answer/37822/recognizing-and-reporting-spam-inappropriate-and-abusive-content?lang=en'}
+MainLaws	{'twitter_url': ' https://twitter.com/hashtag/mainlaw', 'facebook_url': ' https://www.facebook.com/mainlaw26', 'main_url': ' https://www.crunchbase.com/organization/mainlaws-ltd-'}
 Legaliboo Tech	{'facebook_url': ' https://www.facebook.com/legaliboo/posts', 'linkedin_url': ' https://www.linkedin.com/company/legaliboo'}
-QDiscovery	{'angellist_url': ' https://angel.co/company/discovery-digital-networks'}
-eMinutes	{'angellist_url': ' https://angel.co/company/10-minutes-with'}
 Vaultedge Software	{'facebook_url': ' https://www.facebook.com/vaultedge/', 'linkedin_url': ' https://www.linkedin.com/company/vaultedge'}
 Adam H. Rosenblum	{'twitter_url': ' https://twitter.com/rosenblumlaw?lang=en', 'facebook_url': ' https://www.facebook.com/public/Adam-H-Rosenblum', 'crunchbase_url': ' https://www.crunchbase.com/person/adam-rosenblum', 'linkedin_url': ' https://www.linkedin.com/in/adam-h-rosenblum-3b71446'}
-wakili.ai	{'twitter_url': ' https://twitter.com/Wakili__Jnr', 'facebook_url': ' https://www.facebook.com/awakili.awakili', 'crunchbase_url': ' https://www.crunchbase.com/organization/biin-online', 'angellist_url': ' https://angel.co/company/my-wakili/jobs', 'linkedin_url': ' https://www.linkedin.com/company/wakil'}
-About innovation	{'facebook_url': ' https://www.wired.com/2014/02/decade-facebooks-innovations/', 'linkedin_url': ' https://blog.linkedin.com/2016/09/22/accelerating-LinkedIn-vision'}
+wakili.ai	{'twitter_url': ' https://twitter.com/Wakili__Jnr', 'facebook_url': ' https://www.facebook.com/awakili.awakili',  'angellist_url': ' https://angel.co/company/my-wakili/jobs', 'linkedin_url': ' https://www.linkedin.com/company/wakil'}
+About innovation	{'facebook_url': ' https://www.wired.com/2014/02/decade-facebooks-innovations/'}
 APF Technologies LLC	{'linkedin_url': ' https://www.linkedin.com/company/apftechnology'}
 Flex Legal	{'crunchbase_url': ' https://www.crunchbase.com/organization/f-lex', 'linkedin_url': ' https://www.linkedin.com/company/f-lex'}
 High Performance Counsel	{'angellist_url': ' https://angel.co/david-kinnear', 'linkedin_url': ' https://www.linkedin.com/company/hipcounsel'}
-Neksus Technologies	{'twitter_url': ' https://twitter.com/nexustechphl?lang=en', 'facebook_url': ' https://www.facebook.com/NexusTechnologiesInc/'}
 NEXAW	{'facebook_url': ' https://www.facebook.com/NEXAWCom/', 'linkedin_url': ' https://www.linkedin.com/company/nexaw'}
-Mylex Global	{'twitter_url': ' https://twitter.com/fujitsu_global?lang=en', 'facebook_url': ' https://www.facebook.com/business/help/331800410323820', 'crunchbase_url': ' https://www.crunchbase.com/organization/mylex', 'linkedin_url': ' https://www.linkedin.com/company/mylex-group'}
-Priory Solutions	{'angellist_url': ' https://angel.co/company/novitero'}
+Mylex Global	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/mylex', 'linkedin_url': ' https://www.linkedin.com/company/mylex-group'}
 Made in Law	{'twitter_url': ' https://twitter.com/lawmadecom?lang=en'}
 amicable apps	{'crunchbase_url': ' https://www.crunchbase.com/organization/amicable'}
 ClicknClear	{'angellist_url': ' https://angel.co/company/pre-cleared-limited-t-a-clicknclear'}
-ChirpCase	{'linkedin_url': ' https://www.linkedin.com/in/andrew-salazar-01a620123'}
-ContractWiser	{'facebook_url': ' https://z-upload.facebook.com/WiserContractFurnishings/photos/a.343917122705976/343917109372644/?type=3', 'linkedin_url': ' https://www.linkedin.com/in/lauren-linnyca'}
-Shop Immigration	{'twitter_url': ' https://twitter.com/uscis'}
-Prenupta	{'twitter_url': ' https://twitter.com/pronuptiaparis?lang=en'}
-Lawgood	{'angellist_url': ' https://angel.co/wrsmoriarty'}
-FairClaims	{'crunchbase_url': ' https://www.crunchbase.com/organization/arbiclaims-inc'}
-Zero Email	{'twitter_url': ' https://help.twitter.com/en/managing-your-account/trouble-reactivating-twitter-account', 'facebook_url': ' https://0.facebook.com/', 'crunchbase_url': ' https://www.crunchbase.com/organization/zero-2', 'linkedin_url': ' https://www.linkedin.com/company/zeroapp'}
-Origin Systems	{'twitter_url': ' https://twitter.com/OriginInsider?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Wonder.Legal	{'angellist_url': ' https://angel.co/company/wonder-5'}
+Zero Email	{ 'linkedin_url': ' https://www.linkedin.com/company/zeroapp'}
 Armlaw	{'linkedin_url': ' https://www.linkedin.com/company/armstrong-simpson'}
-EffortlessLegal LLC	{'angellist_url': ' https://angel.co/'}
-Online Solution Attorney	{'angellist_url': ' https://angel.co/r/san-francisco/lawyer/jobs'}
-NosterLex	{'angellist_url': ' https://angel.co/company/cuatrecasas-goncalves-pereira', 'linkedin_url': ' https://www.linkedin.com/in/danielle-haskin-63a3a9103'}
-Legal Gateway	{'crunchbase_url': ' https://www.crunchbase.com/organization/plexus-8093', 'angellist_url': ' https://angel.co/help', 'linkedin_url': ' https://www.linkedin.com/company/plexus-legal'}
-AdvoCoder UG (haftungsbeschränkt)	{'facebook_url': ' https://www.facebook.com/AdvoCoder/reviews', 'crunchbase_url': ' https://www.crunchbase.com/organization/tryft', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/culp-ug-haftungsbeschr%C3%A4nkt-'}
-SYNTAQ	{'twitter_url': ' https://twitter.com/syntax_systems?lang=en', 'facebook_url': ' https://www.facebook.com/public/Syntax', 'angellist_url': ' https://angel.co/company/the-syntax-studio'}
-Online patent	{'facebook_url': ' https://patents.justia.com/company/facebook', 'angellist_url': ' https://angel.co/company/patent-navigation'}
+AdvoCoder UG (haftungsbeschränkt)	{'facebook_url': ' https://www.facebook.com/AdvoCoder/reviews',   
 Patent Bots LLC	{'twitter_url': ' https://twitter.com/uspatentbot?lang=en'}
 Softplan Planejamento e Sistemas Ltda.	{'linkedin_url': ' https://www.linkedin.com/company/softplan'}
 Lexplosion Solutions	{'twitter_url': ' https://twitter.com/lexplosion?lang=en'}
-hukumonline.com by PT Justika Siar Publika	{'facebook_url': ' https://www.facebook.com/pages/PT-Justika-Siar-Publika-Hukumonline/298399853513457', 'crunchbase_url': ' https://www.crunchbase.com/organization/hukumonline-com', 'linkedin_url': ' https://id.linkedin.com/in/amrie-hakim-0284aa26'}
-Contractbook	{'angellist_url': ' https://angel.co/michal-zalecki'}
-Dealsign Solutions Oy	{'facebook_url': ' https://m.facebook.com/dealsign.io/about/?ref=page_internal&mt_nav=0', 'crunchbase_url': ' https://www.crunchbase.com/organization/dealsign', 'angellist_url': ' https://angel.co/company/innovesi-smart-solutions-oy/jobs', 'linkedin_url': ' https://www.linkedin.com/company/dealsign'}
-TrialLine	{'angellist_url': ' https://angel.co/company/bonusly'}
-Legal Science	{'angellist_url': ' https://angel.co/legal'}
-Lucius Report	{'twitter_url': ' https://twitter.com/ilovelucius?lang=en', 'angellist_url': ' https://angel.co/lucius-janison-simkoputra'}
-erik@translatefx.com	{'twitter_url': ' https://twitter.com/eranrad?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/allocate-2', 'angellist_url': ' https://angel.co/p/erik-chan', 'linkedin_url': ' https://www.linkedin.com/in/erikchan'}
-Pravoved.RU LAB	{'angellist_url': ' https://angel.co/company/kalkul/people', 'linkedin_url': ' https://in.linkedin.com/pub/aleksander-rozhkov/1b/16/1b6'}
-Aqnel	{'twitter_url': ' https://twitter.com/vnel_?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/anel-group'}
-Firm24	{'angellist_url': ' https://angel.co/company/24-7-techies/funding'}
-FIRM24.com	{'angellist_url': ' https://angel.co/company/24-7-techies/funding'}
-Beacon Direct Cremation	{'twitter_url': ' https://twitter.com/solacecares?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/solace-cremation'}
-Legal Advice Middle East	{'angellist_url': ' https://angel.co/company/white-black-legal'}
+Dealsign Solutions Oy	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/dealsign',  'linkedin_url': ' https://www.linkedin.com/company/dealsign'}
+Lucius Report	{'twitter_url': ' https://twitter.com/ilovelucius?lang=en'}
 Yerra Solutions AG	{'facebook_url': ' https://www.facebook.com/YerraSolutions/'}
-Kodex Bilisim	{'twitter_url': ' https://twitter.com/faowhocodex?lang=en'}
-NuLaw	{'angellist_url': ' https://angel.co/company/selas-technologies'}
-A2.Legal	{'twitter_url': ' https://twitter.com/travelgov/status/1204478367954874369', 'crunchbase_url': ' https://www.crunchbase.com/organization/a2-biotherapeutics', 'angellist_url': ' https://angel.co/company/a2-hosting/people'}
-LegalUp Ltd.	{'angellist_url': ' https://angel.co/'}
-LegalUp Ltd	{'angellist_url': ' https://angel.co/'}
-AJC Asesor fiscal y contable en Madrid	{'twitter_url': ' https://twitter.com/ajcalexcandas', 'facebook_url': ' https://es-es.facebook.com/fiscalmadrid', 'crunchbase_url': ' https://www.crunchbase.com/organization/meu-perfil', 'linkedin_url': ' https://www.linkedin.com/company/ajc-asesor-fiscal'}
-LegalFAB Private Limited	{'facebook_url': ' https://www.facebook.com/legalfabdotcom/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legalfab', 'angellist_url': ' https://angel.co/company/vaultedge-1/jobs', 'linkedin_url': ' https://sg.linkedin.com/company/legalfab'}
+AJC Asesor fiscal y contable en Madrid	{'twitter_url': ' https://twitter.com/ajcalexcandas', 'facebook_url': ' https://es-es.facebook.com/fiscalmadrid', 'linkedin_url': ' https://www.linkedin.com/company/ajc-asesor-fiscal'}
+LegalFAB Private Limited	{'facebook_url': ' https://www.facebook.com/legalfabdotcom/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legalfab', 'linkedin_url': ' https://sg.linkedin.com/company/legalfab'}
 SAJ ADV - Software Jurídico	{'facebook_url': ' https://www.facebook.com/SajAdvOnline', 'crunchbase_url': ' https://www.crunchbase.com/organization/ajus-software-juridico', 'linkedin_url': ' https://www.linkedin.com/showcase/saj-adv'}
-Smith.ai	{'angellist_url': ' https://angel.co/company/smith-7'}
-The Corporation For Form Reform	{'facebook_url': ' https://www.facebook.com/business/help/1046259128769008', 'linkedin_url': ' https://www.linkedin.com/company/americans-for-tax-reform'}
 Texas Trust Home Loans	{'twitter_url': ' https://twitter.com/texastrustloans?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/texas-trust-mortgage'}
-Pravoved.ru	{'angellist_url': ' https://angel.co/company/humanfirst-ai/people'}
 Legalbox.io	{'twitter_url': ' https://twitter.com/state_io?lang=en', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/legalbox-sas'}
 PREDICTICE	{'facebook_url': ' https://www.facebook.com/Predictive.Analytics.News/', 'angellist_url': ' https://angel.co/company/predictice-', 'linkedin_url': ' https://www.linkedin.com/company/predictice'}
-LawCloud	{'twitter_url': ' https://twitter.com/idisclose?lang=en', 'angellist_url': ' https://angel.co/company/ilobby-2'}
-MYFLYRIGHT	{'twitter_url': ' https://twitter.com/MYFLYRIGHTDE?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/l/2koRTT'}
-ESCRIBA AG	{'crunchbase_url': ' https://www.crunchbase.com/organization/escriba', 'angellist_url': ' https://angel.co/company/humanitec-ag'}
-LeReTo | Legal Research Tool	{'facebook_url': ' https://www.facebook.com/lereto.at/', 'crunchbase_url': ' https://www.crunchbase.com/organization/lereto', 'angellist_url': ' https://angel.co/company/casetext', 'linkedin_url': ' https://www.linkedin.com/company/lereto'}
-Avtal24	{'angellist_url': ' https://angel.co/marcus-lenngren'}
-Reasoning Technology	{'twitter_url': ' https://twitter.com/reasoningtechno', 'facebook_url': ' https://www.facebook.com/pages/category/Book/297244927643265/'}
-Syntexys	{'twitter_url': ' https://twitter.com/anseljh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-DIGURA	{'twitter_url': ' https://twitter.com/bellafigurauk?lang=en', 'angellist_url': ' https://angel.co/company/digura'}
-SiËSDE Dispute Resolution Technologies	{'twitter_url': ' https://twitter.com/georgiaadr?lang=en', 'facebook_url': ' https://www.facebook.com/677281512300476/posts/wives-take-the-separation-analysis-report-here-httpbitly2bfljiw/1966661313362483/', 'crunchbase_url': ' https://www.crunchbase.com/organization/si%C3%ABsde', 'linkedin_url': ' https://ca.linkedin.com/company/siesde-dispute-resolution-technologie'}
+ESCRIBA AG	{'crunchbase_url': ' https://www.crunchbase.com/organization/escriba'}
+LeReTo | Legal Research Tool	{'facebook_url': ' https://www.facebook.com/lereto.at/', 'crunchbase_url': ' https://www.crunchbase.com/organization/lereto', 'linkedin_url': ' https://www.linkedin.com/company/lereto'}
+Reasoning Technology	{'twitter_url': ' https://twitter.com/reasoningtechno'}
+DIGURA	{'angellist_url': ' https://angel.co/company/digura'}
 Capiche Capital Technologies Corporation	{'facebook_url': ' https://www.facebook.com/capichecapital/'}
 E-Startup India	{'twitter_url': ' https://twitter.com/e_startup_india?lang=en'}
-Hotspot Law	{'angellist_url': ' https://angel.co/legal'}
-Steinfeld Legal	{'twitter_url': ' https://twitter.com/steinfeldlaw?lang=en', 'angellist_url': ' https://angel.co/legal'}
+Steinfeld Legal	{'twitter_url': ' https://twitter.com/steinfeldlaw?lang=en'}
 SpeechWrite digital	{'facebook_url': ' https://www.facebook.com/speechwrite'}
-Avokaado.com OY	{'facebook_url': ' https://www.facebook.com/avokdo/posts/', 'crunchbase_url': ' https://www.crunchbase.com/organization/avokaado', 'linkedin_url': ' https://www.linkedin.com/company/avokaado'}
-ClientSherpa	{'facebook_url': ' https://www.facebook.com/virtualreceptionists/photos/a.447628178950912/711097035937357/?type=3', 'angellist_url': ' https://angel.co/p/lostmahbles', 'linkedin_url': ' https://www.linkedin.com/in/bryanmarble'}
-JUDY	{'angellist_url': ' https://angel.co/company/judy-1/jobs'}
-Emérita Legal	{'crunchbase_url': ' https://www.crunchbase.com/organization/em%C3%A9rita-legal', 'angellist_url': ' https://angel.co/legal'}
-Veratech Intelligence Private Limited	{'twitter_url': ' https://twitter.com/veratechph?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/network-intelligence-india-pvt-ltd', 'linkedin_url': ' https://www.linkedin.com/company/veratech-intelligence'}
-Trustbot Software Inc.	{'twitter_url': ' https://twitter.com/softwareincgame?lang=en', 'facebook_url': ' https://www.facebook.com/holdedapp/'}
-Legal Tech Store	{'crunchbase_url': ' https://www.crunchbase.com/hub/legal-tech-companies', 'angellist_url': ' https://angel.co/legal-tech-1', 'linkedin_url': ' https://www.linkedin.com/company/a2j-tech-store'}
-Discovery Genie LLC	{'crunchbase_url': ' https://www.crunchbase.com/organization/genie-4'}
-CLA Reply	{'facebook_url': ' https://www.facebook.com/newclientapp/', 'crunchbase_url': ' https://www.crunchbase.com/organization/reply', 'angellist_url': ' https://twitter.com/angellist/status/591669015577165824'}
+Avokaado.com OY	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/avokaado', 'linkedin_url': ' https://www.linkedin.com/company/avokaado'}
+Veratech Intelligence Private Limited	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/network-intelligence-india-pvt-ltd', 'linkedin_url': ' https://www.linkedin.com/company/veratech-intelligence'}
+Legal Tech Store	{'crunchbase_url': ' https://www.crunchbase.com/hub/legal-tech-companies', 'angellist_url': ' https://angel.co/legal-tech-1'}
 FirstBase	{'crunchbase_url': ' https://www.crunchbase.com/organization/firstbasehq'}
-LEX247	{'facebook_url': ' https://www.facebook.com/lex247/', 'crunchbase_url': ' https://www.crunchbase.com/hub/legal-tech-companies/timeline/timeline', 'angellist_url': ' https://angel.co/company/logica/people'}
-CLX	{'twitter_url': ' https://twitter.com/CLXGaming?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/CybertronPC/', 'crunchbase_url': ' https://www.crunchbase.com/organization/clx-communications', 'angellist_url': ' https://angel.co/company/clx-networks/jobs', 'linkedin_url': ' https://www.linkedin.com/company/the-centre-for-logistics-excellence'}
-RecordFixer	{'linkedin_url': ' https://www.linkedin.com/in/bartkaspero'}
-Knovos	{'angellist_url': ' https://angel.co/blog/news'}
-Afriwise	{'angellist_url': ' https://angel.co/brian-dlamini'}
-Ringtail	{'angellist_url': ' https://angel.co/company/nuix/people'}
-Lawyer Marketing Company	{'twitter_url': ' https://www.legalmarketingreview.com/social-media/8-twitter-tips-for-authentic-law-firm-internet-marketing/', 'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs'}
-Sanction AI	{'facebook_url': ' https://www.theverge.com/interface/2020/1/14/21063887/activists-facebook-iran-free-speech-authoritarianism', 'crunchbase_url': ' https://www.crunchbase.com/organization/sanction-scanner', 'linkedin_url': ' https://uk.linkedin.com/in/niallcook'}
+LEX247	{'facebook_url': ' https://www.facebook.com/lex247/'}
+CLX	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/clx-communications', 'angellist_url': ' https://angel.co/company/clx-networks/jobs', 'linkedin_url': ' https://www.linkedin.com/company/the-centre-for-logistics-excellence'}
+Sanction AI	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/sanction-scanner'}
 Medchart In.c	{'facebook_url': ' https://www.facebook.com/realMedChart/'}
-Litigation Edge Pte Ltd	{'facebook_url': ' https://www.facebook.com/productionedge/', 'crunchbase_url': ' https://www.crunchbase.com/organization/litigation-edge', 'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs', 'linkedin_url': ' https://www.linkedin.com/company/litigation-edge'}
-Fucitech.com	{'linkedin_url': ' https://md.linkedin.com/in/otilia-nedelcu-92aa35a5'}
-Lawren.io	{'crunchbase_url': ' https://www.crunchbase.com/organization/importio', 'angellist_url': ' https://angel.co/'}
-Knowlex	{'crunchbase_url': ' https://www.crunchbase.com/organization/knowles-electronics', 'angellist_url': ' https://angel.co/williamknowles?src=rec'}
-DX Compliance Solutions	{'crunchbase_url': ' https://www.crunchbase.com/organization/dx-compliance', 'linkedin_url': ' https://sg.linkedin.com/company/regolution'}
-Wowbix Digital Marketing	{'angellist_url': ' https://angel.co/digital-marketing-5'}
+Lawren.io	{'crunchbase_url': ' https://www.crunchbase.com/organization/importio'}
+Knowlex	{'crunchbase_url': ' https://www.crunchbase.com/organization/knowles-electronics'}
+DX Compliance Solutions	{'crunchbase_url': ' https://www.crunchbase.com/organization/dx-compliance'}
 Red Rain	{'angellist_url': ' https://angel.co/company/rain'}
-LegalDPT.com	{'twitter_url': ' https://twitter.com/hashtag/legaldepartment', 'facebook_url': ' https://www.facebook.com/pages/category/Legal/Legaldept-2083004555077473/', 'crunchbase_url': ' https://www.crunchbase.com/organization/global-finance-capital', 'angellist_url': ' https://angel.co/olivier-fischer-2', 'linkedin_url': ' https://www.linkedin.com/company/legal-department'}
-Blika Solutions AB	{'facebook_url': ' https://blika.com/thank-you-for-contacting-us-facebook/', 'angellist_url': ' https://angel.co/blog/angellist-no-longer-charges-carry-on-your-own-lps', 'linkedin_url': ' https://www.linkedin.com/company/blika-ab'}
-TRAIAL Sàrl	{'twitter_url': ' https://twitter.com/trail_txt?lang=en', 'facebook_url': ' https://www.facebook.com/pages/TRIAL-Distribution-SARL/776830289335690', 'angellist_url': ' https://angel.co/company/oq-technology-sarl/jobs/498843-wireless-dsp-algorithm-engineer', 'linkedin_url': ' https://www.linkedin.com/company/trailsuite-ltd'}
-Princeton Gavel	{'twitter_url': ' https://twitter.com/princeton?lang=en', 'facebook_url': ' https://www.facebook.com/groups/princetonparents/'}
+Blika Solutions AB	{ 'linkedin_url': ' https://www.linkedin.com/company/blika-ab'}
+TRAIAL Sàrl	{'twitter_url': ' https://twitter.com/trail_txt?lang=en', 'facebook_url': ' https://www.facebook.com/pages/TRIAL-Distribution-SARL/776830289335690'}
 Donna Legal	{'facebook_url': ' https://www.facebook.com/public/Donna-Law'}
-Ekdesk LLC	{'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/in/akjennings'}
-LEAP Legal Software	{'twitter_url': ' https://twitter.com/LEAP4Lawyers?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'crunchbase_url': ' https://www.crunchbase.com/organization/leap-9550'}
-The Legal Assistant	{'facebook_url': ' https://www.facebook.com/careers/areas-of-work/legal/', 'angellist_url': ' https://angel.co/company/renew-6/jobs/722633-legal-assistant', 'linkedin_url': ' https://www.linkedin.com/jobs/legal-assistant-jobs'}
-ThoughtRiver Ltd.	{'angellist_url': ' https://angel.co/'}
 RMP Jewellers Pvt Ltd	{'angellist_url': ' https://angel.co/company/rmp-jewellers'}
 Rechtswinkel.nl	{'twitter_url': ' https://twitter.com/rechtswinkel?lang=en', 'facebook_url': ' https://www.facebook.com/rechtswinkel/', 'linkedin_url': ' https://www.linkedin.com/company/rechtswinkel-oss'}
-Quesmi	{'twitter_url': ' https://twitter.com/cosmotechweb?lang=en'}
-Lavendla AB	{'twitter_url': ' https://twitter.com/lavendla_se', 'crunchbase_url': ' https://www.crunchbase.com/organization/eequity', 'angellist_url': ' https://angel.co/lennart-liljenberg-hane', 'linkedin_url': ' https://se.linkedin.com/company/lavendla'}
+Lavendla AB	{'twitter_url': ' https://twitter.com/lavendla_se', 'linkedin_url': ' https://se.linkedin.com/company/lavendla'}
 7 Seas Solutions	{'angellist_url': ' https://angel.co/company/seven-seas-music'}
-Neu Skin	{'twitter_url': ' https://twitter.com/nuskin?lang=en', 'facebook_url': ' https://www.facebook.com/nuskin/', 'crunchbase_url': ' https://www.crunchbase.com/organization/nu-skin-enterprises', 'angellist_url': ' https://angel.co/company/nu-skin-enterprises', 'linkedin_url': ' https://www.linkedin.com/company/nu-skin-enterprises'}
-A2J Tech Store	{'angellist_url': ' https://angel.co/joseph-schieffer'}
-Wolony Digital Marketing	{'angellist_url': ' https://angel.co/digital-marketing-5/jobs', 'linkedin_url': ' https://www.linkedin.com/company/wolony'}
-PartnerVine LLC	{'facebook_url': ' https://www.facebook.com/public/Partner-Vine?page=2', 'angellist_url': ' https://angel.co/'}
-Vable	{'crunchbase_url': ' https://www.crunchbase.com/organization/linex-systems'}
-LawPipe	{'linkedin_url': ' https://www.linkedin.com/in/dennis-law-057a13107?trk=pub-pbmap'}
-DASTAVEJ	{'facebook_url': ' https://www.facebook.com/Dastavej/', 'angellist_url': ' http://angel.co/legal-buddy', 'linkedin_url': ' https://in.linkedin.com/in/dastavej-khabar-08b7ba190'}
-FlyBack LLC	{'facebook_url': ' https://www.facebook.com/groups/347695565721681/', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/in/bill-thurman-a989994'}
+Wolony Digital Marketing	{'linkedin_url': ' https://www.linkedin.com/company/wolony'}
+PartnerVine LLC	{'facebook_url': ' https://www.facebook.com/public/Partner-Vine?page=2'}
+DASTAVEJ	{'facebook_url': ' https://www.facebook.com/Dastavej/'}
 3E Accounting Singapore	{'twitter_url': ' https://twitter.com/3ecpasg?lang=en', 'facebook_url': ' https://www.facebook.com/3E.Accounting.Pte.Ltd/', 'crunchbase_url': ' https://www.crunchbase.com/organization/singapore-online-accounting-services', 'linkedin_url': ' https://www.linkedin.com/company/3e-accounting-pte-ltd'}
-Protosys	{'angellist_url': ' https://angel.co/company/codetreasure'}
 Infinnium	{'angellist_url': ' https://angel.co/company/infinium-1'}
-Lendova Mortgage	{'angellist_url': ' https://angel.co/company/mortgagekart/jobs/452967-etl-developer-data-engineer-data-architect', 'linkedin_url': ' https://www.linkedin.com/company/gershman-mortgage'}
-Immediation	{'facebook_url': ' https://www.facebook.com/southernimmediatecare/', 'crunchbase_url': ' https://www.crunchbase.com/organization/immediate-media-co', 'angellist_url': ' https://angel.co/company/immediate-media-co'}
-Fireworks Store	{'facebook_url': ' https://www.facebook.com/fireworks/', 'crunchbase_url': ' https://www.crunchbase.com/organization/galaxy-fireworks-inc', 'linkedin_url': ' https://www.linkedin.com/company/phantom-fireworks'}
-Airflow	{'facebook_url': ' https://medium.com/analytics-and-data/i-hear-facebook-has-data-does-it-have-data-tools-a9f4c4d82ee7', 'linkedin_url': ' https://www.linkedin.com/company/air-flow'}
-ArenoNet GmbH	{'crunchbase_url': ' https://www.crunchbase.com/organization/arenonet', 'linkedin_url': ' https://de.linkedin.com/in/christianschebitz'}
-BanyanRFP	{'facebook_url': ' https://www.facebook.com/pages/Banyanrfp/589048167820823', 'crunchbase_url': ' https://www.crunchbase.com/compare/organization/04bf848a-88f3-c58b-8523-ddb6da9f8709', 'linkedin_url': ' https://www.linkedin.com/company/banyanrfp'}
-Arbitrator Intelligence	{'crunchbase_url': ' https://www.crunchbase.com/organization/national-arbitration-and-mediation'}
-Danse Orientale 5€	{'facebook_url': ' https://www.facebook.com/Sandradanseorientale/', 'crunchbase_url': ' https://www.crunchbase.com/organization/dong-fund', 'angellist_url': ' https://angel.co/company/belly-dance-india', 'linkedin_url': ' https://au.linkedin.com/in/belyssa-radzivanas-0205b524'}
+Airflow	{'linkedin_url': ' https://www.linkedin.com/company/air-flow'}
+ArenoNet GmbH	{'crunchbase_url': ' https://www.crunchbase.com/organization/arenonet'}
+BanyanRFP	{'linkedin_url': ' https://www.linkedin.com/company/banyanrfp'}
 KISSPatent	{'crunchbase_url': ' https://www.crunchbase.com/organization/kisspatent'}
 Legaldesk.dk ApS	{'facebook_url': ' https://www.facebook.com/legaldesk.dk/', 'linkedin_url': ' https://ca.linkedin.com/company/legaldesk-dk'}
-iolex limited	{'twitter_url': ' https://twitter.com/ilex_ltd', 'facebook_url': ' https://www.facebook.com/pages/Ilex-Medical-Ltd/138415042916653', 'crunchbase_url': ' https://www.crunchbase.com/organization/the-limited-2', 'angellist_url': ' https://angel.co/company/limited', 'linkedin_url': ' https://hk.linkedin.com/in/carlimprofile'}
-LegalWiz.in	{'angellist_url': ' https://angel.co/saumya-shah-2'}
 Ravel Technologies	{'twitter_url': ' https://twitter.com/ravel_tech?lang=en', 'angellist_url': ' https://angel.co/company/ravel-1'}
-Vaaithaa.com	{'linkedin_url': ' https://in.linkedin.com/in/cybersathya'}
-Citadel Law Firm PLLC	{'linkedin_url': ' https://www.linkedin.com/in/david-gerszewski-3875b866'}
-SEC Intelligence Inc.	{'twitter_url': ' https://twitter.com/intel_sec?lang=en', 'facebook_url': ' https://www.facebook.com/pages/category/Local-Business/1152837744759542/', 'angellist_url': ' https://angel.co/company/land-intelligence'}
-RechtEasy.at	{'facebook_url': ' https://www.facebook.com/rechteasy/', 'linkedin_url': ' https://www.linkedin.com/company/haslinger-nagele-&-partner'}
-Legal me	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'facebook_url': ' https://www.facebook.com/safety/groups/law/guidelines/', 'crunchbase_url': ' https://www.crunchbase.com/organization/inlaw-me', 'angellist_url': ' https://angel.co/company/esq-me-2'}
-Docketwise	{'crunchbase_url': ' https://www.crunchbase.com/organization/borderwise/timeline/timeline'}
-Metidice SAS	{'facebook_url': ' https://www.facebook.com/SASsoftware', 'crunchbase_url': ' https://www.crunchbase.com/organization/sas', 'linkedin_url': ' https://www.linkedin.com/company/sas'}
-LegalHero	{'angellist_url': ' https://angel.co/company/elexa-1/jobs'}
-Bestpractix	{'facebook_url': ' https://m.facebook.com/SigmaLabsAccelerator/posts/2247745012127069'}
 Seraphin.legal	{'angellist_url': ' https://angel.co/company/seraphin-sa-1'}
-AffordableLaw	{'crunchbase_url': ' https://www.crunchbase.com/organization/get-prepped', 'angellist_url': ' https://angel.co/company/lowboknow'}
-AxiomaVox	{'twitter_url': ' https://twitter.com/tonkabrain?lang=en'}
 lawpilots GmbH	{'facebook_url': ' https://www.facebook.com/lawpilots/', 'linkedin_url': ' https://de.linkedin.com/company/lawpilots'}
-Kreadance	{'linkedin_url': ' https://be.linkedin.com/in/delfien-van-biervliet-57864497'}
-Legis Información y Soluciones	{'facebook_url': ' https://www.facebook.com/pages/category/Product-Service/LEGIS-Company-Abogados-OnLine-117463242982316/', 'crunchbase_url': ' https://www.crunchbase.com/organization/legis-solutions', 'linkedin_url': ' https://www.linkedin.com/company/legiseditores'}
+Legis Información y Soluciones	{ 'crunchbase_url': ' https://www.crunchbase.com/organization/legis-solutions', 'linkedin_url': ' https://www.linkedin.com/company/legiseditores'}
 Zelican Infotech Private Limited	{'crunchbase_url': ' https://www.crunchbase.com/organization/zelican', 'angellist_url': ' https://angel.co/zelican-infotech/jobs', 'linkedin_url': ' https://www.linkedin.com/company/zelican'}
-Iusify	{'crunchbase_url': ' https://www.crunchbase.com/person/gon%C3%A7alo-piriquito'}
-LawyerlinQ B.V.	{'facebook_url': ' https://www.facebook.com/ESARepair/', 'angellist_url': ' https://angel.co/company/scyfer-b-v', 'linkedin_url': ' https://www.linkedin.com/company/lawyerlinq'}
-Define	{'angellist_url': ' https://angel.co/'}
-Online Legal India	{'twitter_url': ' https://twitter.com/indialegalmedia?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'crunchbase_url': ' https://www.crunchbase.com/organization/legally-india', 'angellist_url': ' https://angel.co/company/pocketlawyer-1', 'linkedin_url': ' https://in.linkedin.com/company/india-legal'}
-Lawrbit Lextech Pvt. Ltd.	{'facebook_url': ' https://www.facebook.com/public?query=Lawrbit+Lextech+India+Pvt+Ltd&type=users&init=srp&nomc=0'}
-Adden Technology Limited	{'facebook_url': ' https://www.facebook.com/mainlytechnology/', 'crunchbase_url': ' https://www.crunchbase.com/organization/simple-3', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://gh.linkedin.com/in/issa-sukatu-abdullahi-5067b6140'}
-Lawrbit Lextech India Pvt. Ltd.	{'facebook_url': ' https://www.facebook.com/public?query=Lawrbit+Lextech+India+Pvt+Ltd&type=users&init=srp&nomc=0'}
+LawyerlinQ B.V.	{'linkedin_url': ' https://www.linkedin.com/company/lawyerlinq'}
 Lawrbit Global Compliance Network	{'facebook_url': ' https://www.facebook.com/lawrbit/', 'linkedin_url': ' https://in.linkedin.com/company/lawrbit'}
-CrashGenius	{'twitter_url': ' https://twitter.com/nakatomitim/status/762895143770857473'}
 USA Lawsuit Loans Inc.	{'twitter_url': ' https://twitter.com/usalawsuitloan', 'crunchbase_url': ' https://www.crunchbase.com/organization/e-lawsuit-loans'}
-Parke Lawyers	{'crunchbase_url': ' https://www.crunchbase.com/person/jim-parke'}
-Brand Discount	{'angellist_url': ' https://angel.co/fashion'}
-NIKOLSEN	{'facebook_url': ' https://www.facebook.com/public/Bill-Nicholson', 'crunchbase_url': ' https://www.crunchbase.com/organization/nicholson-insurance-agency', 'angellist_url': ' https://angel.co/p/tom-nicholson', 'linkedin_url': ' https://www.linkedin.com/company/nikolsen'}
+NIKOLSEN	{'linkedin_url': ' https://www.linkedin.com/company/nikolsen'}
 IJ International Legal Group	{'crunchbase_url': ' https://www.crunchbase.com/organization/global-legal-group', 'linkedin_url': ' https://www.linkedin.com/company/international-legal-group'}
 SS OFFICE Lawtech	{'twitter_url': ' https://twitter.com/socialsecurity?lang=en', 'facebook_url': ' https://www.facebook.com/socialsecurity/', 'crunchbase_url': ' https://www.crunchbase.com/organization/social-security-administration', 'linkedin_url': ' https://www.linkedin.com/company/ssa'}
-Advolist	{'twitter_url': ' https://twitter.com/datagvat?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/sheppardbrownr'}
-Estate Apps LLC	{'twitter_url': ' https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/app-card', 'facebook_url': ' https://www.facebook.com/business/help/709041312624617', 'angellist_url': ' https://angel.co/company/property-apps/jobs/317885-ceo'}
 Digital DNA Group	{'facebook_url': ' https://www.facebook.com/DigitalDNA1', 'angellist_url': ' https://angel.co/company/roi-dna'}
-CourtCorrect	{'facebook_url': ' https://www.facebook.com/public/Bill-Courtright', 'crunchbase_url': ' https://www.crunchbase.com/person/sammy-courtright', 'angellist_url': ' https://angel.co/kcourtdesign', 'linkedin_url': ' https://www.linkedin.com/company/bengoshi'}
-Bodhala	{'angellist_url': ' https://angel.co/james-o-brien-24'}
-BRYTER	{'twitter_url': ' https://twitter.com/bryter_research?lang=en', 'angellist_url': ' https://angel.co/glvcox'}
 XCLAIM	{'twitter_url': ' https://twitter.com/xclaim?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/XclaimInc/', 'angellist_url': ' https://angel.co/company/xclaim-1/jobs'}
-Docket	{'angellist_url': ' https://angel.co/company/supercal-working-title'}
-Usercentrics	{'angellist_url': ' https://angel.co/company/germanaccelerator/funding'}
-Brightflag	{'angellist_url': ' https://angel.co/company/legalshine'}
-LegalMation	{'angellist_url': ' https://angel.co/tsubasa-furukawa'}
-Wundertax	{'angellist_url': ' https://angel.co/company/houzz'}
-Smart Protection	{'twitter_url': ' https://twitter.com/assetssafe?lang=en', 'angellist_url': ' https://angel.co/company/smart-mask'}
-The Link App	{'angellist_url': ' https://angel.co/'}
-Sigalei	{'angellist_url': ' https://www.crunchbase.com/hub/female-founded-angel-investors/timeline/timeline'}
-LitiGate	{'angellist_url': ' https://angel.co/company/litigation-3/people'}
-Reynen Court	{'angellist_url': ' https://angel.co/james-raquepau-1'}
-CloudLex	{'twitter_url': ' https://twitter.com/TheLegalCloud?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-SINAI	{'twitter_url': ' https://twitter.com/MountSinaiNYC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/sinai-technologies'}
+SINAI	{'angellist_url': ' https://angel.co/company/sinai-technologies'}
 LZVCPA	{'twitter_url': ' https://twitter.com/lzvcpa_ph'}
-Qwill	{'angellist_url': ' https://angel.co/company/quill-org/jobs'}
-Matterhorn	{'twitter_url': ' https://twitter.com/zermatt_tourism?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-ECFX	{'twitter_url': ' https://twitter.com/ecfx1?lang=en', 'facebook_url': ' https://m.facebook.com/public/Ecfx', 'angellist_url': ' https://angel.co/kai-manuel'}
-Autologyx	{'crunchbase_url': ' https://www.crunchbase.com/organization/nowwecomply/funding_rounds/funding_rounds_list', 'angellist_url': ' https://angel.co/pauldaley'}
+ECFX	{'twitter_url': ' https://twitter.com/ecfx1?lang=en', 'facebook_url': ' https://m.facebook.com/public/Ecfx'}
 reclamador.es	{'twitter_url': ' https://twitter.com/reclamador?lang=en'}
-HETIKUS	{'twitter_url': ' https://twitter.com/hetikus?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/HETIKUS/services'}
-TrustChain Systems	{'twitter_url': ' https://www.trustchain.com/2019/11/27/twitter-will-start-deleting-inactive-accounts/'}
-Justify	{'angellist_url': ' https://angel.co/company/poliscribe'}
+HETIKUS	{'facebook_url': ' https://www.facebook.com/HETIKUS/services'}
 COPYTRACK	{'twitter_url': ' https://twitter.com/COPYTRACK?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/copytrack'}
-Doc2	{'angellist_url': ' https://angel.co/company/wash-u-st-louis'}
-TOPCOURT LTS	{'twitter_url': ' https://twitter.com/ltsecurityinc?lang=en', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/wisermarketltd.'}
-Ettorney	{'twitter_url': ' https://twitter.com/dmanews1?lang=en', 'angellist_url': ' https://angel.co/company/attorney-at-law'}
-Matter365	{'facebook_url': ' https://www.facebook.com/pages/category/Local-Business/U-Matter-365-1550071405312664/'}
-Amulex	{'angellist_url': ' https://angel.co/company/emulex', 'linkedin_url': ' https://www.linkedin.com/company/emulex'}
-MessagePath	{'angellist_url': ' https://angel.co/p/willmurphy'}
-Justice.cool	{'angellist_url': ' https://angel.co/blog/on-messing-up-your-remote-team-and-then-getting-it-right'}
-IdeaBlock	{'twitter_url': ' https://twitter.com/ldeaBlock?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/ldeaBlock/'}
-Dilecy	{'angellist_url': ' https://angel.co/company/direct-dialect'}
-Hunit	{'facebook_url': ' https://www.facebook.com/HarryUnit', 'angellist_url': ' https://angel.co/company/product-hunt'}
-INKINDIALEGAL.com	{'twitter_url': ' https://twitter.com/gaurav_shr', 'angellist_url': ' https://angel.co/company/inbloxme', 'linkedin_url': ' https://in.linkedin.com/in/gaurav-sharma-07'}
-PatentBot	{'angellist_url': ' https://angel.co/r/massachusetts/inbound-marketer/jobs'}
-MUST Platform	{'twitter_url': ' https://www.nytimes.com/2020/05/26/opinion/trump-scarborough-twitter.html'}
-MINEKO	{'twitter_url': ' https://twitter.com/minekosmarket?lang=en', 'angellist_url': ' https://angel.co/company/mineko-engineering'}
-Devlos Software	{'twitter_url': ' https://developer.twitter.com/', 'angellist_url': ' https://angel.co/company/delos-living/funding'}
-Amiqus Resolution	{'twitter_url': ' https://twitter.com/amiqus?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/amiqus'}
-Elabogado	{'angellist_url': ' https://angel.co/joaquim-virgili-llop'}
-HUGO.legal	{'twitter_url': ' https://twitter.com/GoHugoIO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-TranslateFX	{'facebook_url': ' https://www.facebook.com/translatefx/', 'angellist_url': ' https://angel.co/p/erik-chan', 'linkedin_url': ' https://hk.linkedin.com/in/samuel-yip-28a48016b'}
-Kopjra	{'angellist_url': ' https://angel.co/company/ventureoutny/funding'}
-Deleyes	{'angellist_url': ' https://angel.co/help/general'}
+IdeaBlock	{ 'facebook_url': ' https://www.facebook.com/ldeaBlock/'}
+Amiqus Resolution	{'angellist_url': ' https://angel.co/company/amiqus'}
 Kings Court Trust	{'twitter_url': ' https://twitter.com/KCTpartners?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Knomos Knowledge Management	{'twitter_url': ' https://twitter.com/theknomos?lang=en', 'angellist_url': ' https://angel.co/company/knomos'}
-Dealz.ai	{'twitter_url': ' https://twitter.com/bgrdeals?lang=en', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/dealdep'}
-Legal Manager	{'facebook_url': ' https://www.facebook.com/careers/areas-of-work/legal/', 'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs'}
-Just Me Technologies	{'twitter_url': ' https://twitter.com/justme_tech?lang=en'}
-Advokatguiden.no	{'twitter_url': ' https://twitter.com/advokatguiden?lang=en'}
-Trustlog	{'angellist_url': ' https://angel.co/anna-berbeneva'}
 Divorce AI	{'angellist_url': ' https://angel.co/company/wevorce'}
-ECL Direct	{'twitter_url': ' https://twitter.com/hashtag/ecllite', 'angellist_url': ' https://angel.co/company/directly'}
-Grandeo Labs	{'facebook_url': ' https://www.facebook.com/adminBBA/photos/a.301559170339748/344046966090968/?type=3'}
 EPIQ	{'twitter_url': ' https://twitter.com/EpiqGlobal?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/epiq/funding'}
-The Legal Capsule	{'angellist_url': ' https://angel.co/company/capsulepharmacy'}
-Aalbul Ltd	{'twitter_url': ' https://twitter.com/driveralbum?lang=en', 'facebook_url': ' https://www.facebook.com/albumepoca/', 'crunchbase_url': ' https://www.crunchbase.com/organization/arctic-alliance', 'angellist_url': ' https://angel.co/company/sadcheese', 'linkedin_url': ' https://www.linkedin.com/company/classic-album'}
-Testamenta	{'angellist_url': ' https://angel.co/company/cread-1'}
 Legalfinder.com	{'angellist_url': ' https://angel.co/company/legal-finder'}
-JUIT	{'twitter_url': ' https://twitter.com/juit_solan?lang=en', 'angellist_url': ' https://angel.co/anchal-sharma-18'}
-Assembly Software	{'twitter_url': ' https://twitter.com/assemblymag1?lang=en', 'facebook_url': ' https://www.facebook.com/assembly64/', 'crunchbase_url': ' https://www.crunchbase.com/organization/assembly-ac60', 'angellist_url': ' https://angel.co/company/assembly-9'}
-myBarrister	{'twitter_url': ' https://twitter.com/mybdirect?lang=en'}
-Torrent Detective	{'twitter_url': ' https://twitter.com/clapifyoulikeme/status/1171504277367345155'}
-CodeLex	{'angellist_url': ' https://angel.co/company/amhnewssyndicate'}
-DocsCorp	{'angellist_url': ' https://angel.co/cluttkus'}
 APARAVI Software Corp	{'twitter_url': ' https://twitter.com/aparavisoftware?lang=en', 'facebook_url': ' https://www.facebook.com/aparavisoftware/'}
-Assistent.by	{'twitter_url': ' https://unionmetrics.com/free-tools/twitter-assistant/', 'angellist_url': ' https://angel.co/company/assistant-to', 'linkedin_url': ' https://www.linkedin.com/company/assistent'}
-Attorneys.org LLC	{'twitter_url': ' https://twitter.com/bestlawyers?lang=en', 'facebook_url': ' https://www.facebook.com/HG.org/', 'crunchbase_url': ' https://www.crunchbase.com/organization/attorneys-org-llc', 'angellist_url': ' https://angel.co/company/get-lawyer-app'}
 Expert Institute	{'twitter_url': ' https://twitter.com/expertinst?lang=en'}
-Legal Logs	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support', 'angellist_url': ' https://angel.co/legal'}
-CloudNine	{'twitter_url': ' https://twitter.com/Cloud9?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Walkers	{'angellist_url': ' https://angel.co/company/walker-1'}
-CheKin	{'twitter_url': ' https://twitter.com/checkdotin?lang=en', 'angellist_url': ' https://angel.co/company/check-15'}
-ZENDOC	{'twitter_url': ' https://twitter.com/zendoc?lang=en', 'angellist_url': ' https://angel.co/company/qualio/jobs'}
-Kurier	{'angellist_url': ' https://angel.co/company/zipmend-1'}
-SurePoint Technologies	{'twitter_url': ' https://twitter.com/surepointtech?lang=en', 'angellist_url': ' https://angel.co/louisville/investors'}
-LexCheck	{'facebook_url': ' https://www.facebook.com/lexondesign/', 'angellist_url': ' https://angel.co/company/lit-iq'}
 Red Marker - AI powered compliance	{'twitter_url': ' https://twitter.com/redmarkerai?lang=en', 'facebook_url': ' https://www.facebook.com/redmarkerai/posts'}
 Pointer Brand Protection	{'twitter_url': ' https://twitter.com/pointerbp?lang=en'}
-Upstock	{'angellist_url': ' https://angel.co/company/startup-stock-exchange'}
 Origin X Capital	{'twitter_url': ' https://twitter.com/OriginXLegal', 'angellist_url': ' https://angel.co/company/origin'}
-LeadsOnline	{'angellist_url': ' https://angel.co/company/leadscampus'}
-Congruity360	{'angellist_url': ' https://angel.co/company/jumbbit/people'}
-UFP Fintech	{'twitter_url': ' https://twitter.com/Fintech?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/xpence/funding'}
+UFP Fintech	{'twitter_url': ' https://twitter.com/Fintech?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
 RTIwala	{'twitter_url': ' https://twitter.com/RTIwala?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/rtiwala/jobs'}
-Karnov Group	{'twitter_url': ' https://twitter.com/nyakarnov?lang=en', 'angellist_url': ' https://angel.co/peter-ring-1'}
-Legility	{'angellist_url': ' https://angel.co/laura-harrington-4'}
-Bella Professional Services	{'twitter_url': ' https://twitter.com/bellavistamama?lang=en', 'angellist_url': ' https://angel.co/bella-buchanan1', 'linkedin_url': ' https://www.linkedin.com/in/kamillie-bella-8a5b08152'}
+Karnov Group	{'twitter_url': ' https://twitter.com/nyakarnov?lang=en'}
 Mind-Alliance Systems	{'twitter_url': ' https://twitter.com/mindalliance?lang=en'}
-CourtListener	{'angellist_url': ' https://angel.co/indra-malav'}
 Opus 2 International	{'twitter_url': ' https://twitter.com/opus2hq?lang=en'}
-Legaltech	{'angellist_url': ' https://angel.co/legal-tech-1'}
-Lawyer	{'twitter_url': ' https://twitter.com/RespectableLaw?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
 AppRocket	{'angellist_url': ' https://angel.co/company/rocket-apps'}
-Loom Analytics	{'angellist_url': ' https://angel.co/company/useloom'}
-LeapXpert Ltd	{'angellist_url': ' https://angel.co/'}
-LAWIO	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support', 'angellist_url': ' https://angel.co/p/jlaw'}
-Surukam	{'angellist_url': ' https://angel.co/iamsaurabhc'}
-Epoq	{'angellist_url': ' https://angel.co/daniel-sparrow'}
-Codekeeper BV	{'twitter_url': ' https://twitter.com/codekeeperco?lang=en', 'facebook_url': ' https://www.facebook.com/thebvsband/', 'linkedin_url': ' https://nl.linkedin.com/in/dannydewit'}
 Sparqa Legal	{'angellist_url': ' https://angel.co/company/sparqa'}
-FIRM24	{'twitter_url': ' https://twitter.com/firm24com?lang=en', 'angellist_url': ' https://angel.co/company/24-7-techies/funding'}
-Bryan Cave Leighton Paisner	{'twitter_url': ' https://twitter.com/BCLPlaw?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Quiktract	{'angellist_url': ' https://angel.co/amberly-miller'}
-CodeREG	{'twitter_url': ' https://twitter.com/code_reg?lang=en', 'facebook_url': ' https://www.facebook.com/pages/codereg/131649553562262', 'angellist_url': ' https://angel.co/samuel-watts'}
-LawCoin	{'facebook_url': ' https://www.facebook.com/Park-Dibadj-LLP-465086397203987/?ref=py_c'}
-PatentPal	{'angellist_url': ' https://angel.co/company/white-case-2'}
-McCarthyFinch	{'angellist_url': ' https://angel.co/p/jonty-kelt'}
-1LAW	{'twitter_url': ' https://twitter.com/1law?lang=en', 'angellist_url': ' https://angel.co/ajasonvelez'}
+FIRM24	{'twitter_url': ' https://twitter.com/firm24com?lang=en'}
+1LAW	{'twitter_url': ' https://twitter.com/1law?lang=en'}
 BlockAxs GmbH	{'twitter_url': ' https://twitter.com/blockaxs?lang=da'}
-Lawline.com	{'angellist_url': ' https://angel.co/company/thinkhr/people'}
-GetID	{'angellist_url': ' https://github.com/inreachventures/angellist-client/blob/master/src/main/java/vc/inreach/angellist/api/Role.java'}
-Whooster	{'twitter_url': ' https://twitter.com/woosterschl?lang=en', 'facebook_url': ' https://www.facebook.com/CityofWooster/', 'angellist_url': ' https://angel.co/company/college-of-wooster-1'}
 CEB	{'twitter_url': ' https://twitter.com/ceb?lang=en', 'angellist_url': ' https://angel.co/company/ceb'}
-LegalPassage	{'twitter_url': ' https://twitter.com/MarieLouiseSeeb/status/956129914306035713', 'angellist_url': ' https://angel.co/company/angelpad/funding'}
-Legal Automation	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-automation', 'angellist_url': ' https://angel.co/legal-tech-1'}
 Legal One GmbH	{'twitter_url': ' https://twitter.com/onelegal?lang=en', 'angellist_url': ' https://angel.co/company/legalio'}
-Intaker	{'twitter_url': ' https://twitter.com/intakebreathing?lang=en', 'angellist_url': ' https://angel.co/company/intake-me'}
-Balko	{'angellist_url': ' https://angel.co/company/balo/jobs'}
-Patent Bots	{'twitter_url': ' https://twitter.com/uspatentbot?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/bots-n-brains'}
-CanadaVisa	{'angellist_url': ' https://angel.co/help'}
-Timeliss	{'twitter_url': ' https://twitter.com/timelesssptv?lang=en', 'angellist_url': ' https://angel.co/company/timelessco'}
 TIQK	{'twitter_url': ' https://twitter.com/wearetiqk?lang=en', 'facebook_url': ' https://www.facebook.com/public/Tiqk?page=5'}
-LegalFAB	{'twitter_url': ' https://twitter.com/legalfabdotcom?lang=en', 'angellist_url': ' https://angel.co/company/bovcontrol/jobs'}
-AiRelo	{'angellist_url': ' https://angel.co/company/viralspace'}
-DADSUN	{'twitter_url': ' https://twitter.com/datsunindia?lang=en', 'angellist_url': ' https://angel.co/p/rush-hyle-datsun'}
-Fiberhome	{'angellist_url': ' https://angel.co/company/igulu/people'}
-The National Law Review	{'twitter_url': ' https://twitter.com/natlawreview?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-MGROUP	{'twitter_url': ' https://twitter.com/the_mgroup?lang=en', 'facebook_url': ' https://www.facebook.com/mgroup.us/', 'angellist_url': ' https://angel.co/'}
+LegalFAB	{'twitter_url': ' https://twitter.com/legalfabdotcom?lang=en'}
+MGROUP	{'twitter_url': ' https://twitter.com/the_mgroup?lang=en', 'facebook_url': ' https://www.facebook.com/mgroup.us/'}
 VantageBP	{'twitter_url': ' https://twitter.com/hashtag/vantagebp', 'facebook_url': ' https://www.facebook.com/vantagebp/', 'angellist_url': ' https://angel.co/company/vantage-bp/jobs'}
-Kontrak Hukum (Buatkontrak)	{'twitter_url': ' https://twitter.com/buatkontrak/status/826678326496423936', 'linkedin_url': ' https://id.linkedin.com/in/riekecaroline'}
-Legalboards.io	{'twitter_url': ' https://twitter.com/legalboards?lang=en', 'angellist_url': ' https://angel.co/'}
-Zelican Infotech	{'twitter_url': ' https://twitter.com/infotechinc?lang=en'}
-Mercatório	{'twitter_url': ' https://twitter.com/hashtag/Mercat%C3%B3rio?src=hash', 'angellist_url': ' https://angel.co/company/getpingback/people'}
+Kontrak Hukum (Buatkontrak)	{'twitter_url': ' https://twitter.com/buatkontrak/status/826678326496423936'}
+Legalboards.io	{'twitter_url': ' https://twitter.com/legalboards?lang=en'}
+Mercatório	{'twitter_url': ' https://twitter.com/hashtag/Mercat%C3%B3rio?src=hash'}
 SmartUp Legal	{'twitter_url': ' https://twitter.com/smartup_?lang=en', 'angellist_url': ' https://angel.co/company/smartup-5'}
-LegalForms	{'twitter_url': ' https://twitter.com/legal_ke', 'facebook_url': ' https://www.facebook.com/legaforms/', 'angellist_url': ' https://angel.co/company/advobo'}
-F-LEX	{'twitter_url': ' https://twitter.com/flexintl?lang=en', 'facebook_url': ' https://www.facebook.com/FLEXONDEMAND/', 'angellist_url': ' https://angel.co/company/getflex/jobs'}
-Tagdox	{'angellist_url': ' https://angel.co/company/zoi-ai/people'}
-ipQuants AG	{'twitter_url': ' https://twitter.com/ipquants?lang=en', 'facebook_url': ' https://www.facebook.com/swisslegaltech/photos/a.543918122447791/1006463296193269/?type=3'}
-Easyoffer	{'angellist_url': ' https://angel.co/spain/lead-generation/jobs'}
 ZHIANT	{'twitter_url': ' https://twitter.com/zhiantglobal?lang=en', 'angellist_url': ' https://angel.co/company/zhiant'}
-FMeasure	{'angellist_url': ' https://angel.co/yijing-li-3'}
-Branding Technology Japan	{'twitter_url': ' https://twitter.com/techbrandmktg?lang=en', 'facebook_url': ' https://www.facebook.com/pages/category/Society---Culture-Website/Technology-Japan-245159346389362/', 'angellist_url': ' https://angel.co/location/japan', 'linkedin_url': ' https://business.linkedin.com/talent-solutions/blog/employer-brand/2019/linkedins-top-companies-2019'}
-OneWill	{'facebook_url': ' https://www.facebook.com/camboking/'}
-Infolegale	{'angellist_url': ' https://angel.co/maxime-cony'}
-Legasis Services	{'twitter_url': ' https://twitter.com/legasis_service?lang=en', 'angellist_url': ' https://angel.co/samendra-patil'}
 BlackStone Discovery	{'twitter_url': ' https://twitter.com/blackstoneinfo?lang=en'}
 Capiche Capital Technologies	{'twitter_url': ' https://twitter.com/capichecapital?lang=en'}
-The Law App	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support', 'angellist_url': ' https://angel.co/company/get-lawyer-app'}
 iCEIBA	{'twitter_url': ' https://twitter.com/@i_CEIBA', 'facebook_url': ' https://www.facebook.com/iCeibaTech/photos/?tab=album&album_id=455021758203775', 'angellist_url': ' https://angel.co/company/iceiba'}
-CCPA Toll Free	{'twitter_url': ' https://twitter.com/CookiePro_OT/status/1207778009039720448'}
 ApexCLE	{'twitter_url': ' https://twitter.com/apexcle?lang=en', 'crunchbase_url': ' https://www.crunchbase.com/organization/apexcle'}
-ZipClaims	{'twitter_url': ' https://twitter.com/hashtag/tmthome?src=hash', 'facebook_url': ' https://www.facebook.com/Thehandpickedhome/about/?ref=page_internal', 'linkedin_url': ' https://ie.linkedin.com/jobs/view/claims-data-and-process-analyst-at-zurich-insurance-company-ltd-1833479122'}
-Lexvoco	{'angellist_url': ' https://angel.co/anhphamduy'}
-Veloxiti	{'angellist_url': ' https://angel.co/matthew-henderson-14'}
 ZICO Law	{'twitter_url': ' https://twitter.com/zico_group?lang=en'}
-Beti	{'twitter_url': ' https://twitter.com/namj9n?lang=en', 'angellist_url': ' https://angel.co/company/mancrates/people'}
-IP Checkups	{'twitter_url': ' https://twitter.com/ipcheckup?lang=en', 'facebook_url': ' https://www.facebook.com/help/443357099140264/'}
-Valire	{'angellist_url': ' https://angel.co/company/valerie-s/people'}
-SUMMARLY	{'twitter_url': ' https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary', 'facebook_url': ' https://www.facebook.com/business/help/754461494603811', 'angellist_url': ' https://angel.co/company/summary'}
-SIËSDE	{'twitter_url': ' https://twitter.com/DRGingras/status/1038069940354514944', 'facebook_url': ' https://www.facebook.com/677281512300476/posts/wives-take-the-separation-analysis-report-here-httpbitly2bfljiw/1966661313362483/'}
-Deep Legal	{'twitter_url': ' https://twitter.com/rgoodlaw/status/1188996862877077504?lang=en', 'angellist_url': ' https://angel.co/legal'}
-Acaya	{'twitter_url': ' https://twitter.com/avaya?lang=en', 'angellist_url': ' https://angel.co/company/avaya'}
-Bilr	{'angellist_url': ' https://angel.co/company/citi-bike-1/jobs?src=rec'}
-ShakeUp Online	{'twitter_url': ' https://twitter.com/plusplayer4?lang=en', 'angellist_url': ' https://angel.co/job-collections/startup-internships'}
+IP Checkups	{'twitter_url': ' https://twitter.com/ipcheckup?lang=en'}
 LEGALIBOO	{'twitter_url': ' https://twitter.com/legaliboo?lang=en', 'angellist_url': ' https://angel.co/company/legaliboo'}
 Alba Software	{'twitter_url': ' https://twitter.com/usealba', 'facebook_url': ' https://www.facebook.com/public/Alba-Carrillo', 'crunchbase_url': ' https://www.crunchbase.com/organization/alba', 'angellist_url': ' https://angel.co/company/alba-4'}
-Immortalize	{'facebook_url': ' https://www.facebook.com/help/community/question/?id=2230343966982477', 'angellist_url': ' https://angel.co/company/starters-network'}
-GDPR Register	{'twitter_url': ' https://gdpr.twitter.com/en.html', 'angellist_url': ' https://angel.co/privacy'}
-ligris.	{'angellist_url': ' https://angel.co/company/stavvy'}
-Atims	{'twitter_url': ' https://twitter.com/wearatoms?lang=en', 'angellist_url': ' https://angel.co/atoms/jobs'}
-Africa Legal News	{'twitter_url': ' https://twitter.com/legalpsg?lang=en', 'angellist_url': ' https://angel.co/africa/news/jobs'}
-Liquid Litigation Management	{'twitter_url': ' https://twitter.com/llminc?lang=en'}
-LegalMaps	{'angellist_url': ' https://angel.co/projects/310509-litigation-timeline-analytics'}
-Finnovating	{'angellist_url': ' https://angel.co/company/finnovationz'}
-LegalComet	{'twitter_url': ' https://twitter.com/johnhjkang/status/1060730889296965632', 'linkedin_url': ' https://au.linkedin.com/company/rajah-tann-technologies'}
-Privatica	{'angellist_url': ' https://angel.co/fdhadzh', 'linkedin_url': ' https://www.linkedin.com/company/mekachi'}
-AudioCaseFiles	{'facebook_url': ' https://www.facebook.com/CampbellLawLibrary/videos/2032876163702884/'}
-Inheryt	{'angellist_url': ' https://angel.co/company/secured-inheritance-1/jobs'}
+GDPR Register	{'twitter_url': ' https://gdpr.twitter.com/en.html'}
 Black Swan Digital Forensics	{'twitter_url': ' https://twitter.com/blackswandf?lang=en'}
-Will 2 Click	{'facebook_url': ' https://www.facebook.com/113219066753294/videos/445135122776894/', 'angellist_url': ' https://angel.co/help'}
 AENVI	{'twitter_url': ' https://twitter.com/aenvi', 'crunchbase_url': ' https://www.crunchbase.com/organization/aenvi', 'linkedin_url': ' https://it.linkedin.com/company/aenvi'}
-Parallel Solutions	{'twitter_url': ' https://twitter.com/parallel_sltns?lang=en', 'angellist_url': ' https://angel.co/company/paralleldots'}
-Abogados NOW	{'angellist_url': ' https://angel.co/company/zentromedia-org/jobs/829339-spanish-lawyers-abogados-espanoles-autonomos', 'linkedin_url': ' https://www.linkedin.com/company/izaza-abogados'}
-Draftr	{'angellist_url': ' https://angel.co/company/playdraft'}
-Environmental Health Coalition	{'twitter_url': ' https://twitter.com/ehcsandiego?lang=en', 'linkedin_url': ' https://www.linkedin.com/in/diane-takvorian-msw-b1b5b023'}
-LEXAI	{'twitter_url': ' https://twitter.com/LexiaLearning?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/lexialearning', 'angellist_url': ' https://angel.co/company/scayl/people', 'linkedin_url': ' https://www.linkedin.com/company/lexia-learning-systems'}
-Masoomeen Quran Center	{'twitter_url': ' https://twitter.com/masoomeenquranC', 'facebook_url': ' https://www.facebook.com/MehdiQuranCenter/videos/promoting-remote-tutoring-especially-the-quran-fiqah-and-teachings-of-our-14-mas/243952149997367/', 'angellist_url': ' https://angel.co/company/learn-quran', 'linkedin_url': ' https://www.linkedin.com/company/learnquranonline'}
-Coretext	{'angellist_url': ' https://angel.co/company/timeless-9/jobs'}
-Jurimetric	{'angellist_url': ' https://angel.co/bridget-a-smith'}
-Patent Digest	{'facebook_url': ' https://www.facebook.com/ipmanagersdigest', 'angellist_url': ' https://angel.co/jobs?job_filter_id=219368&startup_id=379735&utm_campaign=daily_subscription_digest&utm_content=image&utm_medium=email&utm_source=subscription-digest&utm_term='}
-Politico Group	{'twitter_url': ' https://twitter.com/politico?lang=en', 'facebook_url': ' https://www.politico.com/news/magazine/2020/05/14/facebook-nick-clegg-profile-122836', 'angellist_url': ' https://angel.co/p/katherine-lehr'}
-Tod.d: Your Virtual Chief of Staff	{'angellist_url': ' https://angel.co/company/toddconsulting'}
+Politico Group	{'twitter_url': ' https://twitter.com/politico?lang=en'}
 LCM Finance	{'facebook_url': ' https://www.facebook.com/pages/LCM-Financial/428296240675900'}
-Berkman Solutions	{'twitter_url': ' https://twitter.com/berkman_lextree?lang=en', 'angellist_url': ' https://angel.co/eric-berkman'}
 Sem Processo	{'twitter_url': ' https://twitter.com/sprocesso'}
-Justice Solutions Group	{'twitter_url': ' https://twitter.com/jsgfirm'}
-Braina	{'twitter_url': ' https://twitter.com/brain1878?lang=en', 'angellist_url': ' https://angel.co/company/brain'}
-Qrative	{'facebook_url': ' https://www.facebook.com/QCCure/', 'angellist_url': ' https://angel.co/company/blockfi/jobs/807731-creative-director', 'linkedin_url': ' https://il.linkedin.com/in/oransinger'}
-SAJ ADV	{'angellist_url': ' https://angel.co/company/comcast-1/people'}
-JW LEGAL INNOVATION SAS DE CV	{'twitter_url': ' https://twitter.com/innovatelawafri?lang=en', 'facebook_url': ' https://www.facebook.com/legalenglishinnovation/', 'linkedin_url': ' https://mx.linkedin.com/in/carlavazquezwallach'}
-Matters.Cloud	{'angellist_url': ' https://angel.co/company/matterapp/jobs'}
 Anika Legal	{'angellist_url': ' https://angel.co/company/anika-1'}
-Signature Closers	{'twitter_url': ' https://twitter.com/sigclosers?lang=en'}
-Avallo	{'angellist_url': ' https://angel.co/rafa-zarate'}
-Otica.ai	{'angellist_url': ' https://angel.co/artificial-intelligence'}
-Vicente Sederberg	{'twitter_url': ' https://twitter.com/VScannabislaw?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-DiJu	{'angellist_url': ' https://angel.co/company/truerent/people?inFrame=1'}
-Litigation Master	{'twitter_url': ' https://twitter.com/itihaasnaama/status/1226906208252178434', 'linkedin_url': ' https://www.linkedin.com/in/zulaikhamaster'}
-Merton Lawyers	{'angellist_url': ' https://angel.co/r/san-francisco/lawyer/jobs'}
 Candor Consulting	{'twitter_url': ' https://twitter.com/GroupCandor?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-LawHero	{'twitter_url': ' https://twitter.com/artificiallawya?lang=en', 'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs'}
-Clemta	{'twitter_url': ' https://twitter.com/the_clemente?lang=en', 'angellist_url': ' https://angel.co/company/simple-4/people'}
-Huttons	{'twitter_url': ' https://twitter.com/huttonbuilds?lang=en', 'angellist_url': ' https://angel.co/p/andrew-hutton-2'}
-Legal Research Center	{'twitter_url': ' https://twitter.com/oborlegal?lang=en', 'angellist_url': ' https://angel.co/legal'}
-Planet Data	{'twitter_url': ' https://twitter.com/planetlabs?lang=en', 'angellist_url': ' https://angel.co/company/planet-labs'}
-Legal Hub	{'angellist_url': ' https://angel.co/company/the-hub-5'}
-Wildcat Legal	{'twitter_url': ' https://twitter.com/pantheracats?lang=en', 'angellist_url': ' https://angel.co/legal'}
-One Protect	{'twitter_url': ' https://help.twitter.com/en/safety-and-security/public-and-protected-tweets', 'angellist_url': ' https://angel.co/company/naberius'}
-Referent	{'angellist_url': ' https://angel.co/company/ilovmode-1'}
-The Time Billing	{'twitter_url': ' https://business.twitter.com/en/help/account-setup/billing-basics/billing-invoices.html', 'angellist_url': ' https://angel.co/company/bill4time-1/jobs', 'linkedin_url': ' https://www.linkedin.com/company/bill4time'}
-LexMeet	{'angellist_url': ' https://angel.co/gino-carlo-cortez'}
-Adidem Corporation	{'twitter_url': ' https://twitter.com/adidemcorp', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/the-adidem-group'}
-Benoam	{'twitter_url': ' https://twitter.com/gcaw/status/679680653496029184', 'facebook_url': ' https://www.facebook.com/public/Ben-Oam', 'linkedin_url': ' https://il.linkedin.com/in/zack-zeigerman-15954615'}
-Kobi AI	{'twitter_url': ' https://twitter.com/thekobicompany?lang=en', 'angellist_url': ' https://angel.co/company/package-ai-1/funding', 'linkedin_url': ' https://www.linkedin.com/company/the-kobi-company'}
+Adidem Corporation	{'twitter_url': ' https://twitter.com/adidemcorp', 'linkedin_url': ' https://www.linkedin.com/company/the-adidem-group'}
+Benoam	{'twitter_url': ' https://twitter.com/gcaw/status/679680653496029184', 'facebook_url': ' https://www.facebook.com/public/Ben-Oam'}
 Buddle	{'angellist_url': ' https://angel.co/company/bundle-8'}
-GGRUS Technologies Private Limited	{'twitter_url': ' https://twitter.com/principal_h?lang=en', 'angellist_url': ' https://angel.co/company/funswitch-technologies/jobs', 'linkedin_url': ' https://www.linkedin.com/company/socdv-technologies'}
-Legal Loans	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'angellist_url': ' https://angel.co/company/america-lawsuit-loans'}
-PacerDash	{'linkedin_url': ' https://www.linkedin.com/in/richleenyc'}
-BGC Brasil	{'twitter_url': ' https://twitter.com/bgcpartners?lang=en', 'facebook_url': ' https://www.facebook.com/BCGinBrazil/', 'angellist_url': ' https://angel.co/location/brazil'}
-Tvuna Software Industries	{'angellist_url': ' https://angel.co/company/twine-labs/jobs/806575-backend-software-engineer-upaid-internship-academic-credit-required'}
-Free Legal Aid	{'twitter_url': ' https://twitter.com/legalaidnyc?lang=en', 'angellist_url': ' https://angel.co/company/proboknow', 'linkedin_url': ' https://www.linkedin.com/company/legal-aid-society'}
-JustResolve	{'angellist_url': ' https://angel.co/company/justfix-nyc/jobs'}
-Disputec PeaceMaker	{'twitter_url': ' https://twitter.com/ftchina/status/1209052635325779974', 'facebook_url': ' https://www.facebook.com/pages/category/Legal/Peacemakers-Dispute-Resolution-LLC-1642903709086959/', 'linkedin_url': ' https://www.linkedin.com/company/peacemaker-ministries'}
 Peace Talks Mediation	{'twitter_url': ' https://twitter.com/peacetalks?lang=en'}
-Bengoshi Talk	{'twitter_url': ' https://twitter.com/hashtag/bengoshi', 'facebook_url': ' https://www.facebook.com/TheTalkCBS/', 'linkedin_url': ' https://speakers.linkedin.com/'}
-QuickWill	{'angellist_url': ' https://angel.co/company/quick-3'}
-Soocasa	{'twitter_url': ' https://twitter.com/zoocasa?lang=en', 'angellist_url': ' https://angel.co/company/zoocasa'}
+Bengoshi Talk	{'twitter_url': ' https://twitter.com/hashtag/bengoshi'}
 Saxton and Stump	{'twitter_url': ' https://twitter.com/hashtag/saxtonstump'}
-Bis-Tec Technologies	{'twitter_url': ' https://twitter.com/biztechmagazine?lang=en', 'facebook_url': ' https://www.facebook.com/BistecGlobal', 'angellist_url': ' https://angel.co/remote', 'linkedin_url': ' https://www.linkedin.com/company/b.i.s.-technologies'}
-AOS Korea	{'twitter_url': ' https://twitter.com/amornith?lang=en', 'angellist_url': ' https://angel.co/south-korea', 'linkedin_url': ' https://www.linkedin.com/company/aos'}
-Visitation Ease	{'twitter_url': ' https://twitter.com/ease?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/softdevsolutionsinc'}
-Iuris NOW	{'angellist_url': ' https://angel.co/'}
-BAI Digital	{'twitter_url': ' https://twitter.com/BAI_Info/status/1247871819132043270', 'angellist_url': ' https://angel.co/yunyi-bai', 'linkedin_url': ' https://www.linkedin.com/company/bradley-advisors-inc'}
-Enact Conveyancing	{'angellist_url': ' https://angel.co/shyla-khan'}
-lex.be	{'twitter_url': ' https://twitter.com/lexmobilegaming?lang=en', 'angellist_url': ' https://angel.co/company/lexmarkets/jobs'}
-MutuAlies	{'linkedin_url': ' https://ru.linkedin.com/in/alexandr-mazalov/en'}
-MyDefence	{'angellist_url': ' https://angel.co/mirekbielinski'}
-Legal Resolved	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs'}
+Bis-Tec Technologies	{'twitter_url': ' https://twitter.com/biztechmagazine?lang=en', 'facebook_url': ' https://www.facebook.com/BistecGlobal', 'linkedin_url': ' https://www.linkedin.com/company/b.i.s.-technologies'}
+AOS Korea	{'angellist_url': ' https://angel.co/south-korea', 'linkedin_url': ' https://www.linkedin.com/company/aos'}
 Da Vinci Partners LLC	{'twitter_url': ' https://twitter.com/DaVinciPartner'}
-Uniproof	{'facebook_url': ' https://www.facebook.com/humanfactorssolutions/'}
-Legable	{'twitter_url': ' https://twitter.com/hashtag/legible', 'facebook_url': ' https://www.facebook.com/help/contact/317389574998690'}
-FP Partner	{'twitter_url': ' https://partners.twitter.com/', 'facebook_url': ' https://www.facebook.com/business/marketing-partners', 'angellist_url': ' https://angel.co/company/financial-partners-2', 'linkedin_url': ' https://www.linkedin.com/company/frankpartners'}
-Edilex	{'twitter_url': ' https://twitter.com/EditaLakitieto?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-The Technolawgist	{'twitter_url': ' https://twitter.com/the_technolaw?lang=en', 'angellist_url': ' https://angel.co/company/wink-nod/jobs/667392-senior-technologist'}
-eLakitoimisto	{'linkedin_url': ' https://fi.linkedin.com/in/niko-laukkonen-ba817a48'}
-VictorAi	{'twitter_url': ' https://twitter.com/victoriaseries?lang=en', 'angellist_url': ' https://angel.co/victoria-57'}
-IIPRD	{'twitter_url': ' https://twitter.com/hashtag/IIPRD?src=hash', 'facebook_url': ' https://www.facebook.com/IIPRD/', 'angellist_url': ' https://angel.co/neha-uppal-1'}
-Kondracki Celej	{'twitter_url': ' https://twitter.com/rafalcelej?lang=en'}
+Legable	{'twitter_url': ' https://twitter.com/hashtag/legible'}
+IIPRD	{'twitter_url': ' https://twitter.com/hashtag/IIPRD?src=hash', 'facebook_url': ' https://www.facebook.com/IIPRD/'}
 Berlin Patten Ebling	{'twitter_url': ' https://twitter.com/berlinpatten?lang=en'}
-Aspirea	{'twitter_url': ' https://twitter.com/aspire?lang=en'}
 PointOFLAW	{'twitter_url': ' https://twitter.com/pointoflaw?lang=en', 'angellist_url': ' https://angel.co/company/pointoflaw'}
-IurFRIEND	{'twitter_url': ' https://twitter.com/humankindgame/status/1253324519311196161?lang=en', 'linkedin_url': ' https://de.linkedin.com/in/christopher-pr%C3%BCfer-3367701b'}
-Softinfo	{'angellist_url': ' https://angel.co/sahitya-upmanyu'}
-The Center for Computer-Assisted Legal Instruction	{'twitter_url': ' https://twitter.com/caliorg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor'}
-Hanrei Times Holdings	{'twitter_url': ' https://twitter.com/ucilaw?lang=en', 'facebook_url': ' https://www.facebook.com/public/Henry-Chukwuma', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/company/high-times'}
-Meu Primeiro Ape	{'angellist_url': ' https://angel.co/'}
 SKUANI	{'twitter_url': ' https://twitter.com/hashtag/skuani'}
-Virtual Pricing Director	{'twitter_url': ' https://twitter.com/validatum?lang=en'}
-Planet Patent	{'twitter_url': ' https://twitter.com/patentbuddy?lang=en', 'angellist_url': ' https://angel.co/company/smart-planet-technologies'}
-We Legalize	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'facebook_url': ' https://www.facebook.com/justsaynow/', 'angellist_url': ' https://angel.co/legal-tech-1', 'linkedin_url': ' https://www.linkedin.com/company/legalize-co'}
-Handelonthelaw	{'linkedin_url': ' https://www.linkedin.com/in/carol-duckworth-058222a'}
-Dimension Informatique Realisations	{'facebook_url': ' https://www.facebook.com/pages/category/Internet-Company/Dimension-Informatique-R%C3%A9alisations-diraj-767882906587263/'}
-Migration Agent and Immigration Lawyer Association	{'twitter_url': ' https://twitter.com/ailanational?lang=en'}
-Suitup Israel	{'twitter_url': ' https://twitter.com/idf/status/397290850369019904', 'angellist_url': ' https://angel.co/location/israel'}
-Escola de Cálculos	{'twitter_url': ' https://twitter.com/gilbertosmelo?lang=en', 'linkedin_url': ' https://br.linkedin.com/in/marlos-henrique'}
-LinkLei	{'angellist_url': ' https://angel.co/company/investrs'}
-Legalcloud	{'angellist_url': ' https://angel.co/company/cherryc'}
-London Law Agency	{'twitter_url': ' https://twitter.com/lawsometweets?lang=en', 'angellist_url': ' https://angel.co/r/remote-friendly/lawyer/jobs'}
-Ingensity IP	{'facebook_url': ' https://www.facebook.com/notes/anonymous/find-someones-ip-address-when-chatting-on-facebook/130426517138054/', 'angellist_url': ' https://angel.co/company/lvl-analytics-1'}
-NovaProlink Tecnologia	{'linkedin_url': ' https://www.linkedin.com/company/maxycon-consultoria'}
-Church General Counsel	{'twitter_url': ' https://twitter.com/d3gibbs?lang=en', 'angellist_url': ' https://angel.co/company/interplay-ventures/jobs/328447-general-counsel', 'linkedin_url': ' https://www.linkedin.com/in/david-channer-237110116'}
-Berkelyn	{'twitter_url': ' https://twitter.com/ucberkeley?lang=en', 'angellist_url': ' https://angel.co/company/uc-berkeley'}
-Mccoy|fatula	{'twitter_url': ' https://twitter.com/cutondime25?lang=en', 'angellist_url': ' https://angel.co/company/mccoy-management-solutions', 'linkedin_url': ' https://www.linkedin.com/company/mccoy-corporation'}
-Nexlaw Partners	{'twitter_url': ' https://twitter.com/nexlaw', 'angellist_url': ' https://angel.co/'}
+Nexlaw Partners	{'twitter_url': ' https://twitter.com/nexlaw'}
 OOO SKB	{'twitter_url': ' https://twitter.com/skbcases?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/skb-cases'}
-KeyVision PRO	{'twitter_url': ' https://twitter.com/keysight?lang=en', 'angellist_url': ' https://angel.co/david-quaglieri'}
-RealLegal	{'angellist_url': ' https://angel.co/company/juridicus-1'}
 Law Offices Of Barry K. Rothman	{'twitter_url': ' https://twitter.com/barrykrothman', 'linkedin_url': ' https://www.linkedin.com/pub/dir/Barry/Rothman'}
-Legalr	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-legal-faqs', 'facebook_url': ' https://www.facebook.com/LegalServicesCorporation/', 'angellist_url': ' https://angel.co/legal-tech-1'}
-Gepro Software Jurídico	{'twitter_url': ' https://twitter.com/projuris?lang=en'}
-Bungeni Consulting	{'facebook_url': ' https://www.facebook.com/pages/category/Health-Beauty/Miss-Bungeni-100610938157558/'}
-Indenizar	{'twitter_url': ' https://twitter.com/bir_raja', 'linkedin_url': ' https://www.linkedin.com/company/protegit-resolve'}
-Makowski Legal Group	{'twitter_url': ' https://twitter.com/MakowskiLaw/media', 'linkedin_url': ' https://www.linkedin.com/in/james-makowski-9ba68410'}
-EDOA	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/manipulated-media', 'angellist_url': ' https://angel.co/company/gimlet-media', 'linkedin_url': ' https://www.linkedin.com/company/verizon-media'}
-Grinm Advanced Materials	{'twitter_url': ' https://twitter.com/hashtag/grinm', 'linkedin_url': ' https://www.linkedin.com/company/grinm-semiconductor-materials-co-ltd-'}
-NextLex	{'twitter_url': ' https://twitter.com/netflix?lang=en', 'facebook_url': ' https://www.facebook.com/netflix/', 'angellist_url': ' https://angel.co/company/netflix'}
-Lovelace Killen	{'twitter_url': ' https://twitter.com/mystang3210?lang=de'}
-Vance and Larson Law Firm	{'twitter_url': ' https://twitter.com/ronfriedmann?lang=en', 'facebook_url': ' https://www.facebook.com/thevancelawfirm/'}
-Intelivix	{'twitter_url': ' https://twitter.com/arthuralvim?lang=en', 'angellist_url': ' https://angel.co/giuliocc'}
 Harrison and Held	{'twitter_url': ' https://twitter.com/harrisonheld', 'facebook_url': ' https://www.facebook.com/people/Harrison-Held/100000753358666', 'linkedin_url': ' https://www.linkedin.com/company/harrison-&-held-llp'}
-Puritas Springs Software	{'linkedin_url': ' https://www.linkedin.com/company/puritas-limited'}
-D"acordo Mediações	{'angellist_url': ' https://angel.co/company/justto'}
 RION Corp	{'angellist_url': ' https://angel.co/company/rion'}
-Makaira	{'twitter_url': ' https://twitter.com/makabun_?lang=en', 'angellist_url': ' https://angel.co/company/maker'}
-Millennium International Patent Law Firm	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/copyright-policy', 'facebook_url': ' https://www.facebook.com/careers/life/legal-at-facebook-building-a-global-company-that-is-compliant', 'angellist_url': ' https://angel.co/intellectual-property', 'linkedin_url': ' https://www.linkedin.com/in/frank-proscia-92484a8'}
-Plougmann Vingtoft	{'twitter_url': ' https://twitter.com/ManagingIP/statuses/839943381711261697'}
-Legacy Network	{'twitter_url': ' https://twitter.com/oeblegacy?lang=en', 'angellist_url': ' https://angel.co/company/primenms'}
 Keystone Legal	{'twitter_url': ' https://twitter.com/keystone_law?lang=en', 'facebook_url': ' https://www.facebook.com/keystoneLFWP/', 'angellist_url': ' https://angel.co/company/keystone-strategy-4/jobs', 'linkedin_url': ' https://www.linkedin.com/company/keystone-law'}
-Jiangsu Zhongtian Technology	{'twitter_url': ' https://twitter.com/lovejiangsu?lang=en'}
-Apptorney	{'twitter_url': ' https://twitter.com/dmanews1?lang=en'}
-contratabien.com	{'twitter_url': ' https://twitter.com/MinTrabajoEc/status/1218583817981743105/photo/1', 'facebook_url': ' https://www.facebook.com/thebiznation/posts/1347603268689278:0', 'linkedin_url': ' https://co.linkedin.com/in/maria-camila-salazar-vega-755b27170'}
 Gestion Legal Colombia	{'twitter_url': ' https://twitter.com/ColombiaGestion'}
 Rangefindr	{'twitter_url': ' https://twitter.com/rangefindermag?lang=en', 'angellist_url': ' https://angel.co/company/konost', 'linkedin_url': ' https://www.linkedin.com/company/rangefinder-magazine-pub-co'}
-Dokument 24	{'twitter_url': ' https://help.twitter.com/en/using-twitter/twitter-advanced-search'}
-Privacy Control Center	{'twitter_url': ' https://help.twitter.com/en/safety-and-security/twitter-privacy-settings', 'angellist_url': ' https://angel.co/help'}
-API Garant	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-api', 'facebook_url': ' https://developers.facebook.com/docs/marketing-apis/', 'crunchbase_url': ' https://www.crunchbase.com/organization/orbit-garant', 'angellist_url': ' https://angel.co/company/api-4/people', 'linkedin_url': ' https://www.linkedin.com/company/garant-gp'}
-Assist-Ant	{'twitter_url': ' https://unionmetrics.com/free-tools/twitter-assistant/', 'angellist_url': ' https://angel.co/executive-assistant/jobs'}
-Management Solutions Consulting	{'twitter_url': ' https://twitter.com/mngmt_solutions?lang=en', 'facebook_url': ' https://www.facebook.com/spmscg/', 'angellist_url': ' https://angel.co/company/management-solutions/people', 'linkedin_url': ' https://www.linkedin.com/company/management-solutions'}
-iPLAB Startups	{'twitter_url': ' https://twitter.com/mnakahata?lang=en', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://jp.linkedin.com/in/mitsuhiro-maeda-17ba7819'}
-Public Law	{'angellist_url': ' https://angel.co/legal-tech-1'}
-Lawsome	{'angellist_url': ' https://angel.co/company/animatrix'}
-dpVUE .images	{'twitter_url': ' https://twitter.com/dpvue', 'linkedin_url': ' https://business.linkedin.com/talent-solutions/blog/2014/12/5-tips-for-picking-the-right-linkedin-profile-picture'}
-Steinfeld and Steinfeld	{'twitter_url': ' https://twitter.com/HaileeSteinfeld?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/craig-steinfeld', 'linkedin_url': ' https://www.linkedin.com/company/steinfeld-law-llp'}
-Edgar Law Firm	{'angellist_url': ' https://angel.co/legal'}
-SECIB	{'twitter_url': ' https://twitter.com/secib_fr?lang=en', 'angellist_url': ' https://angel.co/company/second-measure'}
-Prisma Jurídico	{'twitter_url': ' https://twitter.com/asesoresprisma?lang=en', 'linkedin_url': ' https://es.linkedin.com/in/prisma-jur%C3%ADdico-32823b6b'}
-Law Explorers	{'twitter_url': ' https://twitter.com/ppdexplorers?lang=en'}
+Management Solutions Consulting	{'twitter_url': ' https://twitter.com/mngmt_solutions?lang=en', 'angellist_url': ' https://angel.co/company/management-solutions/people', 'linkedin_url': ' https://www.linkedin.com/company/management-solutions'}
+SECIB	{'twitter_url': ' https://twitter.com/secib_fr?lang=en'}
+Prisma Jurídico	{'twitter_url': ' https://twitter.com/asesoresprisma?lang=en'}
 The Heir Hunters	{'twitter_url': ' https://twitter.com/heirhunters?lang=en'}
-TRAIAL	{'twitter_url': ' https://twitter.com/courttv?lang=en', 'angellist_url': ' https://angel.co/company/remote-trial'}
 Solucionare Logística Jurídica	{'twitter_url': ' https://twitter.com/equipojuridico?lang=en'}
-Intelectual Abogados	{'twitter_url': ' https://twitter.com/intelectualabs?lang=en'}
-KEY Discovery	{'twitter_url': ' https://twitter.com/keydisc0very?lang=en', 'angellist_url': ' https://angel.co/local-discovery-1/jobs'}
 JusAPI	{'twitter_url': ' https://twitter.com/api_jus?lang=en', 'facebook_url': ' https://www.facebook.com/pages/category/Local-Business/JusAPI-1999297513698131/'}
-LIRIS	{'twitter_url': ' https://twitter.com/LirisC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/liriscrosse/', 'angellist_url': ' https://angel.co/company/lyric', 'linkedin_url': ' https://www.linkedin.com/company/liris'}
-Law Offices Of J Samuel Worley	{'linkedin_url': ' https://www.linkedin.com/in/a-sue-36050132'}
+LIRIS	{'twitter_url': ' https://twitter.com/LirisC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'facebook_url': ' https://www.facebook.com/liriscrosse/', 'linkedin_url': ' https://www.linkedin.com/company/liris'}
 GDPRfolder.eu	{'twitter_url': ' https://twitter.com/eu_commission?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/gdprfolder'}
-LegalTap	{'angellist_url': ' https://angel.co/p/billycanu'}
-Liscentrum Capital	{'twitter_url': ' https://twitter.com/liscentrum', 'facebook_url': ' https://www.facebook.com/TheOCMX/posts/3163151790380369', 'angellist_url': ' https://angel.co/venture-capital'}
-Policastro Law Group	{'twitter_url': ' https://twitter.com/zindalawgroup?lang=en', 'linkedin_url': ' https://www.linkedin.com/in/tony-policastro-98b5558'}
-Vision Legal Services	{'twitter_url': ' https://twitter.com/lsctweets?lang=en', 'angellist_url': ' https://angel.co/company/get-lawyer-app'}
-SC Patents	{'twitter_url': ' https://twitter.com/uspto?lang=en', 'facebook_url': ' https://patents.justia.com/company/facebook', 'angellist_url': ' https://angel.co/company/nordanlicensing', 'linkedin_url': ' https://uk.linkedin.com/in/bensnipe'}
-ALTON North America	{'twitter_url': ' https://twitter.com/asususa?lang=en', 'angellist_url': ' https://angel.co/north-america/investors', 'linkedin_url': ' https://www.linkedin.com/in/alton-davis-047a6a28'}
-Global Legal Data	{'facebook_url': ' https://transparency.facebook.com/government-data-requests', 'angellist_url': ' https://angel.co/company/nexllts'}
-SEC Intelligence	{'twitter_url': ' https://twitter.com/intel_sec?lang=en', 'facebook_url': ' https://www.facebook.com/pages/category/Local-Business/1152837744759542/', 'angellist_url': ' https://angel.co/company/30-seconds-to-fly'}
-AutenTIC	{'twitter_url': ' https://twitter.com/authenticdgtl?lang=en', 'facebook_url': ' https://www.facebook.com/public/%23autentic?page=1', 'crunchbase_url': ' https://www.crunchbase.com/organization/autentic', 'angellist_url': ' https://angel.co/company/autentic/jobs'}
-Templars	{'angellist_url': ' https://angel.co/company/ctemplar-delivery'}
-Fidus Law Chambers	{'twitter_url': ' https://twitter.com/theoriginalshwe?lang=en', 'angellist_url': ' https://angel.co/company/foxwordy-1'}
 Choice Legal Group	{'linkedin_url': ' https://www.linkedin.com/company/choice-legal'}
-Justice2People	{'linkedin_url': ' https://ug.linkedin.com/in/rancybukenya'}
-Cavalcante Advogados	{'twitter_url': ' https://twitter.com/CavalNoroAdv', 'angellist_url': ' https://angel.co/lais-sousa-teixeira-cordeiro'}
 Visionary Legal Technologies	{'twitter_url': ' https://twitter.com/visionary_legal'}
 Reductech	{'facebook_url': ' https://www.facebook.com/pages/Reductec/2230101443877868'}
-Sallah Astarita and Cox	{'twitter_url': ' https://twitter.com/sac_law?lang=en', 'linkedin_url': ' https://www.linkedin.com/in/markastarita'}
 Vertex Legal App	{'twitter_url': ' https://twitter.com/vertexpharma?lang=en', 'angellist_url': ' https://angel.co/company/vertex'}
-LawSchoolProfs.com	{'angellist_url': ' https://angel.co/jake-douglas', 'linkedin_url': ' https://uk.linkedin.com/in/jose-miola-40617618'}
 Audley Clarke Solicitors	{'twitter_url': ' https://twitter.com/aclarke69?lang=en', 'facebook_url': ' https://www.facebook.com/public/Audley-Clarke'}
-EXPO	{'twitter_url': ' https://twitter.com/expo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/expo'}
-Third Dog Software	{'twitter_url': ' https://twitter.com/3rddog/media', 'facebook_url': ' https://www.facebook.com/greydogsoftware/', 'angellist_url': ' https://angel.co/company/meetmaev'}
+EXPO	{ 'angellist_url': ' https://angel.co/company/expo'}
 Reviewsolicitors	{'twitter_url': ' https://twitter.com/reviewsolicitor'}
-Kwick Soft Solutions	{'twitter_url': ' https://twitter.com/kwicksoft?lang=en', 'angellist_url': ' https://angel.co/company/kwik-infotech-e-solutions'}
-Carman And Bevington	{'twitter_url': ' https://twitter.com/carmanandbeving', 'linkedin_url': ' https://www.linkedin.com/in/allen-carman-95817a46'}
-Fallco	{'angellist_url': ' https://angel.co/company/falco-ads', 'linkedin_url': ' https://www.linkedin.com/company/falco'}
-Beau Walker - Marketing Scientist	{'twitter_url': ' https://twitter.com/beaujwalker?lang=en', 'facebook_url': ' https://www.facebook.com/beauthescientist/', 'linkedin_url': ' https://www.linkedin.com/in/beauthescientist'}
-HELP ME	{'twitter_url': ' https://help.twitter.com/en'}
-Case Law Search	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support', 'facebook_url': ' https://www.jdsupra.com/legalnews/case-law-summary-are-private-facebook-40709/', 'angellist_url': ' https://angel.co/legal', 'linkedin_url': ' https://www.linkedin.com/company/case-status'}
-Beliveau Law Group	{'twitter_url': ' https://twitter.com/wilentzlaw?lang=en'}
-Whiting Consulting	{'twitter_url': ' https://twitter.com/whitingrecruit?lang=en', 'angellist_url': ' https://angel.co/rob-whiting'}
-Az Justice Center	{'twitter_url': ' https://twitter.com/arizonajp?lang=en', 'facebook_url': ' https://www.facebook.com/AZJFON/', 'crunchbase_url': ' https://www.crunchbase.com/organization/arizona-association-for-justice', 'linkedin_url': ' https://www.linkedin.com/company/council-of-state-governments-justice-center'}
-The Pacific Law Group	{'twitter_url': ' https://twitter.com/pacificlegal?lang=en', 'facebook_url': ' https://www.facebook.com/pages/category/Personal-Injury-Lawyer/Pacific-Law-Group-797641947033783/', 'linkedin_url': ' https://ca.linkedin.com/company/pacific-law-group'}
-Nomad Being	{'twitter_url': ' https://twitter.com/nomadgoods?lang=en', 'facebook_url': ' https://www.facebook.com/indiandiplomat/', 'angellist_url': ' https://angel.co/company/nomad', 'linkedin_url': ' https://www.linkedin.com/pulse/would-you-use-linkedin-digital-nomad-adam-houlahan'}
-Mrv Marketing.	{'twitter_url': ' https://twitter.com/mrvchennai?lang=en', 'angellist_url': ' https://angel.co/company/mrv-engenharia'}
+Carman And Bevington	{'twitter_url': ' https://twitter.com/carmanandbeving'}
 Aamicus	{'twitter_url': ' https://twitter.com/amicusrx1?lang=en', 'facebook_url': ' https://www.facebook.com/amicus.bangor/', 'angellist_url': ' https://angel.co/company/amicus'}
-Advocatenkantoren.nl	{'twitter_url': ' https://twitter.com/advocatie?lang=en'}
-Jonathan G Brill Law Firm	{'twitter_url': ' https://twitter.com/FitzsimmonsFirm/status/871826294186573825', 'linkedin_url': ' https://www.linkedin.com/in/jonathangbrill'}
-Replacement-in-hearing	{'twitter_url': ' https://twitter.com/oticonusa?lang=en', 'angellist_url': ' https://angel.co/company/audicus', 'linkedin_url': ' https://www.linkedin.com/company/my-hearing-centers'}
-Alfavit	{'linkedin_url': ' https://ru.linkedin.com/in/kseniaponomarenko'}
-Metricson	{'angellist_url': ' https://angel.co/company/yolorekt'}
-Axon Partners	{'twitter_url': ' https://twitter.com/AxonPG?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor', 'angellist_url': ' https://angel.co/company/axondevgroup'}
-Środkowopomorska Rada Naczelnej Organizacji; Technicznej	{'facebook_url': ' https://www.facebook.com/prestiz.magazyn.koszalinski/posts/pytaj%C4%85-pa%C5%84stwo-kim-jest-m%C4%99%C5%BCczyzna-na-ok%C5%82adce-ostatniego-presti%C5%BCu-to-pa-jaromir-k/10152914972091789/'}
-Brandnsulting Group	{'twitter_url': ' https://help.twitter.com/en/using-twitter/twitter-lists', 'facebook_url': ' https://www.facebook.com/groups/', 'linkedin_url': ' https://www.linkedin.com/help/linkedin/answer/186/find-and-join-a-linkedin-group?lang=en'}
-Egloff and Partner Services AG	{'twitter_url': ' https://partners.twitter.com/en/about-the-program', 'facebook_url': ' https://www.facebook.com/pages/Egloff-Gartendesign-GmbH/105566496145290', 'angellist_url': ' https://angel.co/', 'linkedin_url': ' https://www.linkedin.com/in/paul-egloff'}
-Rehabilitation Services	{'twitter_url': ' https://twitter.com/khrehabservices?lang=en', 'angellist_url': ' https://angel.co/rehabilitation'}
-DiRiSo	{'twitter_url': ' https://twitter.com/jeffderiso?lang=en', 'angellist_url': ' https://angel.co/david-deriso'}
-ab asesores y administraciones	{'twitter_url': ' https://twitter.com/ayb_asesores', 'facebook_url': ' https://www.facebook.com/absegurosguadalajara/?rf=321284134617103', 'crunchbase_url': ' https://www.crunchbase.com/search/organization.companies/field/organizations/rank_org_company/697280', 'linkedin_url': ' https://es.linkedin.com/in/alfonso-baleriola-crastre-27277227'}
+Rehabilitation Services	{ 'angellist_url': ' https://angel.co/rehabilitation'}
 Ramseier Treuhand	{'facebook_url': ' https://www.facebook.com/ramseier.ch/'}
 Renata Laterza Consultancy	{'twitter_url': ' https://twitter.com/renatalaterza', 'linkedin_url': ' https://www.linkedin.com/in/renata-laterza-1a131431'}
-Aquarium | Legal Things	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support', 'facebook_url': ' https://www.facebook.com/fishmaintenance/', 'crunchbase_url': ' https://www.crunchbase.com/organization/aquarium-legal-things', 'angellist_url': ' https://angel.co/'}
-FindResolution - Gestão Estratégica de Conflitos	{'facebook_url': ' https://www.facebook.com/FindResolution-Gest%C3%A3o-Estrat%C3%A9gica-de-Conflitos-123511607785204/'}
-eConciliar	{'twitter_url': ' https://twitter.com/econcilia', 'facebook_url': ' https://www.facebook.com/public/Fries-Frizell'}
-About Innovation	{'twitter_url': ' https://www.fastcompany.com/company/twitter', 'facebook_url': ' https://www.wired.com/2014/02/decade-facebooks-innovations/', 'angellist_url': ' https://angel.co/company/innovation-endeavors', 'linkedin_url': ' https://blog.linkedin.com/2016/09/22/accelerating-LinkedIn-vision'}
-Ella Cheong Hong Kong	{'twitter_url': ' https://twitter.com/i/web/status/989468965939417088', 'linkedin_url': ' https://hk.linkedin.com/in/ella-cheong-9373624'}
 PreEmpt.Me	{'twitter_url': ' https://twitter.com/preempt1?lang=en', 'facebook_url': ' https://www.facebook.com/preemptsec/', 'angellist_url': ' https://angel.co/company/preempt-security', 'linkedin_url': ' https://www.linkedin.com/company/preempt-security'}
-Total Translations	{'twitter_url': ' https://help.twitter.com/en/using-twitter/translate-tweets', 'angellist_url': ' https://angel.co/company/localize'}
-Arbitrate	{'twitter_url': ' https://help.twitter.com/en/rules-and-policies/enhanced-features-agreement', 'crunchbase_url': ' https://www.crunchbase.com/organization/solve-mediation-arbitration', 'angellist_url': ' https://angel.co/company/arbitratoranalytics'}
-MAIS JUSTIÇA	{'twitter_url': ' https://twitter.com/justica_pt?lang=en', 'facebook_url': ' https://pt-br.facebook.com/sededjustica', 'angellist_url': ' https://angel.co/company/thoughtworks/jobs/797405-pessoa-desenvolvedora-mobile-pleno-ios', 'linkedin_url': ' https://www.linkedin.com/showcase/justi%C3%A7a-mais-pr%C3%B3xima'}
 Prima Veritas	{'twitter_url': ' https://twitter.com/veritastechllc?lang=en', 'linkedin_url': ' https://www.linkedin.com/company/veritas-prime'}
-Kazan Legal Center	{'twitter_url': ' https://twitter.com/kazanlaw?lang=en', 'facebook_url': ' https://www.facebook.com/KazanLegal/', 'angellist_url': ' https://angel.co/company/flatstack', 'linkedin_url': ' https://www.linkedin.com/company/kazan-law-firm'}
-Sob Demanda	{'twitter_url': ' https://twitter.com/folha/status/1246936919025606656', 'angellist_url': ' https://angel.co/company/meio-cheio-nao-vazio'}
-Oliveira Advocacia e Consultoria Jurídica	{'twitter_url': ' https://twitter.com/ersonodeliveira', 'facebook_url': ' https://www.facebook.com/oliveiraadvocaciacj/', 'linkedin_url': ' https://www.linkedin.com/company/oscadvocaciaeconsultoriajur%C3%ADdica'}
-Legal Business	{'facebook_url': ' https://www.facebook.com/legal/commercial_terms', 'angellist_url': ' https://angel.co/legal-tech-1'}
-AdvoCoder UG	{'facebook_url': ' https://www.facebook.com/AdvoCoder/photos/?ref=page_internal', 'linkedin_url': ' https://ug.linkedin.com/'}
-Ottoni´s Consultoria	{'twitter_url': ' https://twitter.com/karenottoni?lang=en', 'angellist_url': ' https://angel.co/'}
-Correa Porto	{'twitter_url': ' https://twitter.com/elvio_porto/media', 'angellist_url': ' https://angel.co/hsangalli'}
-Edraftly	{'facebook_url': ' https://www.facebook.com/eDraftSports/', 'linkedin_url': ' https://www.linkedin.com/in/chris-dougherty-200bb494'}
-LEGAL WIN CONSULTING LLP	{'twitter_url': ' https://twitter.com/redcavelegal?lang=en', 'angellist_url': ' https://angel.co/company/legalio'}
-Dok.legal	{'twitter_url': ' https://twitter.com/dok845?lang=en', 'facebook_url': ' https://www.facebook.com/public/Dok-Law', 'angellist_url': ' https://angel.co/company/dokdok'}
-Flime	{'angellist_url': ' https://angel.co/film'}
+AdvoCoder UG	{'facebook_url': ' https://www.facebook.com/AdvoCoder/photos/?ref=page_internal'}
