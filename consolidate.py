@@ -173,18 +173,19 @@ for compName in compDict:
                 compDict[compName][item] =  compDict[compName][item][:-2]
 
 with open('final.csv', 'w') as out_file:
-    out_file.write("name\t"+"\t".join(list(compDict['Correa Porto'].keys()))+"\n")
+    out_file.write("name,"+",".join(list(compDict['Correa Porto'].keys()))+"\n")
     for compName in compDict:
         line = compName
         for description in compDict[compName]:
-            if "," in compDict[compName][description]:
-                line += ",\"" + compDict[compName][description] + "\""
+            item = compDict[compName][description]
+            if "\n" in item:
+                item = item[:-2]
+            if "," in item:
+                line += ",\"" + item + "\""
             else:
-                line += "," + compDict[compName][description]
-            if compDict[compName][description] == "":
+                line += "," + item
+            if item == "":
                 line += "n/a"
-        if "\n" in line:
-            line = line[:-1]
         line += "\n"
         out_file.write(line)
 
