@@ -183,7 +183,7 @@ with open('final.csv', 'w') as out_file:
         for description in compDict[compName]:
             item = compDict[compName][description]
             if "\n" in item:
-                item = item[:-2]
+                item = item[:-1]
             if "," in item:
                 line += ",\"" + item + "\""
             else:
