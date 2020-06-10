@@ -121,7 +121,7 @@ with open('compData.tsv','r') as in_file:
         if (count>1):
             compName = line.split("\t")[0]
             for company in compDict:
-                if ((company + " ") == compName[0:len(company)+1]) and compName!=company:
+                if (((company + " ") == compName[0:len(company)+1]) or ((company + ",") == compName[0:len(company)+1]) or ((company + ".") == compName[0:len(company)+1]) or ((company + "'") == compName[0:len(company)+1])) and compName!=company:
                     compDict[compName] = compDict[company].copy()
                     itemsToDelete.append(company)
 
@@ -189,9 +189,9 @@ with open('thingsToManuallyCheck.tsv', 'w') as out_file:
     for compName in compDict:
         line = compName
         for description in compDict[compName]:
-            if compDict[compName][description] == "":
+            if compDict[compName][description] == "" and "url" in description:
                 line += "\t" + description
-        if line != compName:
+        if line != compName and "main" in line:
             if "\n" in line:
                 line = line[:-1]
             line += "\n"
