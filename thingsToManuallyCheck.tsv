@@ -135,14 +135,14 @@ Jurisweb Interactiva SL	audience	model	main_url	twitter_url	angellist_url	linked
 Kinso	angellist_url
 Last5	audience	model	angellist_url	linkedin_url	tags
 Laterally	audience	model	tags
-Karnov Group Denmark A/S	audience	model	angellist_url	tags
+Karnov Group Denmark A/S	audience	model	angellist_url
 Lar21	audience	model	tags
 LegalClick	audience	model	tags
 LegalYou	audience	model	angellist_url
 LawDeal	linkedin_url
 LAWfone on Demand	audience	model	tags
 Lawger	audience	model	twitter_url
-LawGo Inc.	audience	model	twitter_url	angellist_url	linkedin_url	facebook_url	tags
+LawGo Inc.	audience	model	linkedin_url	tags
 LawStud.io LLC	linkedin_url	facebook_url
 LawTake	audience	model	tags
 LawVisors	linkedin_url
@@ -164,7 +164,7 @@ LegalInc Corporate Services	audience	model	twitter_url	tags
 LEGALIX	audience	model	twitter_url	tags
 LegalReach	linkedin_url
 Legalshine	audience	model	linkedin_url	tags
-LegalTap - On Demand Legal	audience	model	twitter_url	angellist_url	crunchbase_url	linkedin_url	facebook_url	tags
+LegalTap - On Demand Legal	audience	model	angellist_url
 LegalZoom.com	audience	model	tags
 Legify	audience	model	angellist_url	tags
 LegÌ_timo	audience	model	twitter_url	facebook_url	tags
@@ -178,7 +178,7 @@ My Exit Strategy	audience	model	twitter_url	angellist_url	linkedin_url	facebook_
 LegalLogs	audience	model	angellist_url	tags
 LexSpring	linkedin_url
 Lexvisors	audience	model
-Lig Technologies Ltd	audience	model	twitter_url	crunchbase_url	tags
+Lig Technologies Ltd	audience	model
 Linte	audience	model
 Litigator Technology	audience	model	twitter_url
 LegalTrek	audience	model
@@ -222,7 +222,7 @@ Pramata	audience	model	tags
 Purediscovery Corp	audience	model	twitter_url	angellist_url	linkedin_url	tags
 Push Legal	audience	model	twitter_url	angellist_url	linkedin_url	tags
 PUSHTOSTART	audience	model	twitter_url	tags
-Patexia Inc.	audience	model	tags
+Patexia Inc.	audience	model
 Ontario Small Claims Wizard	twitter_url	angellist_url	linkedin_url	facebook_url
 Quicklysign	audience	model	angellist_url	tags
 Quolaw	audience	model	tags
@@ -319,7 +319,7 @@ PSS Systems	audience	model	tags
 Kleros	audience	model	tags
 Zegal	audience	model	angellist_url
 JustEase	category	audience	model	main_url	linkedin_url	facebook_url
-Lexoo Ltd	audience	model	tags
+Lexoo Ltd	audience	model
 CitizenshipWorks	audience	model	twitter_url	linkedin_url
 ClaimCast	audience	model	angellist_url	tags
 ClearstoneIP	audience	model	angellist_url	facebook_url
@@ -377,7 +377,6 @@ Legitimo	audience	model
 Lexbe	audience	model	angellist_url	tags
 LexBlog	audience	model	angellist_url	tags
 yurJURY	angellist_url	tags
-Workshare Transact	tags
 RAVN Systems	model
 Local Lawyer	twitter_url
 SeRiouS	audience	model	angellist_url	crunchbase_url	linkedin_url	facebook_url
@@ -389,7 +388,6 @@ Counsl.co	audience	model	tags
 NuLawLab	audience	model	angellist_url
 BookLawyer	audience	model	angellist_url
 Law4TW	audience	model	angellist_url	linkedin_url
-Kira Systems	audience	model	tags
 Beagle.ai	model
 BidSettle	audience	model
 NextGen Reporting	audience	model	angellist_url
@@ -418,7 +416,7 @@ Midatadin	audience	model	main_url	facebook_url
 EXOCHAIN	audience	model
 Notificami	audience	model	main_url	angellist_url
 Lexcarts	audience	model	angellist_url
-openlaws gmbh	audience	model	angellist_url	tags
+openlaws gmbh	audience	model
 Legal Miner	audience	model	twitter_url	angellist_url
 Octimine Technologies	audience	model	angellist_url
 Legalstart.fr	audience	model	tags
@@ -470,7 +468,7 @@ Coherent Knowledge	category	audience	model	angellist_url	tags
 LEVERTON	audience	model	tags
 Paper Software	audience	model
 Epiq Systems	audience	model
-Compensation2Go GmbH	audience	model	angellist_url	tags
+Compensation2Go GmbH	audience	model	angellist_url
 PredictGov	audience	model	angellist_url	facebook_url	tags
 Starting Legal	audience	model
 Asia Law Network	audience	model
@@ -479,14 +477,14 @@ Riverview Law	category	audience	model	angellist_url
 eLakitoimisto OÜ	audience	model	angellist_url	linkedin_url
 Bend Law Group, PC	audience	model	crunchbase_url	linkedin_url	facebook_url	tags
 Neota Logic	angellist_url
-Surukam Analytics	audience	model	angellist_url	crunchbase_url	linkedin_url
+Surukam Analytics	audience	model	angellist_url
 elAbogado.com	audience	model	angellist_url
 GoldFynch	audience	model
 LawDroid	audience	model
 Doxbi	audience	model	linkedin_url
 Merus, Inc.	audience	model	linkedin_url	facebook_url	tags
 LawTap	audience	model
-Closing Folders Inc.	audience	model	angellist_url	facebook_url
+Closing Folders Inc.	audience	model	angellist_url
 FAQ Recht	audience	model	angellist_url
 MyMotionCalendar	audience	model
 Vigilant	audience	model
@@ -524,7 +522,7 @@ Legalese 2.0	audience	model	linkedin_url	facebook_url
 Synergist.io	audience	model	facebook_url
 Brāv	audience	model
 Microsystems	audience	model	facebook_url
-SKUANI Ltd.	audience	model	angellist_url	linkedin_url
+SKUANI Ltd.	audience	model	angellist_url
 Legal Insights	audience	model	twitter_url	angellist_url
 Early Neutral Appraisals (ENAp)	audience	model	crunchbase_url	linkedin_url	facebook_url	tags
 CounselHQ	audience	model	angellist_url	facebook_url	tags
@@ -533,8 +531,8 @@ LegalOne Inc	audience	model	twitter_url	angellist_url
 Doctual Ltd.	audience	model	facebook_url
 Bootstrap Legal	audience	model
 LegalOptics	audience	model	linkedin_url
-Legalist Online On Hukuk Hizmetleri A.S.	audience	model	linkedin_url	facebook_url
-NextLex Inc	audience	model	angellist_url	crunchbase_url	linkedin_url	facebook_url
+Legalist Online On Hukuk Hizmetleri A.S.	audience	model
+NextLex Inc	audience	model	angellist_url	facebook_url
 LAWPP, LLC	audience	model	angellist_url	crunchbase_url	linkedin_url	facebook_url	tags
 Specifio	audience	model
 Lawsnote	audience	model	angellist_url
@@ -656,18 +654,17 @@ AltaClaro	audience	model	tags
 Amendment.io	audience	model	twitter_url	linkedin_url	facebook_url	tags
 Amicus ALJ	audience	model	tags
 Anaqua	audience	model	tags
-Anduin Transactions	audience	model	facebook_url	tags
+Anduin Transactions	audience	model
 anwalt.de services AG	audience	model	angellist_url	facebook_url	tags
 AOLaw Africa	audience	model
 Apex CLE	audience	model	twitter_url	angellist_url	tags
 Appunte	audience	model	linkedin_url
 Aquis Search	audience	model
-Aspirea Technologies	audience	model	linkedin_url	tags
+Aspirea Technologies	audience	model
 Vertex App	audience	tags
 VerdictAdvantage	audience
 Get20	audience	model	main_url	twitter_url	tags
 Vector Legal Method	audience
-Valcu Inc.	linkedin_url
 Vakilsearch	category	audience	model
 Upsolve	audience	tags
 Assently	audience	model
@@ -678,7 +675,7 @@ AtlaSense	audience	model
 TRXNHUB	audience	linkedin_url	facebook_url	tags
 Taxbender	audience	model	main_url	facebook_url
 Trustatom	audience	model
-Atticus Now	audience	model
+Atticus Now	audience	model	tags
 Attorney's Back Office, Inc.	audience	model	linkedin_url	facebook_url	tags
 Trail Bloom	category	audience	model	crunchbase_url	linkedin_url	facebook_url	tags
 Audiocasefiles	audience	model	linkedin_url	facebook_url	tags
@@ -693,7 +690,7 @@ DeLeyes	category	audience	model	angellist_url	tags
 Automio	audience	angellist_url	tags
 Tort IQ	audience	model	facebook_url
 Top Class Actions	audience	model
-Avtal24 / Agreement24	audience	model	linkedin_url	facebook_url	tags
+Avtal24 / Agreement24	audience	model
 Toonari	audience	model
 Tomorrow Ideas	tags
 TitanFile	audience	model	tags
@@ -731,7 +728,7 @@ LECARE	audience	model	linkedin_url	facebook_url
 http://www.cfcs.co.in	audience	model	linkedin_url
 EDT	audience	model	angellist_url	crunchbase_url
 Nalytics	audience	model
-Blue J Legal Inc.	audience	model	tags
+Blue J Legal Inc.	audience	model
 eSign Genie	audience	model	tags
 Statera	category	audience	model	angellist_url	tags
 Contraktor	category	audience	model	twitter_url	tags
@@ -741,7 +738,7 @@ Citasca, LLC	audience	model	angellist_url	crunchbase_url	linkedin_url	facebook_u
 Klarity	audience	model
 Mattereum	audience	model	angellist_url
 Rosenblum Law Firm	audience	model	angellist_url
-MyAdvo TechServe	audience	model	twitter_url	tags
+MyAdvo TechServe	audience	model	twitter_url
 Claim Flights	audience	model
 Ruby Datum Ltd	audience	model	angellist_url	tags
 ClaimCompass	audience	model
@@ -804,7 +801,7 @@ Ligo	audience	model	angellist_url
 PECULE Innovations	audience	model	crunchbase_url	facebook_url	tags
 Casefunder	category	audience	model	crunchbase_url	tags
 LEGALS	audience	model	facebook_url	tags
-Lawyer Exchange	audience	model	angellist_url
+Lawyer Exchange	audience	model
 ONE400	audience	model
 Added Life Value AG	audience	model	angellist_url	crunchbase_url	linkedin_url
 matters.Cloud	audience	model	angellist_url	crunchbase_url	tags
@@ -835,7 +832,7 @@ Litify	audience	model
 Reduse	audience	model
 TIQ	audience	model	angellist_url	facebook_url
 Justice42 B.V.	audience	model	angellist_url	crunchbase_url	linkedin_url	facebook_url	tags
-Epoq Legal Inc	audience	model	angellist_url	crunchbase_url	linkedin_url	facebook_url
+Epoq Legal Inc	audience	model	angellist_url
 Shakeup Online Sdn Bhd	audience	model	angellist_url	facebook_url
 Courtsdesk	category	audience	model	angellist_url
 Courtroom5	category	audience	model	linkedin_url
@@ -888,7 +885,7 @@ Clearlaw Inc.	audience	model	angellist_url	tags
 Adam H. Rosenblum	audience	model
 wakili.ai	audience	model	crunchbase_url
 About innovation	category	audience	model	linkedin_url
-Litimetrics Inc	audience	model	angellist_url	tags
+Litimetrics Inc	audience	model
 Droits Quotidiens	audience	model	angellist_url	tags
 APF Technologies LLC	audience	model	angellist_url	tags
 Flex Legal	category	audience	model	tags
@@ -900,7 +897,7 @@ Mylex Global	audience	model	main_url	twitter_url	facebook_url	tags
 Priory Solutions	audience	model	angellist_url	tags
 Linkilaw	audience	model	tags
 Made in Law	audience	model	tags
-amicable apps	audience	model	tags
+amicable apps	audience	model
 ClicknClear	audience	model	tags
 Enkrypt	audience	model	tags
 Juris	audience	model
@@ -913,7 +910,7 @@ Trellis	audience	model	tags
 Prenupta	audience	model	twitter_url	tags
 Lawgood	audience	model	angellist_url
 FairClaims	audience	model	tags
-Zero Email	audience	model	twitter_url	crunchbase_url	facebook_url	tags
+Zero Email	twitter_url	facebook_url	tags
 Medchart	audience	model
 Origin Systems	audience	model	twitter_url	facebook_url
 Wonder.Legal	audience	model	angellist_url	tags
@@ -924,19 +921,19 @@ Smarter Drafter	audience	model	angellist_url
 Online Solution Attorney	audience	model	angellist_url
 SimplyAgree	audience	model
 Radvocate	audience	model
-Dye & Durham Corporation	audience	model	angellist_url	crunchbase_url	linkedin_url	facebook_url
+Dye & Durham Corporation	audience	model	angellist_url
 NosterLex	audience	model	twitter_url	linkedin_url	facebook_url
 EDZ Systems	audience	model	angellist_url	tags
 Legal Gateway	audience	model	angellist_url	crunchbase_url	linkedin_url
-AdvoCoder UG (haftungsbeschränkt)	audience	model	angellist_url	crunchbase_url	linkedin_url
+AdvoCoder UG (haftungsbeschränkt)	audience	model	angellist_url	linkedin_url
 SYNTAQ	audience	model	twitter_url	angellist_url	facebook_url
 Indexa	audience	model
 HighQ	audience	model
 Signatu	audience	model
 Lexyom, Inc.	audience	model	crunchbase_url	linkedin_url	facebook_url	tags
 Online patent, LLC 	category	audience	model	twitter_url	angellist_url	crunchbase_url	linkedin_url	facebook_url
-Law&Company Inc.	audience	model	twitter_url	angellist_url	linkedin_url	facebook_url
-Patent Bots LLC	audience	model	facebook_url
+Law&Company Inc.	audience	model	twitter_url	angellist_url	linkedin_url
+Patent Bots LLC	audience	model	twitter_url	facebook_url
 Justika	audience	model	angellist_url
 Softplan Planejamento e Sistemas Ltda.	audience	model
 Lexplosion Solutions	audience	model	angellist_url
@@ -990,7 +987,7 @@ Reasoning Technology	audience	model	facebook_url
 Syntexys	audience	model	facebook_url
 DIGURA	audience	model	twitter_url
 SiËSDE Dispute Resolution Technologies	audience	model	twitter_url	angellist_url	crunchbase_url	linkedin_url	facebook_url	tags
-Capiche Capital Technologies Corporation	audience	model	tags
+Capiche Capital Technologies Corporation	audience	model
 E-Startup India	audience	model
 Hotspot Law	audience	model	angellist_url
 Steinfeld Legal	audience	model	angellist_url
@@ -1020,7 +1017,7 @@ Knovos	audience	model	angellist_url
 Afriwise	audience	model	angellist_url
 Nuix	audience	model
 Ringtail	audience	model	angellist_url
-Lawyer Marketing Company	audience	model	twitter_url	angellist_url
+Lawyer Marketing Company	audience	model	twitter_url
 Dragonfly Digital Marketing	audience	model	angellist_url
 ClauseBase	audience	model	crunchbase_url
 Sanction AI	audience	model	linkedin_url	facebook_url
@@ -1035,7 +1032,7 @@ Red Rain	audience	model	crunchbase_url	facebook_url
 LegalDPT.com	audience	model	twitter_url	angellist_url	crunchbase_url	linkedin_url	facebook_url
 Goh1b	audience	model	twitter_url	angellist_url	crunchbase_url	tags
 Blika Solutions AB	category	audience	model	twitter_url	angellist_url	crunchbase_url	facebook_url
-TRAIAL Sàrl	audience	model	angellist_url	linkedin_url
+TRAIAL Sàrl	audience	model	twitter_url	angellist_url
 Lawbox	audience	model	angellist_url
 Legatics	audience	model
 Princeton Gavel, Inc.	audience	model	twitter_url	angellist_url	crunchbase_url	linkedin_url	facebook_url
@@ -1167,7 +1164,7 @@ LegalMation	date	category	audience	model	angellist_url	facebook_url
 Wundertax	date	category	audience	model	main_url	angellist_url
 Smart Protection	date	category	audience	model	twitter_url	angellist_url
 Workshare	date	category	audience	model
-Trellis Research	date	category	audience	model	main_url
+Trellis Research	audience	model	tags
 The Link App	date	category	audience	model	angellist_url
 Privacy Tools	date	category	audience	model
 Sigalei	date	hq	category	audience	model	angellist_url
@@ -1240,7 +1237,6 @@ CloudLaw	date	category	audience	model	main_url	angellist_url
 DataNovo, Inc.	date	category	audience	model	main_url	twitter_url	angellist_url	linkedin_url	facebook_url
 Deleyes	date	category	audience	model	angellist_url
 Kings Court Trust	date	category	audience	model	main_url	angellist_url
-Knomos Knowledge Management	date	category	audience	model	main_url	twitter_url	angellist_url
 Dealz.ai	date	category	audience	model	main_url	twitter_url	angellist_url	linkedin_url
 Legal Manager	date	category	audience	model	main_url	twitter_url	angellist_url	facebook_url
 Just Me Technologies	date	category	audience	model	main_url	twitter_url
@@ -1304,7 +1300,7 @@ LeadsOnline	date	category	audience	model	angellist_url
 Congruity360	date	category	audience	model	angellist_url
 UFP Fintech	date	category	audience	model	main_url	angellist_url	facebook_url
 RTIwala	date	category	audience	model
-Integra Ledger	date	category	audience	model	angellist_url
+Integra Ledger	audience	model	tags
 Karnov Group	date	category	audience	model	angellist_url
 Intelllex	date	category	audience	model
 Softplan	date	category	audience	model
@@ -1388,7 +1384,7 @@ Legalboards.io	date	category	audience	model	angellist_url
 JDoe	date	category	audience	model
 Zelican Infotech	date	category	audience	model	main_url	twitter_url
 Mercatório	date	category	audience	model	main_url	angellist_url
-SmartUp Legal	date	category	audience	model
+SmartUp Legal	audience	model	tags
 digitalCounsels	date	category	audience	model	angellist_url
 LegalForms	date	category	audience	model	main_url	twitter_url	angellist_url	facebook_url
 F-LEX	date	category	audience	model	main_url	twitter_url	angellist_url	facebook_url
@@ -1526,7 +1522,7 @@ Huttons	date	category	audience	model	main_url	twitter_url	angellist_url
 Legal Research Center	date	category	audience	model	main_url	twitter_url	angellist_url
 Planet Data	date	category	audience	model	main_url	twitter_url	angellist_url
 Legal Hub	date	category	audience	model	angellist_url
-Wildcat Legal	date	category	audience	model	main_url	twitter_url	angellist_url
+Wildcat Legal	audience	model	tags
 One Protect	date	category	audience	model	main_url	twitter_url	angellist_url
 Referent	date	category	audience	model	main_url	angellist_url
 The Time Billing	date	category	audience	model	main_url	twitter_url	angellist_url	linkedin_url

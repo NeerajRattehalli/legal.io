@@ -111,6 +111,22 @@ def merge(raw, additional):
             
     return raw
 
+
+itemsToDelete = []
+
+with open('compData.tsv','r') as in_file:
+    count = 0
+    for line in in_file:
+        count = count + 1
+        if (count>1):
+            compName = line.split("\t")[0]
+            for company in compDict:
+                if ((company + " ") == compName[0:len(company)+1]) and compName!=company:
+                    compDict[compName] = compDict[company].copy()
+                    itemsToDelete.append(company)
+
+print("\n".join(itemsToDelete))
+
 # merge with original data
 with open('compData.tsv','r') as in_file:
     count = 0
@@ -176,5 +192,8 @@ with open('thingsToManuallyCheck.tsv', 'w') as out_file:
             line += "\n"
             
             out_file.write(line)
+
+
+
 
 
