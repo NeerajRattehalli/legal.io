@@ -4,7 +4,7 @@ compDict = {}
 # general checking function 
 def check(items):
     for key in items:
-        if items[key] == "n/a" or items[key] == "0":
+        if items[key] == "n/a" or items[key] == "0" or items[key] == "Unknown":
             items[key] = ""
     return items
 
@@ -102,8 +102,13 @@ with open('new_links.tsv', 'r') as in_file:
 # generalized merge func
 def merge(raw, additional):
     for data in additional:
+        if "Unknown" in additional[data]:
+            continue
         if raw[data] == "":
+            if additional[data] == "Unknown -":
+                print(additional[data]) 
             raw[data] = additional[data]
+            
     return raw
 
 # merge with original data
@@ -126,9 +131,17 @@ with open('compData.tsv','r') as in_file:
                     "linkedin_url": "",
                     "facebook_url": "",
                     "tags": tags}
-            data = merge(compDict[name], data)
+        
 
-            compDict[name] = data
+            data = merge(compDict[compName], data)
+
+
+            compDict[compName] = data
+
+for compName in compDict:
+    for item in compDict[compName]:
+        if "Unknown" in compDict[compName][item]:
+            compDict[compName][item] = ""
 
 for compName in compDict:
     for item in compDict[compName]:
@@ -151,5 +164,17 @@ with open('final.tsv', 'w') as out_file:
         line += "\n"
         out_file.write(line)
 
+with open('thingsToManuallyCheck.tsv', 'w') as out_file:
+    for compName in compDict:
+        line = compName
+        for description in compDict[compName]:
+            if compDict[compName][description] == "":
+                line += "\t" + description
+        if line != compName:
+            if "\n" in line:
+                line = line[:-1]
+            line += "\n"
+            
+            out_file.write(line)
 
- 
+
