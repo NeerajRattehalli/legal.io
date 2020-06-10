@@ -125,7 +125,10 @@ with open('compData.tsv','r') as in_file:
                     compDict[compName] = compDict[company].copy()
                     itemsToDelete.append(company)
 
-print("\n".join(itemsToDelete))
+
+for item in itemsToDelete:
+    if item in compDict.keys():
+        del compDict[item]
 
 # merge with original data
 with open('compData.tsv','r') as in_file:
@@ -147,7 +150,9 @@ with open('compData.tsv','r') as in_file:
                     "linkedin_url": "",
                     "facebook_url": "",
                     "tags": tags}
-        
+
+            if compName not in compDict.keys():
+                continue
 
             data = merge(compDict[compName], data)
 
