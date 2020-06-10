@@ -185,20 +185,18 @@ with open('final.tsv', 'w') as out_file:
         line += "\n"
         out_file.write(line)
 
-with open('thingsToManuallyCheck.tsv', 'w') as out_file:
-    for compName in compDict:
-        line = compName
-        for description in compDict[compName]:
-            if compDict[compName][description] == "" and "url" in description:
-                line += "\t" + description
-        if line != compName and "main" in line:
-            if "\n" in line:
-                line = line[:-1]
-            line += "\n"
+thingsToManuallyCheck = {}
+
+for compName in compDict:
+    if compDict[compName]["main_url"]=="":   
+        for item in compDict[compName]:
+            if "url" in item and compDict[compName][item]=="":
+                if compName not in thingsToManuallyCheck:
+                    thingsToManuallyCheck[compName] = {}
+                thingsToManuallyCheck[compName][item] = ""
+
             
-            out_file.write(line)
-
-
-
-
-
+with open('thingsToManuallyCheck.tsv', 'w') as out_file:
+    for company in thingsToManuallyCheck:
+        line = company + "\t" + str(thingsToManuallyCheck[company]) + "\n"
+        out_file.write(line)
