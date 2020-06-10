@@ -55,11 +55,15 @@ with open('DAVID_FINAL_CHECK.txt', 'r') as in_file:
             compDict[name] = cbDBDetails
 
         for query in queries:
-            text = query
-            if queries[query]:
-                text = text + queries[query]
+            compDict[name][query] = queries[query]
+
+        # General checking method
+        # for query in queries:
+        #     text = query
+        #     if queries[query]:
+        #         text = text + queries[query]
             
-            print(text)
+        #     print(text)
 
 print(compDict)
 
