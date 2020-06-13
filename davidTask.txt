@@ -1,0 +1,5 @@
+Task: Finish the main_url finding, text me a file with all the keywords, come up with questions for the dataset
+
+1) Do the remaining 200 in thingsToManuallyCheck.txt
+2) Text me the keywords in Gunst's slides
+3) Think of 5-10 questions leverage extra data from crunchbase to come up with new questions
