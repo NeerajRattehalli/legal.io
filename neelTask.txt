@@ -1,16 +1,10 @@
-Task: to verify that all the links that have been flagged by my algorithm as correct are in actuality correct. 
+Task: to create a web-scraper that finds tags for companies that don't have tags already
 
-1) Open new_links.tsv
-2) For each line in new links do a quick visual check to make sure that the link is correct. For example, if this is a twitter link and is the format of https://twitter.com/{companyName}, it is most likely correct. But most likely not 100%. I don't want you to manually check each link however. But if the name is extremely general like an English word, DISCO, I would want you to manually check it. This is not the case for most links however. An example is line 138, FIXED is extremely general of a name.
-3) Make sure that the company name is spelt correctly in the url(This should not be the issue given the algo), but double check.
-4) Some of the urls have unnecessary text in them, so I would like you to clean those as well. For example, lin3 137. The twitter url has a bunch of unccessary encoding after the company so remove that. You could also write a script for this.
-5) Remove all the "?lang=en" stuff. This can also be done with a script.
-6) Make sure that the all the text is necessary. For example, look at line 295. There is "AU in the facebook url". Check if this is the right url.
-7) Remove all text like ?page={num}. Once again script
-8) Remove unecessary numbers like in line 315.
-9) If there is a url with the company name and a lot of other random words that seem unrelated, remove it.
+1) Read from tags.txt and store the tags in an array
+2) Now read from final.csv or final.tsv for main_urls 
+3) Scrape text body of the website not the html just text using the main_urls to avoid automation protocol.
+4) Search for the tags in the text body. Keep a count of it and the top most commonly found words.
+5) Then add these tags to the csv
+6) Make another file of the most commonly used tags amongst all the stuff
 
-In essence, I want you to correct any of the current links to clean them by removing unnecessary text and encoding. In addition, if there are any incorrect links(this should be clear visually) or if the company name is extremely general(use your judgement), manually check them. If they are wrong for certain, remove the links.
-
-Approx Time Frame: 1.5 hours.
-Approx Deadline: Tuesday, June 9, 2019
+Deadline: Have the scraper done by Tuesday and run it
