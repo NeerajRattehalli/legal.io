@@ -101,7 +101,6 @@ with open('new_links.tsv', 'r') as in_file:
 
 
  # Adding new links from manually checked
-
 with open('thingsToManuallyCheck.txt', 'r') as in_file:
     for line in in_file:
         name, queries = line.split("\t")
@@ -110,6 +109,7 @@ with open('thingsToManuallyCheck.txt', 'r') as in_file:
 
         for query in queries:
             compDict[name][query] = queries[query]       
+        
 
 # generalized merge func
 def merge(raw, additional):
