@@ -46,7 +46,6 @@ def scrape(company_name, to_scrape, line_num):
     for i in to_scrape:
         search_url = "https://www.google.com/search?q=" + str(company_name) + "+" + url_company_map[i]
         webpage = requests.get(search_url)
-        soup = BeautifulSoup(webpage.text, 'html.parser')
         result_div = soup.find_all('div', attrs={'class': 'ZINbbc'})
         # find all a tags with an href
         for j in range(0, result_div.__len__()):
