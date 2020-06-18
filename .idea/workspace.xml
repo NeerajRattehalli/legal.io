@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceeb0885-c79b-4d32-8db8-39b66811f421" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/find_tags.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/found_tags.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tags.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/neelTask.txt" beforeDir="false" afterPath="$PROJECT_DIR$/neelTask.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scrape_socials.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrape_socials.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/in_odm.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/not_in_odm.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_csv.py" afterDir="false" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,43 +24,74 @@
     <session id="1339286575">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="5" />
           <entry key="project.opened" value="10" />
+=======
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="csv" value="11" />
           <entry key="md" value="1" />
           <entry key="py" value="5" />
           <entry key="tsv" value="10" />
           <entry key="txt" value="2" />
+=======
+          <entry key="csv" value="8" />
+          <entry key="md" value="1" />
+          <entry key="py" value="3" />
+          <entry key="tsv" value="5" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
+<<<<<<< HEAD
           <entry key="PLAIN_TEXT" value="22" />
           <entry key="Python" value="5" />
           <entry key="TSV" value="1" />
+=======
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="3" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="csv" value="35" />
           <entry key="py" value="4424" />
           <entry key="tsv" value="6" />
           <entry key="txt" value="1" />
+=======
+          <entry key="csv" value="1" />
+          <entry key="py" value="2183" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="PLAIN_TEXT" value="42" />
           <entry key="Python" value="4424" />
+=======
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="2183" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
         </counts>
       </usages-collector>
     </session>
@@ -62,6 +99,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/tags.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -77,12 +115,21 @@
               <caret line="91" column="31" lean-forward="true" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/check_urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/final.tsv">
           <provider selected="true" editor-type-id="csv-text-editor" />
           <provider editor-type-id="csv-table-editor">
@@ -109,12 +156,30 @@
               <caret line="54" column="20" lean-forward="true" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+=======
+        <entry file="file://$PROJECT_DIR$/in_odm.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="1494" selection-start-line="1494" selection-end-line="1494" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/check_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+              <folding>
+                <marker date="1589611559568" expanded="true" signature="308:416" ph="..." />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/final_reading_from.tsv">
           <provider selected="true" editor-type-id="csv-text-editor">
             <state relative-caret-position="105">
@@ -160,6 +225,20 @@
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
+=======
+        <entry file="file://$PROJECT_DIR$/updatedDataCopy.tsv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/in_odm.tsv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/not_in_odm.tsv">
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
         </entry>
       </file>
     </leaf>
@@ -175,10 +254,13 @@
     <findStrings>
       <find>kabu</find>
       <find>kabuk</find>
+<<<<<<< HEAD
       <find>hashtag</find>
       <find>title</find>
       <find>writer</find>
       <find>horiz</find>
+=======
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -192,6 +274,7 @@
         <option value="$PROJECT_DIR$/check_urls.py" />
         <option value="$PROJECT_DIR$/in_odm.csv" />
         <option value="$PROJECT_DIR$/check_csv.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/new_links.tsv" />
         <option value="$PROJECT_DIR$/neelTask.txt" />
         <option value="$PROJECT_DIR$/tags.txt" />
@@ -206,6 +289,15 @@
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="981" />
+=======
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1555" />
+    <option name="height" value="924" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -237,11 +329,14 @@
       </pane>
     </panes>
   </component>
+<<<<<<< HEAD
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+=======
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -254,7 +349,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.find_tags">
+=======
+  <component name="RunManager" selected="Python.check_csv">
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
     <configuration name="check_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="legal.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,6 +375,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="find_tags" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="legal.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,6 +397,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+=======
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
     <configuration name="legal.io" type="PythonConfigurationType" factoryName="Python">
       <module name="legal.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -343,11 +445,17 @@
       <item itemvalue="Python.legal.io" />
       <item itemvalue="Python.removeDups" />
       <item itemvalue="Python.check_csv" />
+<<<<<<< HEAD
       <item itemvalue="Python.find_tags" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.find_tags" />
+=======
+    </list>
+    <recent_temporary>
+      <list>
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
         <item itemvalue="Python.check_csv" />
         <item itemvalue="Python.removeDups" />
       </list>
@@ -367,27 +475,40 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="23" width="1680" height="981" extended-state="0" />
     <editor active="true" />
+=======
+    <frame x="0" y="23" width="1680" height="976" extended-state="6" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32971668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6040495" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6052036" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32881355" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32918552" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+<<<<<<< HEAD
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32971668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -407,6 +528,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+=======
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -416,6 +539,7 @@
     <entry file="file://$PROJECT_DIR$/not_scrapable.csv" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/removeDups.py" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/odm/organizations.csv" />
     <entry file="file://$PROJECT_DIR$/odm/people.csv" />
     <entry file="file://$PROJECT_DIR$/not_in_odm.csv" />
@@ -437,6 +561,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+=======
+    <entry file="file://$PROJECT_DIR$/odm/organizations.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odm/people.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/not_in_odm.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+          <folding>
+            <marker date="1589611559568" expanded="true" signature="308:416" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in_odm.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="1494" selection-start-line="1494" selection-end-line="1494" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
         </state>
       </provider>
     </entry>
@@ -446,6 +609,7 @@
     <entry file="file://$PROJECT_DIR$/in_odm.tsv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/companiesWithSocialsNoDups.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -561,6 +725,10 @@
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/not_in_odm.tsv">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> bb757c46663c42357b6504a8edc2094e80fdc173
     </entry>
   </component>
 </project>
