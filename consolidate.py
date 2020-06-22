@@ -171,6 +171,19 @@ with open('compData.tsv','r') as in_file:
 
             compDict[compName] = data
 
+# Merge with new Tags
+def findComp(url):
+    for company in compDict:
+        if url in compDict[company]["main_url"] or compDict[company]["main_url"] in url:
+            return company
+    return ""
+
+def stringTags(tags):
+    tagString = ""
+    for tag in tags:
+        tagString += tag[0] + ", "
+    return tagString[:-2]
+
 for compName in compDict:
     for item in compDict[compName]:
         if "Unknown" in compDict[compName][item]:
@@ -184,9 +197,32 @@ for compName in compDict:
             if "\n" == compDict[compName][item][-2:]:
                 compDict[compName][item] =  compDict[compName][item][:-2]
 
+newTags = []
+print(compDict["Otonomos"]["tags"], len(compDict["Otonomos"]["tags"]))
+
+with open("top_tags.tsv", "r") as in_file:
+    for line in in_file:
+        compUrl, tags = line.split("\t")
+        tags = eval(tags)
+        compName = findComp(compUrl)
+        if compName not in compDict:
+            print(compUrl)
+        elif "\n" == compDict[compName]["tags"] or len(compDict[compName]["tags"])==0:
+            newTags.append(compName)
+            compDict[compName]["tags"] = stringTags(tags)
+            # print(stringTags(tags), compDict[compName]["tags"])
+            if compName == "Otonomos":
+                print("here")
+
+print(compDict["Otonomos"]["tags"])
+print(newTags)
+
+
 with open('final.csv', 'w') as out_file:
     out_file.write("name,"+",".join(list(compDict['Correa Porto'].keys()))+"\n")
     for compName in compDict:
+        if compName == "Otonomos" :
+            print(compDict["Otonomos"])
         line = ""
         if "," in compName:
             line = "\"" + compName + "\""
