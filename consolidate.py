@@ -198,7 +198,6 @@ for compName in compDict:
                 compDict[compName][item] =  compDict[compName][item][:-2]
 
 newTags = []
-print(compDict["Otonomos"]["tags"], len(compDict["Otonomos"]["tags"]))
 
 with open("top_tags.tsv", "r") as in_file:
     for line in in_file:
@@ -210,19 +209,10 @@ with open("top_tags.tsv", "r") as in_file:
         elif "\n" == compDict[compName]["tags"] or len(compDict[compName]["tags"])==0:
             newTags.append(compName)
             compDict[compName]["tags"] = stringTags(tags)
-            # print(stringTags(tags), compDict[compName]["tags"])
-            if compName == "Otonomos":
-                print("here")
-
-print(compDict["Otonomos"]["tags"])
-print(newTags)
-
 
 with open('final.csv', 'w') as out_file:
     out_file.write("name,"+",".join(list(compDict['Correa Porto'].keys()))+"\n")
     for compName in compDict:
-        if compName == "Otonomos" :
-            print(compDict["Otonomos"])
         line = ""
         if "," in compName:
             line = "\"" + compName + "\""
