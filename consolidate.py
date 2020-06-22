@@ -66,7 +66,7 @@ with open('DAVID_FINAL_CHECK.txt', 'r') as in_file:
         #     print(text)
 
 # merging neel checked files
-with open('new_links.tsv', 'r') as in_file:
+with open('new_links2.tsv', 'r') as in_file:
     for line in in_file:
         name, queries = line.split("\t")
 

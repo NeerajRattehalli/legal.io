@@ -7,7 +7,7 @@ Pantentory	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_ur
 JustEase	{'main_url': '', 'linkedin_url': '', 'facebook_url': ''}
 Midatadin	{'main_url': '', 'facebook_url': ''}
 Notificami	{'main_url': '', 'angellist_url': ''}
-Get20	{'main_url': ''}
+Get20	{'main_url': '', 'twitter_url': ''}
 Taxbender	{'main_url': '', 'facebook_url': ''}
 Bullseeye Law	{'main_url': '', 'linkedin_url': '', 'facebook_url': ''}
 Calela	{'main_url': '', 'twitter_url': '', 'facebook_url': ''}
@@ -23,7 +23,7 @@ Mighty	{'main_url': ''}
 XCLAIM	{'main_url': ''}
 Wundertax	{'main_url': '', 'angellist_url': ''}
 LitiGate	{'main_url': '', 'angellist_url': ''}
-Vauban	{'main_url': ''}
+Vauban	{'main_url': '', 'twitter_url': ''}
 Clara	{'main_url': ''}
 SINAI	{'main_url': '', 'twitter_url': ''}
 Thirdfort	{'main_url': '', 'angellist_url': ''}
@@ -41,20 +41,20 @@ HighCastle	{'main_url': ''}
 TOPCOURT LTS	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': ''}
 Zeyo	{'main_url': ''}
 Dilecy	{'main_url': '', 'angellist_url': ''}
-CaseGuide, Inc. DBA Spire Technical Services	{'main_url': '', 'angellist_url': '', 'linkedin_url': ''}
+CaseGuide, Inc. DBA Spire Technical Services	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': ''}
 Hunit	{'main_url': '', 'angellist_url': '', 'facebook_url': ''}
 INKINDIALEGAL.com	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': ''}
 MUST Platform	{'main_url': '', 'twitter_url': ''}
 MINEKO	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
 Devlos Software	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
 Amiqus Resolution	{'main_url': '', 'twitter_url': '', 'facebook_url': ''}
-CloudLaw	{'main_url': ''}
+CloudLaw	{'main_url': '', 'angellist_url': ''}
 Kings Court Trust	{'main_url': '', 'angellist_url': ''}
 Dealz.ai	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': ''}
 Legal Manager	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'facebook_url': ''}
 Just Me Technologies	{'main_url': '', 'twitter_url': ''}
 Student Connect	{'main_url': ''}
-Trustlog	{'main_url': '', 'angellist_url': ''}
+Trustlog	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
 ECL Direct	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
 Grandeo Labs	{'main_url': '', 'angellist_url': '', 'facebook_url': ''}
 Aalbul Ltd	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': '', 'facebook_url': ''}
@@ -89,19 +89,19 @@ ExpressSteuer	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
 Summize	{'main_url': ''}
 Legal Automation	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
 Legal One GmbH	{'main_url': ''}
-Balko	{'main_url': '', 'angellist_url': ''}
+Balko	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'facebook_url': ''}
 TIQK	{'main_url': '', 'angellist_url': ''}
 DADSUN	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
-Pergamin	{'main_url': ''}
+Pergamin	{'main_url': '', 'facebook_url': ''}
 The National Law Review	{'main_url': '', 'twitter_url': ''}
 MGROUP	{'main_url': '', 'angellist_url': ''}
-Document Modelling	{'main_url': ''}
+Document Modelling	{'main_url': '', 'facebook_url': ''}
 LegalForms	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'facebook_url': ''}
 F-LEX	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'facebook_url': ''}
 ipQuants AG	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'facebook_url': ''}
 Easyoffer	{'main_url': '', 'angellist_url': ''}
 ZHIANT	{'main_url': ''}
-FMeasure	{'main_url': '', 'angellist_url': ''}
+FMeasure	{'main_url': '', 'angellist_url': '', 'facebook_url': ''}
 Branding Technology Japan	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': '', 'facebook_url': ''}
 OneWill	{'main_url': '', 'facebook_url': ''}
 Claudius Legal Intelligence, Inc.	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': ''}
@@ -117,7 +117,7 @@ SIËSDE	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'facebook_url':
 Acaya	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
 ShakeUp Online	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
 Alba Software	{'main_url': ''}
-Immortalize	{'main_url': '', 'angellist_url': '', 'facebook_url': ''}
+Immortalize	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'facebook_url': ''}
 Aleri	{'main_url': ''}
 Legaline	{'main_url': '', 'angellist_url': ''}
 Africa Legal News	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
@@ -152,8 +152,8 @@ The Time Billing	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linke
 Adidem Corporation	{'main_url': '', 'angellist_url': ''}
 Kobi AI	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': ''}
 CYW SOLUTIONS	{'main_url': '', 'angellist_url': '', 'facebook_url': ''}
-Buddle	{'main_url': ''}
-SueApp	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
+Buddle	{'main_url': '', 'facebook_url': ''}
+SueApp	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': ''}
 GGRUS Technologies Private Limited	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': ''}
 BGC Brasil	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'facebook_url': ''}
 Tvuna Software Industries	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
@@ -255,7 +255,7 @@ EXPO	{'main_url': '', 'twitter_url': ''}
 Third Dog Software	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'facebook_url': ''}
 Kwick Soft Solutions	{'main_url': '', 'twitter_url': '', 'angellist_url': ''}
 Carman And Bevington	{'main_url': '', 'angellist_url': '', 'linkedin_url': ''}
-Fallco	{'main_url': '', 'angellist_url': '', 'linkedin_url': ''}
+Fallco	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': ''}
 Beau Walker - Marketing Scientist	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': '', 'facebook_url': ''}
 HELP ME	{'main_url': '', 'twitter_url': ''}
 Case Law Search	{'main_url': '', 'twitter_url': '', 'angellist_url': '', 'linkedin_url': '', 'facebook_url': ''}
