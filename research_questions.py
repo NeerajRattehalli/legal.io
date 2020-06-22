@@ -2,6 +2,7 @@ import csv
 from pprint import pprint
 import collections
 
+# Location Data per year per place
 year_data = {}
 abbreviations = ['AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FM', 'FL', 'GA', 'GU', 'HI', 'ID', 'IL',
                  'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MH', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH',
@@ -90,3 +91,23 @@ with open("final.csv", "r") as in_file:
             writer = csv.writer(out_file,  delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             writer.writerow([(str(key) + "," + str(ordered_year_data[key]))])
 
+
+# New companies per year
+
+companiesPerYear = {}
+
+with open("companies_by_year.csv", "r") as in_file:
+    for line in in_file:
+        year = int(line.split(",")[0][1:])
+        companiesPerLoc = eval((",").join(line.split(",")[1:])[:-2])
+        total = 0
+        for company in companiesPerLoc:
+            total += companiesPerLoc[company]
+        companiesPerYear[year] = total
+
+del companiesPerYear[1900]
+
+
+with open("total_companies_by_year.csv", "w") as out_file:
+    for year in companiesPerYear:
+        out_file.write(str(year) + ", " + str(companiesPerYear[year]) + "\n")
