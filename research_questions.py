@@ -2,7 +2,8 @@ import csv
 from pprint import pprint
 import collections
 
-# Location Data per year per place
+# New companies per yer per place"
+
 year_data = {}
 abbreviations = ['AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FM', 'FL', 'GA', 'GU', 'HI', 'ID', 'IL',
                  'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MH', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH',
@@ -87,12 +88,12 @@ with open("final.csv", "r") as in_file:
 
     ordered_year_data = collections.OrderedDict(sorted(collections.OrderedDict(year_data).items(), key=lambda key_value: key_value[0]))
     for key in ordered_year_data:
-        with open("companies_by_year.csv", 'a') as out_file:
-            writer = csv.writer(out_file,  delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-            writer.writerow([(str(key) + "," + str(ordered_year_data[key]))])
+        with open("companies_by_year.tsv", 'a') as out_file:
+            writer = csv.writer(out_file,  delimiter='\t')
+            writer.writerow([(str(key) + "\t" + str(ordered_year_data[key]))])
 
 
-# New companies per year
+# New companies per year in general
 
 companiesPerYear = {}
 
@@ -111,3 +112,25 @@ del companiesPerYear[1900]
 with open("total_companies_by_year.csv", "w") as out_file:
     for year in companiesPerYear:
         out_file.write(str(year) + ", " + str(companiesPerYear[year]) + "\n")
+
+
+# New companies per yer per location
+
+progressionPerYearPerLocation = {}
+
+with open("companies_by_year.csv", "r") as in_file:
+    for line in in_file:
+        year = int(line.split(",")[0][1:])
+        companiesPerLoc = eval((",").join(line.split(",")[1:])[:-2])
+        for location in companiesPerLoc:
+            if location not in progressionPerYearPerLocation:
+                progressionPerYearPerLocation[location] = {}
+            progressionPerYearPerLocation[location][year] = companiesPerLoc[location]
+
+
+for location in progressionPerYearPerLocation:
+    path = "overTimePerLocation/" + str(location) + ".csv"
+    with open(path, "w") as out_file:
+        out_file.write(location + "\n")
+        for year in progressionPerYearPerLocation[location]:
+            out_file.write(str(year) + ", " + str(progressionPerYearPerLocation[location][year]) + "\n")
