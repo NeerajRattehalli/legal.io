@@ -7,4 +7,4 @@ Task: to create a web-scraper that finds tags for companies that don't have tags
 5) Then add these tags to the csv
 6) Make another file of the most commonly used tags amongst all the stuff
 
-Deadline: Have the scraper done by Tuesday and run it
+Deadline: Have the scrapewr done by Tuesday and run it
