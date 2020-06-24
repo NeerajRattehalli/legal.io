@@ -2,9 +2,6 @@ import csv
 from pprint import pprint
 import collections
 
-# New companies per yer per place"
-
-year_data = {}
 abbreviations = ['AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FM', 'FL', 'GA', 'GU', 'HI', 'ID', 'IL',
                  'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MH', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH',
                  'NJ', 'NM', 'NY', 'NC', 'ND', 'MP', 'OH', 'OK', 'OR', 'PW', 'PA', 'PR', 'RI', 'SC', 'SD', 'TN', 'TX',
@@ -22,24 +19,35 @@ indian_states = ["Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhat
                  "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttarakhand", "Uttar Pradesh", "West Bengal",
                  "Andaman and Nicobar Islands", "Chandigarh", "Dadra and Nagar Haveli", "Daman and Diu", "Delhi",
                  "Lakshadweep", "Puducherry"]
-years_to_check = ["1982", "1989", "1996", "1929", "1993", "1983", "1874", "1990", "`1980", "1952"]
+
+country_links = []
+
+class Country:
+  def __init__(self, name, occurences, links):
+    self.name = name
+    self.occurences = occurences
+    self.links = links
+    self.success_rating = links/occurences
+  def __str__(self):
+      return "name: " + str(self.name)  + " occurences: " + str(self.occurences) + " links " + str(self.links) + " success rating " + str(self.success_rating)
+  def update_success_rating(self):
+      self.success_rating = self.links / self.occurences
+
+
+
 with open("final.csv", "r") as in_file:
     csv_reader = csv.reader(in_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     for row in csv_reader:
         if row == 0:
             continue
-        founding_year = row[1]
         location = row[2]
         trimmed_location = ""
         rev_location = ''.join(reversed(location))
-        if (rev_location == "a/n" or founding_year == "n/a"):
-            continue
         if "," not in location:
             trimmed_location = location.strip()
             continue
-        if not founding_year.isdigit() or int(founding_year) > 2020:
+        if (rev_location == "a/n"):
             continue
-        founding_year = int(founding_year)
         for i in range(0, len(rev_location)):
             if (rev_location[i] == ","):
                 trimmed_location = ''.join(reversed(rev_location[0:i])).strip()
@@ -74,63 +82,31 @@ with open("final.csv", "r") as in_file:
             trimmed_location = "Australia"
         elif (trimmed_location == "Sydney"):
             trimmed_location = "Australia"
-        # if (founding_year in years_to_check):
-        #     print(founding_year + " " + trimmed_location)
+        elif(trimmed_location == "CA and the world"):
+            trimmed_location = "USA"
 
-        if founding_year not in year_data:
-            year_data[founding_year] = {}
-            year_data[founding_year][trimmed_location] = 1
-            continue
-        if trimmed_location not in year_data[founding_year]:
-            year_data[founding_year][trimmed_location] = 1
-            continue
-        year_data[founding_year][trimmed_location] = year_data[founding_year][trimmed_location] + 1
+        links = [row[8], row[9], row[10], row[11], row[12]]
+        print(links)
+        valid_links = len(links)
+        for link in links:
+            if link == "n/a":
+                valid_links = valid_links - 1
+        print( trimmed_location + " " + str(valid_links))
+        if (len(country_links) == 0):
+            country_links.append(Country(trimmed_location, 1, valid_links))
+            country_links[0].update_success_rating()
+        for i in range(0, len(country_links)):
+            country = country_links[i]
+            if(country.name == trimmed_location):
+                country.occurences = country.occurences + 1
+                country.links = country.links + valid_links
+                country.update_success_rating()
+                break
+            if(i == len(country_links)-1):
+                country_links.append(Country(trimmed_location, 1, valid_links))
+                country.update_success_rating()
 
-    ordered_year_data = collections.OrderedDict(sorted(collections.OrderedDict(year_data).items(), key=lambda key_value: key_value[0]))
-    for key in ordered_year_data:
-        with open("companies_by_year.tsv", 'a') as out_file:
-            writer = csv.writer(out_file,  delimiter='\t')
-            writer.writerow([(str(key) + "\t" + str(ordered_year_data[key]))])
-
-
-# New companies per year in general
-
-companiesPerYear = {}
-
-with open("companies_by_year.csv", "r") as in_file:
-    for line in in_file:
-        year = int(line.split(",")[0][1:])
-        companiesPerLoc = eval((",").join(line.split(",")[1:])[:-2])
-        total = 0
-        for company in companiesPerLoc:
-            total += companiesPerLoc[company]
-        companiesPerYear[year] = total
-
-del companiesPerYear[1900]
-
-
-with open("total_companies_by_year.csv", "w") as out_file:
-    for year in companiesPerYear:
-        out_file.write(str(year) + ", " + str(companiesPerYear[year]) + "\n")
-
-
-# New companies per yer per location
-
-progressionPerYearPerLocation = {}
-
-with open("companies_by_year.csv", "r") as in_file:
-    for line in in_file:
-        year = int(line.split(",")[0][1:])
-        companiesPerLoc = eval((",").join(line.split(",")[1:])[:-2])
-        for location in companiesPerLoc:
-            if location not in progressionPerYearPerLocation
-                progressionPerYearPerLocation[location] = {}
-            progressionPerYearPerLocation[location][year] = companiesPerLoc[location]
-
-
-for location in progressionPerYearPerLocation:
-    path = "overTimePerLocation/" + str(location) + ".csv"
-    with open(path, "w") as out_file:
-        out_file.write(location + "\n")
-        for year in progressionPerYearPerLocation[location]:
-            out_file.write(str(year) + ", " + str(progressionPerYearPerLocation[location][year]) + "\n")
+    with open("success_location_correlation.tsv", "a") as out_file:
+        csv_writer = csv.writer(out_file, delimiter="\t", quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        for country in country_links:
+            csv_writer.writerow([country.name, country.occurences, country.links, country.success_rating])
