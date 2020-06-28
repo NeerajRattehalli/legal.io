@@ -47,5 +47,17 @@ with open("./output_files/final.tsv") as in_file:
             
         count += 1
 
-for key in compToTagsDict:
-    print(key, compToTagsDict[key])
+
+# with open("think.tsv", "w") as out_file:
+#     for key in compToTagsDict:
+#         out_file.write(key + "\t" + str(compToTagsDict[key]) + "\n")
+
+relationShipDict = {}
+with open("thinkManual.tsv", "r") as in_file:
+    for line in in_file:
+        compType, compDict  = line.split("\t")
+        compDict = eval(compDict)
+        for tag in compDict:
+            relationShipDict[tag] = compType
+
+print(relationShipDict)

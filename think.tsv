@@ -1,0 +1,9 @@
+Marketplace	{'Consulting': 21, 'Marketplace': 15, 'Software': 13}
+Document Automation	{'Software': 40, 'intelligence': 1, 'Consulting': 14, 'Collaboration': 4, 'Marketplace': 1, 'Security': 3, 'E-Signature': 2, 'Freelance': 1}
+Practice Management	{'Software': 49, 'Marketplace': 2, 'Consulting': 19, 'Collaboration': 3, 'Insurance': 2, 'Security': 2}
+Legal Research	{'Analytics': 4, 'Software': 11, 'Collaboration': 1, 'Consulting': 4, 'Education': 1}
+Legal Education	{'Software': 3, 'Education': 7, 'Consulting': 7}
+Online Dispute Resolution	{'Software': 6, 'Consulting': 2}
+E-Discovery	{'Software': 11, 'Security': 1, 'Education': 1, 'Consulting': 2, 'Analytics': 1, 'Collaboration': 1}
+Analytics	{'Analytics': 9, 'Software': 14, 'Consulting': 11, 'Collaboration': 1, 'Blockchain': 1}
+Compliance	{'Blockchain': 1, 'Software': 6, 'Consulting': 3, 'Analytics': 1}
