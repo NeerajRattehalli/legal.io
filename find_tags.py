@@ -6,14 +6,14 @@ import re
 import urllib3
 import datetime
 
-tags_file = open('tags.txt', 'r')
+tags_file = open('stanford_tags.txt', 'r')
 
 tags = tags_file.readlines()
 
 for i in range(0, len(tags)):
     tags[i] = tags[i].strip().lower()
 
-with open('final_reading_from.tsv', 'r') as in_file:
+with open('output_files/final.tsv', 'r') as in_file:
     file_reader = csv.reader(in_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
     for row in file_reader:
@@ -68,7 +68,7 @@ with open('final_reading_from.tsv', 'r') as in_file:
             occurrences[tag] = len((soup.find_all(string= re.compile(tag), recursive=True)))
 
         print(occurrences)
-        with open('found_tags.csv', 'a') as out_file:
+        with open('output_files/found_stanford_tags.csv', 'a') as out_file:
             writer = csv.writer(out_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             row[0] = main_url
             row[1] = str(occurrences)

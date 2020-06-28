@@ -1,6 +1,6 @@
 compDict = {}
 
-with open("found_tags.csv") as in_file:
+with open("output_files/found_tags.csv") as in_file:
     for line in in_file:
         company = line.split(",")[0]
         tagDict = eval(line.split("\"")[1])
