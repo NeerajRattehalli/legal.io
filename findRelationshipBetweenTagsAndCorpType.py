@@ -61,8 +61,8 @@ with open("thinkManual.tsv", "r") as in_file:
             relationShipDict[tag] = compType
 
 
-for key in relationShipDict:
-    print(key, relationShipDict[key])
+# for key in relationShipDict:
+#     print(key, relationShipDict[key])
 
 companyMainDict = {}
 
@@ -103,9 +103,64 @@ for company in companyMainDict:
 
     companyMainDict[company]["category"] = category
 
+for company in newCompTypeList:
+    print(company, companyMainDict[company]["category"])
 
 for company in companyMainDict:
     tags = companyMainDict[company]["tags"]
     tags = tags.replace("\n", "")
     companyMainDict[company]["tags"] = tags
 
+# Update files
+
+with open('final/final.csv', 'w') as out_file:
+    out_file.write("name,"+",".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
+    for compName in companyMainDict:
+        line = ""
+        if "," in compName:
+            line = "\"" + compName + "\""
+        else:
+            line = compName
+        for description in companyMainDict[compName]:
+            item = companyMainDict[compName][description]
+            if "\n" in item:
+                item = item[:-1]
+            if "," in item:
+                line += ",\"" + item + "\""
+            else:
+                line += "," + item
+            if item == "":
+                line += "n/a"
+        line += "\n"
+        out_file.write(line)
+
+with open('final/final.tsv', 'w') as out_file:
+    out_file.write("name\t"+"\t".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
+    for compName in companyMainDict:
+        line = compName
+        for description in companyMainDict[compName]:
+            line += "\t" + companyMainDict[compName][description]
+            if companyMainDict[compName][description] == "":
+                line += "n/a"
+        if "\n" in line:
+            line = line[:-1]
+        line += "\n"
+        out_file.write(line)
+
+def makeDict(company, compDict):
+    returnDict = {}
+    returnDict["category"] = ""
+
+    if "n/a" not in compDict["description"]:
+        returnDict["description"] = compDict["description"]
+    if "n/a" not in compDict["tags"]:
+        returnDict["tags"] = compDict["tags"]
+    
+
+    return returnDict
+
+with open("davidWork/companiesToFindType.tsv", "w") as out_file:
+    for company in companyMainDict:
+        if "n/a" in companyMainDict[company]["category"]:
+            smallDict = makeDict(company, companyMainDict[company])
+            out_file.write(company + "\t" + str(smallDict) + "\n")
