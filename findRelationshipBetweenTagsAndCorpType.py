@@ -61,93 +61,51 @@ with open("thinkManual.tsv", "r") as in_file:
             relationShipDict[tag] = compType
 
 
+for key in relationShipDict:
+    print(key, relationShipDict[key])
+
 companyMainDict = {}
 
-def check(array, string):
-    for item in array:
-        if item in string:
-            return True
-    return False
-
-# consolidate all the merged data
 with open('./output_files/final.tsv','r') as in_file:
-    count = 0
-    companies = []
     for line in in_file:
         name, date, hq, category, audience, model, description, homepage_url, twitter_url, angellist_url, cb_url, linkedin_url, facebook_url, tags = line.split("\t")
-        tags = tags.replace("\n", "")
-        if "n/a" not in category:
-            companyMainDict[name] = {"date": date, 
-                                "hq": hq, 
-                                "category": category, 
-                                "audience": audience, 
-                                "model": model, 
-                                "description": description, 
-                                "main_url": homepage_url, 
-                                "twitter_url": twitter_url, 
-                                "angellist_url": angellist_url, 
-                                "crunchbase_url": cb_url, 
-                                "linkedin_url": linkedin_url,
-                                "facebook_url": facebook_url,
-                                "tags": tags}
-        
-        elif "n/a" not in tags:
-            tagItems = tags.split(", ")
-            condition = True
-            for tag in tagItems:
+        companyMainDict[name] = {"date": date, 
+                                    "hq": hq, 
+                                    "category": category, 
+                                    "audience": audience, 
+                                    "model": model, 
+                                    "description": description, 
+                                    "main_url": homepage_url, 
+                                    "twitter_url": twitter_url, 
+                                    "angellist_url": angellist_url, 
+                                    "crunchbase_url": cb_url, 
+                                    "linkedin_url": linkedin_url,
+                                    "facebook_url": facebook_url,
+                                    "tags": tags}
+
+
+count = 0
+newCompTypeList = []
+
+for company in companyMainDict:
+    category = companyMainDict[company]["category"]
+    if "n/a" not in companyMainDict[company]["category"]:
+        if "n/a" not in companyMainDict[company]["tags"]:
+            allTags = companyMainDict[company]["tags"].split(", ")
+            for tag in allTags:
                 if tag in tagList:
-                    mainTag = tag
-                    mainTag.replace("\n", "")
-                    if mainTag in relationShipDict:
-                        count += 1
-                        companies.append(name)
-                        condition = False
-                        expectedType = relationShipDict[mainTag]
-                        companyMainDict[name] = {"date": date, 
-                                            "hq": hq, 
-                                            "category": expectedType, 
-                                            "audience": audience, 
-                                            "model": model, 
-                                            "description": description, 
-                                            "main_url": homepage_url, 
-                                            "twitter_url": twitter_url, 
-                                            "angellist_url": angellist_url, 
-                                            "crunchbase_url": cb_url, 
-                                            "linkedin_url": linkedin_url,
-                                            "facebook_url": facebook_url,
-                                            "tags": tags}
-                        continue
-                else:
-                    companyMainDict[name] = {"date": date, 
-                                                "hq": hq, 
-                                                "category": category, 
-                                                "audience": audience, 
-                                                "model": model, 
-                                                "description": description, 
-                                                "main_url": homepage_url, 
-                                                "twitter_url": twitter_url, 
-                                                "angellist_url": angellist_url, 
-                                                "crunchbase_url": cb_url, 
-                                                "linkedin_url": linkedin_url,
-                                                "facebook_url": facebook_url,
-                                                "tags": tags}
-        else:
-            companyMainDict[name] = {"date": date, 
-                                        "hq": hq, 
-                                        "category": category, 
-                                        "audience": audience, 
-                                        "model": model, 
-                                        "description": description, 
-                                        "main_url": homepage_url, 
-                                        "twitter_url": twitter_url, 
-                                        "angellist_url": angellist_url, 
-                                        "crunchbase_url": cb_url, 
-                                        "linkedin_url": linkedin_url,
-                                        "facebook_url": facebook_url,
-                                        "tags": tags}
-                    
-        
-        
-        
-for company in companies:
-    print(company, companyMainDict[company]["category"])
+                    predCategory = relationShipDict[tag]
+                    category = predCategory
+                    count += 1
+                    newCompTypeList.append(company)
+                    break
+
+
+    companyMainDict[company]["category"] = category
+
+
+for company in companyMainDict:
+    tags = companyMainDict[company]["tags"]
+    tags = tags.replace("\n", "")
+    companyMainDict[company]["tags"] = tags
+
