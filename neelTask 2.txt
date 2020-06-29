@@ -1,0 +1,10 @@
+Task: to create a web-scraper that finds tags for companies that don't have tags already
+
+1) Read from tags.txt and store the tags in an array
+2) Now read from final.csv or final.tsv for main_urls 
+3) Scrape text body of the website not the html just text using the main_urls to avoid automation protocol.
+4) Search for the tags in the text body. Keep a count of it and the top most commonly found words.
+5) Then add these tags to the csv
+6) Make another file of the most commonly used tags amongst all the stuff
+
+Deadline: Have the scrapewr done by Tuesday and run it
