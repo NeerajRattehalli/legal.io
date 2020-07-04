@@ -1,0 +1,45 @@
+year, company_type_counts
+1874	{'Marketplace': 1}
+1900	{'Analytics': 4, 'Practice Management': 5, 'Document Automation': 6, 'Marketplace': 6, 'Legal Research': 3, 'E-Discovery': 1, 'Legal Education': 2}
+1919	{'Marketplace': 1}
+1929	{'Legal Research': 1}
+1952	{'Legal Research': 1}
+1970	{'Legal Research': 1}
+1980	{'Marketplace': 1}
+1982	{'Legal Education': 1}
+1983	{'E-Discovery': 1}
+1986	{'Legal Research': 1, 'Practice Management': 1}
+1988	{'E-Discovery': 2}
+1989	{'Legal Education': 1}
+1990	{'Analytics': 1}
+1992	{'Legal Research': 1, 'Practice Management': 1}
+1993	{'Marketplace': 1}
+1994	{'Document Automation': 1, 'Marketplace': 1, 'Legal Education': 1}
+1995	{'Practice Management': 1, 'Document Automation': 1}
+1996	{'Practice Management': 1, 'Document Automation': 1, 'E-Discovery': 1}
+1997	{'E-Discovery': 1, 'Practice Management': 2, 'Marketplace': 1, 'Document Automation': 1, 'Analytics': 1}
+1998	{'Document Automation': 1, 'Practice Management': 1, 'Legal Research': 1, 'Marketplace': 2}
+1999	{'Document Automation': 1, 'Analytics': 1, 'Legal Research': 1}
+2000	{'Marketplace': 1, 'Practice Management': 2, 'Online Dispute Resolution': 2, 'Document Automation': 1, 'Analytics': 1, 'Legal Research': 2, 'E-Discovery': 1}
+2001	{'Online Dispute Resolution': 1, 'Practice Management': 3, 'Legal Education': 1, 'Document Automation': 1, 'Marketplace': 1}
+2002	{'Practice Management': 2, 'Document Automation': 2, 'Legal Research': 1, 'Compliance': 1, 'Online Dispute Resolution': 1, 'Marketplace': 1}
+2003	{'Document Automation': 1, 'Analytics': 2, 'Practice Management': 2, 'E-Discovery': 1, 'Marketplace': 2}
+2004	{'Legal Education': 1, 'Practice Management': 1, 'Marketplace': 2, 'E-Discovery': 1, 'Document Automation': 2}
+2005	{'Document Automation': 3, 'E-Discovery': 2, 'Legal Research': 1}
+2006	{'Practice Management': 3, 'Legal Research': 2, 'Online Dispute Resolution': 1, 'E-Discovery': 1, 'Document Automation': 2}
+2007	{'Marketplace': 2, 'Legal Education': 1, 'Practice Management': 6, 'Document Automation': 2, 'Compliance': 1}
+2008	{'Practice Management': 8, 'Document Automation': 3, 'Compliance': 2, 'Marketplace': 4, 'Legal Research': 4, 'E-Discovery': 1, 'Online Dispute Resolution': 1, 'Legal Education': 1}
+2009	{'Marketplace': 5, 'Practice Management': 4, 'Analytics': 4, 'E-Discovery': 1, 'Legal Education': 1, 'Compliance': 1, 'Document Automation': 2}
+2010	{'Document Automation': 6, 'Compliance': 1, 'Legal Research': 1, 'Practice Management': 9, 'Marketplace': 8, 'Analytics': 1, 'Online Dispute Resolution': 1}
+2011	{'Document Automation': 8, 'Marketplace': 16, 'E-Discovery': 3, 'Legal Education': 4, 'Analytics': 3, 'Practice Management': 12, 'Legal Research': 4, 'Online Dispute Resolution': 3, 'Compliance': 1}
+2012	{'Legal Research': 10, 'Document Automation': 17, 'Practice Management': 14, 'Analytics': 8, 'Marketplace': 24, 'Online Dispute Resolution': 3, 'E-Discovery': 2, 'Legal Education': 3}
+2013	{'Document Automation': 41, 'Marketplace': 36, 'E-Discovery': 7, 'Practice Management': 22, 'Legal Research': 9, 'Analytics': 4, 'Legal Education': 7, 'Online Dispute Resolution': 6}
+2014	{'Marketplace': 49, 'E-Discovery': 13, 'Document Automation': 48, 'Practice Management': 23, 'Online Dispute Resolution': 8, 'Legal Research': 9, 'Analytics': 17, 'Legal Education': 5, 'Compliance': 6}
+2015	{'Document Automation': 51, 'Practice Management': 31, 'Online Dispute Resolution': 6, 'E-Discovery': 5, 'Marketplace': 60, 'Legal Education': 6, 'Legal Research': 11, 'Analytics': 22, 'Compliance': 6}
+2016	{'Legal Education': 4, 'Document Automation': 30, 'Analytics': 16, 'Marketplace': 41, 'Practice Management': 22, 'Legal Research': 10, 'E-Discovery': 3, 'Compliance': 5, 'Online Dispute Resolution': 3}
+2017	{'Marketplace': 30, 'Online Dispute Resolution': 5, 'Legal Research': 9, 'E-Discovery': 3, 'Practice Management': 13, 'Document Automation': 25, 'Analytics': 9, 'Compliance': 6, 'Legal Education': 2}
+2018	{'Legal Research': 5, 'Document Automation': 13, 'Practice Management': 5, 'Marketplace': 15, 'Analytics': 6, 'Compliance': 10, 'Online Dispute Resolution': 2, 'Legal Education': 2}
+2019	{'Document Automation': 5, 'Marketplace': 5, 'Practice Management': 2, 'Analytics': 3, 'Legal Education': 2, 'Online Dispute Resolution': 1, 'Legal Research': 1, 'Compliance': 1}
+2019 (Earlier LLP - 2016)	{'Analytics': 1}
+2020	{'Legal Research': 1, 'Marketplace': 3}
+

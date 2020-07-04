@@ -123,7 +123,7 @@ with open("companies_by_year.csv", "r") as in_file:
         year = int(line.split(",")[0][1:])
         companiesPerLoc = eval((",").join(line.split(",")[1:])[:-2])
         for location in companiesPerLoc:
-            if location not in progressionPerYearPerLocation
+            if location not in progressionPerYearPerLocation:
                 progressionPerYearPerLocation[location] = {}
             progressionPerYearPerLocation[location][year] = companiesPerLoc[location]
 
