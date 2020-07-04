@@ -80,10 +80,3 @@ with open('final/final2.tsv', 'w') as out_file:
         line += "\n"
         out_file.write(line)
 
-noTag = []
-
-for company in companyMainDict:
-    if companyMainDict[company]["category"] == "n/a" or companyMainDict[company]["category"] == "":
-        noTag.append(company)
-
-print(len(noTag))
