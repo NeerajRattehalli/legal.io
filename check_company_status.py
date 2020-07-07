@@ -15,11 +15,18 @@ headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:66.0)
 
 incorrect = []
 
-with open("final/final.csv", "r") as in_file:
-    csv_reader = csv.reader(in_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+with open("final/final.tsv", "r") as in_file:
+    csv_reader = csv.reader(in_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    met = False
     for row in csv_reader:
         main_url = row[7]
         name = row[0]
+        if not met and name != "RechtEasy.at":
+            print(name)
+            continue
+        if name == "RechtEasy.at":
+            met = True
+            print("MET")
         response_code = 0
         # changed = False
         if main_url == "main_url" or main_url == "n/a":
@@ -27,19 +34,28 @@ with open("final/final.csv", "r") as in_file:
         if main_url[0:4] != "http":
             main_url = "https://" + str(main_url)
             print(main_url)
+        print(main_url)
         try:
             response = requests.head(main_url)
-            print(response.status_code)
-            if(response.status_code >= 300):
-                with open("output_files/broken_urls.csv", "a") as out_file:
+            response_code_first_digit = int(str(response.status_code)[0])
+            if(response_code_first_digit >=4):
+                with open("output_files/400_codes.csv", "a") as out_file:
                     csv_writer = csv.writer(out_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-                    csv_writer.writerow([name, main_url])
+                    csv_writer.writerow([name, main_url, response.status_code])
+            elif (response_code_first_digit >= 3):
+                with open("output_files/300_codes.csv", "a") as out_file:
+                    csv_writer = csv.writer(out_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                    csv_writer.writerow([name, main_url, response.status_code])
+            elif (response_code_first_digit >= 2):
+                with open("output_files/200_codes.csv", "a") as out_file:
+                    csv_writer = csv.writer(out_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                    csv_writer.writerow([name, main_url, response.status_code])
         except requests.exceptions.ConnectionError:
             print(main_url + " didnt work")
             incorrect.append((name, main_url))
-            with open("output_files/broken_urls.csv", "a") as out_file:
+            with open("output_files/400_codes.csv", "a") as out_file:
                 csv_writer = csv.writer(out_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-                csv_writer.writerow([name, main_url])
+                csv_writer.writerow([name, main_url, "Connection Error"])
 
 
     #     except requests.exceptions.SSLError:s
