@@ -20,6 +20,7 @@ with open("top_tags.tsv", "r") as in_file:
                         company_types[company_type] = company_types[company_type] + 1
                     else:
                         company_types[company_type] = 1
+                        
 with open("most_common_company_types.tsv", "a") as out_file:
     csv_writer = csv.writer(out_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 

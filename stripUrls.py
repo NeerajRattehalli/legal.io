@@ -6,7 +6,7 @@ def modifyFiles(inputPath, outputPath):
                      quoting=csv.QUOTE_ALL, skipinitialspace=True)
         for line in csv_reader:
             compName, compUrl, statusCode = line
-            out_file.write(", ".join([compName, compUrl]) + "\n")
+            out_file.write(", ".join([compName, compUrl]) + ", " + str({"status": ""}) + "\n")
 
 modifyFiles("output_files/200_codes.csv", "TXTFiles/david/david.csv")
 modifyFiles("output_files/300_codes.csv", "TXTFiles/neel/neel.csv")
