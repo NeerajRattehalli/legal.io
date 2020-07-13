@@ -1,0 +1,21 @@
+MyDefence	 https://mydefence.dk/	 {'status': ‘3’}	
+ADR Notable	 LLC	 https://www.adrnotable.com/	 {'status': ‘3’}
+Moviinn	 https://moviinn.com/	 {'status': ‘3’}
+Danse Orientale 5€	 https://mona-danse-orientale.com/	 {'status': ‘3'}
+erik@translatefx.com	 https://www.translatefx.com	 {'status': ‘3'}
+Pax	 https://www.pax.com/	 {'status': ‘3'}
+CoralDocs	 https://coraldocs.com/	 {'status': ‘3'}
+WeedTraQR	 https://weedtraqr.com	 {'status': ‘3'}
+ZoundsHearing.com	 http://www.zoundshearing.com/	 {'status': ‘3'}
+Picture It Settledå¨	 http://www.pictureitsettled.com/	 {'status': ‘3’}
+AppealTrack, http://appealtrack.com/, {'status': '3'}
+DISCO, https://csdisco.com, {'status': '3'}
+Document Technologies Inc, http://docucap.com/, {'status': '3'}
+JusticeBid, https://justicebid.com, {'status': '3'}
+Laterally, http://lateral.ly/, {'status': '3'}
+LawyerFair, https://lawyerfair.co.uk, {'status': '3'}
+PUSHTOSTART, https://pushtostart.it, {'status': '3'}
+Loudr, http://loudr.fm, {'status': '3'}
+Bloomberg BNA, https://www.bna.com/bloomberglaw/, {'status': '3'}
+RYTER, http://ryter.io, {'status': '3'}
+moviinn, http://moviinn.com/, {'status': '3'}
