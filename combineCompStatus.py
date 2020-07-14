@@ -103,10 +103,10 @@ with open('final/finalWithStatus/final.tsv', 'w') as out_file:
     for compName in companyMainDict:
         line = compName
         for description in companyMainDict[compName]:
-            line += "\t" + companyMainDict[compName][description]
+            line += "\t" + companyMainDict[compName][description].replace("\n", "")
             if companyMainDict[compName][description] == "":
                 line += "n/a"
-        if "\n" in line:
-            line = line[:-1]
+
         line += "\n"
+
         out_file.write(line)
