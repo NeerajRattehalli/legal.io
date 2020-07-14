@@ -7,7 +7,7 @@ AttorneyFee, http://www.attorneyfee.com, {'status': '0'}
 Big Time Software Inc, http://bigtime.net, {'status': '0'}
 BriefMine, http://www.briefmine.com, {'status': '1'}
 Capture.IT, http://getcaptureit.com/, {'status': '1'}
-ping Inc., http://timebyping.com/, {'status': '0'}
+ping, Inc., http://timebyping.com/, {'status': '0'}
 BeeLine Reader, http://www.beelinereader.com/, {'status': '0'}
 Clausehound, http://clausehound.com/, {'status': '0'}
 ClauseMatch, http://www.clausematch.com/, {'status': '0'}
@@ -78,7 +78,7 @@ Logickull, http://logikcull.com/, {'status': '0'}
 Mark43, http://mark43.com, {'status': '0'}
 Mimecast, https://mimecast.com, {'status': '0'}
 MisAbogados.com, http://www.misabogados.com/, {'status': '0'}
-New Media Legal Publishing Inc., http://www.newmedialegal.com/, {'status': '0'}
+New Media Legal Publishing, Inc., http://www.newmedialegal.com/, {'status': '0'}
 NextChapter, http://nextchapterbk.com, {'status': '0'}
 Nymity, https://www.nymity.com/, {'status': '2'}
 Office Network Online, http://www.officenetworkonline.com/, {'status': '0'}
@@ -102,7 +102,7 @@ Stampery, https://stampery.co, {'status': '0'}
 Sanza, http://sanza.co, {'status': '1'}
 StartDireito, http://www.startdireito.com.br/, {'status': '0'}
 Startup Quest, http://www.startupquest.com/, {'status': '0'}
-Structured Market, http://structuredmarket.com/, {'status': 1
+Structured Market, http://structuredmarket.com/, {'status': '1'}
 Suralink, https://suralink.com, {'status': '0'}
 Swiftcourt, https://swiftcourt.se, {'status': '0'}
 Syngrafii, http://www.syngrafii.com/, {'status': '0'}
@@ -173,22 +173,22 @@ Paper Software, https://papersoftware.com/, {'status': '0'}
 Epiq Systems, http://www.epiqsystems.com, {'status': '0'}
 Starting Legal, http://www.startinglegal.com, {'status': '1'}
 Helm360, https://www.helm360.com, {'status': '0'}
-Merus Inc., https://meruscase.com, {'status': '0'}
+Merus, Inc., https://meruscase.com, {'status': '0'}
 LawTap, https://lawtap.com, {'status': '0'}
 MyMotionCalendar, http://www.mymotioncalendar.com/, {'status': '0'}
 Vigilant, https://vigilant.cc/, {'status': '1'}
-Mobile Helix Inc., https://www.mobilehelix.com, {'status': '0'}
+Mobile Helix, Inc., https://www.mobilehelix.com, {'status': '0'}
 NORMDECS, http://wp.unil.ch/forensicdecision, {'status': '1'}
-LLM Inc., https://www.llminc.com, {'status': '0'}
+LLM, Inc., https://www.llminc.com, {'status': '0'}
 InteLease Inc., https://www.intelease.com, {'status': '0'}
 Intraspexion Inc., https://www.intraspexion.com, {'status': '0'}
 Risk Genius, https://riskgenius.com/, {'status': '0'}
 Synergist.io, http://www.synergist.io/, {'status': '1'}
 Microsystems, https://www.microsystems.com, {'status': '1'}
 NextLex Inc, https://www.nextlex.ch, {'status': '1'}
-LAWPP LLC, https://lawpp.org, {'status': '0'}
+LAWPP, LLC, https://lawpp.org, {'status': '0'}
 INTELLLEX, https://www.intelllex.com, {'status': '0'}
-Road to Status LLC, https://roadtostatus.com, {'status': '0'}
+Road to Status, LLC, https://roadtostatus.com, {'status': '0'}
 eDCaseMAN, https://www.edcaseman.com, {'status': '0'}
 Courting The Law, https://www.courtingthelaw.com, {'status': '0'}
 Bloomberg BNA, https://www.bna.com/bloomberglaw/, {'status': '3'}
@@ -197,10 +197,10 @@ Practice League Legaltech Pvt. Ltd., http://www.practiceleague.com/, {'status': 
 Compliance Qaurter, https://compliancequarter.com.au, {'status': '0'}
 LegalThings One, https://livecontracts.io, {'status': '1'}
 Xcential Legislative Technologies, http://xcential.com/, {'status': '0'}
-Laboralisto Inc., https://www.laboralisto.com, {'status': '0'}
+Laboralisto, Inc., https://www.laboralisto.com, {'status': '0'}
 thingsTHINKING GmbH, https://thingsTHINKING.net, {'status': '1'}
 Elijah LTD, https://www.elijaht.com, {'status': '0'}
-Simon Says Inc., https://simonsays.ai, {'status': '0'}
+Simon Says, Inc., https://simonsays.ai, {'status': '0'}
 Contractize INC., https://www.contractize.com, {'status': '0'}
 1Law, http://www.1law.com/, {'status': '0'}
 AdviceScene, http://advicescene.com/, {'status': '0'}
@@ -214,4 +214,112 @@ Virtual Legal, https://virtuallegal.com.au/, {'status': '0'}
 Alster Legal, http://alsterlegal.com/, {'status': '0'}
 AltaClaro, http://www.altaclaro.com/, {'status': '0'}
 Amendment.io, http://amendment.io/, {'status': '0'}
-Anduin Transactions, http://www.and
+Anduin Transactions, http://www.anduintransact.com, {'status': '0'}
+AOLaw Africa, https://www.aolaw.co.ke, {'status': '0'}
+Apex CLE, https://www.apexcle.com, {'status': '0'}
+Audiocasefiles, http://courtroomcast.lexisnexis.com/, {'status': '1'}
+Avtal24 / Agreement24, https://avtal24.se/, {'status': '1'}
+TitanFile, https://titanfile.com, {'status': '0'}
+TIOEX, http://tioex.com/, {'status': '1'}
+The Expert Institute, http://www.theexpertinstitute.com/, {'status': '0'}
+Beau Walker // Marketing Scientist, http://www.beauwalker.com/marketing, {'status': '0'}
+Bernstein, https://bernstein.io, {'status': '0'}
+TechGC, http://www.techgc.co/#, {'status': '0'}
+Brainspace, http://www.brainspace.com, {'status': '0'}
+Glitnr, https://glitnr.com/, {'status': '1'}
+Bridge US, https://bridge.us, {'status': '0'}
+Callisto, https://projectcallisto.org, {'status': '0'}
+SavvyDox Inc., http://www.savvydox.com/, {'status': '0'}
+Counsel on Call Services Inc, http://counseloncall.com/, {'status': '0'}
+LECARE, https://www.lecare.com, {'status': '0'}
+http://www.cfcs.co.in, http://www.cfcs.co.in, {'status': '0'}
+LegalSifter, http://www.legalsifter.com, {'status': '0'}
+Citasca, LLC, https://www.citasca.com, {'status': '0'}
+Klarity, http://klaritylaw.com, {'status': '0'}
+Mattereum, https://www.mattereum.com/, {'status': '0'}
+Rosenblum Law Firm, https://www.traffictickets.com, {'status': '0'}
+Claim Flights, https://www.claimflights.com, {'status': '0'}
+Herculex.ai, https://herculex.ai, {'status': '0'}
+Lexnet, https://www.infolex.lt, {'status': '2'}
+DocBlaster, http://www.docblaster.com/, {'status': '0'}
+ZyLAB Technologies, https://www.zylab.com, {'status': '0'}
+wundertax, https://www.wundertax.de/, {'status': '0'}
+Notarize, https://notarize.com, {'status': '0'}
+Lawyer Exchange, https://lawyerexchange.com, {'status': '0'}
+RYTER, http://ryter.io, {'status': '3'}
+LAWLIFT, https://www.lawlift.de/, {'status': '0'}
+GLC CONSULTORES, http://www.gestionlegalcolombia.com/, {'status': '0'}
+Justice42 B.V., https://www.uitelkaar.nl, {'status': '0'}
+Filingmantra, http://www.filingmantra.com/, {'status': '1'}
+moviinn, http://moviinn.com/, {'status': '3'}
+Cognitiv+, http://www.cognitivplus.com/, {'status': '0'}
+QDiscovery, https://qdiscovery.com/, {'status': '1'}
+About innovation, https://www.aboutinnovation.com/en/, {'status': '0'}
+Droits Quotidiens, https://www.droitsquotidiens.fr, {'status': '1'}
+Priory Solutions, http://priorysolutions.com/, {'status': '1'}
+Made in Law, https://madeinlaw.com/en/, {'status': '1'}
+ClicknClear, http://www.clicknclear.com/, {'status': '0'}
+Zero Email, https://www.zeroapp.ai/, {'status': '0'}
+Origin Systems, http://www.originsystems.co.za/, {'status': '0'}
+Radvocate, http://myradvocate.com, {'status': '1'}
+Dye & Durham Corporation, https://www.dyedurham.com, {'status': '0'}
+Legal Gateway, https://legalgateway.co, {'status': '1'}
+HighQ, https://www.highq.com, {'status': '0'}
+Lexyom, Inc., https://www.lexyom.com, {'status': '0'}
+Lexplosion Solutions, http://lexplosion.in, {'status': '0'}
+Dealsign Solutions Oy, https://www.dealsign.io, {'status': '0'}
+Firm24, https://firm24.com, {'status': '0'}
+Beacon Direct Cremation, https://www.beacondirectcremation.com/index.php, {'status': '0'}
+RGC Manager GmbH & Co. KG, https://www.rgc-manager.de, {'status': '0'}
+Eigen Technologies, https://www.eigentech.com, {'status': '0'}
+OSOME, https://osome.com, {'status': '0'}
+LawLinq, Inc., https://www.lawlinq.com, {'status': '0'}
+Reasoning Technology, http://www.reasoningtechnology.com, {'status': '0'}
+SiËSDE Dispute Resolution Technologies, https://www.siesde.com, {'status': '0'}
+Avokaado.com OY, https://avokaado.com/, {'status': '0'}
+FirstBase, https://firstbase.io/, {'status': '0'}
+LEX247, https://www.lex247.com, {'status': '0'}
+Tabled, https://tabled.io, {'status': '0'}
+RecordFixer, https://www.recordfixer.com, {'status': '0'}
+Afriwise, https://www.afriwise.com, {'status': '0'}
+Medchart Inc, https://medchart.ca/law, {'status': '0'}
+Fucitech.com, http://www.fucitech.com, {'status': '0'}
+Lawren.io, https://www.lawren.io, {'status': '0'}
+LegalDPT.com, https://www.legaldpt.com, {'status': '0'}
+Goh1b, https://www.goh1b.com/, {'status': '0'}
+Blika Solutions AB, https://www.blika.com, {'status': '0'}
+TRAIAL Sàrl, https://www.traial.ch, {'status': '0'}
+Lawbox, https://www.lawboxpro.com, {'status': '0'}
+Ekdesk LLC, https://www.ekdesk.com, {'status': '0'}
+7 Seas Solutions, https://www.7seassolutions.com, {'status': '0'}
+Neu Skin, https://www.neu-skin.in, {'status': '0'}
+DueCourse, https://duecourseapp.com, {'status': '0'}
+A2J Tech Store, https://www.a2j.store/, {'status': '0'}
+Synch, https://www.synchlaw.se, {'status': '0'}
+Airflow, https://getairflow.co/en, {'status': '1'}
+ArenoNet GmbH, http://www.rechtsanwalt.com, {'status': '1'}
+Osome, https://osome.com, {'status': '1'}
+Arbitrator Intelligence, https://www.arbitratorintelligence.com, {'status': '0'}
+Legalplace, https://legalplace.fr/, {'status': '0'}
+KISSPatent, https://www.kisspatent.com, {'status': '0'}
+Sleek, https://sleek.sg, {'status': '0'}
+AffordableLaw, https://www.affordablelaw.ng, {'status': '0'}
+AxiomaVox, http://axiomavox.org, {'status': '0'}
+Kreadance, http://mona-danse-orientale.com/, {'status': '1'}
+Tusk, https://www.trytusk.com, {'status': '0'}
+Click Attorney, https://clickattorney.net, {'status': '0'}
+Adden Technology Limited, https://www.addentech.com, {'status': '0'}
+SavvySuit, https://savvysuit.com, {'status': '0'}
+Knomos Knowledge Management, http://www.knomos.ca/, {'status': '0'}
+Pibisi, https://pibisi.com/, {'status': '0'}
+LeadsOnline, https://www.leadsonline.com/, {'status': '0'}
+Integra Ledger, http://integraledger.com/, {'status': '0'}
+Fiberhome, http://www.fiberhome.com/, {'status': '0'}
+digitalCounsels, https://www.digitalcounsels.com/, {'status': '1'}
+HELM360, http://helm360.com/, {'status': '0'}
+ApexCLE, https://www.apexcle.com/, {'status': '0'}
+3Lawgy, http://3lawgy.com/, {'status': '1'}
+Clemta, http://clemta.com/, {'status': '0'}
+Legalcloud, https://app.legalcloud.com.br/, {'status': '0'}
+GDPRfolder.eu, https://www.gdprfolder.eu/, {'status': '0'}
+AdvantageLaw, Inc., http://www.advantagelaw.com/, {'status': '0'}
