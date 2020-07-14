@@ -76,6 +76,10 @@ mergeFileTSVNeel("TXTFiles/neel/neel_no_mainUrl_final.tsv")
 mergeFileTSVDavid("TXTFiles/david/david200.csv")
 mergeFileCSV("TXTFiles/david/david300.csv")
 
+with open("TXTFiles/neeraj/neeraj.txt") as in_file:
+    for line in in_file:
+        del companyMainDict[line.replace("\n", "")]
+
 # Writing Final Files
 with open('final/finalWithStatus/final.csv', 'w') as out_file:
     out_file.write("name,"+",".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
