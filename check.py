@@ -12,4 +12,3 @@ with open('final_updated.tsv','r') as in_file:
         else:
             print(line.split("\t")[0])
 
-print(len(companies), len(newCompanies))
