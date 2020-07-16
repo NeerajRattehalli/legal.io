@@ -1,4 +1,10 @@
 # Tags finding
+#stanford tags and our
+#find relationship between gunst and stanford tag
+#creates relationship matrix between old categories and new categories
+#if company type is missing call it
+#tags to category
+#check to see if these tags exist
 
 tagList = []
 

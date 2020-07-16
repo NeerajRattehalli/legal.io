@@ -3,6 +3,8 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
+#unimportant
+
 base_url = "https://www.crunchbase.com/organization/"
 
 def formatUrl(name):

@@ -6,7 +6,7 @@ from urllib.parse import unquote
 
 csv.field_size_limit(sys.maxsize)
 
-everything = " everything"
+everything = "everything"
 twitter = "twitter"
 facebook = "facebook"
 crunchbase = "crunchbase"
@@ -18,7 +18,7 @@ twitter_url = " twitter_url"
 facebook_url = " facebook_url"
 cruncbase_url = " crunchbase_url"
 angellist_url = " angellist_url"
-main_url = " main_url"
+main_url = "main_url"
 linkedin_url = " linkedin_url"
 
 url_company_map = {twitter_url: twitter, facebook_url: facebook, cruncbase_url: crunchbase, angellist_url: angellist,

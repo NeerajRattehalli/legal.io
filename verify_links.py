@@ -1,5 +1,10 @@
 import re
 
+#takes url string (twitter facebook angellist)
+#url string : twitter facebook angellist main_url
+# company name
+#company url
+
 def check(urlString, compName, url):
     # checks if the required string is in the url link itself
     if urlString == "main":
