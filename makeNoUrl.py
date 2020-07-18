@@ -30,4 +30,4 @@ for company in companyMainDict:
 
 with open("./missingCompanies/missing.tsv", "w") as out_file:
     for company in missingCompanies:
-        out_file.write(company + "\t" + str({"main_url": ""}) + "\n")
+        out_file.write(company + "\t" + str({"main_url": "", "crunchbase_url": companyMainDict[company]["crunchbase_url"]}) + "\n")
