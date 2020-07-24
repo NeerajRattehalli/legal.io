@@ -34,7 +34,7 @@ class Company:
     """
 
     @staticmethod
-    def verify_url(self, urlString, compName, url):
+    def verify_url(urlString, compName, url):
         # checks if the required string is in the url link itself
         if urlString == "main":
             if (len(url.split("/")) >= 3):
@@ -109,7 +109,7 @@ class Company:
       """
 
     @staticmethod
-    def format_link(self, link):
+    def format_link(link):
         for i in range(0, len(link)):
             if link[i] == "&":
                 return link[7:i]
@@ -120,7 +120,7 @@ class Company:
           """
 
     @staticmethod
-    def check_if_timeout(self, company_socials, to_scrape):
+    def check_if_timeout(company_socials, to_scrape):
         if len(company_socials) == 0 and len(to_scrape) > 0:
             print("too many requests")
             print()
@@ -132,7 +132,7 @@ class Company:
               """
 
     @staticmethod
-    def scrape(self, company_name, to_scrape):
+    def scrape(company_name, to_scrape):
         # initialize blank dictionary of company socials
         company_socials = {}
         # iterate through to_scrape array
@@ -172,7 +172,7 @@ class Company:
               """
 
     @staticmethod
-    def find_tags(self, url):
+    def find_tags(url):
         tags = ["paperwork", "fundraising", "estate", "media", "consulting", "learning", "intelligence", "patent",
                 "software", "budgeting",
                 "analytics", "security", "blockchain", "litigation", "information", "estate", "trusts", "negotiation",
@@ -237,7 +237,7 @@ class Company:
               :param old_tags_string: the string containing the old tags separated by commas
               """
     @staticmethod
-    def applyMatrix(self, old_tags_string):
+    def applyMatrix(old_tags_string):
         transition_matrix = {'Consulting': 'Marketplace', 'Marketplace': 'Marketplace',
                              'Software': 'Document Automation',
                              'E-Signature': 'Document Automation', 'Paperwork': 'Document Automation',
