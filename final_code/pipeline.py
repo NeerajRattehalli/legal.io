@@ -138,7 +138,7 @@ class Company:
         # iterate through to_scrape array
         for i in to_scrape:
             # query google with the search quaery as the company named followed by the name of social
-            search_url = "https://www.google.com/search?q=" + str(company_name) + "+" + url_company_map[i]
+            search_url = "https://www.google.com/search?q=" + str(company_name) + "+" + Company.url_company_map[i]
             # get the html of the webpage using requests library
             webpage = requests.get(search_url).text
             # pass the html of the website to BeautifulSoup constructor
