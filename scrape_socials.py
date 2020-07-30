@@ -24,6 +24,8 @@ linkedin_url = " linkedin_url"
 url_company_map = {twitter_url: twitter, facebook_url: facebook, cruncbase_url: crunchbase, angellist_url: angellist,
                    main_url: main, linkedin_url: linkedin}
 
+class Scraper:
+
 
 def format_link(link):
     for i in range(0, len(link)):
@@ -31,14 +33,14 @@ def format_link(link):
             return link[7:i]
 
 
-def check_if_timeout(company_socials, to_scrape):
+def heck_if_timeout(company_socials, to_scrape):
         if len(company_socials) == 0 and len(to_scrape) > 0:
             print("too many requests")
             print()
             sys.exit(0)
 
-
-def scrape(company_name, to_scrape, line_num):
+@staticmethod
+def scrape(company_name, to_scrape):
     # print(company_name)
     # print(to_scrape)
     # go through the array of socials
