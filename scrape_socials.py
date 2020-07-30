@@ -62,7 +62,7 @@ def scrape(company_name, to_scrape):
             except TypeError:
                 break
             # find first href tag that is a valid url
-    check_if_timeout(company_socials, to_scrape)
+    Scraper.check_if_timeout(company_socials, to_scrape)
     return company_socials
 
 

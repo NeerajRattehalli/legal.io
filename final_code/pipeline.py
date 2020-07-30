@@ -172,7 +172,7 @@ class Company:
               """
 
     @staticmethod
-    def find_tags(url):
+    def find_tags(main_url):
         tags = ["paperwork", "fundraising", "estate", "media", "consulting", "learning", "intelligence", "patent",
                 "software", "budgeting",
                 "analytics", "security", "blockchain", "litigation", "information", "estate", "trusts", "negotiation",
@@ -181,7 +181,7 @@ class Company:
         for i in range(0, len(tags)):
             # make all tags lowercase
             tags[i] = tags[i].strip().lower()
-            if url == "main_url" or main_url == "n/a":
+            if main_url == "main_url" or main_url == "n/a":
                 print("Invalid Url")
                 return None
             if main_url[0:4] != "http":

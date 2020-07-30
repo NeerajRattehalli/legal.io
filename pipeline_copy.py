@@ -172,7 +172,7 @@ class Company:
               """
 
     @staticmethod
-    def find_tags(url):
+    def find_tags(main_url):
         tags = ["paperwork", "fundraising", "estate", "media", "consulting", "learning", "intelligence", "patent",
                 "software", "budgeting",
                 "analytics", "security", "blockchain", "litigation", "information", "estate", "trusts", "negotiation",
@@ -181,16 +181,16 @@ class Company:
         for i in range(0, len(tags)):
             # make all tags lowercase
             tags[i] = tags[i].strip().lower()
-            if url == "main_url" or main_url == "n/a":
+            if main_url == "main_url" or main_url == "n/a":
                 print("Invalid Url n/a")
                 return None
-            if main_url[0:4] != "http":
+            if main_url.strip()[0:4] != "http":
                 main_url = "https://" + str(main_url)
             print(main_url)
             # attempt to get the webpage using requests
             webpage = ""
             try:
-                webpage = requests.get(main_url)
+                webpage = requests.get(main_url,  headers={'User-Agent': 'Mozilla/5.0'})
             # skip the current url if there is an exception
             except Exception as e:
                 # broken url
@@ -201,8 +201,8 @@ class Company:
             # move on to next url if the status code is not a success (200)
             if webpage.status_code != 200 or len(webpage.history) > 1:
                 print(str(main_url) + " bad status code")
-                print("Invalid Ur not 200")
-                return None
+                print(webpage.status_code)
+                return webpage.status_code
             # move on if there is a redirect
             if len(webpage.history) > 0 and "302" in webpage.history[0]:
                 print("redirect")
