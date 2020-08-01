@@ -15,8 +15,6 @@ def write_to_output(file_name, to_write):
         print("Written to " + str(file_name) + " " + str(company_name))
         output_file.close()
 
-
-
 with open('updatedDataCopy.tsv', 'r') as data:
     data_reader = csv.reader(data, delimiter="\t", quotechar='"')
     for row in data_reader:
