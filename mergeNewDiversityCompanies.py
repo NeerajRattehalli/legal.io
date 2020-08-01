@@ -3,7 +3,7 @@ import random
 companyMainDict = {}
 
 # Read Input Data
-with open('./final/finalWithMissingUrlsFilledV5/final.tsv','r') as in_file:
+with open('./final/finalV5-WithMissingUrlsFilled/final.tsv','r') as in_file:
     start = False
     for line in in_file:
         if (start):
@@ -77,7 +77,7 @@ with open('./diversity_data_blanks_final.tsv','r') as in_file:
             compDict = eval(compDict)
             tagDict = eval(tagDict[:-1])
             topTags = ""
-            print(name)
+
             if not isinstance(tagDict, int) and len(tagDict.keys())>3:
                 topTags = " ".join(getTopTags(tagDict))
 
@@ -88,3 +88,38 @@ with open('./diversity_data_blanks_final.tsv','r') as in_file:
         
         start = True
 
+
+# Writing Final Files
+with open('final/finalV6-mergedKristenData/final.csv', 'w') as out_file:
+    out_file.write("name,"+",".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
+    for compName in companyMainDict:
+        line = ""
+        if "," in compName:
+            line = "\"" + compName + "\""
+        else:
+            line = compName
+        for description in companyMainDict[compName]:
+            item = companyMainDict[compName][description]
+            if "\n" in item:
+                item = item[:-1]
+            if "," in item:
+                line += ",\"" + item + "\""
+            else:
+                line += "," + item
+            if item == "":
+                line += "n/a"
+        line += "\n"
+        out_file.write(line)
+
+with open('final/finalV6-mergedKristenData/final.tsv', 'w') as out_file:
+    out_file.write("name\t"+"\t".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
+    for compName in companyMainDict:
+        line = compName
+        for description in companyMainDict[compName]:
+            line += "\t" + companyMainDict[compName][description].replace("\n", "")
+            if companyMainDict[compName][description] == "":
+                line += "n/a"
+
+        line += "\n"
+
+        out_file.write(line)
