@@ -108,6 +108,7 @@ with open('final/finalV6-mergedKristenData/final.csv', 'w') as out_file:
                 line += "," + item
             if item == "":
                 line += "n/a"
+
         line += "\n"
         out_file.write(line)
 
