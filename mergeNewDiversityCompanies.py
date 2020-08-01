@@ -1,3 +1,5 @@
+import random
+
 companyMainDict = {}
 
 # Read Input Data
@@ -48,17 +50,41 @@ with open('./diversity_copy.tsv','r') as in_file:
                                 "tags": tags,
                                 "status": status}
 
+def getTopTags(tagList):
+    returnTags = []
+    for i in range(3):
+        maxTag = random.choice(list(tagList.keys()))
+        maxVal = tagList[maxTag]
+
+        for item in tagList:
+            if tagList[item] > maxVal:
+                maxVal = tagList[maxTag]
+                maxTag = item
+        
+        if maxVal > 0:
+            returnTags.append(maxTag)
+            del tagList[maxTag]
+
+    return returnTags
+            
+
 with open('./diversity_data_blanks_final.tsv','r') as in_file:
     start = False
 
     for line in in_file:
         if start:
-            print(line.split("\t"))
             name, compDict, tagDict = line.split("\t")
             compDict = eval(compDict)
+            tagDict = eval(tagDict[:-1])
+            topTags = ""
+            print(name)
+            if not isinstance(tagDict, int) and len(tagDict.keys())>3:
+                topTags = " ".join(getTopTags(tagDict))
 
             for item in compDict:
                 companyMainDict[name][item] = compDict[item]
+            
+            companyMainDict[name]["tags"] = topTags
         
         start = True
 
