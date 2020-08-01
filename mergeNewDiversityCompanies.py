@@ -88,4 +88,3 @@ with open('./diversity_data_blanks_final.tsv','r') as in_file:
         
         start = True
 
-print(len(companyMainDict))
