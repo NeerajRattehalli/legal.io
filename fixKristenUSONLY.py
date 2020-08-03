@@ -78,9 +78,9 @@ with open('USONLYFINAL/finalV1/USOnly.csv', 'w') as out_file:
             if "\n" in item:
                 item = item[:-1]
             if "," in item:
-                line += ",\"" + item + "\""
+                line += "\"" + item + "\","
             else:
-                line += "," + item
+                line += item + "," 
             if item == "":
                 line += "n/a"
         line += "\n"

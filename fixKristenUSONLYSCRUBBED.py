@@ -69,7 +69,7 @@ with open('USONLYSCRUBBED/Data 7_20_20 - Diversity Working Copy - US Only Scrubb
                                     "status": status}
 
 # Writing Final Files
-with open('USONLYSCRUBBEDFINAL/finalV1/USOnly.csv', 'w') as out_file:
+with open('USONLYSCRUBBEDFINAL/finalV1/USOnlyScrubbed.csv', 'w') as out_file:
     out_file.write(",".join(list(finalCompDict['AfterIGo'].keys()))+"\n")
     for compName in finalCompDict:
         line = ""
@@ -78,23 +78,26 @@ with open('USONLYSCRUBBEDFINAL/finalV1/USOnly.csv', 'w') as out_file:
             if "\n" in item:
                 item = item[:-1]
             if "," in item:
-                line += ",\"" + item + "\""
+                line += "\"" + item + "\","
             else:
-                line += "," + item
+                line += item + "," 
             if item == "":
                 line += "n/a"
         line += "\n"
         out_file.write(line)
 
-with open('USONLYSCRUBBEDFINAL/finalV1/USOnly.tsv', 'w') as out_file:
+with open('USONLYSCRUBBEDFINAL/finalV1/USOnlyScrubbed.tsv', 'w') as out_file:
     out_file.write("\t".join(list(finalCompDict['AfterIGo'].keys()))+"\n")
     for compName in finalCompDict:
         line = ""
         for description in finalCompDict[compName]:
-            line += finalCompDict[compName][description].replace("\n", "") + "\t" 
+            line += finalCompDict[compName][description].replace("\n", "").replace("\t", "") + "\t" 
+            
             if finalCompDict[compName][description] == "":
                 line += "n/a"
-
+            if compName == "Aggregate Law":
+                print(line)
+                
         line += "\n"
 
         out_file.write(line)
