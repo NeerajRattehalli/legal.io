@@ -1,4 +1,3 @@
-
 # Authors: Neel Kandlikar and Neeraj Rattehalli
 
 from bs4 import BeautifulSoup
@@ -144,7 +143,7 @@ class Company:
             # pass the html of the website to BeautifulSoup constructor
             soup = BeautifulSoup(webpage, "html.parser")
             # find a specific div within the html that contains the url to the first result
-            result_div = soup.find_all('div', attrs={'class': 'ZINbbc'})
+            result_div = soup.find_all('div', attrs={'class': 'TbwUpd'})
             # find all a tags with an href
             for j in range(0, result_div.__len__()):
                 # find a tag within div
