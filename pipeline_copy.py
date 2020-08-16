@@ -1,4 +1,3 @@
-
 # Authors: Neel Kandlikar and Neeraj Rattehalli
 
 from bs4 import BeautifulSoup
