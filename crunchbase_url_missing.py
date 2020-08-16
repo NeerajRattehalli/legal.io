@@ -1,4 +1,5 @@
 
+
 # Authors: Neel Kandlikar and Neeraj Rattehalli
 
 from bs4 import BeautifulSoup
@@ -6,7 +7,15 @@ from urllib.parse import unquote
 import csv, requests, re, sys
 
 
-class Company:
+
+# Authors: Neel Kandlikar and Neeraj Rattehalli
+
+from bs4 import BeautifulSoup
+from urllib.parse import unquote
+import csv, requests, re, sys
+
+
+class Company_new:
     everything = "everything"
     twitter = "twitter"
     facebook = "facebook"
@@ -43,7 +52,7 @@ class Company:
             return False
         # lowercase url
         url = url.lower()
-        # Case 1: Company Name has no spaces
+        # Case 1: Company_new Name has no spaces
         if " " not in compName:
             if "." in compName:
                 # Splits companies names
@@ -135,39 +144,29 @@ class Company:
     def scrape(company_name, to_scrape):
         # initialize blank dictionary of company socials
         company_socials = {}
+        crunchbase_urls =[]
         # iterate through to_scrape array
         for i in to_scrape:
             # query google with the search quaery as the company named followed by the name of social
-            search_url = "https://www.google.com/search?q=" + str(company_name) + "+" + Company.url_company_map[i]
+            search_url = "https://www.google.com/search?q=" + str(company_name) + "+" + Company_new.url_company_map[i]
             # get the html of the webpage using requests library
             webpage = requests.get(search_url).text
             # pass the html of the website to BeautifulSoup constructor
             soup = BeautifulSoup(webpage, "html.parser")
-            print(soup)
             # find a specific div within the html that contains the url to the first result
-            result_div = soup.find_all("div",attrs={'class': 'ZINbbc'})
+            result_div = soup.find_all("div",attrs={'class': 'kCrYT'})
             # result_div = soup.find_all('div', attrs={'class': 'ZINbbc'})
             # print(result_div)
             # find all a tags with an href
             for j in range(0, result_div.__len__()):
                 # find a tag within div
-                a_tag = result_div[j].find('a', href=True)
+                a_tags = result_div[j].find_all('a', href=True)
                 # set default value to 0, will be replaced later  if url is found
-                company_socials[i] = "0"
-                try:
-                    # try to find an a tag within the href
-                    href = a_tag['href']
-                    # check to see if url is found
-                    if (href.startswith("/url?q=")):
-                        # format link and add to dictionary
-                        valid_link = unquote(Company.format_link(href))
-                        company_socials[i] = " " + str(valid_link)
-                        break
-                except TypeError:
-                    break
-        # check if there was a timeout due to too many requests within a given period of time
-        Company.check_if_timeout(company_socials, to_scrape)
-        return company_socials
+                for a in a_tags:
+                    crunchbase_urls.append(unquote(Company.format_link(a['href'])))
+                    if(len(crunchbase_urls) >=3):
+                        return crunchbase_urls
+        return crunchbase_urls
 
     """finds and records the number of occurrences of a specific list of keywords within a webpage
               :param path_to_tags_file: path to the file containing the keywords to look for
@@ -261,7 +260,7 @@ class Company:
 
 
 
-    """creates a Company object, finds and verifies social media urls and finds company category or categories
+    """creates a Company_new object, finds and verifies social media urls and finds company category or categories
               :param row_as_string: the current information for the company with the following information in the follwoing order: 
               name,date,hq,category,audience,model,description,main_url,twitter_url,angellist_url,crunchbase_url,linkedin_url,facebook_url,tags,status
               :param delimiter: the character by which the above values are separated by
@@ -286,8 +285,25 @@ class Company:
         socials = ["main", "twitter", "angellist", "crunchbase", "linkedin", "facebook"]
         to_scrape = []
         for i in range(0, 7):
-            if not Company.verify_url(row[i + 7]):
+            if not Company_new.verify_url(row[i + 7]):
                 to_scrape.append(socials[i])
-            Company.scrape(self.name, to_scrape)
+            Company_new.scrape(self.name, to_scrape)
             if self.tags == "" or self.tags == "n/a":
-                self.tags = Company.applyMatrix(Company.find_tags(self.main_url))
+                self.tags = Company_new.applyMatrix(Company_new.find_tags(self.main_url))
+
+
+
+from final_code.pipeline import Company
+
+to_scrape= [' crunchbase_url']
+with open("final/ManualFinalV2/8-14-20-final.csv", "r") as in_file:
+    csv_reader = csv.reader(in_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    for row in csv_reader:
+        if row[10] == "n/a":
+            crunchbase_urls = Company_new.scrape(row[0], to_scrape)
+            with open("missing_crunchbase_urls.csv", 'a') as out_file:
+                csv_writer = csv.writer(out_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+                csv_writer.writerow([row[0], crunchbase_urls])
+                print("Wrote " + row[0])
+
+

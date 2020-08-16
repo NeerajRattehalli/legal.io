@@ -90,7 +90,7 @@ with open('./diversity_data_blanks_final.tsv','r') as in_file:
 
 
 # Writing Final Files
-with open('final/finalV6-mergedKristenData/final.csv', 'w') as out_file:
+with open('final/finalV6-mergedKristenData/8-14-20-final.csv', 'w') as out_file:
     out_file.write("name,"+",".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
     for compName in companyMainDict:
         line = ""

@@ -210,7 +210,7 @@ with open("top_tags.tsv", "r") as in_file:
             newTags.append(compName)
             compDict[compName]["tags"] = stringTags(tags)
 
-with open('final.csv', 'w') as out_file:
+with open('8-14-20-final.csv', 'w') as out_file:
     out_file.write("name,"+",".join(list(compDict['Correa Porto'].keys()))+"\n")
     for compName in compDict:
         line = ""

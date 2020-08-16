@@ -23,7 +23,7 @@ indian_states = ["Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhat
                  "Andaman and Nicobar Islands", "Chandigarh", "Dadra and Nagar Haveli", "Daman and Diu", "Delhi",
                  "Lakshadweep", "Puducherry"]
 years_to_check = ["1982", "1989", "1996", "1929", "1993", "1983", "1874", "1990", "`1980", "1952"]
-with open("final.csv", "r") as in_file:
+with open("8-14-20-final.csv", "r") as in_file:
     csv_reader = csv.reader(in_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     for row in csv_reader:
         if row == 0:

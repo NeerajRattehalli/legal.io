@@ -39,7 +39,7 @@ with open("Updates.tsv", "r") as in_file:
 
 # Update files
 
-with open('final/finalV7-MergedTableUpdates/final.csv', 'w') as out_file:
+with open('final/finalV7-MergedTableUpdates/8-14-20-final.csv', 'w') as out_file:
     out_file.write("name,"+",".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
     for compName in companyMainDict:
         line = ""

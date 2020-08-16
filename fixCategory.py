@@ -29,7 +29,7 @@ for company in companyMainDict:
 
 
 # Writing Final Files
-with open('final/finalWithModifiedCategory/final.csv', 'w') as out_file:
+with open('final/finalWithModifiedCategory/8-14-20-final.csv', 'w') as out_file:
     out_file.write("name,"+",".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
     for compName in companyMainDict:
         line = ""
