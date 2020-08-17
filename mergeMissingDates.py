@@ -37,7 +37,7 @@ def getBestDate(dates):
             cond = (maxDateCount - prevCount) > 3
     
     if cond:
-        return maxDateCount
+        return maxDate
     else:
         return ""
 
@@ -50,7 +50,6 @@ with open('company_founding_date.csv', 'r') as in_file:
                 if "\"" in company:
                     company = company[1:-1]
                 company = eval(company)[0]
-                print(company)
                 dateDict = eval(dateDict[:-2])
                 bestDate = getBestDate(dateDict)
                 companyMainDict[company]["date"] = bestDate
@@ -62,4 +61,43 @@ with open('company_founding_date.csv', 'r') as in_file:
                 companyMainDict[company]["date"] = bestDate
         except:
             continue
+
+
+
+# Update files
+
+with open('final/finalV8-AddedMissingDates/final.csv', 'w') as out_file:
+    out_file.write("name,"+",".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
+    for compName in companyMainDict:
+        line = ""
+        if "," in compName:
+            line = "\"" + compName + "\""
+        else:
+            line = compName
+        print(compName)
+        for description in companyMainDict[compName]:
+            item = str(companyMainDict[compName][description])
+            if "\n" in item:
+                item = item[:-1]
+            if "," in item:
+                line += ",\"" + item + "\""
+            else:
+                line += "," + item
+            if item == "":
+                line += "n/a"
+        line += "\n"
+        out_file.write(line)
+
+with open('final/finalV8-AddedMissingDates/final.tsv', 'w') as out_file:
+    out_file.write("name\t"+"\t".join(list(companyMainDict['Correa Porto'].keys()))+"\n")
+    for compName in companyMainDict:
+        line = compName
+        for description in companyMainDict[compName]:
+            line += "\t" + str(companyMainDict[compName][description])
+            if companyMainDict[compName][description] == "":
+                line += "n/a"
+        if "\n" in line:
+            line = line[:-1]
+        line += "\n"
+        out_file.write(line)
 
