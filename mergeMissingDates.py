@@ -60,6 +60,7 @@ with open('company_founding_date.csv', 'r') as in_file:
                 bestDate = getBestDate(dateDict)
                 companyMainDict[company]["date"] = bestDate
         except:
+
             continue
 
 
@@ -74,7 +75,6 @@ with open('final/finalV8-AddedMissingDates/final.csv', 'w') as out_file:
             line = "\"" + compName + "\""
         else:
             line = compName
-        print(compName)
         for description in companyMainDict[compName]:
             item = str(companyMainDict[compName][description])
             if "\n" in item:
@@ -101,3 +101,7 @@ with open('final/finalV8-AddedMissingDates/final.tsv', 'w') as out_file:
         line += "\n"
         out_file.write(line)
 
+with open('davidManualDateCheck.tsv', 'w') as out_file:
+    for compName in companyMainDict:
+        if companyMainDict[compName]["date"] == "":
+            out_file.write(compName + "\t" + "{'date': \"\"}" + "\n")
