@@ -301,8 +301,8 @@ with open("final/ManualFinalV2/8-14-20-final.csv", "r") as in_file:
     for row in csv_reader:
         if row[10] == "n/a":
             crunchbase_urls = Company_new.scrape(row[0], to_scrape)
-            with open("missing_crunchbase_urls.csv", 'a') as out_file:
-                csv_writer = csv.writer(out_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            with open("output_files/missing_crunchbase_urls.tsv", 'a') as out_file:
+                csv_writer = csv.writer(out_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
                 csv_writer.writerow([row[0], crunchbase_urls])
                 print("Wrote " + row[0])
 
