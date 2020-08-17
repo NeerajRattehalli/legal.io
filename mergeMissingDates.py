@@ -104,4 +104,7 @@ with open('final/finalV8-AddedMissingDates/final.tsv', 'w') as out_file:
 with open('davidManualDateCheck.tsv', 'w') as out_file:
     for compName in companyMainDict:
         if companyMainDict[compName]["date"] == "":
-            out_file.write(compName + "\t" + "{'date': \"\"}" + "\n")
+            returnDict = {}
+            returnDict["date"] = ""
+            returnDict["crunchbase_url"] = companyMainDict[compName]["crunchbase_url"]
+            out_file.write(compName + "\t" + str(returnDict) + "\n")
