@@ -1,4 +1,4 @@
-#Authors: Neel Kandlikar and Neeraj Rattehalli
+# Authors: Neel Kandlikar and Neeraj Rattehalli
 
 import csv, ast, collections
 
@@ -35,44 +35,46 @@ class ResearchPipeline:
        :param path_to_formatted_csv: the path to the csv with all of the compiled data and the headers 
        "name,date,hq,category,audience,model,description,main_url,twitter_url,angellist_url,crunchbase_url,linkedin_url,
        facebook_url,tags,status" all in order
-       
+
        :returns an array of CompanyType objects, each containing the name of the CompanyType, the total numbber of links for the
                 company type and the determined success rating for the company type
        """
 
     @staticmethod
-    def company_type_success_correlation(path_to_formatted_csv):
+    def company_type_success_correlation(path_to_formatted_csv, delimiter):
         # initialize empty array of company types
-        company_types = []
+        company_types = {}
 
         # define inner class "CompanyType" with the name of the company type, the total number of links for the company type, and the total number of times that company type occured
         class CompanyType:
-            def __init__(self, type, founding_year, status):
+            def __init__(self, type):
                 self.type = type
-                self.founding_year = links
-                self.status = status
+                self.occurrences = 0
                 self.success_rating = -1
+                self.score_sum = 0
 
             def __str__(self):
-                return "name: " + str(self.type) + " occurences: " + str(self.occurences) + " links " + str(
-                    self.links) + " success rating " + str(self.success_rating)
+                # return "name: " + str(self.type) + " occurences: " + str(self.occurrences) + " score " + str(
+                #     self.score_sum) + " success rating " + str(self.success_rating)
+                return (str(self.type) + "," +   str(self.occurrences) + ","  +  str(self.score_sum) + "," +  str(self.success_rating))
 
-            # update the success rating, determined by the number of social media links
-            def update_success_rating(self):
-                self.success_rating = self.links / self.occurences
-
-            def success(self, foundingYear, status):
+            @staticmethod
+            def success(foundingYear, status):
                 if status.lower() == "inactive":
                     return 0
                 elif status.lower() == "active":
-                    return 2020 - foundingYear
+                    return 2020 - int(foundingYear[0:4])
                 elif status.lower() == "acquired":
-                    return (2020 - foundingYear) * 0.75
+                    return (2020 - int(foundingYear[0:4])) * 0.75
                 else:
                     return 0
 
+            # update the success rating, determined by the number of social media links
+            def update_success_rating(self):
+                self.success_rating = self.score_sum / self.occurrences
+
         with open(path_to_formatted_csv, "r") as in_file:
-            csv_reader = csv.reader(in_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            csv_reader = csv.reader(in_file, delimiter=delimiter, quotechar='"', quoting=csv.QUOTE_MINIMAL)
             for row in csv_reader:
                 # skip missing data
                 if (row == 0):
@@ -86,148 +88,98 @@ class ResearchPipeline:
                 if fixed_row == "E":
                     fixed_row = "E-Discovery"
                 # obtain links
-                links = [row[8], row[9], row[10], row[11], row[12]]
-                valid_links = len(links)
-                # count how many valid links per company
-                for link in links:
-                    if link == "n/a":
-                        valid_links = valid_links - 1
-                # if the array is empty initialize a new CompanyType object and append it to the array
-                if (len(company_types) == 0):
-                    company_types.append(CompanyType(fixed_row, 1, valid_links))
-                    # update success rating
-                    company_types[0].update_success_rating()
-                # iterate through and update the company types array as more links and occurences of a particular company type are found
-                for i in range(0, len(company_types)):
-                    company = company_types[i]
-                    if (company.type == fixed_row):
-                        company.occurences = company.occurences + 1
-                        company.links = company.links + valid_links
-                        company.update_success_rating()
-                        break
-                    if (i == len(company_types) - 1):
-                        company_types.append(CompanyType(fixed_row, valid_links, 1))
-                        company.update_success_rating()
+                status = row[14].lower()
+                founding_date = row[1]
+                if status == "n/a" or founding_date == "n/a":
+                    continue
+                company_type = row[3].strip().lower()
 
-        return company_types
+                if company_type not in company_types:
+                    company_types[company_type] = CompanyType(company_type)
+                company_types[company_type].score_sum = company_types[company_type].score_sum + CompanyType.success(founding_date, status)
+                company_types[company_type].occurrences = company_types[company_type].occurrences + 1
+                company_types[company_type].update_success_rating()
+
+            return company_types
+
+                # count how many valid links per company
+
+
 
     """finds the most commmon company types according to pre-determined tags
        :param path_to_formatted_csv: the path to the csv with all of the compiled data and the headers 
        "name,date,hq,category,audience,model,description,main_url,twitter_url,angellist_url,crunchbase_url,linkedin_url,
        facebook_url,tags,status" all in order
-       
+
        :returns: a dictionary with the various company types as the keys and the number of occurrences as values
        """
 
     @staticmethod
-    def most_common_company_types(path_to_final_csv):
-
-        # initialize compDict
-        compDict = {}
-        with open(path_to_final_csv) as in_file:
-            for line in in_file:
-                # store the tags for each company in a dictionary
-                company = line.split(",")[0]
-                tagDict = eval(line.split("\"")[13])
-                compDict[company] = tagDict
-
-        def getMax(tags):
-            # get tag with the maximum occurrences
-            tagCopy = tags.copy()
-            bestTag, maxVal = tagCopy.popitem()
-            for tag in tagCopy:
-                if tagCopy[tag] > maxVal:
-                    maxVal = tagCopy[tag]
-                    bestTag = tag
-            return (bestTag, maxVal)
-
-        def getTop3Tag(tags):
-            # get top 3 tags with the maximum occurrences
-            tagCopy = tags.copy()
-            bestList = []
-            for i in range(3):
-                bestTag, val = getMax(tagCopy)
-                bestList.append([bestTag, val])
-                print(tagCopy)
-                del tagCopy[bestTag]
-                print("here", bestList)
-            return bestList
-
-        top3TagDict = {}
-        for company in compDict:
-            top3TagDict[company] = getTop3Tag(compDict[company])
-
-        # populate dictionary
-        for company in top3TagDict:
-            tags = top3TagDict[company][:]
-            for tagPair in top3TagDict[company]:
-                # remove tags that do not occur at all
-                if tagPair[1] == 0:
-                    tags.remove(tagPair)
-                top3TagDict[company] = tags
-
-        with open("top_tags.tsv", "w") as out_file:
-            for company in top3TagDict:
-                out_file.write(company + "\t" + str(top3TagDict[company]) + "\n")
-
-        company_types = {}
-
-        # read from csv and return the dictionary of top tags
-        with open("top_tags.tsv", "r") as in_file:
-            csv_reader = csv.reader(in_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    def most_common_company_types(path_to_final_csv, delimiter):
+        type_count_dict = {}
+        with open(path_to_final_csv, "r") as in_file:
+            csv_reader = csv.reader(in_file,  delimiter=delimiter, quotechar='"', quoting=csv.QUOTE_MINIMAL)
             for row in csv_reader:
-                arr = ast.literal_eval(row[1])
-                counts = []
-                for i in range(0, len(arr)):
-                    sub_arr = arr[i]
-                    count = sub_arr[1]
-                    counts.append(count)
-                    if (len(counts) > 0 and count < counts[0]):
-                        for j in range(0, i):
-                            company_type = arr[j][0]
-                            if company_type in company_types:
-                                company_types[company_type] = company_types[company_type] + 1
-                            else:
-                                company_types[company_type] = 1
-        return company_types
+                    continue
+                comp_type = row[3].strip().lower()
+                if comp_type == "n/a":
+                    continue
+                if comp_type not in type_count_dict:
+                    type_count_dict[comp_type] = 0
+                type_count_dict[comp_type] = type_count_dict[comp_type] + 1
+            return type_count_dict
 
     """finds the location distribution of companies
            :param path_to_formatted_csv: the path to the csv with all of the compiled data and the headers 
            "name,date,hq,category,audience,model,description,main_url,twitter_url,angellist_url,crunchbase_url,linkedin_url,
            facebook_url,tags,status" all in order
-           
+
            :returns: an array with the number companies in each country
            """
 
     @staticmethod
-    def success_location_correlation(path_to_formatted_csv):
+    def success_location_correlation(path_to_formatted_csv, delimiter):
 
-        #initialize array of links
-        country_links = []
+        countries = {}
 
-        #create inner helper class that stores the name, occurrences and number of links for a particular country
+        # create inner helper class that stores the name, occurrences and number of links for a particular country
         class Country:
-            def __init__(self, name, occurrences, links):
+            def __init__(self, name):
                 self.name = name
-                self.occurences = occurrences
-                self.links = links
-                self.success_rating = links / occurrences
+                self.occurrences = 0
+                self.score_sum = 0
+                self.success_rating = 0
 
             def __str__(self):
-                return "name: " + str(self.name) + " occurences: " + str(self.occurences) + " links " + str(
-                    self.links) + " success rating " + str(self.success_rating)
+                return  str(self.name) + "," + str(self.occurrences) + "," + str(
+                    self.score_sum) + "," + str(self.success_rating)
+
+            @staticmethod
+            def success(foundingYear, status):
+                if status.lower() == "inactive":
+                    return 0
+                elif status.lower() == "active":
+                    return 2020 - int(foundingYear[0:4])
+                elif status.lower() == "acquired":
+                    return (2020 - int(foundingYear[0:4])) * 0.75
+                else:
+                    return 0
 
             def update_success_rating(self):
-                self.success_rating = self.links / self.occurences
+                self.success_rating = self.score_sum / self.occurrences
 
         with open(path_to_formatted_csv, "r") as in_file:
-            csv_reader = csv.reader(in_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            csv_reader = csv.reader(in_file, delimiter=delimiter, quotechar='"', quoting=csv.QUOTE_MINIMAL)
             for row in csv_reader:
                 if row == 0:
                     continue
                 location = row[2]
+                status = row[14].lower()
+                founding_date = row[1]
+                if status == "n/a" or founding_date == "n/a":
+                    continue
 
-                #format the country name
+                # format the country name
                 trimmed_location = ""
                 rev_location = ''.join(reversed(location))
                 if "," not in location:
@@ -271,57 +223,40 @@ class ResearchPipeline:
                 elif (trimmed_location == "CA and the world"):
                     trimmed_location = "USA"
 
-                #store links for a particular company in an array
-                links = [row[8], row[9], row[10], row[11], row[12]]
+                if trimmed_location not in countries:
+                    countries[trimmed_location] =  Country(trimmed_location)
+                countries[trimmed_location].occurrences =  countries[trimmed_location].occurrences + 1
+                countries[trimmed_location].score_sum = countries[trimmed_location].score_sum + Country.success(founding_date, status)
+                countries[trimmed_location].update_success_rating()
 
-                #check if links are broken
-                valid_links = len(links)
-                for link in links:
-                    if link == "n/a":
-                        valid_links = valid_links - 1
-                print(trimmed_location + " " + str(valid_links))
-                #update aray with new data
-                if (len(country_links) == 0):
-                    country_links.append(Country(trimmed_location, 1, valid_links))
-                    country_links[0].update_success_rating()
-                for i in range(0, len(country_links)):
-                    country = country_links[i]
-                    if (country.name == trimmed_location):
-                        country.occurences = country.occurences + 1
-                        country.links = country.links + valid_links
-                        country.update_success_rating()
-                        break
-                    if (i == len(country_links) - 1):
-                        country_links.append(Country(trimmed_location, 1, valid_links))
-                        country.update_success_rating()
-                #return the data
-                arr = []
-                for country in country_links:
-                    arr.append([country.name, country.occurences, country.links, country.success_rating])
-                return arr
+            print(countries)
+            return countries
+
+
+
 
     """finds the number of companies founded per year and per country, essentially creating a timeline of when companies were founded 
                :param path_to_formatted_csv: the path to the csv with all of the compiled data and the headers 
                "name,date,hq,category,audience,model,description,main_url,twitter_url,angellist_url,crunchbase_url,linkedin_url,
                facebook_url,tags,status" all in order
-               
+
                :param current_year: the current year
 
                :returns: an array with the number of companies founded each year and in each country
                """
 
     @staticmethod
-    def companies_founded_by_year(path_to_formatted_csv, current_year):
-        #initialize an empty dictionary
+    def companies_founded_by_year(path_to_formatted_csv, current_year, delimiter):
+        # initialize an empty dictionary
         year_data = {}
         with open(path_to_formatted_csv, "r") as in_file:
-            csv_reader = csv.reader(in_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            csv_reader = csv.reader(in_file, delimiter=delimiter, quotechar='"', quoting=csv.QUOTE_MINIMAL)
             for row in csv_reader:
                 if row == 0:
                     continue
                 founding_year = row[1]
                 location = row[2]
-                #correct location name and check for errors in data
+                # correct location name and check for errors in data
                 trimmed_location = ""
                 rev_location = ''.join(reversed(location))
                 if (rev_location == "a/n" or founding_year == "n/a"):
@@ -366,7 +301,7 @@ class ResearchPipeline:
                 elif (trimmed_location == "Sydney"):
                     trimmed_location = "Australia"
 
-                #check to see if values are in dictionary, if so update values, else create new key with value 1
+                # check to see if values are in dictionary, if so update values, else create new key with value 1
                 if founding_year not in year_data:
                     year_data[founding_year] = {}
                     year_data[founding_year][trimmed_location] = 1
@@ -376,12 +311,14 @@ class ResearchPipeline:
                     continue
                 year_data[founding_year][trimmed_location] = year_data[founding_year][trimmed_location] + 1
 
-            #convert to ordered dict to sort dictionary chronologically
+            # convert to ordered dict to sort dictionary chronologically
             ordered_year_data = collections.OrderedDict(
                 sorted(collections.OrderedDict(year_data).items(), key=lambda key_value: key_value[0]))
 
-            #return the data
+            # return the data
             arr = []
             for key in ordered_year_data:
-                arr.append(([(str(key) + "\t" + str(ordered_year_data[key]))]))
+                arr.append(([(str(key) + " " + str(ordered_year_data[key]))]))
             return arr
+
+

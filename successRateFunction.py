@@ -7,3 +7,4 @@ def success(foundingYear, status):
         return (2020-foundingYear) * 0.75
     else:
         return 0
+
