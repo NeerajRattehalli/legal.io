@@ -1,8 +1,6 @@
 import csv
 import collections
 
-
-
 with open("final/ManualFinalV4/final.tsv") as in_file:
     reader = csv.reader(in_file, delimiter = "\t", quotechar = '"', quoting = csv.QUOTE_MINIMAL)
     category_by_year = {}
