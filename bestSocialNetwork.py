@@ -20,6 +20,7 @@ with open("final/ManualFinalV4/final.tsv") as in_file:
             if "n/a" not in url:
                 socials[social] += 1
         
+with open("output_files/new_research_questions/most_prominent_socials.csv", "w") as out_file:
+    for social in socials:
+        out_file.write(social + ", " + str(socials[social]) + "\n")
 
-print(socials)
-        
