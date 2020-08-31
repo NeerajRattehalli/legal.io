@@ -19,7 +19,7 @@ with open("final/ManualFinalV4/final.tsv") as in_file:
             status_dict_by_location[location][status] += 1
 
 
-with open("output_files/new_research_questions/companies_by_status_by_location.csv", "w") as out_file:
+with open("output_files/new_research_questions/companies_by_status_by_location.tsv", "w") as out_file:
     out_file.write("category, acquired, active, inactive\n")
     for category in status_dict_by_location:
         try:
@@ -37,5 +37,5 @@ with open("output_files/new_research_questions/companies_by_status_by_location.c
         except:
             inactive = str(0)
 
-        out_file.write(category + ", " + acquired + "," + active + "," + inactive + "\n")
+        out_file.write(category + "\t" + acquired + "\t" + active + "\t" + inactive + "\n")
 

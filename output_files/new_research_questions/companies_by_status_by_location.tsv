@@ -1,0 +1,803 @@
+category, acquired, active, inactive
+hq	0	0	0
+Toronto, ON, Canada	1	19	6
+San Francisco, CA, USA	2	26	8
+New York, NY, USA	3	28	15
+Houston, TX, USA	0	1	1
+Los Angeles, CA, USA	3	6	1
+Sunnyvale, CA, USA	0	0	2
+Barcelona, Spain	0	2	1
+Raleigh, NC, USA	0	2	0
+Atlanta, GA, USA	0	2	1
+Dallas, TX, USA	0	3	1
+Palmerston, NT	0	1	0
+Mountain View, California, United States	0	3	0
+San Diego, CA, USA	0	3	0
+Seattle, Washington, United States	1	5	1
+Bogotá, Distrito Especial, Colombia	0	3	0
+Chicago, IL, USA	1	9	4
+San Francisco, California, United States	1	36	7
+London, UK	1	11	0
+Brookline, Massachusetts, United States	0	1	0
+Tomsk, Russia	0	0	1
+Paris, Ile-de-France, France	0	17	1
+Berkeley, CA	0	1	0
+Woodside, CA, USA	0	1	0
+Scottsdale, AZ, USA	0	1	1
+Brooklyn, New York, United States	0	7	1
+Austin, Texas, United States	0	6	2
+London, England, United Kingdom	2	35	6
+New York, New York, United States	1	40	11
+Durham, North Carolina, United States	0	3	0
+n/a	1	75	8
+Seattle, WA, USA	0	1	1
+Menlo Park, CA, USA	0	1	0
+Vancouver, BC, Canada	1	3	0
+Boulder, CO, USA	0	2	2
+Los Angeles, California, United States	2	10	7
+Buffalo, New York, United States	0	1	0
+Mexico City, Mexico	0	3	0
+Nashville, TN, USA	0	1	0
+Palo Alto, CA, USA	1	8	0
+North Brunswick, NJ, USA	0	1	0
+Berkeley, CA, USA	0	2	1
+Tel Aviv-yafo, Tel Aviv, Israel	0	3	1
+Toronto, Ontario, Canada	1	21	2
+New City, New York, United States	0	2	0
+Prague, Czech Republic	1	0	0
+Copenhagen, Denmark	0	2	0
+Las Vegas, NV, USA	0	0	2
+Baltimore, MD, USA	1	1	1
+Salt Lake City	0	0	1
+Oslo, Norway	0	2	0
+Boston, MA, USA	0	2	1
+Spokane, WA, USA	0	2	0
+Santiago, Chile	0	4	1
+Wellington	0	0	1
+Gainesville, FL, USA	0	1	0
+Philadelphia, PA, USA	0	1	2
+Melbourne, Australia	1	3	1
+Damansara, Selangor, Malaysia	0	1	0
+Stamford, CT, USA	1	0	0
+Irvine	0	1	0
+Kiev, Ukraine	0	1	0
+Jersey City	0	0	1
+Mumbai	0	0	1
+Washington, DC, USA	0	2	1
+Long Beach, CA, USA	0	1	0
+Swansea	0	1	0
+New Delhi, India	0	2	1
+Saint Louis	0	0	1
+Columbia, MD, USA	0	1	0
+Brisbane, Australia	0	0	1
+Belgrade, Serbia	0	0	1
+Lindon, UT, USA	0	1	0
+Pompano Beach	1	0	0
+Denver, CO, USA	0	2	0
+Edmonton	0	0	1
+Cleveland, OH, USA	0	1	1
+Bangalore, India	0	1	0
+Hong Kong	0	1	1
+Lexington-fayette	0	0	1
+Bangkok, Thailand	0	0	1
+Minneapolis	0	0	1
+Tallinn	0	0	1
+No location yet	1	8	2
+Sofia, Bulgaria	0	3	0
+St. Louis, MO, USA	0	1	0
+Copenhagen, Hovedstaden, Denmark	0	4	0
+Sao Paulo, Brazil	0	1	1
+Miami Beach, FL, USA	0	1	0
+Palm Beach, Florida, United States	0	1	0
+West Palm Beach	0	0	1
+Eugene, Oregon, United States	0	0	1
+Glenside, PA	0	1	0
+United States	0	1	2
+Tel Aviv, Israel	0	4	0
+New Orleans, LA, USA	1	0	1
+Easton, CT, USA	0	1	0
+Hermosa Beach, California, United States	0	1	0
+Lisbon, Spain	0	1	0
+Birmingham, AL	0	0	1
+East Brunswick	0	0	2
+Buenos Aires, Brazil	0	2	0
+Dublin	0	0	1
+San Diego, California, United States	0	3	1
+Glendale, California, United States	0	2	0
+Menlo Park, California, United States	0	2	0
+Barcelona, Catalonia, Spain	0	7	1
+Palo Alto, California, United States	0	5	2
+Boston, Massachusetts, United States	1	9	3
+Cambridge, MA	0	1	1
+New Jersey	0	0	1
+Berlin, Berlin, Germany	0	15	2
+Jerusalem, Yerushalayim, Israel	0	0	1
+São Paulo, Sao Paulo, Brazil	0	14	1
+Chattanooga, Tennessee, United States	0	0	1
+Sofia, Grad Sofiya, Bulgaria	0	3	0
+Atlanta, Georgia, United States	0	11	1
+Bend, Oregon, United States	0	1	0
+Lima, Lima, Peru	0	1	0
+Goleta, California, United States	0	2	0
+Philadelphia, Pennsylvania, United States	0	3	1
+Colombus, OH, USA	1	1	0
+Irving	0	1	0
+Bedford, United Kingdom	0	0	1
+Pittsburgh	0	1	1
+Redwood City, CA, USA	0	0	1
+Newark, CA, USA	0	0	1
+Sacramento	0	0	1
+Europe	0	0	1
+Israel	0	0	1
+Rome, Italy	0	1	0
+Santa Monica, California, United States	1	1	1
+Indianapolis	0	1	0
+Cape Town, South Africa	0	2	0
+Las Vegas, Nevada, United States	0	4	0
+Santa Ana, CA, USA	0	1	0
+Los Gatos, CA, USA	0	1	0
+Aurora, Illinois, United States	0	0	1
+Champaign, IL, USA	1	0	0
+Boca Raton, FL, USA	0	1	0
+Studio City	1	0	0
+San Francisco, CA	2	10	1
+Andover, Massachusetts, United States	1	0	0
+Chicago, Illinois, United States	0	17	4
+Alpharetta, GA, USA	0	1	0
+Tempe, Arizona, United States	0	0	1
+Coppell, TX, USA	1	0	0
+Madrid, Spain	0	1	1
+Phoenix, AZ, USA	0	1	0
+Lubbock	0	0	1
+Santa Clara, CA, USA	0	1	0
+Helsingborg	0	1	0
+Austin, TX, USA	0	2	3
+Chennai, India	0	0	1
+Dublin, Ireland	1	2	0
+Singapore	0	8	2
+Indianapolis, Indiana	0	1	0
+San Mateo, CA, USA	0	3	0
+San Jose, CA, USA	1	2	0
+Fort Worth, Texas, United States	0	2	0
+New York, NY	0	8	3
+Portland, OR, USA	0	1	0
+West Sacramento	0	0	1
+Michigan, USA	0	1	0
+Russia	0	1	0
+Portland, OR	0	0	2
+San Antonio, TX, USA	0	0	1
+Bath, UK	0	1	0
+Portland, ME, USA	0	0	1
+Oakland, California, United States	0	4	1
+Pleasanton	1	0	0
+Baltimore, Maryland, United States	0	0	1
+Dublin, Dublin, Ireland	0	4	0
+Berkeley, California, United States	0	3	0
+St. Petersburg, Florida, United States	0	2	0
+Saint Paul, Minnesota, United States	0	1	0
+London, England, UK	0	3	0
+Mountain View, CA, USA	1	0	0
+Paris, France	0	10	1
+Cyberport, Hong Kong Island, Hong Kong	0	1	0
+Depok City	0	1	0
+Utrecht, Utrecht, The Netherlands	0	1	0
+Oakland, CA, USA	0	1	0
+Santiago, Region Metropolitana, Chile	0	3	0
+Dayton, Ohio, United States	0	1	0
+Memphis, TN, USA	1	0	0
+Pleasant Hill, CA, USA	0	0	1
+Old Bridge, NJ, USA	0	0	1
+Chicago, IL	0	5	1
+Canaberra, Australia	0	1	0
+USA	0	0	2
+Bristol, Bristol, City of, United Kingdom	0	2	0
+Cherry Hill, NJ, USA	0	1	0
+Washington, District of Columbia, United States	0	8	0
+Gurgaon, Haryana, India	0	8	0
+Melbourne, FL, USA	0	1	0
+Vancouver, British Columbia, Canada	0	2	1
+Denver, Colorado, United States	1	6	0
+Kansas City, KS, USA	0	1	0
+San Juan Capistrano, California, United States	0	0	1
+Boston, MA	0	5	0
+San Mateo, California, United States	0	0	1
+Austin, TX	0	0	1
+Dallas, Texas, United States	0	1	1
+Taiwan	0	1	0
+Ontario, Canada	0	1	0
+Montréal, Quebec, Canada	0	3	0
+Wayne, Pennsylvania, United States	1	1	0
+Vallejo, California, United States	0	1	0
+Tampa, Florida, United States	0	0	2
+Provo, UT	0	1	0
+Potsdam, Germany	0	1	0
+Houston, Texas, United States	0	2	1
+Evergreen, Colorado, United States	0	1	0
+Melbourne, Fla.	0	0	1
+Palm Beach Gardens, Florida, United States	0	1	0
+New York City, NY	0	2	2
+Hanover, Niedersachsen, Germany	0	2	0
+Munich, Bayern, Germany	0	4	0
+Jaipur City, Rajasthan, India	0	1	0
+Jalandhar	0	0	1
+Kennebunk, Maine, United States	0	0	1
+Italy	0	0	1
+Jaipur, Rajasthan, India	0	1	0
+Salzburg, Salzburg, Austria	0	1	0
+Miami, FL	0	1	0
+Beijing, Beijing, China	0	1	0
+Munich, Germany	0	2	0
+Toronto, Ontario Canada	1	0	0
+Frankfurt am Main	0	1	0
+Boca Raton, Florida, United States	0	2	0
+Etterbeek, Belgium	0	1	0
+Wellington, Wellington, New Zealand	0	2	0
+Milan, Italy	0	2	0
+Global	0	1	0
+Amsterdam, Noord-Holland, The Netherlands	1	10	0
+Grand Cayman, Midland, Cayman Islands	0	1	0
+Nottingham, Nottingham, United Kingdom	0	1	0
+Vienna	0	1	1
+Bellevue, Washington	0	2	0
+Pennsylvania, United States	0	1	0
+Santa Clara, California, United States	0	2	0
+Bellevue Hill, New South Wales, Australia	0	1	0
+Minneapolis, Minnesota, United States	0	2	0
+Walnut Creek, California, United States	1	0	0
+Gauteng, NA - South Africa, South Africa	0	0	1
+Cambridge, Massachusetts, United States	0	2	0
+Los Angeles, CA	0	5	0
+New Delhi, Delhi, India	0	2	2
+Midvale, Utah, United States	0	1	0
+Phoenix, Arizona, United States	0	2	0
+Kansas City, KS	0	1	0
+Bochum, Nordrhein-Westfalen, Germany	0	1	0
+Nashville, TN	0	0	1
+Singapore, Central Region, Singapore	0	9	0
+Poway, CA	0	1	0
+Tallinn, Harjumaa, Estonia	0	5	1
+Chennai, Tamil Nadu, India	0	3	1
+Barcelona	0	1	0
+Iowa City, Iowa, United States	0	1	0
+Vancouver, BC	0	2	0
+Fort Lauderdale, Florida, United States	0	3	0
+Raleigh, North Carolina, United States	0	3	0
+Sacramento, California, United States	0	2	2
+Bethesda, Maryland, United States	0	1	0
+Granada, Spain	0	1	0
+Indianapolis, Indiana, United States	0	1	0
+Mountain View, CA	0	2	0
+College Park, MD	0	1	0
+Greater Chicago Area	0	1	0
+Lausanne, Vaud, Switzerland	0	1	1
+Kyiv, Kyyiv, Ukraine	0	3	0
+Ann Arbor, MI	0	1	0
+Newport Beach, California, United States	0	2	0
+San Carlos, CA	0	1	0
+Salt Lake City, UT	0	1	0
+Orange, CA	0	1	0
+Kuala Lumpur, Malaysia	0	1	0
+Seattle area	0	1	0
+San Francisco	0	1	0
+Overland Park, KS	0	1	0
+Toronto, Ontario	0	2	0
+Berlin, Germany	0	2	1
+San Jose, CA	0	1	0
+Zürich, Zurich, Switzerland	0	1	3
+São Paulo, Brazil	0	2	0
+Charlotte	0	0	1
+Chicago	0	3	1
+Freienbach SZ, Switzerland	0	1	0
+Helsinki, Finland	0	1	1
+Tustin, California, United States	0	2	0
+Marina Del Rey, California, United States	0	1	0
+Taipei, T'ai-pei, Taiwan	0	2	0
+Los Altos, CA	0	1	0
+Melbourne, Victoria, Australia	0	8	0
+New York, N.Y.	1	0	0
+Wellington, New Zealand	0	1	0
+Lewes, DE, Kyoto, Japan	0	1	0
+Muttenz, Basel-Landschaft, Switzerland	0	1	0
+Sydney, New South Wales, Australia	0	6	4
+Pakistan	0	1	0
+Lahore, Punjab, Pakistan	0	1	0
+Nairobi	0	1	0
+Irvine, California, United States	0	0	1
+London, United Kingdom	0	7	0
+Zurich Switzerland	0	1	0
+Thessaloniki, Greece	0	1	0
+München, Bayern, Germany	0	1	0
+Stockholm, Sweden	0	5	0
+Pune, India	0	1	0
+Pinneberg, Germany	0	1	0
+Troy, MI	0	1	0
+Brooklyn, NY	0	1	2
+Erina, NSW	0	1	0
+Havertown, PA	0	1	0
+Santa Clara, CA	0	1	0
+Amsterdam, The Netherlands	0	1	1
+Valencia	0	1	0
+Malmö, Sweden	0	0	1
+Milano, Italy	0	1	0
+Surry Hills, Sydney	0	1	0
+Encinitas, CA	0	1	0
+Haslemere, Surrey, United Kingdom	0	1	0
+San Diego, CA	0	2	0
+Toronto, ON	0	1	0
+Irvine, CA	0	1	0
+Russian Federation	0	1	0
+Kyiv, Ukraine	0	1	0
+Karlsruhe, Germany	0	0	1
+San Mateo, CA	0	1	0
+Bordeaux	0	1	0
+Tours, Champagne-Ardenne, France	0	1	0
+Tysons, VA	0	1	0
+Dublin, CA	0	1	0
+Munich	0	0	1
+CHICAGO	0	1	0
+Fremont, CA	0	2	0
+Orlando, FL	0	2	0
+Port Washington, New York, United States	0	1	0
+San Clemente, California, United States	0	2	0
+Victoria, Canada	0	1	0
+Greifswald, Germany	0	1	0
+India	0	3	0
+Chantilly VA, USA	0	0	1
+Philadelphia	0	0	1
+London	1	15	4
+Reseda, CA, USA	0	0	1
+Fort Lauderdale, FL	0	1	0
+Valencia, CA	0	1	0
+Palo Alto, CA	0	0	1
+Brisbane, Queensland, Australia	1	3	0
+Berne, Bern, Switzerland	0	1	0
+Nuremberg, Germany	0	1	0
+Kisumu, Nyanza, Kenya	0	1	0
+Mount Prospect, IL, USA	0	1	0
+Central, Hong Kong Island, Hong Kong	0	1	0
+Bangalore, Karnataka, India	0	2	0
+Kansas City, Missouri, United States	0	3	0
+Stockholm, Stockholms Lan, Sweden	0	2	1
+San Jose, California, United States	0	3	0
+Atlanta	0	2	0
+Mission Hills, California, United States	0	1	0
+Denvor, CO	0	1	0
+Cambridge, MA, USA	0	0	1
+Florianópolis, Santa Catarina, Brazil	0	3	0
+Bogota, Cundinamarca	0	1	0
+Colombia	0	1	0
+New Zealand	0	1	0
+Seattle, WA	0	1	0
+Waterloo, Ontario, Canada	0	1	0
+Cuauhtémoc, Distrito Federal, Mexico	0	0	1
+Princeton	0	1	0
+Orange County, California	0	1	0
+Taipei, Taiwan	0	1	0
+Boca Raton, California	0	1	0
+Montreal, Quebec, Canada	0	1	0
+Addison, Texas	0	1	0
+Copenhagen	0	1	1
+Odessa, Odes'ka Oblast', Ukraine	0	1	0
+Palo Alto, California	0	0	1
+Chennai, Tennessee	0	1	0
+Mumbai, Maharashtra, India	0	4	0
+Ottawa	0	1	0
+Mexico City, Distrito Federal, Mexico	0	4	0
+Brentwood, TN, USA	0	1	0
+Hamburg, Germany	0	1	0
+Delhi,India	0	1	0
+NYC	0	1	0
+Glasgow, UK	0	1	0
+Cupertino	0	1	0
+Curitiba	0	2	0
+Dallas	0	1	1
+Alphen aan den Rijn, Netherlands	0	1	0
+Minneapolis, MN	0	2	0
+Bloomfield, New Jersey, United States	0	1	0
+New York	0	3	1
+Exeter UK	0	1	0
+kolkata, India	0	1	0
+Beaverton, OR	0	1	0
+Delaware City	0	1	0
+Delhi	0	5	1
+Malaysia	0	1	0
+Joinville, Santa Catarina, Brazil	0	1	0
+Frankfurt	0	1	0
+Vilnius, Lithuania	1	0	0
+Brasília, Rio Grande do Norte, Brazil	0	2	0
+Birmingham, Alabama, United States	0	1	1
+Nerima, Tokyo, Japan	0	1	0
+Minas Gerais, Brazil	0	0	1
+Berlin	0	3	0
+Benloch	0	1	0
+Bhubaneswar, Orissa, India	0	1	0
+Bengaluru	1	1	0
+New London, Connecticut, United States	1	1	0
+Bengaluru, Karnataka, India	0	1	0
+McLean, VA	0	1	0
+Basel	0	1	0
+Baltimore	0	3	1
+Auckland, Auckland, New Zealand	0	2	0
+Decatur, Georgia, United States	0	1	0
+Arlington, Virginia, United States	0	1	0
+Annapolis, Maryland, United States	0	2	0
+Airoli	0	0	1
+Adelaide	0	0	1
+PARIS	0	1	0
+Basking Ridge, New Jersey, United States	0	3	0
+Pasadena, CA	0	1	0
+Düsseldorf (Germany)  and Berlin	0	0	1
+Dhaka, Dhaka, Bangladesh	0	1	0
+Dover, Newfoundland, Canada	0	1	0
+Denver	0	1	1
+Bogota	0	1	0
+Colorado Springs, Colorado, United States	0	0	1
+Brazil	0	1	0
+Brussels, Brussels Hoofdstedelijk Gewest, Belgium	0	2	0
+Buenos Aires, Distrito Federal, Argentina	0	2	0
+Calgary, Alberta, Canada	0	0	1
+Cardiff	0	1	0
+Charlotte, North Carolina, United States	0	1	0
+Greater Boston Area, East Coast, New England	0	1	0
+Cambridge, Cambridgeshire, United Kingdom	0	2	1
+Amsterdam	0	2	0
+The Hague, The Netherlands	0	1	0
+Selangor, Malaysia	0	1	0
+Ensenada, Baja California, Mexico	0	1	0
+Eugene	0	0	1
+Merelbeke, Oost-Vlaanderen, Belgium	0	1	0
+Guadalajara	0	0	1
+Noida, Uttar Pradesh, India	0	3	0
+Halifax	0	0	2
+Halifax, Nova Scotia, Canada	0	1	1
+Helsinki, Southern Finland, Finland	0	1	0
+Houston	0	1	0
+Hyderabad	0	0	1
+Gurgaon	1	0	1
+Livermore	0	0	1
+Fremont	0	1	0
+Bharat, Gujarat, India	0	0	1
+Kraków, Malopolskie, Poland	0	2	0
+La Palma, California, United States	0	1	0
+Henderson, Nevada, United States	0	0	1
+Haryana, Haryana, India	0	1	0
+Xiamen, Fujian, China	0	1	0
+Fairfax, Virginia, United States	0	1	1
+Spain	0	2	0
+Tauranga, Gisborne, New Zealand	0	1	0
+Sunnyvale, CA	0	0	1
+Bloomfield, NJ	0	1	0
+Nairobi, Kenya	0	1	0
+1 Boulevard de la Madeleine 75001 PARIS	0	1	0
+Los Angeles	0	4	3
+Los Gatos, California	0	1	0
+France	0	1	0
+Amsterdam, the Netherlands	0	1	0
+Yerevan, Yerevan, Armenia	0	1	0
+Brussels	0	2	0
+Nashville, Tennessee, United States	0	1	0
+Oakland, CA	0	0	1
+Vilnius, Vilniaus Apskritis, Lithuania	0	0	1
+Hamburg, Hamburg, Germany	0	2	0
+Adelaide, South Australia, Australia	0	1	0
+Dki Jakarta, Jakarta Raya, Indonesia	0	1	0
+Oslo Science Park Gaustadaleén 21 0349 Oslo NORWAY	0	1	0
+Beirut, Beyrouth, Lebanon	0	1	0
+Moscow, Russian Federation	0	1	0
+Seoul, Seoul-t'ukpyolsi, South Korea	0	2	0
+Jakarta, Jakarta Raya, Indonesia	0	3	0
+Kolkata, West Bengal, India	0	1	0
+Jl. TB Simatupang No.5 Jakarta, Indonesia	0	1	0
+Centreville, VA	1	0	0
+Philadelphia, PA	0	2	0
+Moscow, Russia	0	1	0
+Nairobi, Nairobi Area, Kenya	0	2	0
+Dubai, UAE	0	1	0
+Davis, California, United States	0	0	1
+Basel, Switzerland	1	0	0
+Ankara,Turkey	0	1	0
+Russia, Moscow	0	1	0
+Madrid	0	1	0
+4100 Spring Valley Rd #770, Dallas, TX 75244	0	1	0
+Saint Petersburg, Saint Petersburg City, Russian Federation	0	0	1
+Toronto, Canada	1	1	0
+Paris	0	4	2
+Houston, TX	0	2	0
+Berlin, GE	0	1	0
+Vienna, Austria	0	1	0
+Pleasanton, California, United States	0	1	0
+Aalborg, Nordjylland, Denmark	0	0	1
+Toronto CANADA	0	1	0
+Birmingham, UK	0	1	0
+Tallinn/Estonia	0	1	0
+Portsmouth, NH	1	0	0
+Lagos, Nigeria	0	1	0
+Cidade da Cultura, s/n 15707 Santiago de Compostela	0	1	0
+Santa Cruz, CA and the world	0	1	0
+Denver, CO	0	1	0
+Orange County, CA	0	1	0
+Paris 75001	0	1	0
+Kathmandu, Nepal	0	1	0
+Sydney, Australia	0	4	0
+Washington DC (USA)	1	0	0
+Baltimore, MD	0	1	0
+Leuven	0	1	0
+Antwerp, Belgium	0	1	0
+Herentals	0	0	1
+1 Kalisa Way Suite 105	0	1	0
+Warsaw, Poland	0	1	0
+Stockholm	0	2	0
+Vevey, Vaud, Switzerland	0	1	0
+Brussels, Belgium	0	1	0
+Princeton, NJ	0	1	0
+Sweden, Malmö	0	1	0
+102 Carver Street	0	0	1
+Garfield, NJ	0	1	0
+irvine, CA	0	0	1
+Mashhad - Iran	0	1	0
+United States California	0	1	0
+Stockton, CA	0	1	0
+Jhandewalan Chowk, Sarafa Bazar, Subhash Bazaar, Meerut, Uttar Pradesh 250002	0	0	1
+Eindhoven	0	1	0
+103, Venus Apartment, Lane A, Near German Bakery, Ragvilas Society, Koregaon Park, Pune, Maharashtra 411001	0	1	0
+Denver, Colorado	0	1	0
+NJ	0	1	0
+Zurich, Switzerland	0	1	0
+Anaheim, CA	0	1	0
+tel aviv, israel	0	1	0
+INDIA	0	0	1
+Chantilly, VA	0	1	0
+4100 Spring Valley Rd. Suite 770 Dallas, Texas 75244	0	1	0
+Paris, FR	0	1	0
+Chennai	0	1	0
+3 Tsereteli st, Tbilisi, Georgia	0	0	1
+Mannheim	0	0	1
+Port Matilda, PA	0	1	0
+Chicago, Illinois	0	1	0
+Denmark	0	1	0
+Ahmedabad, Gujarat, India	0	1	0
+10 Dundas Street East, Toronto ON  M5B 2G9	0	1	0
+Coimbatore, Tamil Nadu, India	0	0	1
+Chandler, AZ	0	1	0
+Staudgasse 54, Vienna, Austria, Europe	0	1	0
+Cambodia	0	1	0
+Arlington, VA	0	1	0
+Dakar, Sénégal	0	1	0
+Tel Aviv, Tel Aviv, Israel	0	13	1
+Nigeria	0	1	0
+Bogotá, Colombia	0	1	0
+555 North Point Center East, Suite 400 Alpharetta, GA 30022	0	1	0
+Lisbon	0	1	0
+india	0	1	0
+Lowell, MA	0	1	0
+111 Pine St. #1815 San Francisco, CA 94111	0	1	0
+Ottawa, ON	0	1	0
+Gurgaon Haryana	0	2	0
+Denver CO	0	1	0
+Accra Ghana	0	1	0
+Fort Collins, CO	0	1	0
+cape coral FL	0	1	0
+Level 11, 456 Lonsdale Street, Melbourne VIC 3000	0	1	0
+UK	0	1	0
+Buenos Aires	0	1	0
+São Paulo	0	1	0
+Vienna, Wien, Austria	0	1	0
+Madrid, Madrid, Spain	0	7	1
+Manchester, Manchester, United Kingdom	0	2	0
+Porto Alegre, Rio Grande do Sul, Brazil	0	3	0
+Los Altos, California, United States	0	1	0
+Oxford, Oxfordshire, United Kingdom	0	1	0
+Overland Park, Kansas, United States	0	0	1
+Taguig, Rizal, Philippines	0	1	0
+Potsdam, Brandenburg, Germany	0	1	0
+Venice, California, United States	0	2	0
+Farnborough, Hampshire, United Kingdom	0	1	0
+Budapest, Budapest, Hungary	0	1	1
+Ceará, Ceara, Brazil	0	1	0
+Stavanger, Rogaland, Norway	0	1	0
+Düsseldorf, Nordrhein-Westfalen, Germany	0	3	0
+Rotterdam, Zuid-Holland, The Netherlands	0	1	0
+Tokyo, Tokyo, Japan	0	9	0
+Moscow, Moscow City, Russian Federation	0	2	0
+Pantin, Ile-de-France, France	0	1	0
+Orlando, Florida, United States	0	0	1
+Charlottesville, Virginia, United States	0	1	0
+Mississauga, Ontario, Canada	0	0	1
+Edinburgh, Edinburgh, City of, United Kingdom	0	2	0
+Bologna, Emilia-Romagna, Italy	0	1	0
+Traverse City, Michigan, United States	0	0	2
+Leiden, Zuid-Holland, The Netherlands	0	2	0
+Oslo, Oslo, Norway	0	1	0
+Citrus Heights, California, United States	0	1	0
+Detroit, Michigan, United States	0	0	1
+Saint-herblain, Pays de la Loire, France	0	1	0
+Goa, Goa, India	0	1	0
+Luxembourg, Luxembourg, Luxembourg	0	1	0
+Coral Gables, Florida, United States	0	1	0
+Solna, Stockholms Lan, Sweden	0	1	0
+Sunnyvale, California, United States	0	2	0
+Pittsburgh, Pennsylvania, United States	0	2	0
+Minsk, Minsk, Belarus	0	1	0
+Harare, NA - Zimbabwe, Zimbabwe	0	2	0
+Cape Town, NA - South Africa, South Africa	0	1	0
+George Town, Midland, Cayman Islands	0	1	0
+Sevilla, Andalucia, Spain	0	1	0
+Walnut, California, United States	0	1	0
+Recife, Bahia, Brazil	0	2	0
+Cincinnati, Ohio, United States	0	1	1
+Causeway Bay, Hong Kong Island, Hong Kong	0	1	0
+Petaluma, California, United States	0	1	0
+Plano, Texas, United States	0	1	0
+Bhopal, Madhya Pradesh, India	0	1	0
+Brentwood, Tennessee, United States	0	1	0
+Faridabad, Haryana, India	0	1	0
+Kuningan Timur, Jakarta Raya, Indonesia	0	1	0
+Hong Kong, Hong Kong Island, Hong Kong	0	2	0
+Magdeburg, Sachsen-Anhalt, Germany	0	1	0
+Nuremberg, Bayern, Germany	0	1	0
+The Hague, Zuid-Holland, The Netherlands	0	2	0
+Buda, Texas, United States	0	1	0
+Oakland City, Indiana, United States	0	1	0
+Frankfurt, Hessen, Germany	0	1	0
+Mijas, Andalucia, Spain	0	1	0
+Thane, Maharashtra, India	0	1	0
+Delhi, Delhi, India	0	2	0
+Tehran, Tehran, Iran	0	1	0
+Wuhan, Hubei, China	0	1	0
+Warsaw, Mazowieckie, Poland	0	2	0
+Western Springs, Illinois, United States	0	1	0
+Cologne, Nordrhein-Westfalen, Germany	0	1	0
+Carrollton, Texas, United States	0	1	0
+Belo Horizonte, Minas Gerais, Brazil	0	4	0
+Medellín, Antioquia, Colombia	0	1	0
+Schaffhausen, Schaffhausen, Switzerland	0	1	0
+Poway, California, United States	0	1	0
+Lyon, Rhone-Alpes, France	0	1	0
+Princeton, New Jersey, United States	0	1	0
+Claymont, Delaware, United States	0	1	0
+Mount Prospect, Illinois, United States	0	1	0
+Alpharetta, Georgia, United States	0	2	0
+Kuala Lumpur, Kuala Lumpur, Malaysia	0	1	0
+Kfar Saba, HaMerkaz, Israel	0	1	0
+Markham, Ontario, Canada	0	1	0
+Bangkok, Krung Thep, Thailand	0	1	0
+Miami, Florida, United States	0	2	0
+Petaling Jaya, Selangor, Malaysia	0	1	0
+Murcia, Murcia, Spain	0	1	0
+Carlsbad, California, United States	0	1	0
+Jaraguá Do Sul, Santa Catarina, Brazil	0	1	0
+Newton, Massachusetts, United States	0	1	0
+Southampton, Southampton, United Kingdom	0	1	0
+Hanumangarh, Rajasthan, India	0	1	0
+Memphis, Tennessee, United States	0	1	0
+Long Beach, California, United States	0	1	0
+National City, California, United States	0	1	0
+Hyderabad, Andhra Pradesh, India	0	1	1
+Curitiba, Parana, Brazil	0	2	0
+Mashhad, Khorasan, Iran	0	1	0
+Golden, Colorado, United States	0	1	0
+Portland, Oregon, United States	0	1	0
+Rio De Janeiro, Rio de Janeiro, Brazil	0	4	0
+Seal Beach, California, United States	0	1	0
+Saitama, Saitama, Japan	0	1	0
+Ringwood, Hampshire, United Kingdom	0	1	0
+Columbus, Ohio, United States	0	1	0
+Ramat Gan, Tel Aviv, Israel	0	1	1
+Hawthorn, Victoria, Australia	0	1	0
+Cardiff, Cardiff, United Kingdom	0	2	0
+Elmsford, New York, United States	0	1	0
+East London	0	1	0
+Herzliya, Tel Aviv, Israel	0	1	0
+Las Condes, Region Metropolitana, Chile	0	1	0
+Pasig, Rizal, Philippines	0	1	0
+Hereford, Herefordshire, United Kingdom	0	1	0
+Sherman Oaks, California, United States	0	1	0
+Granada, Andalucia, Spain	0	1	0
+Rishon Le Zion, HaMerkaz, Israel	0	1	0
+Harrisburg, Pennsylvania, United States	0	1	0
+Petah Tikwah, HaMerkaz, Israel	0	1	0
+Sandy, Utah, United States	0	1	0
+Elk Grove, California, United States	0	1	0
+Leeds, Leeds, United Kingdom	0	1	0
+Scottsdale, Arizona, United States	0	1	1
+Etterbeek, Brussels Hoofdstedelijk Gewest, Belgium	0	1	0
+Arbon, Sankt Gallen, Switzerland	0	1	0
+Sarasota, Florida, United States	0	1	0
+Gothenburg, Vastra Gotaland, Sweden	0	1	0
+Ness Ziona, HaMerkaz, Israel	0	1	0
+Krasnoyarsk, Krasnoyarskiy Kray, Russian Federation	0	1	0
+Milano, Lombardia, Italy	0	2	0
+Bath, Bath and North East Somerset, United Kingdom	0	1	0
+Fredericksburg, Virginia, United States	0	1	0
+Sheffield, Sheffield, United Kingdom	0	1	0
+Fresno, California, United States	0	1	0
+Saint-andré-le-gaz, Rhone-Alpes, France	0	1	0
+São José, Santa Catarina, Brazil	0	1	0
+Caxias Do Sul, Rio Grande do Sul, Brazil	0	1	0
+Juiz De Fora, Minas Gerais, Brazil	0	1	1
+Roseville, California, United States	0	1	0
+Omsk, Omsk, Russian Federation	0	1	0
+Bucharest, Bucuresti, Romania	0	1	0
+Cotia, Alagoas, Brazil	0	1	0
+Dearborn, Michigan, United States	0	1	0
+Morrisville, Pennsylvania, United States	0	1	0
+Haidian, Beijing, China	0	1	0
+Alamosa, Colorado, United States	0	1	0
+Hinckley, Ohio, United States	0	1	0
+Ottawa, Ontario, Canada	0	1	0
+Brazil, Saint George, Trinidad and Tobago	0	1	0
+Gasandong, Kyonggi-do, South Korea	0	1	0
+Santa Ana, California, United States	0	1	0
+Hellerup, Hovedstaden, Denmark	0	1	0
+Chico, California, United States	0	1	0
+Toulouse, Midi-Pyrenees, France	0	0	1
+Aldershot, Hampshire, United Kingdom	0	1	0
+Nantong, Jiangsu, China	0	0	1
+Lusaka, NA - Zambia, Zambia	0	1	0
+Krasnodar, Krasnodar, Russian Federation	0	1	0
+Walden, New York, United States	0	1	0
+Rochester, New York, United States	0	1	1
+Lanham, Maryland, United States	0	1	0
+Roppongi, Tokyo, Japan	0	1	0
+Bilbao, Pais Vasco, Spain	0	1	0
+Futian, Guangdong, China	0	1	0
+Newcastle Upon Tyne, Newcastle upon Tyne, United Kingdom	0	1	0
+Palma De Mallorca, Islas Baleares, Spain	0	1	0
+Clearwater, Florida, United States	0	1	0
+Coral Springs, Florida, United States	0	1	0
+Mulago, Kampala, Uganda	0	2	0
+Addison, Texas, United States	0	1	0
+Chapel Hill, NC, USA	0	1	0
+Sale, Cheshire, United Kingdom	0	1	0
+Vancouver, Washington, United States	0	1	0
+Bronx, New York, United States	0	1	0
+Brandon, Florida, United States	0	1	0
+Vicenza, Veneto, Italy	0	1	0
+Orange, California, United States	0	1	0
+Yeoksamdong, Seoul-t'ukpyolsi, South Korea	0	1	0
+Naples, Florida, United States	0	1	0
+Geneseo, New York, United States	0	1	0
+Glendale, Arizona, United States	0	1	0
+Honolulu, Hawaii, United States	0	1	0
+El Paso, Texas, United States	0	1	0
+Landsmeer, Noord-Holland, The Netherlands	0	1	0
+Romney, West Virginia, United States	0	1	0
+Bari, Puglia, Italy	0	1	0
+Koszalin, Zachodniopomorskie, Poland	0	1	0
+Wilton, Connecticut, United States	0	1	0
+Winter Park, Florida, United States	0	0	1
+Medina, Ohio, United States	0	1	0
+Pinneberg, Schleswig-Holstein, Germany	0	1	0
+Pratteln, Basel-Landschaft, Switzerland	0	1	0
+Ghent, Oost-Vlaanderen, Belgium	0	1	0
+Guarapuava, Parana, Brazil	0	0	1
+Fortaleza, Mato Grosso do Sul, Brazil	0	1	0
+Alamo, California, United States	0	1	0
+Plantation, Florida, United States	0	1	0
+Lavras, Minas Gerais, Brazil	0	0	1
+Goiânia, Goias, Brazil	0	0	1
+Kazan, Tatarstan, Russian Federation	0	1	0
+Astoria, New York, United States	0	1	0
+Uberlândia, Minas Gerais, Brazil	0	0	1
+Santos, Minas Gerais, Brazil	0	1	0
+Amsterdamsche Veld I, Drenthe, The Netherlands	0	1	0
+Fullerton, California, United States	0	0	1
+San Francisco Bay Area, West Coast, Western US	0	2	0
+Redondo Beach, California, United States	0	1	0
+Melbourne, Florida, United States	0	1	1
+Warrenton, Virginia, United States	0	1	0
+Tucson, Arizona, United States	0	1	0
+Providence, Rhode Island, United States	0	1	0
+Ada, Oklahoma, United States	0	1	0
+Frisco, Texas, United States	0	1	0
+Delafield, Wisconsin, United States	0	1	0
+Louisville, Kentucky, United States	0	2	0
+San Antonio, Texas, United States	0	1	0
+North Miami Beach, Florida, United States	0	1	0
+Skillman, New Jersey, United States	0	1	0
+Holland, Michigan, United States	0	1	0
+Gainesville, Florida, United States	0	0	1
+Eugene, OR, USA	0	0	1
+Portland, Maine, United States	0	1	0
+Eden Prairie, Minnesota, United States	0	1	0
+Redwood City, California, United States	0	1	0
