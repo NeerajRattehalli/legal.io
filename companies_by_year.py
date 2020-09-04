@@ -21,7 +21,7 @@ with open("final/ManualFinalV5/final.tsv", "r") as in_file:
 
 years.sort()
 
-with open("output_files/new_research_questions/companies_by_country.tsv", "w") as out_file:
+with open("output_files/new_research_questions/companies_by_year.tsv", "w") as out_file:
     out_file.write("country\tcount\n")
     for year in years:
         if year != "" and year!= "n/a":
