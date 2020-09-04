@@ -1,44 +1,48 @@
 import csv
 import collections
 
-with open("final/ManualFinalV4/final.tsv") as in_file:
-    reader = csv.reader(in_file, delimiter = "\t", quotechar = '"', quoting = csv.QUOTE_MINIMAL)
-    category_by_year = {}
-    for row in reader:
-        year = row[1]
-        category = row[3]
-        if row == "n/a" or category == "n/a" or year =="date":
-            continue
-        if year not in category_by_year:
-            particular_year_categories = {}
-            particular_year_categories[category] = 1
-            category_by_year[year] = particular_year_categories
-        elif category not in category_by_year[year]:
-            category_by_year[year][category] = 1
-        else:
-            category_by_year[year][category] += 1
+companiesByCategoryByYear = {}
+years = []
+categories = []
 
-    for year in category_by_year:
-        particular_dict = category_by_year[year]
-        max_val = 0
-        max_category = ""
-        for key in particular_dict:
-            if particular_dict[key] > max_val:
-                max_val = particular_dict[key]
-                max_category = key
-        particular_dict = (str(max_category), str(max_val))
-        category_by_year[year] = particular_dict
-    print(category_by_year)
-    ordered_by_year = collections.OrderedDict(sorted(collections.OrderedDict(category_by_year).items(), key=lambda key_value: key_value[0]))
-    print(ordered_by_year)
+with open("final/ManualFinalV5/final.tsv", "r") as in_file:
+    condition = False
+    for line in in_file:
+        if condition:
+            row = line.split("\t")
+            if row == 0:
+                continue
+            year = row[1]
+            category = row[3]
+            if category == "n/a":
+                continue
 
+            if category not in categories:
+                categories.append(category)
+            if year not in years:
+                years.append(year)
+            if year not in companiesByCategoryByYear:
+                companiesByCategoryByYear[year] = {}
+            if category not in companiesByCategoryByYear[year]:
+                companiesByCategoryByYear[year][category] = 0
+            companiesByCategoryByYear[year][category] += 1
+        condition = True
 
-with open("output_files/new_research_questions/most_prominent_category_by_year.csv", "a") as out_file:
-    writer = csv.writer(out_file, delimiter =",", quotechar = '"', quoting = csv.QUOTE_MINIMAL)
-    for key in ordered_by_year:
-        writer.writerow([key, ordered_by_year[key][0], ordered_by_year[key][1]])
+years.sort()
 
+for year in companiesByCategoryByYear:
+    for category in categories:
+        if category not in companiesByCategoryByYear[year]:
+            companiesByCategoryByYear[year][category] = 0
 
+with open("output_files/new_research_questions/companies_by_category_by_year.tsv", "w") as out_file:
+    out_file.write("year\t" + ("\t").join(categories) + "\n")
+    for year in years:
+        if year != "" and year!= "n/a":
+            line = str(year)
+            amounts = []
+            for category in categories:
+                amount = companiesByCategoryByYear[year][category]
+                amounts.append(str(amount))
 
-
-
+            out_file.write(year + "\t" + ("\t").join(amounts) + "\n")
