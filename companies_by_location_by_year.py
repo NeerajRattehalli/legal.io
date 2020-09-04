@@ -79,7 +79,8 @@ def fix_loc(location):
         trimmed_location = "Canada"
     elif (trimmed_location == "Fla"):
         trimmed_location = "Canada"
-    
+    elif (trimmed_location == "The Netherlands"):
+        trimmed_location = "Netherlands"
     return trimmed_location
 
 with open("final/ManualFinalV5/final.tsv", "r") as in_file:

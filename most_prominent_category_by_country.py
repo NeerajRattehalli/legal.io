@@ -13,12 +13,15 @@ states = ["Alaska", "Alabama", "Arkansas", "American Samoa", "Arizona", "Califor
           "New Jersey", "New Mexico", "Nevada", "New York", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Puerto Rico",
           "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Virginia", "Virgin Islands",
           "Vermont", "Washington", "Wisconsin", "West Virginia", "Wyoming"]
+
 indian_states = ["Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhattisgarh", "Goa", "Gujarat", "Haryana",
                  "Himachal Pradesh", "Jammu and Kashmir", "Jharkhand", "Karnataka", "Kerala", "Madhya Pradesh",
                  "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha", "Punjab", "Rajasthan",
                  "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttarakhand", "Uttar Pradesh", "West Bengal",
                  "Andaman and Nicobar Islands", "Chandigarh", "Dadra and Nagar Haveli", "Daman and Diu", "Delhi",
                  "Lakshadweep", "Puducherry"]
+
+years_to_check = ["1982", "1989", "1996", "1929", "1993", "1983", "1874", "1990", "`1980", "1952"]
 
 def fix_loc(location):
     trimmed_location = ""
@@ -63,10 +66,20 @@ def fix_loc(location):
         trimmed_location = "Australia"
     elif (trimmed_location == "CA and the world"):
         trimmed_location = "USA"
+    elif (trimmed_location == "BC"):
+        trimmed_location = "Canada"
+    elif (trimmed_location == "Western US"):
+        trimmed_location = "USA"
+    elif (trimmed_location == "Toronto ON  MB G"):
+        trimmed_location = "Canada"
+    elif (trimmed_location == "Fla"):
+        trimmed_location = "Canada"
+    elif (trimmed_location == "The Netherlands"):
+        trimmed_location = "Netherlands"
     return trimmed_location
 
 
-with open("final/ManualFinalV4/final.tsv") as in_file:
+with open("final/ManualFinalV5/final.tsv") as in_file:
     reader = csv.reader(in_file, delimiter = "\t", quotechar = '"', quoting = csv.QUOTE_MINIMAL)
     category_by_country = {}
     for row in reader:
@@ -93,15 +106,15 @@ with open("final/ManualFinalV4/final.tsv") as in_file:
                 max_category = key
         particular_dict = (str(max_category), str(max_val))
         category_by_country[year] = particular_dict
-    print(category_by_country)
     ordered_by_year = collections.OrderedDict(sorted(collections.OrderedDict(category_by_country).items(), key=lambda key_value: key_value[0]))
-    print(ordered_by_year)
 
 
 with open("output_files/new_research_questions/most_prominent_category_by_country.csv", "a") as out_file:
     writer = csv.writer(out_file, delimiter =",", quotechar = '"', quoting = csv.QUOTE_MINIMAL)
     for key in ordered_by_year:
         writer.writerow([key, ordered_by_year[key][0], ordered_by_year[key][1]])
+        if key == "BC":
+            print([key, ordered_by_year[key][0], ordered_by_year[key][1]])
 
 
 
